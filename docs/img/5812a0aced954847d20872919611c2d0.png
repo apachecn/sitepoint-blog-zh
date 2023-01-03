@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="196px" viewBox="0 0 196 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="63.7051217 0.02115515 0.0631186439 0.02115515 0.0631186439 121.578647 127.347124 121.578647 127.347124 0.02115515"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="shape" x="0" y="0" width="196" height="196" rx="15.048"></rect>
+            <g id="logo" transform="translate(36.000000, 37.000000)">
+                <g id="Blinkist-Logo-(Horizontal)">
+                    <g id="Fill-1-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Shape"></g>
+                        <path d="M91.4852148,0.02115515 L63.6740883,27.9850901 L35.8629616,0.02115515 C14.6351096,10.403045 0,32.2880476 0,57.6181666 C0,92.9779418 28.5075356,121.642112 63.6740883,121.642112 C98.8395889,121.642112 127.347124,92.9779418 127.347124,57.6181666 C127.347124,32.2880476 112.712015,10.403045 91.4852148,0.02115515" id="Fill-1" fill="#2CDE80" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M80.5583254,44.9620979 L80.5583254,44.9620979 L63.6740883,27.9850901 L46.7887989,44.9620979 C37.4640712,54.3380605 37.4640712,69.5401511 46.7887989,78.9171715 C56.1145783,88.2931338 71.2335979,88.2931338 80.5583254,78.9161134 C89.8830529,69.5401511 89.8830529,54.3391181 80.5583254,44.9620979" id="Fill-4" fill="#002F54" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

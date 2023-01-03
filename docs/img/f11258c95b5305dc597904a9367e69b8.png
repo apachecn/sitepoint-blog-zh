@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,700" rel="stylesheet">
+
+    <link href="//www.android.com/static/img/favicon.ico" rel="shortcut icon">
+    <link href="//www.android.com/static/img/touch-icon-iphone.png" rel="apple-touch-icon">
+    <link href="//www.android.com/static/img/touch-icon-ipad.png" rel="apple-touch-icon" sizes="76x76">
+    <link href="//www.android.com/static/img/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120">
+    <link href="//www.android.com/static/img/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152">
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="//www.android.com/static/images/fav/touch-icon-iphone.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta itemprop="name" content="Android | Page Not Found">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="//www.android.com/static/images/logos/andy-sm.png">
+
+    <meta property="og:type" content="article" />
+    <meta itemprop="og:headline" content="Android | Page Not Found" />
+    <meta itemprop="og:description" content="" />
+    <meta property="og:image" content="//www.android.com/static/images/logos/andy-sm.png" />
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="//www.android.com/404">
+    <meta name="twitter:title" content="Android | Page Not Found">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="//www.android.com/static/images/logos/andy-sm.png">
+
+    <title>Android | Page Not Found</title>
+
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js"></script>
+    <script>
+      window.tracker = new gweb.analytics.AutoTrack({
+        profile: 'UA-5686560-1',
+        cookiePath: '/'
+      });
+    </script>
+    <style>
+      iframe {
+        border: 0;
+        bottom: 0;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        overflow: none;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe
+        src="//www.android.com/404/">
+    </iframe>
+  </body>
+</html>

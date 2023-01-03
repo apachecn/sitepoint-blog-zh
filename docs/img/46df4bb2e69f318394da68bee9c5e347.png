@@ -1,0 +1,330 @@
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="https://assets.99static.com/bastion/public/css/99designs-2f83351c38.css" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name=viewport content="width=device-width, initial-scale=1" />
+  <title>99designs » Lost your way?</title>
+  <script src="https://assets.99static.com/bastion/public/js/modernizr-c1ff1650bb.js" type="text/javascript"></script>
+  <style>
+    p {
+        max-width: none;
+    }
+
+    .content-body {
+        background: #FFFFFF;
+    }
+
+    .site-header__site-logo__image {
+        background-image: url("https://assets.99static.com/logos/en/wordmark_grey.svg");
+         
+        height: 40px;
+         
+        width: 120px;
+    }
+
+    .heading--chameleon {
+        color: #F36C78;
+    }
+
+    .button--marketing-secondary.button--chameleon {
+        margin-top: 15px;
+        color: #F36C78;
+    }
+
+    .button--primary.button--chameleon {
+        margin-top: 15px;
+        color: #F36C78;
+    }
+
+    .image-box {
+        max-width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+        text-align: center;
+        position: relative;
+    }
+
+    .image-box__attribution {
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        font-size: 14px;
+    }
+
+    @media all and (max-width: 899px) {
+        .desktop-only {
+            display: none;
+        }
+    }
+
+    @media all and (min-width: 900px) {
+        .mobile-only {
+            display: none;
+        }
+    }
+
+  </style>
+
+  <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga99');
+
+      ga99('create', 'UA-3528448-37', 'auto');
+      ga99('create', 'UA-3528448-1', 'auto', 'siteTracker')
+
+      ga99('send', 'event', '404', document.location.pathname + document.location.search);
+      ga99('siteTracker.send', 'event', '404', document.location.pathname + document.location.search);
+  </script>
+</head>
+<body id="error4xx" class="error max--desktop">
+    
+
+    <div class="oc-wrapper">
+        <div class="oc-content--main">
+
+        
+        <header class="site-header site-header--signed-out">
+            <div class="site-header__inner1">
+                <div class="site-header__inner2">
+                    <div class="site-header__item site-header__item--branding">
+                        <a class="site-header__site-logo" href="/">
+                            <span class="site-header__site-logo__image" title="99designs by Vista">99designs by Vista</span>
+                        </a>
+                    </div>
+                    <div class="site-header__item site-header__item--secondary-navigation">
+                        <div class="top-level-nav ">
+                            <div class="top-level-nav__item ">
+                                <a class="top-level-nav__item__link " href="/help">
+                                    <span class="icon icon--phone-1 icon--offset-right icon--inline"></span>
+                                    1 800 513 1678
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+    <script type="text/javascript">
+        ga99('send', 'event', '404', document.location.pathname + document.location.search);
+        ga99('siteTracker.send', 'event', '404', document.location.pathname + document.location.search);
+    </script>
+
+    <div class="content-body">
+        <div class="content-body__inner-1">
+            <div class="content-body__inner-2">
+                <div class="desktop-only">
+                    <div class="flag flag--vertical" data-flag-expand-at="normal" data-flag-expand-to="middle" >
+                        <div class="flag__flag">
+                            <h1 class="heading heading--h1 heading--with-divider heading--chameleon">Lost your way?</h1>
+                            
+<p>
+    <span class="subtle-text"><b>404.</b> Not Found</span>
+</p>
+
+                            
+    <p>
+        This is not where I want to be!
+    </p>
+
+
+                            
+    <div class="button-group button-group--responsive">
+        <div class="button-group__item">
+            <a class="button button--primary button--jumbo button--chameleon button--fluid" href="/">
+                <span class="button__inner">
+                    <span class="button__label">Get me outta here</span>
+                </span>
+            </a>
+        </div>
+        <div class="button-group__item">
+            <a class="button button--marketing-secondary button--jumbo button--chameleon button--fluid" href="/help">
+                <span class="button__inner">
+                    <span class="button__label">Help!</span>
+                </span>
+            </a>
+        </div>
+    </div>
+
+                        </div>
+
+                        <div class="flag__mast">
+                            <div style="width: 500px" class="image-box">
+                                
+    <img class="image-box__img" src="https://assets.99static.com/bastion/public/images/dog_alinasink-af9fd47697.jpg">
+    <span class="attribution image-box__attribution">by ALINAsINK</span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-only">
+                    <h1 class="heading heading--h1 heading--with-divider heading--chameleon">Lost your way?</h1>
+
+                    <div>
+                        
+    <p>
+        This is not where I want to be!
+    </p>
+
+                    </div>
+
+                    <div class="image-box">
+                        
+    <img class="image-box__img" src="https://assets.99static.com/bastion/public/images/dog_alinasink-af9fd47697.jpg">
+    <span class="attribution image-box__attribution">by ALINAsINK</span>
+
+                    </div>
+
+                    <div>
+                        
+    <div class="button-group button-group--responsive">
+        <div class="button-group__item">
+            <a class="button button--primary button--jumbo button--chameleon button--fluid" href="/">
+                <span class="button__inner">
+                    <span class="button__label">Get me outta here</span>
+                </span>
+            </a>
+        </div>
+        <div class="button-group__item">
+            <a class="button button--marketing-secondary button--jumbo button--chameleon button--fluid" href="/help">
+                <span class="button__inner">
+                    <span class="button__label">Help!</span>
+                </span>
+            </a>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <footer role="footer">
+        <div class="site-footer site-footer--default--2">
+            <div class="site-footer__navigation">
+                <div class="site-footer__navigation__inner">
+                    <div class="site-footer__navigation__group">
+                        <div class="footer-links-menu">
+                            <h5 class="heading heading--h6 heading--51st-shade">
+                                Our products
+                            </h5>
+                            <ul class="footer-links-menu__items">
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/contests">
+                                        Design contests
+                                    </a>
+                                </li>
+
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/projects">
+                                        1-to-1 Projects
+                                    </a>
+                                </li>
+
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/discover">
+                                        Discover designers
+                                    </a>
+                                </li>
+
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/pro">
+                                        Pro services
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="site-footer__navigation__group">
+                        <div class="footer-links-menu">
+                            <h5 class="heading heading--h6 heading--51st-shade">
+                                Support
+                            </h5>
+                            <ul class="footer-links-menu__items">
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/help">
+                                        Help
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="site-footer__navigation__group">
+                        <div class="footer-links-menu">
+                            <h5 class="heading heading--h6 heading--51st-shade">
+                                Resources
+                            </h5>
+                            <ul class="footer-links-menu__items">
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/designers">
+                                        Become a designer
+                                    </a>
+                                </li>
+
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/blog">
+                                        Blog
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="site-footer__navigation__group">
+                        <div class="footer-links-menu">
+                            <h5 class="heading heading--h6 heading--51st-shade">
+                                Company
+                            </h5>
+                            <ul class="footer-links-menu__items">
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/about">
+                                        About
+                                    </a>
+                                </li>
+
+                                <li class="footer-links-menu__items__item">
+                                    <a class="footer-links-menu__items__item__link" href="/about/contact">
+                                        Contact
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-footer__sub">
+                <div class="site-footer__sub__inner">
+                    <div class="site-footer__legal">
+                        <span class="site-footer__legal__copyright-message">© 99designs</span>
+                        <div class="site-footer__legal__privacy-links">
+                            <ul class="footer-level-nav">
+                                <li class="footer-level-nav__item">
+                                    <a class="footer-level-nav__item__link" href="/legal/terms-of-use">Terms</a>
+                                </li>
+                                <li class="footer-level-nav__item">
+                                    <a class="footer-level-nav__item__link" href="/legal/privacy">Privacy</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+<svg width="73.1" height="20" viewBox="0 0 731 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="forks: 3.9K">
+  <title>forks: 3.9K</title>
+  <g>
+    <rect fill="#555" width="375" height="200"/>
+    <rect fill="#08C" x="375" width="356" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="275" fill="#000" opacity="0.1">forks</text>
+    <text x="50" y="138" textLength="275">forks</text>
+    <text x="430" y="148" textLength="256" fill="#000" opacity="0.1">3.9K</text>
+    <text x="420" y="138" textLength="256">3.9K</text>
+  </g>
+  
+</svg>

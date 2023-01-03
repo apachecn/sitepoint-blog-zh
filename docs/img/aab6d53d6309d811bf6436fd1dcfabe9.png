@@ -1,0 +1,14 @@
+<svg width="191.5" height="20" viewBox="0 0 1915 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="last commit: almost 2 years ago">
+  <title>last commit: almost 2 years ago</title>
+  <g>
+    <rect fill="#555" width="752" height="200"/>
+    <rect fill="#3C1" x="752" width="1163" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="652" fill="#000" opacity="0.1">last commit</text>
+    <text x="50" y="138" textLength="652">last commit</text>
+    <text x="807" y="148" textLength="1063" fill="#000" opacity="0.1">almost 2 years ago</text>
+    <text x="797" y="138" textLength="1063">almost 2 years ago</text>
+  </g>
+  
+</svg>

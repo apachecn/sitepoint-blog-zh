@@ -1,0 +1,557 @@
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" dir="ltr" data-gtm-container-id="UA-36116321-2">
+<head>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+  
+    <title>Page Not Found | Mozilla Support</title>
+  
+
+  
+<link rel="apple-touch-icon" sizes="180x180" href="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/apple-touch-icon.bdc11b610d791a16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/favicon-32x32.2143cdf0c7e3f377.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/favicon-16x16.352a0a2cef154dda.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/favicon.03d97697df808c0e.ico">
+<meta name="theme-color" content="#ffffff">
+
+
+  <link rel="search" type="application/opensearchdescription+xml" title="Mozilla Support" href="/en-US/search/xml"/>
+  
+
+  
+  
+  <link href="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/screen.4cfc530405d8ddaa.css" rel="stylesheet">
+
+  
+  
+  <script defer="defer" src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/474.8dd740de416ee65a.js" nonce="F5EvvxuMYJXWmzH+HPNA2A=="></script><script defer="defer" src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/common.c8f1d10d6d8681c1.js" nonce="F5EvvxuMYJXWmzH+HPNA2A=="></script>
+  
+  <script defer="defer" src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/common.fx.download.0b6dca7065496b7d.js" nonce="F5EvvxuMYJXWmzH+HPNA2A=="></script>
+
+  
+
+  
+  <meta name="google-site-verification" content="2URA-2Y9BeYYUf8B2BSsBSVetJJS3TZwlXBOaMx2VfY" />
+  
+  <meta name="google-site-verification" content="ueNbCgS4e1JIAgLGwufm-jHaIcLXFLtFMmR_65S1Ag0" />
+  
+  <meta name="msvalidate.01" content="1659173DC94819093068B0ED7C51C527" />
+
+  
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  
+
+  <!--
+Read more about our custom configuration and use of Google Analytics here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
+-->
+
+<!-- Google Tag Manager -->
+
+  <script defer="defer" src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/gtm-snippet.d1b1396e519eb332.js" nonce="F5EvvxuMYJXWmzH+HPNA2A=="></script>
+
+<!-- End Google Tag Manager -->
+</head>
+
+<body class="html-ltr logged-out responsive  en-US"
+      data-readonly="false"
+      data-usernames-api="/en-US/users/api/usernames"
+      data-media-url="https://user-media-prod-cdn.itsre-sumo.mozilla.net/"
+      
+>
+
+
+
+<ul class="sumo-nav-access" id="nav-access">
+  <li><a href="#main-content">Skip to main content</a></li>
+  <li><a href="/en-US/locales">Switch language</a></li>
+  <li><a id="skip-to-search" href="#search-q">Skip to search</a></li>
+</ul>
+
+
+
+<div class="media-test"></div>
+
+<div id="announcements">
+  <div id="announce-geoip-suggestion" class="mzp-c-notification-bar mzp-t-warning">
+  <button class="mzp-c-notification-bar-button close-button" data-close-id="announce-geoip-suggestion" type="button"
+    data-close-memory="remember" 
+    data-close-type="remove" >
+  </button>
+  <p></p>
+</div>
+
+
+  
+  
+</div>
+
+<header class="mzp-c-navigation sumo-nav">
+  <div class="mzp-c-navigation-l-content">
+    <div class="sumo-nav--container">
+      <div class="sumo-nav--logo">
+        <a href="/en-US/"><img src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/mozilla-support.c4f961a8d7b1d501.svg" alt="Mozilla Support Logo"/></a>
+      </div>
+
+      <button data-mobile-nav-search-button class="sumo-nav--search-button" type="button">Search</button>
+      <button data-sumo-toggle-nav="#main-navigation" class="sumo-nav--toggle-button" type="button" aria-controls="main-navigation">Menu</button>
+      <a class="sumo-nav--avatar-button" data-sumo-toggle-nav="#profile-navigation" aria-controls="profile-navigation" aria-role="button">
+        
+        <img class="avatar" src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/default-FFA-avatar.2f8c2a0592bda1c5.png" alt="Avatar for Username">
+        
+
+      </a>
+      <div class="mzp-c-navigation-items sumo-nav--list-wrap" id="main-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+              
+              <ul class="mzp-c-menu-category-list sumo-nav--list">
+                
+<li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title sumo-nav--link" href="/en-US/questions" aria-haspopup="true"
+    aria-controls="mzp-c-menu-panel-help">Get Help</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-help">
+    <div class="sumo-nav--dropdown-container">
+      <div class="sumo-nav--dropdown-grid">
+        <button class="mzp-c-menu-button-close" type="button"
+          aria-controls="mzp-c-menu-panel-example">Close Firefox menu</button>
+        <div class="sumo-nav--dropdown-col">
+          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
+            <a class="mzp-c-menu-item-link" href="/en-US/questions/new">
+              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24">
+                <g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round"
+                  stroke-linejoin="round">
+                  <path d="M11 3H4a2 2 0 00-2 2v12a2 2 0 002 2h9l2 4 2-4h2a2 2 0 002-2v-6" />
+                  <path d="M17.5 2.5a2.121 2.121 0 013 3L13 13l-4 1 1-4 7.5-7.5z" />
+                </g>
+              </svg>
+              <h4 class="mzp-c-menu-item-title">Ask a Question</h4>
+              <p class="mzp-c-menu-item-desc">
+                Get support from our contributors or staff members.
+              </p>
+            </a>
+            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
+              <li><a href="/en-US/questions/new/desktop">Firefox Browser</a></li>
+              <li><a
+                  href="/en-US/questions/new/firefox-private-network-vpn">Mozilla VPN</a>
+              </li>
+              <li><a href="/en-US/questions/new/ios">Firefox for iOS</a></li>
+              <li><a href="/en-US/questions/new/focus">Firefox Focus</a></li>
+              <li><a href="/en-US/questions/new/mobile">Firefox for Android</a></li>
+              <li><a class="color-link" href="/en-US/questions/new">Browse All Products</a></li>
+            </ul>
+          </section>
+        </div>
+        <div class="sumo-nav--dropdown-col">
+          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
+            <a class="mzp-c-menu-item-link" href="/en-US/products">
+              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24">
+                <g transform="translate(3 3)" stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd"
+                  stroke-linecap="round">
+                  <rect stroke-linejoin="round" width="18" height="18" rx="2" />
+                  <path d="M4 5h10M4 9h10M4 13h4" />
+                </g>
+              </svg>
+              <h4 class="mzp-c-menu-item-title">Explore Our Help Articles</h4>
+              <p class="mzp-c-menu-item-desc">
+                Dig into the knowledge base, tips and tricks, troubleshooting, and so much more.
+              </p>
+            </a>
+            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
+              <li><a href="/en-US/products/firefox">Firefox Browser</a></li>
+              <li><a
+                  href="/en-US/products/firefox-private-network-vpn">Mozilla VPN</a>
+              </li>
+              <li><a href="/en-US/products/ios">Firefox for iOS</a></li>
+              <li><a href="/en-US/products/focus-firefox">Firefox Focus</a></li>
+              <li><a href="/en-US/products/mobile">Firefox for Android</a></li>
+              <li><a class="color-link" href="/en-US/products">Browse All Articles</a></li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li class="mzp-c-menu-category">
+  <a class="mzp-c-menu-title sumo-nav--link" href="/en-US/contribute">Contribute</a>
+</li>
+
+              </ul>
+              
+          </nav>
+        </div>
+      </div>
+
+      <div class="mzp-c-navigation-items sumo-nav--list-wrap-right logged-out" id="profile-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+              
+              <ul class="mzp-c-menu-category-list sumo-nav--list">
+                
+
+
+<li
+  class="mzp-c-menu-category logged-out-button-row ">
+  
+  <a href="/en-US/users/auth" class="sumo-button secondary-button button-lg" data-event-category="navigation"
+    data-event-action="main navigation" data-event-label="Sign In">Sign In/Up</a>
+  
+</li>
+
+              </ul>
+              
+          </nav>
+        </div>
+      </div>
+      <div class="mzp-c-navigation-items sumo-nav--mobile-search-form" id="search-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+            
+<form data-instant-search="form" id="mobile-search-results"  action="/en-US/search/" method="get"
+   class="simple-search-form">
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Find help..." class="searchbox" id="search-q" />
+  <button type="submit" title="Search" class="search-button">Search</button>
+</form>
+
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header><!--/.mzp-c-navigation -->
+
+
+<!-- This is only displayed when the instant search is active.
+     This block is overriden in home.html and product.html,
+     and can likely be removed when frontend search is replaced. -->
+<div class="home-search-section sumo-page-section--lg shade-bg hidden-search-masthead">
+  <div class="mzp-l-content narrow">
+    <div class="home-search-section--content">
+      <h4 class="sumo-page-heading-xl">Search Support</h4>
+      
+<form data-instant-search="form" id="hidden-search"  action="/en-US/search/" method="get"
+   class="simple-search-form">
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Find help..." class="searchbox" id="search-q" />
+  <button type="submit" title="Search" class="search-button">Search</button>
+</form>
+
+    </div>
+  </div>
+</div>
+
+
+
+<div id="error-page"  class="search-results-visible page-not-found">
+  <section class="home-search-section sumo-page-section--lg shade-bg">
+    <div class="mzp-l-content">
+      <div class="home-search-section--content">
+        <h1 class="sumo-page-heading-xl">Page Not Found</h1>
+        <p class="sumo-page-intro">Sorry, we couldn't find the page you were looking for. Please, try searching our site using the form below.</p>
+
+        
+        <div id="basic-search" class="search-empty">
+  Enter your terms in the form below and click <strong>Search</strong>
+    <form role="search" method="get" action="/en-US/search/" class="simple-search-form">
+      <input type="text" class="searchbox search-query search-empty-query" id="search-q" value="" name="q">
+      <button type="submit" class="search-empty-submit search-button">Search</button>
+    </form>
+  </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+
+
+<div class="mzp-l-content " id="main-content">
+  <div class="sumo-page-section--inner">
+    
+    <div class="sumo-l-two-col ">
+      
+      <aside id="aside" class="sumo-l-two-col--sidebar">
+        
+        
+        
+      </aside>
+      
+      <main role="main" class="sumo-l-two-col--main">
+      
+      
+      </main>
+    </div>
+  </div>
+  
+</div>
+
+
+<footer class="mzp-c-footer">
+  <div class="mzp-l-content">
+    <nav class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-cols">
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Mozilla</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/en-US/about/legal/fraud-report/">Report Trademark Abuse</a></li>
+            <li><a href="https://github.com/mozilla/kitsune/">Source code</a></li>
+            <li><a href="https://twitter.com/firefox">Twitter</a></li>
+            <li><a href="/en-US/contribute">Join our Community</a></li>
+            <li><a href="/en-US/">Explore Help Articles</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Firefox</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Download</a></li>
+            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Firefox Desktop</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Android Browser</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">iOS Browser</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Focus Browser</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Firefox for Developers</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Developer Edition</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Beta</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Beta for Android</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly for Android</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Firefox Accounts</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/en-US/users/auth">Sign In/Up</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/accounts/">Benefits</a></li>
+            <li class="mzp-c-footer-heading"><br><a href="https://fpn.firefox.com/">Firefox Private Network</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col lang-col">
+          <form class="mzp-c-language-switcher" method="get" action="#">
+            <a class="mzp-c-language-switcher-link" href="https://www.mozilla.org/locales/">Language</a>
+            <label for="mzp-c-language-switcher-select">Language</label>
+            <select id="mzp-c-language-switcher-select" class="mzp-js-language-switcher-select"
+             name="lang">
+              
+                  <option value="af" >Afrikaans</option>
+              
+                  <option value="ar" >عربي</option>
+              
+                  <option value="az" >Azərbaycanca</option>
+              
+                  <option value="bg" >Български</option>
+              
+                  <option value="bm" >Bamanankan</option>
+              
+                  <option value="bn" >বাংলা</option>
+              
+                  <option value="bs" >Bosanski</option>
+              
+                  <option value="ca" >català</option>
+              
+                  <option value="cs" >Čeština</option>
+              
+                  <option value="da" >Dansk</option>
+              
+                  <option value="de" >Deutsch</option>
+              
+                  <option value="ee" >Èʋegbe</option>
+              
+                  <option value="el" >Ελληνικά</option>
+              
+                  <option value="en-US" selected>English</option>
+              
+                  <option value="es" >Español</option>
+              
+                  <option value="et" >eesti keel</option>
+              
+                  <option value="eu" >Euskara</option>
+              
+                  <option value="fa" >فارسی</option>
+              
+                  <option value="fi" >suomi</option>
+              
+                  <option value="fr" >Français</option>
+              
+                  <option value="fy-NL" >Frysk</option>
+              
+                  <option value="ga-IE" >Gaeilge (Éire)</option>
+              
+                  <option value="gl" >Galego</option>
+              
+                  <option value="gn" >Avañe&#39;ẽ</option>
+              
+                  <option value="gu-IN" >ગુજરાતી</option>
+              
+                  <option value="ha" >هَرْشَن هَوْسَ</option>
+              
+                  <option value="he" >עברית</option>
+              
+                  <option value="hi-IN" >हिन्दी (भारत)</option>
+              
+                  <option value="hr" >Hrvatski</option>
+              
+                  <option value="hu" >Magyar</option>
+              
+                  <option value="dsb" >Dolnoserbšćina</option>
+              
+                  <option value="hsb" >Hornjoserbsce</option>
+              
+                  <option value="id" >Bahasa Indonesia</option>
+              
+                  <option value="ig" >Asụsụ Igbo</option>
+              
+                  <option value="it" >Italiano</option>
+              
+                  <option value="ja" >日本語</option>
+              
+                  <option value="ka" >ქართული</option>
+              
+                  <option value="km" >ខ្មែរ</option>
+              
+                  <option value="kn" >ಕನ್ನಡ</option>
+              
+                  <option value="ko" >한국어</option>
+              
+                  <option value="ln" >Lingála</option>
+              
+                  <option value="lt" >lietuvių kalba</option>
+              
+                  <option value="mg" >Malagasy</option>
+              
+                  <option value="mk" >Македонски</option>
+              
+                  <option value="ml" >മലയാളം</option>
+              
+                  <option value="ms" >Bahasa Melayu</option>
+              
+                  <option value="ne-NP" >नेपाली</option>
+              
+                  <option value="nl" >Nederlands</option>
+              
+                  <option value="no" >Norsk</option>
+              
+                  <option value="pl" >Polski</option>
+              
+                  <option value="pt-BR" >Português (do Brasil)</option>
+              
+                  <option value="pt-PT" >Português (Europeu)</option>
+              
+                  <option value="ro" >română</option>
+              
+                  <option value="ru" >Русский</option>
+              
+                  <option value="si" >සිංහල</option>
+              
+                  <option value="sk" >slovenčina</option>
+              
+                  <option value="sl" >slovenščina</option>
+              
+                  <option value="sq" >Shqip</option>
+              
+                  <option value="sr" >Српски</option>
+              
+                  <option value="sw" >Kiswahili</option>
+              
+                  <option value="sv" >Svenska</option>
+              
+                  <option value="ta" >தமிழ்</option>
+              
+                  <option value="ta-LK" >தமிழ் (இலங்கை)</option>
+              
+                  <option value="te" >తెలుగు</option>
+              
+                  <option value="th" >ไทย</option>
+              
+                  <option value="tn" >Setswana</option>
+              
+                  <option value="tr" >Türkçe</option>
+              
+                  <option value="uk" >Українська</option>
+              
+                  <option value="ur" >اُردو</option>
+              
+                  <option value="vi" >Tiếng Việt</option>
+              
+                  <option value="wo" >Wolof</option>
+              
+                  <option value="xh" >isiXhosa</option>
+              
+                  <option value="yo" >èdè Yorùbá</option>
+              
+                  <option value="zh-CN" >中文 (简体)</option>
+              
+                  <option value="zh-TW" >正體中文 (繁體)</option>
+              
+                  <option value="zu" >isiZulu</option>
+              
+            </select>
+            <!-- form submit button is shown when JavaScript is not enabled -->
+            <button type="submit">Go</button>
+          </form>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/firefox">Twitter<span>(@firefox)</span></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/firefoxchannel">YouTube<span> (firefoxchannel)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/firefox">Instagram<span> (firefox)</span></a></li>
+          </ul>
+        </section>
+
+      </div>
+    </nav>
+
+    <nav class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-link-col">
+        <div class="mzp-c-footer-primary-logo"><a href="https://www.mozilla.org/">Mozilla</a></div>
+        <div class="mzp-c-footer-legal">
+          <ul>
+            <li><a href="https://www.mozilla.org/">mozilla.org</a></li>
+            <li><a href="https://www.mozilla.org/about/legal/terms/mozilla/">Terms of Service</a></li>
+            <li><a href="https://www.mozilla.org/privacy/websites/">Privacy</a></li>
+            <li><a href="https://www.mozilla.org/privacy/websites/#cookies">Cookies</a></li>
+            <li><a href="https://www.mozilla.org/en-US/contact/">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="mzp-c-footer-legal-col">
+        <p>
+          Visit <a href="https://www.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Corporation">Mozilla Corporation’s</a> not-for-profit parent, the <a href="https://foundation.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Foundation">Mozilla Foundation</a>.
+        </p>
+        <p>
+          Portions of this content are ©1998–2023 by individual mozilla.org contributors. Content available under a <a rel="external noopener" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
+        </p>
+      </div>
+    </nav>
+  </div>
+</footer>
+
+  
+    <script src="https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/jsi18n/en-us/djangojs-min.js"></script>
+  
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,441 @@
+<!doctype html>
+<html class="h-full">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Well, we couldn't find that page. | Memberful.com</title>
+
+
+      <meta name="facebook-domain-verification" content="n9rhh6jm36fjetuze53ic1xeemzp94" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link href="/images/logo-circle-8459cf49.svg" rel="icon" type="image/svg" />
+    <link rel="alternate" type="application/atom+xml" title="Memberful" href="https://memberful.com/feed.xml" />
+
+    
+
+  <meta name="description" content="Best-in-class membership software for independent creators, publishers, educators, podcasters, and more. Memberful has everything you need to run a membership program. It’s your brand, website, and audience. We grow with you as your business changes."/>
+
+
+<meta name="twitter:site" content="@memberful">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Well, we couldn't find that page.">
+
+
+  <meta name="twitter:description" content="Best-in-class membership software for independent creators, publishers, educators, podcasters, and more. Memberful has everything you need to run a membership program. It’s your brand, website, and audience. We grow with you as your business changes."/>
+
+  <meta name="twitter:image" content="https://memberful.com/images/meta/summary_card_large-303ddd19.jpg" />
+  <meta property="og:image" content="https://memberful.com/images/meta/summary_card_large-303ddd19.jpg" />
+
+  <meta property="og:url" content="https://memberful.com" />
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Well, we couldn't find that page." />
+
+  <meta property="og:description" content="Best-in-class membership software for independent creators, publishers, educators, podcasters, and more. Memberful has everything you need to run a membership program. It’s your brand, website, and audience. We grow with you as your business changes." />
+
+<meta name="theme-color" content="#ffffff">
+
+
+
+      <!-- Google Tag Manager -->
+      <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-KF4PG7F');
+      </script>
+      <!-- End Google Tag Manager -->
+
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-76840092-1', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+      </script>
+
+    <!-- Start cookieyes banner -->
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/9e5641a402331e15e154dc0e/script.js"></script>
+    <!-- End cookieyes banner -->
+
+    <script>
+      function feedback(rating) {
+        ga('send', 'event', 'Feedback', rating, document.title);
+
+        const element = document.getElementById("was-this-helpful")
+        element.classList.add("hide")
+
+        return false
+      }
+    </script>
+
+    <script type="text/javascript">
+      window.MemberfulOptions = {site: "https://demo.memberful.com"};
+
+      (function() {
+        var s   = document.createElement('script');
+
+        s.type  = 'text/javascript';
+        s.async = true;
+        s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+        setup = function() { window.MemberfulEmbedded.setup(); }
+
+        if(s.addEventListener) { s.addEventListener("load", setup, false); } else { s.attachEvent("onload", setup); }
+
+        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+      })();
+    </script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
+
+    <link href="/build-d5facac8.css" rel="stylesheet" />
+    <script src="/build-bc9483a4.js"></script>
+    
+
+  </head>
+
+
+<body class="x404 text-gray-900 antialiased font-normal text-base flex flex-col h-full overflow-x-hidden" x-data="{ showModal: false }" @keydown.escape="showModal = false" x-cloak>
+  <div class="py-2 font-sans text-sm text-center text-white bg-secondary-500">
+  <p>✨ New at Memberful: &nbsp;<a href="/blog/product-update-metrics/" class="underline hover:no-underline">Improved metrics experience</a> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="fill-current w-3 h-3 inline">
+<title>cheveron-right</title>
+<path d="M12.364 10.364L13.071 9.657L7.414 4L6 5.414L10.242 9.657L6 13.9L7.414 15.314L12.364 10.364Z"></path>
+</svg>
+</p>
+</div>
+
+
+    <div class="container lg:px-4 px-1 mx-auto" x-data="{ nav: true }" x-cloak>
+      <header role="masthead" class="relative flex flex-wrap items-center justify-start">
+  <div class="flex items-center justify-between w-full lg:w-auto lg:px-0 px-4">
+    <a href="/" class="flex-1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="346" height="68" fill="none" viewbox="0 0 346 68" class="logo" aria-labelledby="site-title"><title>Memberful</title><path d="M34.27 68c18.778 0 34-15.222 34-34s-15.222-34-34-34-34 15.222-34 34 15.222 34 34 34z" fill="#EF5028"></path><path d="M43.932 47.324c-.102.985-1.14 1.344-2.225 1.344-2.597 0-3.016-1.267-2.884-3.754.311-5.86 6.461-15.66 6.959-18.709-2.924.746-10.616 10.047-12.313 17.225a33.964 33.964 0 0 0-.53 4.11c-.114.937-.288 1.128-1.843 1.128-2.24 0-3.433-.754-3.423-2.862.037-7.405 6.162-17.237 6.846-19.6-2.926.745-11.04 11.535-12.292 16.954a28.56 28.56 0 0 0-.584 4.452c-.067.706-.254 1.056-1.81 1.056-2.24 0-3.422-1.228-3.422-2.862 0-7.405 8.412-24.336 9.52-25.381 1.87-1.77 4.651-1.41 4.714 1.229a5.505 5.505 0 0 1-1.415 3.555 63.186 63.186 0 0 0-5.165 11.137h.125c5.598-10.08 9.955-16.114 12.445-16.114a3.925 3.925 0 0 1 4.231 3.67c0 1.555-3.672 6.098-5.538 12.444h.123c5.601-10.08 9.957-16.114 12.447-16.114a3.926 3.926 0 0 1 4.231 3.67c0 1.93-2.283 5.33-3.921 8.774A40.627 40.627 0 0 0 44.41 43.33a31.05 31.05 0 0 0-.478 3.994z" fill="#fff"></path><path d="M108.309 54.4l9.411-28.615V54.4h7.616V15.34h-10.935l-8.976 27.799-9.03-27.798H85.297V54.4h7.508V25.785l9.411 28.615h6.093zm35.541.598c5.712 0 10.553-2.937 12.62-8.16l-6.419-2.285c-.87 2.775-3.209 4.19-6.147 4.19-3.754 0-6.419-2.612-6.963-6.964h19.693v-2.23c0-7.997-4.57-14.308-13.056-14.308-8.106 0-13.927 6.42-13.927 14.852 0 8.867 5.767 14.905 14.199 14.905zm-.327-23.664c3.699 0 5.495 2.448 5.549 5.277h-11.859c.925-3.482 3.264-5.277 6.31-5.277zm24.69 6.528c0-3.753 2.557-5.657 5.059-5.657 3.155 0 4.352 2.284 4.352 5.494v16.7h7.616V37.863c0-3.753 2.557-5.657 5.059-5.657 3.155 0 4.352 2.284 4.352 5.494v16.7h7.616V35.524c0-6.202-3.808-10.282-9.683-10.282-4.406 0-7.126 2.122-8.867 3.917-1.578-2.448-4.243-3.917-7.725-3.917-3.699 0-6.256 1.632-7.779 3.482v-2.938h-7.616V54.4h7.616V37.862zm55.265 17.136c7.888 0 12.458-6.745 12.458-14.905 0-8.106-4.57-14.852-12.458-14.852-3.59 0-6.31 1.415-7.997 3.482V15.341h-7.616V54.4h7.616v-2.938c1.687 2.122 4.407 3.536 7.997 3.536zm-8.16-15.667c0-4.896 2.72-7.562 6.365-7.562 4.297 0 6.582 3.428 6.582 8.324 0 4.95-2.285 8.377-6.582 8.377-3.645 0-6.365-2.72-6.365-7.561V39.33zm37.187 15.667c5.712 0 10.554-2.937 12.621-8.16l-6.419-2.285c-.871 2.775-3.21 4.19-6.147 4.19-3.754 0-6.42-2.612-6.964-6.964h19.693v-2.23c0-7.997-4.569-14.308-13.056-14.308-8.105 0-13.926 6.42-13.926 14.852 0 8.867 5.766 14.905 14.198 14.905zm-.326-23.664c3.699 0 5.494 2.448 5.548 5.277h-11.859c.925-3.482 3.264-5.277 6.311-5.277zm34.155-5.603a16.944 16.944 0 0 0-1.85-.109c-3.536 0-6.365 1.687-7.616 4.189v-4.026h-7.616V54.4h7.616V39.875c0-4.406 3.047-6.854 7.018-6.854.925 0 1.577.054 2.448.163V25.73zm18.299-10.826c-1.196-.108-1.849-.108-2.937-.108-7.018 0-10.282 3.372-10.282 9.41v1.578h-3.862v6.365h3.862V54.4h7.616V32.15h5.549v-6.365h-5.549v-1.142c0-2.829 1.251-3.536 3.645-3.536.816 0 1.251 0 1.958.054v-6.256zm27.758 10.88h-7.616v16.81c0 3.7-2.612 5.658-5.277 5.658-3.155 0-4.57-2.068-4.57-5.223V25.785h-7.616v18.932c0 6.201 3.808 10.281 9.738 10.281 3.645 0 6.147-1.686 7.725-3.536V54.4h7.616V25.785zm13.395-10.444h-7.616V54.4h7.616V15.34z" fill="#2D3748"></path></svg>
+
+      <span id="site-title" class="sr-only">Memberful</span>
+    </a>
+    <div class="flex-row flex-wrap items-center justify-between text-right lg:hidden focus:bg-blue-100 w-24">
+      <button class="text-gray-700 rounded-lg lg:hidden focus:outline-none focus:shadow-outline" @click="nav = !nav">
+        <svg fill="currentColor" viewBox="0 0 20 20" class="w-8 h-8">
+          <path x-show="nav"
+              x-transition:enter="transition ease-out duration-500"
+              x-transition:leave-end="opacity-0 transform scale-0" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"></path>
+          <path x-show.transition="!nav"
+              x-transition:enter="transition ease-out duration-500"
+              x-transition:leave-end="opacity-0 transform scale-0" fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <nav role="navigation"
+  class="absolute left-0 right-0 z-50 items-center justify-between hidden w-full p-4 bg-white rounded shadow-lg top-16 lg:static lg:ml-4 lg:py-2 lg:flex lg:flex-1 lg:w-auto lg:bg-transparent lg:rounded-none lg:p-0 lg:shadow-none" :class="{ 'hidden': nav }">
+    <ul class="z-50 items-center xl:justify-center lg:justify-end justify-center w-full text-gray-800 lg:flex lg:flex-1 lg:w-auto">
+      <li x-data="{ open: false }" class="relative" @mouseover="open = true" @mouseover.away="open = false" @touchstart="open = true">
+        <a class="nav-link__with-children" href="/product" @touchstart.prevent>
+          <div>Product</div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="fill-current text-gray-600 w-4 h-4 ml-1 lg:transform-none transform -rotate-90"><title>cheveron-down</title><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"></path></svg>
+
+        </a>
+        <ul x-show.transition="open === true" @click.away="open = false"  class="dropdown z-40">
+          <li>
+<a href="/product/" class="nav-link flex items-center justify-start">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-5 h-5 stroke-current text-primary-500 mt-px flex-shrink-0" alt="Memberful logo mark"><g fill="none"><path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+
+              </div>
+              <span>Overview</span>
+</a>          </li>
+          <li>
+<a href="/integrations/" class="nav-link flex items-center justify-start">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="stroke-current text-primary-500 w-6 h-6 flex-shrink-0"><title>plug</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.281 12.031L11.97 5.72a1 1 0 0 0-1.596.249L6.75 13 11 17.25l7.032-3.623a1 1 0 0 0 .25-1.596z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 19.25L8.5 15.5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.75 7.25l2.5-2.5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.75 10.25l2.5-2.5"></path></g></svg>
+
+              </div>
+              <span>Integrations</span>
+</a>          </li>
+
+          <span class="text-xs font-normal tracking-widest text-gray-600 uppercase lg:px-4">Memberful for</span>
+          <li>
+<a href="/wordpress-membership-plugin/" class="nav-link">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 189 189" class="fill-current text-primary-500 w-5 h-5 flex-shrink-0"><path d="M384,289.5A94.5,94.5,0,1,0,478.5,384,94.61,94.61,0,0,0,384,289.5ZM299,384a84.63,84.63,0,0,1,7.36-34.58l40.53,111A85,85,0,0,1,299,384Zm85,85a84.93,84.93,0,0,1-24-3.46l25.49-74.07L411.61,463a7.94,7.94,0,0,0,.61,1.17A84.8,84.8,0,0,1,384,469Zm11.71-124.8c5.11-.27,9.72-.81,9.72-.81,4.58-.54,4-7.27-.54-7,0,0-13.76,1.08-22.65,1.08-8.35,0-22.38-1.08-22.38-1.08-4.58-.27-5.12,6.73-.54,7,0,0,4.33.54,8.91.81l13.24,36.27-18.6,55.76-30.94-92c5.12-.27,9.72-.81,9.72-.81,4.58-.54,4-7.27-.54-7,0,0-13.76,1.08-22.64,1.08-1.59,0-3.47,0-5.47-.1a84.94,84.94,0,0,1,128.36-16c-.37,0-.72-.07-1.1-.07-8.35,0-14.27,7.27-14.27,15.08,0,7,4,12.93,8.35,19.93,3.23,5.66,7,12.93,7,23.43,0,7.27-2.8,15.71-6.46,27.47l-8.48,28.31Zm62.85-.93a85,85,0,0,1-31.84,114.2l26-75c4.85-12.12,6.46-21.81,6.46-30.43A65.19,65.19,0,0,0,458.55,343.24Z" transform="translate(-289.5 -289.5)"></path></svg>
+
+              </div>
+              <span>WordPress</span>
+</a>          </li>
+          <li>
+<a href="/podcasts/" class="nav-link">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="stroke-current text-primary-500 w-7 h-7 -ml-1"><title>microphone</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.75 8a3.25 3.25 0 0 1 6.5 0v3a3.25 3.25 0 0 1-6.5 0V8z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.75 12.75s.25 4.5 6.25 4.5 6.25-4.5 6.25-4.5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 17.75v1.5"></path></g></svg>
+
+              </div>
+              <span>Podcasts</span>
+</a>          </li>
+          <li>
+<a href="/newsletters/" class="nav-link">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="stroke-current text-primary-500 w-6 h-6 -ml-[2px]"><title>mail</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 7.75a2 2 0 0 1 2-2h10.5a2 2 0 0 1 2 2v8.5a2 2 0 0 1-2 2H6.75a2 2 0 0 1-2-2v-8.5z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.5 6.5l6.5 5.75 6.5-5.75"></path></g></svg>
+
+              </div>
+              <span>Newsletters</span>
+</a>          </li>
+          <li>
+<a href="/communities/" class="nav-link">              <div class="w-6 h-6 mr-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="stroke-current text-primary-500 w-6 h-6 -ml-[2px]"><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 6.75a2 2 0 0 1 2-2h10.5a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2h-2.625l-2.625 3-2.625-3H6.75a2 2 0 0 1-2-2v-7.5z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M9.5 11a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M12.5 11a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M15.5 11a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"></path></g></svg>
+
+              </div>
+              <span>Communities</span>
+</a>          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/pricing/" class="nav-link">Pricing</a>
+      </li>
+      <li>
+        <a href="/meet-our-customers/" class="nav-link">Customers</a>
+      </li>
+      <li x-data="{ open: false }" class="relative" @mouseover="open = true" @mouseover.away="open = false" @touchstart="open = true">
+        <a class="nav-link__with-children" href="/resources/" @touchstart.prevent>
+          <div>Resources</div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="fill-current text-gray-600 w-4 h-4 ml-1 lg:transform-none transform -rotate-90"><title>cheveron-down</title><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"></path></svg>
+
+        </a>
+
+        <ul class="grid grid-cols-1 gap-3 dropdown lg:grid-cols-2 dropdown-resources lg:p-4 z-40 items-start" x-show.transition="open === true" @click.away="open = false">
+          <li>
+<a href="/help/" class="group flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1.5" class="w-7 h-7 stroke-current text-primary-500">
+<path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z"></path>
+<path d="M12.0003 16.0348C14.2285 16.0348 16.0348 14.2285 16.0348 12.0003C16.0348 9.77212 14.2285 7.96582 12.0003 7.96582C9.77212 7.96582 7.96582 9.77212 7.96582 12.0003C7.96582 14.2285 9.77212 16.0348 12.0003 16.0348Z"></path>
+<path d="M5.79248 18.207L8.89593 15.1035"></path>
+<path d="M18.207 18.207L15.1035 15.1035"></path>
+<path d="M8.89593 8.89593L5.79248 5.79248"></path>
+<path d="M15.1035 8.89593L18.207 5.79248"></path>
+</svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Documentation</p>
+                <p class="text-sm text-gray-600">Learn how to use every feature of Memberful.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/blog/" class="group  flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.4" stroke="currentColor" class="w-7 h-7 stroke-current text-primary-500 relative">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z"></path>
+</svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Blog</p>
+                <p class="text-sm text-gray-600">Insights, updates, and teaching centered around growing your community.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="https://creativeindependents.memberful.com/" target="_blank" class="group flex items-start justify-between space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500"><title>microphone</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.75 8a3.25 3.25 0 0 1 6.5 0v3a3.25 3.25 0 0 1-6.5 0V8z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.75 12.75s.25 4.5 6.25 4.5 6.25-4.5 6.25-4.5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 17.75v1.5"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Podcast</p>
+                <p class="text-sm text-gray-600">A podcast about entrepreneurs winning in the creator economy.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/product-updates" class="group  flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>announcement</title><g fill="none"><path stroke-width="1.5" d="M19.25 10c0 2.729-1.4 5.25-2.75 5.25s-2.75-2.521-2.75-5.25 1.4-5.25 2.75-5.25 2.75 2.521 2.75 5.25z"></path><path stroke-width="1.5" d="M16.5 15.25S8 13.5 7 13.25 4.75 11.69 4.75 10 6 7 7 6.75s9.5-2 9.5-2"></path><path stroke-width="1.5" d="M6.75 13.5v3.75a2 2 0 0 0 2 2h.5a2 2 0 0 0 2-2V14.5"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Product Updates</p>
+                <p class="text-sm text-gray-600">New features, updates, and official announcements about Memberful.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="https://community.memberful.com/" target="_blank" class="flex items-start space-x-3 group p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>users</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.782 19.25h7.436c.565 0 1.009-.468.896-1.021C13.804 16.7 12.79 14 9.5 14s-4.304 2.701-4.615 4.229c-.112.553.332 1.021.897 1.021z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 14c2.079 0 2.93 2.148 3.274 3.696.185.836-.49 1.554-1.347 1.554h-.927"></path><circle cx="9.5" cy="7.5" r="2.75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.75 10.25c1.519 0 2.5-1.231 2.5-2.75s-.981-2.75-2.5-2.75"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Community</p>
+                <p class="text-sm text-gray-600">Connect and share your membership experiences.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/membership-journey/" class="group flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>map</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 6.75l4.5-2v12.5l-4.5 2V6.75z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.75 6.75l4.5-2v12.5l-4.5 2V6.75z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.75 6.75l-5.5-2v12.5l5.5 2V6.75z"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Membership journey</p>
+                <p class="text-sm text-gray-600">A free email course designed to help guide you to success.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/alternatives/" class="group flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>link</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.75 13.25L18 12a4.243 4.243 0 0 0-6-6l-1.25 1.25"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7.25 10.75L6 12a4.243 4.243 0 1 0 6 6l1.25-1.25"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.25 9.75l-4.5 4.5"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Memberful alternatives</p>
+                <p class="text-sm text-gray-600">Memberful not a good fit? We've compiled some alternatives.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/partners/" class="group flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>briefcase</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 9.75a2 2 0 0 1 2-2h10.5a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2H6.75a2 2 0 0 1-2-2v-7.5z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.75 7.5v-.75a2 2 0 0 1 2-2h2.5a2 2 0 0 1 2 2v.75"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 13.25h14"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.75 11.75v2.5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.25 11.75v2.5"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Partners</p>
+                <p class="text-sm text-gray-600">Get help building your Memberful-powered subscription business.</p>
+              </div>
+</a>          </li>
+          <li>
+<a href="/reviews/" class="group flex items-start space-x-3 p-2 rounded hover:bg-gray-100">              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7 stroke-current text-primary-500 relative"><title>star</title><g fill="none"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4.75l1.75 5.5h5.5l-4.5 3.5 1.5 5.5-4.25-3.5-4.25 3.5 1.5-5.5-4.5-3.5h5.5L12 4.75z"></path></g></svg>
+
+              <div class="flex-1">
+                <p class="group-hover:text-secondary-600 text-gray-800">Reviews</p>
+                <p class="text-sm text-gray-600">See what others are saying about Memberful.</p>
+              </div>
+</a>          </li>
+          <li class="mb-4 lg:mb-0 lg:col-span-2 flex lg:justify-center lg:pt-3 lg:border-t border-gray-100">
+<a href="/resources/" class="border-primary-500 group flex items-center justify-start lg:w-full lg:justify-center">              <p class="group-hover:text-secondary-600">View all resources</p>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="w-4 h-4 fill-current text-primary-600 group-hover:translate-x-2 duration-200 transform transition relative top-[2px] left-2">
+<title>cheveron-right</title>
+<path d="M12.364 10.364L13.071 9.657L7.414 4L6 5.414L10.242 9.657L6 13.9L7.414 15.314L12.364 10.364Z"></path>
+</svg>
+
+</a>          </li>
+        </ul>
+      </li>
+      <li>
+<a href="https://form.jotform.com/222336760310042" target="_blank" class="nav-link flex items-center">          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" class="stroke-current fill-none text-primary-500 w-5 h-5"><title>calendar</title><path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+
+          <span class="ml-2">Book a demo</span>
+</a>      </li>
+    </ul>
+    <ul class="flex items-center justify-between mt-2 lg:justify-start lg:mt-0">
+      <li class="mr-2">
+        <a href="https://signin.memberful.com/callback" class="btn btn-transparent lg:font-normal font-medium text-gray-800 border border-gray-400 lg:border-none">Sign in</a>
+      </li>
+      <li class="flex-1">
+        <a href="https://signup.memberful.com/" class="btn btn-tertiary w-full lg:w-auto">Try for free</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+    </div>
+
+  <div role="main" class="flex-1">
+    <div class="container px-4 pt-10 mx-auto text-center lg:pt-32">
+  <div class="flex items-center justify-center mb-4">
+    <svg xmlns="http://www.w3.org/2000/svg" width="248" height="19" viewBox="0 0 248 19" class="fill-current text-primary-500">
+<path d="M190.632 8.41087C190.682 8.40617 190.731 8.40029 190.781 8.39558H190.783C190.732 8.40029 190.683 8.40617 190.632 8.41087ZM237.636 8.27914C236.745 8.31913 235.853 8.34383 234.964 8.40852C233.736 8.49791 232.509 8.58612 231.282 8.67551C229.247 8.82371 227.225 9.12716 225.242 9.59175C223.122 10.0904 221.07 10.8855 219.135 11.9123C218.748 12.117 218.368 12.3416 217.969 12.5204C217.541 12.7121 217.112 12.905 216.684 13.0967C216.076 13.339 215.466 13.5672 214.839 13.7542C214.115 13.9718 213.37 14.1153 212.62 14.2118C211.967 14.26 211.317 14.2729 210.66 14.2517C210.038 14.2318 209.417 14.1482 208.8 14.0424C207.954 13.8613 207.126 13.6331 206.303 13.3426C205.437 13.0368 204.596 12.6416 203.765 12.2346C202.339 11.496 200.969 10.6644 199.633 9.74113C199.005 9.30594 198.382 8.86252 197.769 8.40499C197.028 7.84866 196.297 7.29116 195.532 6.77835C194.945 6.3855 194.353 6.00207 193.718 5.71273C193.302 5.52454 192.897 5.37988 192.465 5.25402C192.041 5.13053 191.589 5.08583 191.156 5.04467C190.893 5.03996 190.632 5.0576 190.373 5.09642C189.991 5.14582 189.633 5.22227 189.262 5.32812C188.688 5.49044 188.148 5.81388 187.62 6.09146C186.546 6.66073 185.473 7.23117 184.402 7.80867C183.045 8.53673 181.676 9.24596 180.271 9.86345C179.413 10.2034 178.545 10.4998 177.66 10.7526C176.498 11.0808 175.304 11.2854 174.108 11.436C172.954 11.5454 171.801 11.5971 170.636 11.5654C169.324 11.5313 168.008 11.3254 166.706 11.0949C165.056 10.775 163.431 10.3516 161.81 9.86345C160.314 9.41062 158.848 8.86605 157.423 8.18152C156.004 7.45112 154.614 6.65485 153.261 5.78448C151.727 4.79649 150.134 3.89202 148.482 3.18161C147.828 2.9005 147.141 2.70879 146.461 2.53118C145.675 2.3277 144.869 2.22538 144.068 2.20656C143.265 2.19009 142.447 2.33711 141.669 2.51001C140.865 2.68997 140.103 3.04047 139.364 3.40861C137.573 4.30015 136.007 5.61393 134.417 6.84539C133.462 7.58402 132.534 8.36736 131.598 9.13304C130.816 9.75642 130.035 10.381 129.212 10.942C128.353 11.5277 127.445 12.0229 126.505 12.4416C126.068 12.6145 125.629 12.7698 125.18 12.9086C124.594 13.0885 123.986 13.1897 123.378 13.2638C123.137 13.2814 122.897 13.2861 122.655 13.2802C122.482 13.2767 122.31 13.2626 122.138 13.2391C121.645 13.1062 121.177 12.9403 120.709 12.7298C119.035 11.7618 117.458 10.6256 115.968 9.34476C115.253 8.70021 114.561 8.03215 113.894 7.32997C113.427 6.84068 112.961 6.35022 112.494 5.85975C111.279 4.58478 110.199 3.14867 108.862 2.01484C108.307 1.54202 107.741 1.1233 107.117 0.766923C106.77 0.569326 106.399 0.422304 106.029 0.290573C105.906 0.258816 105.785 0.227059 105.663 0.19295C105.408 0.145903 105.152 0.0988563 104.895 0.0506332C104.771 0.0376953 104.647 0.0247574 104.522 0.0106433C104.475 0.00711477 104.43 0.00476242 104.383 0.00241007C104.153 -0.00582314 103.924 0.00711476 103.696 0.0400476C103.247 0.0800375 102.827 0.183541 102.391 0.304687C101.545 0.539921 100.737 0.892773 99.928 1.24445C99.2679 1.53144 98.6203 1.8443 97.9677 2.14893C97.5078 2.36534 97.0416 2.56764 96.5972 2.81699C95.8973 3.20631 95.1974 3.5968 94.4993 3.98611C94.1465 4.18135 93.7879 4.36484 93.4483 4.58361C92.8169 4.99291 92.1849 5.40105 91.5512 5.81035C91.0747 6.11851 90.5889 6.41491 90.1215 6.73718C88.9456 7.54521 87.7732 8.35442 86.5991 9.16362C84.0643 10.9091 81.5001 12.6216 78.6954 13.8354C78.0749 14.0847 77.451 14.3153 76.815 14.5187C76.0288 14.7716 75.2184 14.9186 74.4016 15.0292C74.0563 15.0598 73.7115 15.0786 73.361 15.0868C72.8499 15.0998 72.3394 15.041 71.83 14.9645C71.0967 14.8022 70.3923 14.5776 69.6947 14.2694C68.9384 13.8507 68.2333 13.3555 67.5501 12.8015C66.4836 11.8159 65.5253 10.7138 64.5767 9.59293C64.1065 9.0366 63.6311 8.48732 63.1568 7.93452C62.5887 7.27116 61.9717 6.66073 61.3489 6.06088C60.8373 5.56806 60.2893 5.14582 59.6907 4.79179C59.3477 4.58949 58.9799 4.4307 58.6185 4.27545C58.2622 4.1249 57.8645 4.09549 57.4927 4.04021C57.248 4.04609 57.0046 4.06609 56.7628 4.10137C56.4152 4.17783 56.0785 4.28368 55.7579 4.44599C55.4408 4.60478 55.119 4.79885 54.86 5.05643C54.5924 5.32695 54.338 5.60452 54.0876 5.89269C53.6105 6.44078 53.1874 7.05592 52.7442 7.63695C52.3949 8.09566 52.0489 8.55672 51.699 9.01896C51.2938 9.55412 50.8696 10.074 50.4558 10.6009C49.635 11.6465 48.7118 12.5839 47.7121 13.4202C46.9379 13.9977 46.1275 14.494 45.2613 14.8963C44.4716 15.1892 43.6716 15.3809 42.8387 15.502C41.6611 15.5914 40.4985 15.5197 39.3226 15.3291C37.4647 14.9269 35.6787 14.2518 33.9399 13.4073C32.3565 12.5886 30.8433 11.643 29.3544 10.6256C28.5871 10.101 27.8481 9.52824 27.1119 8.95662C26.37 8.37912 25.6287 7.80397 24.8949 7.21588C24.1553 6.61956 23.4226 6.01736 22.6542 5.46691C21.868 4.90588 21.0564 4.39071 20.2161 3.93553C18.669 3.09692 16.9866 2.52177 15.276 2.48766C14.88 2.47943 14.4714 2.52648 14.0811 2.58411C13.6638 2.64527 13.2604 2.72055 12.8506 2.82758C12.4862 2.92167 12.1328 3.0781 11.7858 3.22513C11.4076 3.38626 11.0323 3.55445 10.6559 3.72382C9.00635 4.46834 7.44196 5.3587 5.94433 6.40667C4.61132 7.33938 3.37788 8.44263 2.26877 9.66938C1.75421 10.2386 1.27016 10.822 0.818914 11.4525C0.616891 11.7336 0.429256 12.0735 0.319898 12.4169C0.27558 12.5557 0.230685 12.6957 0.185216 12.8345C0.132839 13.1356 0.079887 13.4331 0.0269349 13.7342C-0.0432842 14.133 0.0165747 14.5246 0.292271 14.834C0.5507 15.1245 0.943237 15.2586 1.29548 15.1621C1.54183 15.0951 1.78932 15.028 2.03739 14.9598C2.39136 14.8634 2.71023 14.7022 3.0383 14.5364C3.54019 14.2835 3.67545 13.5308 3.40781 13.0203C3.26219 12.7451 3.04118 12.5686 2.79483 12.4922C3.68121 11.3878 4.70859 10.408 5.7803 9.52236C7.51045 8.17211 9.39198 7.09591 11.3771 6.2326C11.8249 6.04677 12.2756 5.86563 12.728 5.69274C13.2972 5.47515 13.8785 5.3587 14.476 5.28108C15.0032 5.24932 15.5154 5.25991 16.045 5.32107C16.3955 5.39634 16.7362 5.48926 17.085 5.601C17.5903 5.76213 18.0807 5.99031 18.5659 6.22202C19.5145 6.72424 20.3962 7.33585 21.2769 7.97451C22.2979 8.71433 23.2401 9.58234 24.2203 10.3868C25.1873 11.1796 26.1577 11.97 27.1453 12.7298C28.1244 13.4849 29.1472 14.1741 30.1763 14.8398C32.1758 16.1336 34.3094 17.2039 36.5058 17.9932C38.7608 18.8047 41.1771 19.1846 43.5093 18.9129C44.6086 18.7835 45.6584 18.533 46.6795 18.0896C47.666 17.6627 48.5829 17.1134 49.4497 16.4559C50.393 15.7443 51.2478 14.9175 52.0415 14.0189C52.4622 13.5413 52.8519 13.0391 53.2415 12.5322C53.8084 11.7959 54.3633 11.0526 54.9147 10.3022C55.5985 9.37416 56.2586 8.42146 57.0449 7.59108C57.103 7.55344 57.1623 7.51933 57.2239 7.48875C57.3079 7.46053 57.3931 7.437 57.4806 7.41701C57.5082 7.41701 57.5364 7.41818 57.5652 7.42054C57.7206 7.46288 57.8725 7.51581 58.0227 7.5805C58.4003 7.78633 58.7526 8.01333 59.1014 8.28267C60.0775 9.17539 60.9564 10.1657 61.8244 11.1855C62.9277 12.4769 64.0219 13.773 65.2369 14.9469C65.7595 15.4514 66.3311 15.896 66.9078 16.3206C67.5892 16.8229 68.3225 17.2039 69.0725 17.5556C69.7562 17.8732 70.4895 18.052 71.2119 18.2002C72.0769 18.3789 72.9288 18.4413 73.7996 18.4189C74.5185 18.4001 75.2408 18.2907 75.947 18.1743C76.8064 18.0343 77.6386 17.7767 78.4588 17.4909C79.9973 16.9522 81.4782 16.2383 82.9068 15.4409C85.0024 14.2717 86.9743 12.8792 88.956 11.5054C89.9017 10.8491 90.8375 10.1669 91.7999 9.54C92.9044 8.82018 94.006 8.10272 95.1082 7.38407C95.2354 7.30292 95.3736 7.23588 95.5048 7.16178C95.8818 6.95007 96.2588 6.73836 96.6346 6.52664C97.2091 6.20437 97.7835 5.88092 98.3573 5.55748C98.4701 5.49514 98.5939 5.44456 98.7107 5.39046C99.1148 5.19757 99.5182 5.00703 99.9217 4.81414C100.599 4.49422 101.275 4.17783 101.962 3.88025C102.655 3.61326 103.355 3.38979 104.081 3.23571C104.228 3.22748 104.375 3.22983 104.522 3.24042C104.645 3.24865 104.767 3.26041 104.889 3.27805C105.197 3.36039 105.483 3.45566 105.774 3.5768C106.277 3.87555 106.744 4.21664 107.201 4.59302C108.585 5.9068 109.805 7.42054 111.127 8.8096C111.953 9.68114 112.781 10.5362 113.659 11.3454C114.454 12.0782 115.284 12.7639 116.133 13.4143C117.037 14.1071 118 14.6987 118.959 15.2891C119.828 15.8231 120.801 16.2113 121.778 16.3677C122.223 16.4394 122.638 16.4677 123.084 16.4641C123.644 16.4594 124.21 16.3618 124.759 16.2736C125.698 16.1242 126.595 15.8055 127.472 15.442C128.471 15.0268 129.408 14.5176 130.324 13.933C131.595 13.125 132.759 12.1252 133.924 11.1572C134.616 10.5821 135.306 10.0105 135.998 9.4365C136.546 9.00131 137.095 8.56613 137.643 8.13212C138.825 7.19471 140.067 6.37845 141.414 5.74331C142.08 5.49396 142.754 5.33283 143.456 5.22815C143.796 5.20345 144.13 5.19286 144.475 5.2011C144.774 5.2058 145.075 5.2505 145.374 5.30225C146.449 5.54454 147.484 5.89621 148.496 6.37139C149.372 6.82422 150.235 7.30645 151.082 7.82632C151.609 8.14976 152.122 8.49909 152.644 8.83312C153.154 9.16127 153.678 9.45767 154.202 9.75759C155.208 10.3351 156.228 10.8773 157.269 11.3737C158.358 11.8923 159.496 12.284 160.63 12.6557C163.005 13.4367 165.417 13.9953 167.858 14.3941C169.092 14.5952 170.328 14.6963 171.571 14.7093C172.796 14.721 174.015 14.5975 175.226 14.4588C177.399 14.2082 179.536 13.619 181.554 12.7662C182.85 12.2193 184.101 11.5818 185.357 10.9396C186.86 10.1728 188.341 9.34005 189.871 8.632C190.177 8.52967 190.481 8.45675 190.801 8.39441C190.988 8.385 191.173 8.39206 191.359 8.41323C191.806 8.52261 192.228 8.66728 192.651 8.85429C194.019 9.64233 195.261 10.6609 196.522 11.6371C197.837 12.6557 199.213 13.5943 200.623 14.4376C202.032 15.2786 203.505 15.9984 204.998 16.6253C206.673 17.3298 208.469 17.705 210.236 17.8744C211.801 18.0237 213.386 17.8626 214.907 17.5333C216.214 17.251 217.464 16.737 218.679 16.1748C219.203 15.9325 219.725 15.6973 220.232 15.4185C220.563 15.2397 220.89 15.0598 221.218 14.8798C221.712 14.6117 222.232 14.3847 222.748 14.1647C225.243 13.1756 227.866 12.691 230.518 12.3852C231.951 12.244 233.397 12.1911 234.836 12.1005C236.083 12.0217 237.338 12.0064 238.589 11.9653C241.124 11.8829 243.672 11.8088 246.214 11.9159C247.188 11.957 248 11.1008 248 10.0458C248 9.00131 247.188 8.05567 246.214 8.03567C244.284 7.99568 242.356 8.08037 240.431 8.15917C239.499 8.19799 238.568 8.2368 237.636 8.27914Z"></path>
+</svg>
+
+  </div>
+  <h1 class="mb-4 text-2xl font-black text-gray-800 lg:text-5xl">Well, we couldn't find that page.</h1>
+  <div class="max-w-4xl mx-auto prose prose-lg">
+    <p>This is most likely our fault, and we're sorry you're not where you want to be. If you're still interested, try visiting the <a href="/">Memberful homepage</a> or checking out the <a href="/help/">Memberful documentation</a>.</p>
+  </div>
+</div>
+
+  </div>
+  <div class="container flex-shrink-0 px-4 pt-6 pb-6 mx-auto border-t border-gray-300">
+  <footer role="contentinfo">
+    <nav>
+      <ul class="flex-wrap items-center justify-start leading-loose text-center lg:flex lg:leading-normal lg:text-left lg:text-base text-lg">
+        <li class="lg:pr-4">
+          <a href="/product/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Product</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/meet-our-customers/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Customers</a>
+        </li>
+        <li class="lg:pr-4"><a href="/pricing/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Pricing</a></li>
+        <li class="lg:pr-4"><a href="/blog/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Blog</a></li>
+        <li class="lg:pr-4"><a href="/product-updates" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Product Updates</a></li>
+        <li class="lg:pr-4"><a href="/about/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">About</a></li>
+        <li class="lg:pr-4"><a href="/jobs/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Jobs</a></li>
+        <li class="lg:pr-4"><a href="/integrations/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Integrations</a></li>
+        <li class="lg:pr-4"><a href="/membership-journey/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Membership Journey</a></li>
+        <li class="lg:pr-4"><a href="/partners/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Partners</a></li>
+        <li class="lg:pr-4"><a href="/alternatives/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Memberful alternatives</a></li>
+        <li class="lg:pr-4">
+          <a href="#" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block" data-gen-email="">Contact</a>
+        </li>
+        <li class="lg:pr-4"><a href="/help/" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Help</a></li>
+        <li class="lg:pr-4">
+          <a href="https://status.memberful.com/" target="_blank" class="underline text-gray-700 hover:text-gray-800 lg:py-0 py-1 lg:inline-block block">Status</a>
+        </li>
+      </ul>
+      <ul class="flex-wrap items-center justify-start my-2 leading-relaxed text-center lg:flex lg:text-left lg:leading-normal">
+        <li class="lg:pr-4">
+          <a href="/help/security/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Security</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/data-protection/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Data protection</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/terms/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Terms of Service</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/privacy-policy/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Privacy Policy</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/cookie-policy/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Cookie Policy</a>
+        </li>
+        <li class="lg:pr-4">
+          <a href="/dpa/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">Data Processing Addendum</a>
+        </li>
+        <li>
+          <a href="/dmca/" class="underline text-gray-600 hover:text-gray-700 lg:text-sm text-base lg:inline-block block lg:py-0 py-1">DMCA</a>
+        </li>
+      </ul>
+      <div class="flex-wrap items-center justify-between mt-2 text-center lg:flex lg:text-left">
+        <div>
+          <p class="text-xs text-gray-600">Copyright &copy; 2013-2023 Memberful LLC. All rights reserved.</p>
+
+          <a href="http://twitter.com/memberful" target="_blank" class="my-2 block text-primary-500 underline hover:text-primary-600 text-sm">Follow the latest from Memberful on Twitter</a>
+          <div class="flex items-center justify-center lg:block">
+            <img src="/images/stripe-verified-e931bb1e.svg" alt="Memberful is a Stripe verified partner" class="lg:-ml-2" />
+          </div>
+        </div>
+        <div class="flex justify-center mb-4 lg:block lg:mb-0">
+          <p class="flex items-center text-sm text-gray-600"><span class="mr-1 whitespace-nowrap">Memberful is a</span> <img src="/images/patreon-264c945d.svg" alt="Memberful is a Patreon company" class="w-24 h-auto relative top-px mt-px pt-px" /> <span class="ml-1 whitespace-nowrap">company</span></p>
+        </div>
+      </div>
+    </nav>
+  </footer>
+</div>
+
+<div class="overflow-auto" style="background-color: rgba(0,0,0,0.5)" x-show="showModal" :class="{ 'fixed w-full h-full top-0 left-0 right-0 bottom-0 z-50 flex items-center justify-center px-4': showModal }">
+
+  <div class="relative w-full max-w-5xl px-3 py-2 mx-auto text-left bg-white rounded-lg shadow-2xl lg:px-6 lg:py-4 lg:w-2/3" x-show="showModal" @click.away="
+    showModal = false
+    window.VimeoPlayer.pause()
+  " x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0 scale-90" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="ease-in duration-300" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-90">
+
+    <div class="flex items-center justify-between pb-3">
+      <div class="absolute z-50 hidden cursor-pointer lg:block top-2 right-2" @click="
+      showModal = false
+      window.VimeoPlayer.pause()
+      ">
+        <svg class="w-8 h-8 fill-current text-primary-500 hover:text-primary-600" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+          <path d="M14.53 4.53l-1.06-1.06L9 7.94 4.53 3.47 3.47 4.53 7.94 9l-4.47 4.47 1.06 1.06L9 10.06l4.47 4.47 1.06-1.06L10.06 9z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="lg:p-3">
+      
+    </div>
+
+    <button class="inline-flex items-center justify-center w-full px-4 py-2 my-2 font-sans antialiased font-medium leading-normal text-center text-gray-800 align-baseline transition duration-200 border border-transparent border-gray-300 rounded shadow-sm appearance-none cursor-pointer select-none lg:hidden whitespace-nowrap" @click="
+      showModal = false
+      window.VimeoPlayer.pause()
+    ">
+      Close
+    </button>
+  </div>
+</div>
+
+
+  <script>
+    window.intercomSettings = {
+      app_id: "23ea8a68117cf2cf2d2598a7b59c5d76425ee46b"
+    };
+  </script>
+  <script>
+    (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/23ea8a68117cf2cf2d2598a7b59c5d76425ee46b';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+  </script>
+
+</body>
+</html>

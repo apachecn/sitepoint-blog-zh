@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!-- Copyright 1999-2022. Plesk International GmbH. All rights reserved. -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>404 Page Not Found</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/ui-library/plesk-ui-library.css?3.28.0">
+    <script src="/ui-library/plesk-ui-library.min.js?3.28.0"></script>
+    <script src="/cp/javascript/vendors.js"></script>
+    <script src="/cp/javascript/main.js"></script>
+    <script src="/error_docs/uat.js?v3"></script>
+<link href="/error_docs/app.css?a4626f09af34123d4dfb" rel="stylesheet"></head>
+<body>
+<div id="app"></div>
+<script>window.__INITIAL_DATA__ = {"code":"404","message":"Page Not Found"}</script>
+<script src="/error_docs/app.js?a4626f09af34123d4dfb"></script></body>
+</html>

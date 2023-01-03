@@ -1,0 +1,14 @@
+<svg width="88.3" height="20" viewBox="0 0 883 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="badgen: error">
+  <title>badgen: error</title>
+  <g>
+    <rect fill="#555" width="509" height="200"/>
+    <rect fill="#999" x="509" width="374" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="409" fill="#000" opacity="0.1">badgen</text>
+    <text x="50" y="138" textLength="409">badgen</text>
+    <text x="564" y="148" textLength="274" fill="#000" opacity="0.1">error</text>
+    <text x="554" y="138" textLength="274">error</text>
+  </g>
+  
+</svg>

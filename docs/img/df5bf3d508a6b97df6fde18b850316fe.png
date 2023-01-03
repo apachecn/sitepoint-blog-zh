@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="chart main" width="800" height="460" viewBox="0 0 850 460" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="gradient-1" gradientUnits="userSpaceOnUse" cx="545.1" cy="213.6" r="501.5" gradientTransform="matrix(0.8474444602783883, 0, 0, 0.46, -37, 131)">
+      <stop offset="0" style="stop-color: rgb(99, 84, 84);"/>
+      <stop offset="1" style="stop-color: rgb(19, 19, 19);"/>
+    </radialGradient>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic);</style>
+    <style id="bx-google-fonts">
+      tspan { font-family: sans-serif; }
+    </style>
+    <pattern id="pattern-1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M0 0L50 0 50 100 0 100Z" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-2" viewBox="-10 13 181 180" patternUnits="userSpaceOnUse" width="100" height="100">
+      <rect x="86.5" y="71.4" width="6.9" height="180.6" transform="matrix(1, 0, 0, 1, -9.25, -57.8)" style="fill: rgb(216, 216, 216);"/>
+      <rect x="86.5" y="71.4" width="6.9" height="180.6" transform="matrix(0, 1, -1, 0, 242.36, 13.8)" style="fill: rgb(216, 216, 216);"/>
+    </pattern>
+    <pattern id="pattern-2-1" patternTransform="matrix(0.24, 0, 0, 0.25, 119.92, 317.1)" xlink:href="#pattern-2"/>
+    <style>
+      
+.s0{
+	fill:rgb(216, 216, 216);
+}
+.s1{
+	fill:rgb(103, 102, 102);
+}
+.s2{
+	text-anchor:middle;
+	white-space:pre;
+}
+.s3{
+	fill:rgb(103, 103, 103);
+}
+.s4{
+	text-anchor:end;
+	white-space:pre;
+}
+
+
+    </style>
+  </defs>
+  <desc>
+    
+    
+    Star Trek vs. Star Wars - Book mentions via Google NGRAM
+  
+  
+  </desc>
+  <rect width="850" height="460" style="fill: url(#gradient-1);"/>
+  <rect x="103.4000015258789" y="23" width="690" height="358.2" transform="matrix(1, 0, 0, 1, 8, 19)" style="fill-opacity:0.2;fill:url(#pattern-2-1)"/>
+  <g class="x grid main" transform="matrix(0.75, 0, 0, 1, 18.66, 19)">
+    <path d="M125 382V23.3M222.9 382V23.3M320.7 382V23.3M418.6 382V23.3M516.4 382V23.3M614.3 382V23.3M712.2 382V23.3M810 382V23.3M907.9 382V23.3M1005.7 382V23.3" class="tick"/>
+    <path class="domain" d="M125 382h939.4"/>
+  </g>
+  <g class="y grid main" transform="matrix(0.75, 0, 0, 1, 18.664878845214847, 19)">
+    <path d="M125 382h939.4M125 337.2h939.4M125 292.3h939.4M125 247.5h939.4M125 202.6h939.4M125 157.8h939.4M125 113h939.4M125 68.1h939.4M125 23.3h939.4" class="tick"/>
+    <path class="domain" d="M125 23.3v358.7"/>
+  </g>
+  <g class="x axis zero main" transform="matrix(0.75, 0, 0, 1, 17.66, 19)">
+    <path d="M1005.7 382" class="tick"/>
+    <path class="domain" d="M125 382h939.4" style="fill:none;stroke:rgb(214, 209, 209)"/>
+  </g>
+  <path class="line star-trek" d="M113.1 400.8L128 400.9 143 400.8 157.9 400.8 172.9 400.7 187.9 397.3 202.8 396.8 217.8 395.9 232.7 395 247.7 394.1 262.7 393.1 277.6 391.7 292.6 387.5 307.6 382.5 322.5 369.3 337.5 365.4 352.4 360.2 367.4 348.8 382.4 342.5 397.3 343.5 412.3 337.5 427.3 339.4 442.2 331.5 457.2 322.6 472.1 323.4 487.1 321.1 502.1 315.8 517 311.8 532 298.9 547 286.8 561.9 284.6 576.9 261.3 591.8 224.1 606.8 193.3 621.8 177.8 636.7 166.1 651.7 138 666.6 118 681.6 121.9 689.8 128.8 696.5 134.5 711.5 143.7 726.5 145.8 741.4 153 756.4 176.7 771.3 185.3 786.3 196.1 801.3 202.5 816.2 209.6 831.2 212.4" style="fill:none; stroke-width:3;stroke:rgb(33, 125, 245)"/>
+  <path class="line star-wars" d="M113.1 400.9L128.1 400.9 143.1 400.9 158.1 400.9 173 400.9 188.1 400.9 203.1 400.9 218 400.8 233 400.8 248.1 400.7 263.1 400.7 278 400.6 293 400.4 308.1 400.1 323 397.5 338 392.3 353 383.2 368 371.3 383 359.6 398 346.1 413 318.8 428 300.7 443 271.3 458 228.2 473 181.5 488 142.2 503 117.4 518 111.2 533 104.6 548 111.1 563 142.1 578 181 593 209.9 608 225.6 623 230.9 638 229.4 653 211.2 668 193.3 683 181.7 698 167 713 156.9 728 151.1 743 146.8 758 156.8 773 164.8 788 171.1 803 175.9 818 177.1 833 181.2" vector-effect="non-scaling-stroke"  style="fill:none; stroke-width:3;stroke:rgb(253, 200, 39)"/>
+  
+  <path d="M125 382v6" transform="matrix(1, 0, 0, 1, -19.9, 29)" style="fill: rgb(103, 102, 102);"/>
+  <g>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 105.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1960 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 181.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1965 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 256.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1970 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 329.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1975 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 404.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1980 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 471.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1985 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 542.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1990 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 617.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">1995 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 694.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">2000 
+    </tspan></text>
+    <text dy="0.7" y="9" transform="matrix(1, 0, 0, 1, 767.0, 411.0)" class="s2" white-space="pre" style="white-space: pre;"><tspan>
+      </tspan><tspan style="fill: rgb(103, 102, 102);">2005 
+    </tspan></text>
+  </g>
+  
+  <text class="tips main" x="469.7" y="403.7" transform="matrix(1, 0, 0, 1, -17.0, 43.0)" style="color:rgb(119, 119, 119);text-anchor:middle;white-space:pre"><tspan>
+    </tspan><tspan style="fill: rgb(189, 182, 182);">
+      
+      Years
+    
+     
+  </tspan></text>
+  <g>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 401)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000000% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 356.16)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000020% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 311.32)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000040% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 266.48)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000060% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 221.64)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000080% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 176.8)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000100% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 132)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000120% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135.0, 87)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000140% 
+      </tspan></text>
+    <text dy="0.3" x="-9" transform="matrix(1, 0, 0, 1, 135, 42.3)" class="s4" white-space="pre" style="white-space: pre;"><tspan>
+        </tspan><tspan style="fill: rgb(103, 103, 103);">0.000160% 
+      </tspan></text>
+  </g>
+  <path class="domain" d="M119 23.3h6v358.7h-6" transform="matrix(1, 0, 0, 1, -9.5, 19.1)" style="fill: rgb(103, 103, 103);"/>
+  <text class="label hover clickable main" transform="matrix(1, 0, 0, 1, 247.77, 347.17)" x="3" dy="0.1" style="fill:rgb(67, 116, 224);font-size:15;white-space:pre"><tspan>
+    </tspan><tspan style="fill: rgb(80, 162, 255);">Star Trek 
+  </tspan></text>
+  <text class="label hover clickable main" transform="matrix(1, 0, 0, 1, 360, 215)" x="3" dy="0.1" style="fill:rgb(211, 54, 45);font-size:15;white-space:pre"><tspan>
+    </tspan><tspan style="fill: rgb(253, 216, 53);">Star Wars 
+  </tspan></text>
+  <text x="228.8" y="27.2" transform="matrix(1, 0, 0, 1, 41.9, 1.4)" style="white-space: pre;"><tspan>
+    </tspan><tspan style="fill: rgb(222, 217, 217); font-family: Roboto; font-size: 16px;">Star Trek vs. Star Wars mentions in books : 1960 - 2008  
+  </tspan></text>
+</svg>

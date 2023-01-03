@@ -1,0 +1,14 @@
+<svg width="110.4" height="20" viewBox="0 0 1104 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="open issues: 1.2K">
+  <title>open issues: 1.2K</title>
+  <g>
+    <rect fill="#555" width="748" height="200"/>
+    <rect fill="#F73" x="748" width="356" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="648" fill="#000" opacity="0.1">open issues</text>
+    <text x="50" y="138" textLength="648">open issues</text>
+    <text x="803" y="148" textLength="256" fill="#000" opacity="0.1">1.2K</text>
+    <text x="793" y="138" textLength="256">1.2K</text>
+  </g>
+  
+</svg>

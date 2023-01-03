@@ -1,0 +1,314 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+
+            
+  
+  
+        
+  <title>404  | 8th Light</title>
+  <meta name="description" content=""/>  <meta property="og:url" content="https://8thlight.com/insights/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture-81565aba46f035911a5018e77a0f2d4e.jpg"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="404 | 8th Light"/>
+  <meta property="og:image" content=""/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:site_name" content="8th Light"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:locale:alternate" content="en_US"/>
+  
+          <meta name="twitter:site" content="8thlightinc"/>
+      <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:url" content="https://8thlight.com/insights/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture-81565aba46f035911a5018e77a0f2d4e.jpg"/>
+  <meta name="twitter:title" content="404 | 8th Light"/>
+  <meta name="twitter:description" content=""/>
+  <meta name="twitter:image" content=""/>
+
+  
+  <link rel="home" href="https://8thlight.com/"/>
+  <link rel="canonical" href="https://8thlight.com/insights/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture-81565aba46f035911a5018e77a0f2d4e.jpg">
+  
+    <link rel="stylesheet" href="/assets/dist/main-e880bd725916bfec6492.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest" crossorigin="use-credentials">
+    <script type="text/javascript">
+        var MTUserId='1d99fbb7-7b6a-4356-a58e-783895675e6b';
+        var MTFontIds = new Array();
+
+        MTFontIds.push("6149639"); // Avenir® Next W05 Demi
+        MTFontIds.push("6149643"); // Avenir® Next W05 Demi Italic
+        MTFontIds.push("6149649"); // Avenir® Next W05 Bold
+        MTFontIds.push("6634663"); // Avenir® Next W05 Bold Italic
+        // MTFontIds.push("6149662"); // Avenir® Next W05 Regular
+        // MTFontIds.push("6149667"); // Avenir® Next W05 Italic
+        MTFontIds.push("6149672"); // Avenir® Next W05 Medium
+        MTFontIds.push("6149677"); // Avenir® Next W05 Medium Italic
+        // MTFontIds.push("6383935"); // Avenir® Next W05 Ultra Light
+        // MTFontIds.push("6383939"); // Avenir® Next W05 Ultra Light Italic
+        // MTFontIds.push("6383943"); // Avenir® Next W05 Thin
+        // MTFontIds.push("6383947"); // Avenir® Next W05 Thin Italic
+        // MTFontIds.push("6383962"); // Avenir® Next W05 Heavy
+        // MTFontIds.push("6383966"); // Avenir® Next W05 Heavy Italic
+        // MTFontIds.push("6383972"); // Avenir® Next W05 Light
+        // MTFontIds.push("6383975"); // Avenir® Next W05 Light Italic
+        (function() {
+            var mtTracking = document.createElement('script');
+            mtTracking.type='text/javascript';
+            mtTracking.async='true';
+            mtTracking.src='/assets/mtiFontTrackingCode.js';
+
+            (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
+        })();
+    </script>
+  
+  <link rel="alternate" type="application/rss+xml" href="https://8thlight.com/insights/feed/rss.xml">
+  <link rel="alternate" type="application/atom+xml" href="https://8thlight.com/insights/feed/atom.xml"><!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KBVS4NK');</script>
+    <!-- End Google Tag Manager --></head>
+<body class=" bg-white"><!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBVS4NK"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->  
+              
+<div id="nav-bar" class="relative z-10 nav-bar nav-bar--white">
+  <div class="">
+    <div class="pt-9 pb-7 container">
+      <div id="Navigation" class="flex justify-between items-center">
+        <div>
+          <a id="home-logo" href="/" class="eighth-light-logo">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" viewBox="0 0 76.35180000000003 47.63550000000001" version="1.1">
+  <title>8th Light Logo</title>
+	<path d="M 19.601800000000026,24.2695 C 23.190800000000024,22.025 25.58180000000003,18.066000000000003 25.58180000000003,13.5625 C 25.58180000000003,6.582000000000001 19.84380000000003,0.9035000000000011 12.790800000000019,0.9035000000000011 C 5.737600000000029,0.9035000000000011 2.842170943040401e-14,6.582500000000003 2.842170943040401e-14,13.5625 C 2.842170943040401e-14,18.066000000000003 2.3906000000000205,22.025 5.979600000000019,24.2695 C 2.3906000000000205,26.514000000000003 2.842170943040401e-14,30.473 2.842170943040401e-14,34.9765 C 2.842170943040401e-14,41.95700000000001 5.738100000000031,47.63550000000001 12.790800000000019,47.63550000000001 C 19.84380000000003,47.63550000000001 25.58180000000003,41.95700000000001 25.58180000000003,34.9765 C 25.58180000000003,30.473 23.190800000000024,26.514000000000003 19.601800000000026,24.2695 M 12.790800000000019,5.082000000000001 C 17.515800000000027,5.082000000000001 21.35880000000003,8.886499999999998 21.35880000000003,13.5625 C 21.35880000000003,18.238500000000002 17.515800000000027,22.043 12.790800000000019,22.043 C 8.06610000000002,22.043 4.222500000000025,18.238500000000002 4.222500000000025,13.5625 C 4.222500000000025,8.886499999999998 8.066600000000022,5.082000000000001 12.790800000000019,5.082000000000001 M 12.790800000000019,43.45700000000001 C 8.06610000000002,43.45700000000001 4.222500000000025,39.6525 4.222500000000025,34.9765 C 4.222500000000025,30.3005 8.066600000000022,26.496000000000002 12.790800000000019,26.496000000000002 C 17.514800000000022,26.496000000000002 21.35880000000003,30.3005 21.35880000000003,34.9765 C 21.35880000000003,39.6525 17.515800000000027,43.45700000000001 12.790800000000019,43.45700000000001" fill="currentColor" id="Vector"/>
+	<path d="M 76.35180000000003,21.356500000000004 L 58.12680000000003,21.356500000000004 L 71.01380000000003,8.603000000000002 L 67.65980000000002,5.283000000000001 L 54.77180000000001,18.037 L 54.77180000000001,0.0 L 50.02880000000002,0.0 L 50.02880000000002,18.037 L 37.14180000000003,5.283000000000001 L 33.78680000000003,8.603000000000002 L 46.67380000000003,21.356500000000004 L 28.44880000000002,21.356500000000004 L 28.44880000000002,26.051500000000004 L 46.67480000000003,26.051500000000004 L 33.78680000000003,38.805499999999995 L 37.14180000000003,42.1255 L 50.02880000000002,29.371499999999997 L 50.02880000000002,47.408 L 54.77180000000001,47.408 L 54.77180000000001,29.371499999999997 L 67.65980000000002,42.1255 L 71.01380000000003,38.805499999999995 L 58.12680000000003,26.051500000000004 L 76.35180000000003,26.051500000000004 L 76.35180000000003,21.356500000000004" fill="currentColor" id="Vector_2"/>
+</svg>
+
+          </a>
+        </div>
+        <div class="nav-bar__right flex items-center ">
+          <div class="nav-bar-right__page-name mr-8 lg:mr-16 tracking-widest font-semibold pointer-events-none">PAGE NOT FOUND</div>
+          <button tabindex="0" aria-label="Open navigation menu" id="nav-opener--js">
+            <svg class="mx-auto" width="32" height="32" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+   <g transform="translate(0, 9)">
+      <g id="nav-hamburger--top-bar" class="hamburger-bar">
+        <rect fill="currentColor" width="40" height="4" x="0" y="0"/>
+      </g>
+      <g id="nav-hamburger--middle-bar" class="hamburger-bar">
+        <rect  fill="currentColor" width="40" height="4" x="0" y="9"/>
+      </g>
+      <g id="nav-hamburger--bottom-bar" class="hamburger-bar">
+        <rect fill="currentColor" width="40" height="4" x="0" y="18"/>
+      </g>
+    </g>
+</svg>
+
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-menu hidden">
+      <div class="nav-menu__big-links hero hero hero-pb--large h2 font-mono text-white">
+        <div class="container"><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/">Home</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/about">About</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/leadership">Leadership</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/case-studies">Case Studies</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/services">Services</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/insights">Insights</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/careers">Careers</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/jobs">Job Openings</a></div><div class="nav-menu__link big-link"><a  class="big-link" href="https://8thlight.com/contact">Contact</a></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="nav-spacer--js" class="hidden"></div>
+    
+				<div id="hero" class="relative container bg-inherit">
+
+    <div class="  hero border-bottom pb-20 mb-10 lg:mb-16 hero-pb--medium"><div id="hero__headline" class="hero__headline relative text-charcoal">
+        <h1 class="h1"><div class="font-mono">What the&nbsp;h<span class="font-sparks text-spectrum-green text-spectrum-blue text-spectrum-indigo"><span class="font-sparks text-spectrum-green text-spectrum-blue text-spectrum-indigo">c</span></span>ck?!</div></h1>      </div>
+    </div>
+  </div>
+		
+	<div class="container blog-post ">
+		<div class="flex flex-col xl:flex-row justify-between">
+			<article class="pb-20 lg:pb-64 flex-1">
+				
+
+		
+      <div class="wysiwyg block block--text">
+    <div class="block__inner">
+      <h5><strong>Just like time travel, this page doesn't exist ... at least not yet. Let's fire up that DeLorean and get you back to the <a href="https://8thlight.com/">home page</a>.</strong></h5>
+    </div>
+  </div>
+			</article>
+		</div>
+	</div>
+
+	  	  	
+    
+<div style="">
+<div class="">
+	<div class="relative scrim-banner ">
+		<div class="image-backdrop">
+					    <img class="object-cover w-full h-full" src="https://assets.8thlight.com/images/banners/_1560x500_crop_center-center_none/8th_Light_Work_Culture_People_F.jpg" srcset="https://assets.8thlight.com/images/banners/_3120x1000_crop_center-center_none/8th_Light_Work_Culture_People_F.jpg 2x" width="1560" height="500">		</div>
+
+		<div class="absolute top-0 left-0 w-full h-full">
+			<div class="scrim h-full flex"style="background-color: rgba(0,0,0,0.5)">
+				<div class="container my-auto" style="">
+							<div class="wysiwyg text-white max-w-8-cols" id="dh-12">
+		  <h2><span style="font-family:'GT Flexa';">Let’s collaborate.</span></h2>
+		</div><div class="button cursor-pointer mt-10 button--white button--narrow">
+	<div class="button__content font-semibold">
+							<a href="https://8thlight.com/contact">			            Contact Us
+			        </a>					</div>
+</div>				</div>
+			</div>
+		</div><div class="absolute top-0 right-0">
+				<div class="dh--as-is">
+				    <img class="dh--high-belted" src="https://assets.8thlight.com/images/sparks/g1192.svg" srcset="https://assets.8thlight.com/images/sparks/_298xAUTO_crop_center-center_none/g1192.svg 2x" width="149" height="149" alt="G1192" style="transform: translateY(-50%);">				</div>
+			</div></div>
+</div>
+</div>  
+        
+<div class="footer bg-charcoal pt-[86px]">
+    <div class="container">
+          <a class="text-white inline-block eighth-light-logo" href="/">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" viewBox="0 0 76.35180000000003 47.63550000000001" version="1.1">
+  <title>8th Light Logo</title>
+	<path d="M 19.601800000000026,24.2695 C 23.190800000000024,22.025 25.58180000000003,18.066000000000003 25.58180000000003,13.5625 C 25.58180000000003,6.582000000000001 19.84380000000003,0.9035000000000011 12.790800000000019,0.9035000000000011 C 5.737600000000029,0.9035000000000011 2.842170943040401e-14,6.582500000000003 2.842170943040401e-14,13.5625 C 2.842170943040401e-14,18.066000000000003 2.3906000000000205,22.025 5.979600000000019,24.2695 C 2.3906000000000205,26.514000000000003 2.842170943040401e-14,30.473 2.842170943040401e-14,34.9765 C 2.842170943040401e-14,41.95700000000001 5.738100000000031,47.63550000000001 12.790800000000019,47.63550000000001 C 19.84380000000003,47.63550000000001 25.58180000000003,41.95700000000001 25.58180000000003,34.9765 C 25.58180000000003,30.473 23.190800000000024,26.514000000000003 19.601800000000026,24.2695 M 12.790800000000019,5.082000000000001 C 17.515800000000027,5.082000000000001 21.35880000000003,8.886499999999998 21.35880000000003,13.5625 C 21.35880000000003,18.238500000000002 17.515800000000027,22.043 12.790800000000019,22.043 C 8.06610000000002,22.043 4.222500000000025,18.238500000000002 4.222500000000025,13.5625 C 4.222500000000025,8.886499999999998 8.066600000000022,5.082000000000001 12.790800000000019,5.082000000000001 M 12.790800000000019,43.45700000000001 C 8.06610000000002,43.45700000000001 4.222500000000025,39.6525 4.222500000000025,34.9765 C 4.222500000000025,30.3005 8.066600000000022,26.496000000000002 12.790800000000019,26.496000000000002 C 17.514800000000022,26.496000000000002 21.35880000000003,30.3005 21.35880000000003,34.9765 C 21.35880000000003,39.6525 17.515800000000027,43.45700000000001 12.790800000000019,43.45700000000001" fill="currentColor" id="Vector"/>
+	<path d="M 76.35180000000003,21.356500000000004 L 58.12680000000003,21.356500000000004 L 71.01380000000003,8.603000000000002 L 67.65980000000002,5.283000000000001 L 54.77180000000001,18.037 L 54.77180000000001,0.0 L 50.02880000000002,0.0 L 50.02880000000002,18.037 L 37.14180000000003,5.283000000000001 L 33.78680000000003,8.603000000000002 L 46.67380000000003,21.356500000000004 L 28.44880000000002,21.356500000000004 L 28.44880000000002,26.051500000000004 L 46.67480000000003,26.051500000000004 L 33.78680000000003,38.805499999999995 L 37.14180000000003,42.1255 L 50.02880000000002,29.371499999999997 L 50.02880000000002,47.408 L 54.77180000000001,47.408 L 54.77180000000001,29.371499999999997 L 67.65980000000002,42.1255 L 71.01380000000003,38.805499999999995 L 58.12680000000003,26.051500000000004 L 76.35180000000003,26.051500000000004 L 76.35180000000003,21.356500000000004" fill="currentColor" id="Vector_2"/>
+</svg>
+
+          </a>
+
+
+        <div id="footer__content" class=
+        "pt-4 lg:pt-28 dh--flex footer__content lg:flex justify-between max-w-5xl"><div id="footer__left-col" class=
+            "footer__left-col h2 font-mono text-white mb-16 lg:mb-0 max-w-md"><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/about">About</a>
+                </div><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/case-studies">Case Studies</a>
+                </div><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/services">Services</a>
+                </div><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/insights">Insights</a>
+                </div><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/careers">Careers</a>
+                </div><div>
+                    <a
+                       class="big-link" href="https://8thlight.com/contact">Contact</a>
+                </div></div><div id="footer__right-col" class="footer__right-col lg:pt-4 grow max-w-4-cols"><div id="footer__keep-in-touch" class="footer__keep-in-touch mb-9">
+                        <div class="font-semibold text-white txt-2xl mb-1">
+                            Keep in Touch
+                        </div>
+                        <div class="leading-7 font-semibold text-white"><a
+                                   class="block" href="/newsletter" rel="noopener" target="_blank">Sign up for our newsletter</a><a
+                                   class="block" href="/talent-community" rel="noopener" target="_blank">Join our talent community</a></div>
+
+                    </div><div id="footer__resources" class="footer__resources mb-9">
+                    <div class="font-semibold text-white txt-2xl mb-1">
+                        Resources
+                    </div>
+
+                    <div class="leading-7 font-semibold text-white"><a  class="block" href="https://8thlight.com/jobs">Job Openings</a></div>
+                </div><div id="footer__locations-wrap" class="footer__locations-wrap">
+                    <div class="font-semibold text-white txt-2xl mb-1">
+                        Locations
+                    </div>
+
+                    <div id="footer__locations" class="footer__locations leading-7"><div class="font-semibold text-white">
+                            Chicago (HQ)
+                        </div><div class="font-semibold text-white">
+                            London
+                        </div><div class="font-semibold text-white">
+                            Los Angeles (Satellite)
+                        </div><div class="font-semibold text-white">
+                            New York (Satellite)
+                        </div><div class="font-semibold text-white">
+                            Austin (Satellite)
+                        </div></div>
+                </div></div>
+        </div>
+
+        <div id="footer__social-and-copyright" class="footer__social-and-copyright"><div id="footer-share-icons" class="footer-share-icons mt-24 lg:mt-44 mb-8 flex text-white"><div class="mr-4">
+                      <a  class="block" href="https://www.linkedin.com/company/8th-light/" title="LinkedIn" rel="noopener" target="_blank" svgClass="reversed rollover-svg w-[50px]" aria-label="Visit external website (opens in a new window)"><svg class="reversed rollover-svg w-[50px]" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" viewBox="-0.5 -0.75 51 51.5"><defs/><path class="negative" d="M 25.00000000000003,50.06000000000495 C 38.807000000000016,50.06000000000495 50.00000000000003,38.86000000000422 50.00000000000003,25.030000000004293 C 50.00000000000003,11.210000000004584 38.807000000000016,4.547473508864641e-12 25.00000000000003,4.547473508864641e-12 C 11.193000000000026,4.547473508864641e-12 2.842170943040401e-14,11.210000000004584 2.842170943040401e-14,25.030000000004293 C 2.842170943040401e-14,38.86000000000422 11.193000000000026,50.06000000000495 25.00000000000003,50.06000000000495" stroke="currentColor" fill="currentColor"/><path class="positive" d="M 20.465000000000032,33.36000000000422 L 16.51200000000003,33.36000000000422 L 16.51200000000003,21.450000000004366 L 20.465000000000032,21.450000000004366 L 20.465000000000032,33.36000000000422 M 18.490000000000023,19.820000000004256 L 18.46200000000003,19.820000000004256 C 17.135000000000034,19.820000000004256 16.27700000000003,18.910000000004402 16.27700000000003,17.760000000004766 C 16.27700000000003,16.590000000004693 17.162000000000035,15.710000000004584 18.51200000000003,15.710000000004584 C 19.865000000000023,15.710000000004584 20.69700000000003,16.590000000004693 20.722000000000023,17.760000000004766 C 20.727000000000032,18.910000000004402 19.867000000000033,19.820000000004256 18.490000000000023,19.820000000004256 M 34.72000000000003,33.36000000000422 L 30.767000000000024,33.36000000000422 L 30.767000000000024,26.98000000000411 C 30.767000000000024,25.390000000004875 30.19500000000002,24.29000000000451 28.76500000000003,24.29000000000451 C 27.672000000000025,24.29000000000451 27.022000000000034,25.030000000004293 26.737000000000023,25.74000000000433 C 26.632000000000033,26.000000000004547 26.607000000000028,26.35000000000491 26.607000000000028,26.710000000004584 L 26.607000000000028,33.36000000000422 L 22.65200000000003,33.36000000000422 C 22.65200000000003,33.36000000000422 22.705000000000027,22.570000000004256 22.65200000000003,21.450000000004366 L 26.605000000000032,21.450000000004366 L 26.605000000000032,23.130000000004657 C 27.130000000000024,22.320000000004256 28.07000000000002,21.17000000000462 30.16700000000003,21.17000000000462 C 32.767000000000024,21.17000000000462 34.71700000000003,22.87000000000444 34.71700000000003,26.530000000004293 L 34.71700000000003,33.36000000000422 L 34.72000000000003,33.36000000000422" fill="white"/></svg></a>
+                </div><div class="mr-4">
+                      <a  class="block" href="https://twitter.com/8thlightinc" title="Twitter" rel="noopener" target="_blank" svgClass="reversed rollover-svg w-[50px]" aria-label="Visit external website (opens in a new window)"><svg class="reversed rollover-svg w-[50px]" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" viewBox="-0.5 -0.75 51 51.5"><path class="negative" stroke="currentColor" d="M 25.000000000000057,50.06000000000495 C 38.807000000000045,50.06000000000495 50.00000000000006,38.86000000000422 50.00000000000006,25.030000000004293 C 50.00000000000006,11.210000000004584 38.807000000000045,4.547473508864641e-12 25.000000000000057,4.547473508864641e-12 C 11.193000000000069,4.547473508864641e-12 5.684341886080802e-14,11.210000000004584 5.684341886080802e-14,25.030000000004293 C 5.684341886080802e-14,38.86000000000422 11.193000000000069,50.06000000000495 25.000000000000057,50.06000000000495" fill="currentColor"/><path class="positive" d="M 35.71700000000007,18.940000000004147 C 34.96500000000006,19.270000000004984 34.15700000000007,19.500000000004547 33.31000000000006,19.60000000000491 C 34.17500000000007,19.080000000004475 34.84000000000006,18.260000000004766 35.152000000000044,17.270000000004984 C 34.34200000000007,17.760000000004766 33.44500000000005,18.11000000000422 32.490000000000066,18.29000000000451 C 31.72500000000005,17.48000000000411 30.635000000000048,16.970000000004802 29.430000000000064,16.970000000004802 C 27.115000000000066,16.970000000004802 25.23700000000005,18.85000000000491 25.23700000000005,21.160000000004402 C 25.23700000000005,21.49000000000433 25.275000000000063,21.810000000004948 25.345000000000056,22.12000000000444 C 21.86000000000007,21.950000000004366 18.770000000000067,20.270000000004984 16.702000000000055,17.74000000000433 C 16.34200000000007,18.36000000000422 16.135000000000048,19.080000000004475 16.135000000000048,19.85000000000491 C 16.135000000000048,21.30000000000473 16.875000000000057,22.590000000004693 18.000000000000057,23.340000000004693 C 17.31200000000007,23.320000000004256 16.66500000000005,23.130000000004657 16.10000000000005,22.810000000004948 C 16.10000000000005,22.830000000004475 16.10000000000005,22.85000000000491 16.10000000000005,22.87000000000444 C 16.10000000000005,24.900000000004184 17.545000000000044,26.60000000000491 19.462000000000046,26.98000000000411 C 19.11000000000007,27.080000000004475 18.740000000000066,27.130000000004657 18.357000000000056,27.130000000004657 C 18.087000000000046,27.130000000004657 17.825000000000045,27.10000000000491 17.567000000000064,27.060000000004948 C 18.10000000000005,28.720000000004802 19.650000000000063,29.940000000004147 21.48500000000007,29.970000000004802 C 20.050000000000068,31.10000000000491 18.242000000000047,31.770000000004984 16.277000000000044,31.770000000004984 C 15.940000000000055,31.770000000004984 15.605000000000047,31.750000000004547 15.277000000000044,31.710000000004584 C 17.132000000000062,32.900000000004184 19.337000000000046,33.60000000000491 21.70500000000007,33.60000000000491 C 29.41700000000006,33.60000000000491 33.63500000000005,27.200000000004366 33.63500000000005,21.660000000004402 C 33.63500000000005,21.470000000004802 33.63000000000005,21.29000000000451 33.62200000000007,21.11000000000422 C 34.44500000000005,20.520000000004984 35.15700000000007,19.780000000004293 35.71700000000007,18.940000000004147" fill="white"/></svg></a>
+                </div><div class="mr-4">
+                      <a  class="block" href="https://www.youtube.com/8thLightInc" title="YouTube" rel="noopener" target="_blank" svgClass="reversed rollover-svg w-[50px]" aria-label="Visit external website (opens in a new window)"><svg class="reversed rollover-svg w-[50px]" version="1.1" viewBox="-0.5 -0.5 51 51" xmlns="http://www.w3.org/2000/svg"><defs
+    id="defs20"/><g
+    id="g310-3"
+    transform="translate(17.047,-5.61)"><path
+      id="path12-6"
+      class=""
+      d="m 7.9530015,6.4507022 c -13.3454934,0 -24.1642075,10.8148758 -24.1642075,24.1603728 0,13.345496 10.8187141,24.158455 24.1642075,24.158455 13.3454965,0 24.1642045,-10.812959 24.1642045,-24.158455 0,-13.345497 -10.818708,-24.1603728 -24.1642045,-24.1603728 z"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="3"
+    /></g><g
+    id="g310"
+    transform="translate(0.375,0.38)"><circle
+      r="20"
+      cx="25"
+      cy="25"
+      class="positive"
+      fill="#ffffff"
+      id="circle2"/><path
+      d="m 14.111,26.69 h 1.784 v 8.86 h 1.722 V 26.69 H 19.4 v -1.51 h -5.289 v 1.51"
+      class="negative"
+      fill="currentColor"
+      id="path4"/><path
+      d="m 24.692,19.33 c 0.233,0 0.419,-0.06 0.556,-0.19 0.138,-0.13 0.207,-0.3 0.207,-0.53 v -4.59 c 0,-0.18 -0.07,-0.33 -0.211,-0.44 -0.14,-0.12 -0.324,-0.18 -0.552,-0.18 -0.21,0 -0.38,0.06 -0.513,0.18 -0.13,0.11 -0.195,0.26 -0.195,0.44 v 4.59 c 0,0.23 0.061,0.41 0.184,0.53 0.121,0.13 0.297,0.19 0.524,0.19"
+      class="negative"
+      fill="currentColor"
+      id="path6"/><path
+      d="m 28.491,27.81 c -0.238,0 -0.473,0.06 -0.706,0.18 -0.229,0.12 -0.448,0.3 -0.654,0.53 v -3.34 h -1.545 v 10.37 h 1.545 v -0.59 c 0.199,0.24 0.419,0.41 0.653,0.52 0.232,0.11 0.499,0.17 0.8,0.17 0.451,0 0.801,-0.15 1.038,-0.43 0.24,-0.3 0.36,-0.71 0.36,-1.25 v -4.24 c 0,-0.63 -0.127,-1.11 -0.384,-1.43 -0.254,-0.33 -0.624,-0.49 -1.107,-0.49 v 0 m -0.085,5.95 c 0,0.25 -0.045,0.42 -0.132,0.53 -0.089,0.11 -0.225,0.16 -0.413,0.16 -0.129,0 -0.25,-0.03 -0.369,-0.08 -0.117,-0.06 -0.239,-0.15 -0.361,-0.27 v -4.77 c 0.103,-0.1 0.209,-0.18 0.315,-0.23 0.106,-0.05 0.215,-0.08 0.324,-0.08 0.206,0 0.365,0.07 0.476,0.2 0.108,0.14 0.16,0.33 0.16,0.59 v 3.95"
+      class="negative"
+      fill="currentColor"
+      id="path8"/><path
+      d="m 22.906,33.71 c -0.144,0.17 -0.301,0.3 -0.474,0.41 -0.172,0.11 -0.316,0.16 -0.426,0.16 -0.144,0 -0.248,-0.04 -0.315,-0.12 -0.061,-0.08 -0.095,-0.21 -0.095,-0.39 V 27.9 h -1.528 v 6.4 c 0,0.46 0.09,0.79 0.269,1.02 0.181,0.23 0.444,0.34 0.799,0.34 0.287,0 0.583,-0.07 0.888,-0.24 0.306,-0.16 0.599,-0.4 0.882,-0.71 v 0.84 h 1.529 V 27.9 h -1.529 v 5.81"
+      class="negative"
+      fill="currentColor"
+      id="path10"/><path
+      d="M 24.625,0 C 11.025,0 0,11.02 0,24.62 0,38.22 11.025,49.24 24.625,49.24 38.225,49.24 49.25,38.22 49.25,24.62 49.25,11.02 38.225,0 24.625,0 m 3.979,12.16 h 1.718 v 6.46 c 0,0.2 0.039,0.34 0.111,0.43 0.07,0.09 0.189,0.14 0.35,0.14 0.126,0 0.286,-0.07 0.481,-0.18 0.192,-0.12 0.37,-0.28 0.529,-0.46 v -6.39 h 1.723 v 8.42 h -1.723 v -0.93 c -0.314,0.34 -0.644,0.61 -0.989,0.79 -0.343,0.17 -0.675,0.26 -0.998,0.26 -0.399,0 -0.698,-0.12 -0.9,-0.38 -0.2,-0.24 -0.301,-0.62 -0.301,-1.12 v -7.04 h -0.001 m -6.392,1.92 c 0,-0.65 0.231,-1.17 0.694,-1.56 0.464,-0.38 1.087,-0.58 1.868,-0.58 0.713,0 1.296,0.21 1.753,0.62 0.452,0.4 0.68,0.93 0.68,1.57 v 4.35 c 0,0.73 -0.224,1.29 -0.667,1.7 -0.448,0.41 -1.062,0.61 -1.844,0.61 -0.752,0 -1.356,-0.21 -1.807,-0.63 -0.451,-0.43 -0.678,-1 -0.678,-1.71 v -4.37 h 0.001 m -4.688,-4.92 1.259,4.56 h 0.122 l 1.198,-4.56 h 1.969 l -2.255,6.69 v 4.73 h -1.938 v -4.52 l -2.307,-6.9 h 1.951 0.001 m 22.54,24.04 c 0,3.04 -2.471,5.52 -5.519,5.52 H 15.371 c -3.049,0 -5.52,-2.48 -5.52,-5.52 v -4.44 c 0,-3.05 2.471,-5.52 5.52,-5.52 h 19.176 c 3.048,0 5.519,2.47 5.519,5.52 v 4.44 h -0.002"
+      class="negative"
+      fill="currentColor"
+      id="path12"/><path
+      d="m 33.104,27.71 c -0.685,0 -1.24,0.21 -1.673,0.63 -0.433,0.42 -0.65,0.96 -0.65,1.62 v 3.44 c 0,0.73 0.199,1.31 0.591,1.73 0.393,0.42 0.933,0.63 1.618,0.63 0.762,0 1.333,-0.2 1.715,-0.59 0.387,-0.4 0.575,-0.99 0.575,-1.77 V 33 h -1.571 v 0.35 c 0,0.45 -0.054,0.74 -0.152,0.87 -0.101,0.14 -0.278,0.2 -0.531,0.2 -0.244,0 -0.417,-0.07 -0.519,-0.23 -0.1,-0.16 -0.149,-0.43 -0.149,-0.84 v -1.44 h 2.922 v -1.95 c 0,-0.72 -0.186,-1.28 -0.562,-1.67 -0.375,-0.38 -0.913,-0.57 -1.613,-0.57 l -10e-4,-0.01 m 0.605,3.01 h -1.351 v -0.77 c 0,-0.32 0.05,-0.55 0.157,-0.69 0.106,-0.14 0.28,-0.21 0.524,-0.21 0.231,0 0.404,0.07 0.508,0.21 0.106,0.14 0.161,0.37 0.161,0.69 v 0.77 h 0.001"
+      class="negative"
+      fill="currentColor"
+      id="path14"/></g></svg></a>
+                </div><div class="mr-4">
+                      <a  class="block" href="mailto:contact@8thlight.com" title="Email" svgClass="reversed rollover-svg w-[50px]"><svg class="reversed rollover-svg w-[50px]" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" viewBox="0 0 50 50"><circle r="24.5" cx="25" cy="25" class="negative" stroke="currentColor" fill="currentColor"/><path class="positive" d="M 36.27999999999997,20.900000000004184 L 29.5,25.190000000004147 L 36.206999999999994,31.10000000000491 C 36.252999999999986,30.99000000000433 36.27800000000002,30.87000000000444 36.27999999999997,30.74000000000433 L 36.27999999999997,20.900000000004184" fill="white"/><path class="positive" d="M 24.916999999999973,26.150000000004184 L 36.262,18.970000000004802 C 36.209,18.67000000000462 36.05500000000001,18.410000000004402 35.827999999999975,18.210000000004584 C 35.60000000000002,18.020000000004984 35.31200000000001,17.910000000004402 35.012,17.900000000004184 L 14.824999999999989,17.900000000004184 C 14.524999999999977,17.910000000004402 14.240999999999985,18.04000000000451 14.035000000000025,18.260000000004766 C 13.829000000000008,18.48000000000411 13.718000000000018,18.770000000004984 13.725000000000023,19.070000000004256 L 24.916999999999973,26.150000000004184" fill="white"/><path class="positive" d="M 27.935000000000002,26.11000000000422 L 25.233000000000004,27.890000000004875 C 25.13900000000001,27.950000000004366 25.028999999999996,27.98000000000411 24.918000000000006,27.98000000000411 C 24.805000000000007,27.98000000000411 24.694999999999993,27.950000000004366 24.600000000000023,27.890000000004875 L 21.898000000000025,26.11000000000422 L 15.079999999999984,32.13000000000466 C 15.170999999999992,32.150000000004184 15.26600000000002,32.17000000000462 15.360000000000014,32.17000000000462 L 34.47500000000002,32.17000000000462 C 34.56900000000002,32.1600000000044 34.66300000000001,32.150000000004184 34.754999999999995,32.13000000000466 L 27.935000000000002,26.11000000000422" fill="white"/><path class="positive" d="M 13.721000000000004,21.010000000004766 L 13.721000000000004,30.74000000000433 C 13.720000000000027,30.830000000004475 13.728000000000009,30.910000000004402 13.742999999999995,30.99000000000433 L 20.333000000000027,25.190000000004147 L 13.721000000000004,21.010000000004766" fill="white"/></svg></a>
+                </div></div><div id="copyright-matter"
+            class="small-copyright-links txt-xs text-white pb-4 flex flex-col space-y-2 md:space-y-0 md:flex-row">
+                <div class="order-last md:order-first mt-2 md:mt-0">COPYRIGHT &copy; 2023 EIGHTH LIGHT LLC.</div>
+                <div class="hidden md:block">&emsp;|&emsp;</div><div><a  class="block" href="https://8thlight.com/code-of-conduct">Code of Conduct</a></div><div class="hidden md:block">&emsp;|&emsp;</div><div><a  class="block" href="/accessibility" rel="noopener" target="_blank">Web Accessibility Statement</a></div><div class="hidden md:block">&emsp;|&emsp;</div><div><a  class="block" href="https://8thlight.com/privacy-policy">Privacy Policy</a></div></div>
+        </div>
+    </div>
+</div>
+  
+  <script src="/assets/dist/bundle-025cf91e3c900f141d40.js"></script>
+  
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5664651-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-5664651-1');
+    </script></body>
+</html>

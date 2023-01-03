@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#20201C">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <title>404 Page not found · Merlin Rebrović</title>
+  
+
+<link rel="stylesheet" href="https://merlin.rebrovic.net/css/style.css?v=582762f9" type="text/css">
+
+  
+</head>
+<body>
+  <header>
+    <div id="top">
+      <a href="#bottom-nav">Menu &#x25bc;</a>
+    </div>
+    <nav id="top-nav">
+      <ul>
+  
+  
+  <li
+><a href="/" title="Home">Home</a></li>
+  <li
+><a href="/blog/" title="Blog">Blog</a></li>
+  <li
+><a href="/essays/" title="Essays">Essays</a></li>
+  <li
+><a href="/talks/" title="Talks">Talks</a></li>
+  <li
+><a href="/books/" title="Books">Books</a></li>
+  <li
+><a href="/about/" title="About">About</a></li>
+</ul>
+
+    </nav>
+  </header>
+  <div id="main-content">
+    
+<article class="reading-block">
+
+<h1>Page not found :(</h1>
+<br>
+<p>
+The page you’re looking for is apparently not here. Either I had
+moved things around carelessly or someone made a typo in a URL.
+</p>
+
+  </div>
+  <nav id="bottom-nav">
+    <ul>
+  
+  
+  <li
+><a href="/" title="Home">Home</a></li>
+  <li
+><a href="/blog/" title="Blog">Blog</a></li>
+  <li
+><a href="/essays/" title="Essays">Essays</a></li>
+  <li
+><a href="/talks/" title="Talks">Talks</a></li>
+  <li
+><a href="/books/" title="Books">Books</a></li>
+  <li
+><a href="/about/" title="About">About</a></li>
+</ul>
+
+  </nav>
+  <a href="#top" class="back-to-top">Back to top &#x25b2;</a>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<svg width="138.9" height="20" viewBox="0 0 1389 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="repo dependents: 2.6K">
+  <title>repo dependents: 2.6K</title>
+  <g>
+    <rect fill="#555" width="1033" height="200"/>
+    <rect fill="#08C" x="1033" width="356" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="933" fill="#000" opacity="0.1">repo dependents</text>
+    <text x="50" y="138" textLength="933">repo dependents</text>
+    <text x="1088" y="148" textLength="256" fill="#000" opacity="0.1">2.6K</text>
+    <text x="1078" y="138" textLength="256">2.6K</text>
+  </g>
+  
+</svg>

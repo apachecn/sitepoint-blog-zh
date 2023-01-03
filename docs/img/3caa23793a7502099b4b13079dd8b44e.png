@@ -1,0 +1,14 @@
+<svg width="98" height="20" viewBox="0 0 980 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="github: timeout">
+  <title>github: timeout</title>
+  <g>
+    <rect fill="#555" width="451" height="200"/>
+    <rect fill="#999" x="451" width="529" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="351" fill="#000" opacity="0.1">github</text>
+    <text x="50" y="138" textLength="351">github</text>
+    <text x="506" y="148" textLength="429" fill="#000" opacity="0.1">timeout</text>
+    <text x="496" y="138" textLength="429">timeout</text>
+  </g>
+  
+</svg>

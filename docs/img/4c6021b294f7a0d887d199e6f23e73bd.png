@@ -1,0 +1,209 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Sanchez:ital@0;1&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+
+  <link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
+  <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+  <link rel="stylesheet" href="/css/main.css?15646858621">
+
+
+<title>Solo Foods | Cake &amp; Pastry Fillings, Marzipan, Almond Paste</title><meta name="generator" content="SEOmatic">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="none">
+<meta content="en_US" property="og:locale">
+<meta content="Solo Foods" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="Cake &amp; Pastry Fillings, Marzipan, Almond Paste" property="og:title">
+<link href="https://www.solofoods.com" rel="home">
+<link type="text/plain" href="https://www.solofoods.com/humans.txt" rel="author"></head>
+
+<body>
+  <header>
+    <div class="container-fluid header-utility">
+      <div class="container">
+        <div class="row">
+          <div class="col text-right">
+            <div class="nav nav-headerUtility">
+              <ul ><li  class="font-weight-bold text-uppercase"><a  href="https://shopsokol.com/">Shop Online</a></li></ul>
+              <span class="header-headerUtility-search-icon d-none d-sm-inline-block">
+                <i class="las la-search"></i>
+              </span>
+              <form class="header-utility-searchForm" action="https://www.solofoods.com/search/results">
+                <input type="text" name="q" placeholder="Search">
+                <input type="submit" value="Go">
+              </form>
+              <div class="d-inline-block d-md-none">
+                <span class="mobile-menu-button">☰</span>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div> <!-- .header-utility -->
+    <div class="nav nav-headerMain-mobile d-xs-block d-md-none">
+      <ul ><li ><a  href="/products">Products</a><ul ><li ><a  href="https://www.solofoods.com/products/cake-pastry-fillings">Cake &amp; Pastry Fillings</a></li><li ><a  href="https://www.solofoods.com/products/marzipan/marzipan">Marzipan</a></li><li ><a  href="https://www.solofoods.com/products/almond-paste/almond-filling-1-1">Almond Paste</a></li></ul></li><li ><a  href="/recipes">Recipes</a><ul ><li ><a  href="https://www.solofoods.com/recipes/brownies-bars">Brownies &amp; Bars</a></li><li ><a  href="https://www.solofoods.com/recipes/cakes">Cakes</a></li><li ><a  href="https://www.solofoods.com/recipes/candy-fudge">Candy &amp; Fudge</a></li><li ><a  href="https://www.solofoods.com/recipes/cookies">Cookies</a></li><li ><a  href="https://www.solofoods.com/recipes/desserts">Desserts</a></li><li ><a  href="https://www.solofoods.com/recipes/gluten-free">Gluten Free</a></li><li ><a  href="https://www.solofoods.com/recipes/breads-pastries">Pie &amp; Pastry</a></li><li ><a  href="https://www.solofoods.com/recipes/quick-breads">Quick Breads</a></li><li ><a  href="https://www.solofoods.com/recipes/savory">Savory</a></li></ul></li><li ><a  href="/faqs">FAQs</a></li><li ><a  href="https://www.solofoods.com/heritage">Heritage</a></li><li ><a  href="https://www.solofoods.com/where-to-find">Where to Find</a></li><li ><a  href="https://www.solofoods.com/contact">Contact Us</a></li></ul>
+    </div>
+    <div class="container-fluid header-mainNav-wrapper">
+      <div class="header-mainNav">
+        <div class="container">
+          <div class="row row-eq-height">
+            <div class="col-md-2 header-logo">
+              <a href="/">
+                <img class="img-fluid py-3" src="/images/solo-logo.png">
+              </a>
+            </div>
+            <div class="col-md-10">
+
+
+              <div class="nav nav-headerMain-desktop d-none d-md-block">
+                <ul ><li ><a  href="/products">Products</a><ul ><li ><a  href="https://www.solofoods.com/products/cake-pastry-fillings">Cake &amp; Pastry Fillings</a></li><li ><a  href="https://www.solofoods.com/products/marzipan/marzipan">Marzipan</a></li><li ><a  href="https://www.solofoods.com/products/almond-paste/almond-filling-1-1">Almond Paste</a></li></ul></li><li ><a  href="/recipes">Recipes</a><ul ><li ><a  href="https://www.solofoods.com/recipes/brownies-bars">Brownies &amp; Bars</a></li><li ><a  href="https://www.solofoods.com/recipes/cakes">Cakes</a></li><li ><a  href="https://www.solofoods.com/recipes/candy-fudge">Candy &amp; Fudge</a></li><li ><a  href="https://www.solofoods.com/recipes/cookies">Cookies</a></li><li ><a  href="https://www.solofoods.com/recipes/desserts">Desserts</a></li><li ><a  href="https://www.solofoods.com/recipes/gluten-free">Gluten Free</a></li><li ><a  href="https://www.solofoods.com/recipes/breads-pastries">Pie &amp; Pastry</a></li><li ><a  href="https://www.solofoods.com/recipes/quick-breads">Quick Breads</a></li><li ><a  href="https://www.solofoods.com/recipes/savory">Savory</a></li></ul></li><li ><a  href="/faqs">FAQs</a></li><li ><a  href="https://www.solofoods.com/heritage">Heritage</a></li><li ><a  href="https://www.solofoods.com/where-to-find">Where to Find</a></li><li ><a  href="https://www.solofoods.com/contact">Contact Us</a></li></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+  </header>
+  <main class="">
+    
+<div class="container">
+	<div class="body-precontent-spacer">
+	    
+	</div>
+	
+</div>
+	<div class="container" style="padding-bottom:80px">
+		<div class="row">
+			<div class="col">
+				<h1>Page not found</h1>
+				<p>Sorry, we couldn't find the page you were looking for.</p>
+			</div>
+		</div>
+	</div>
+
+
+  </main>
+
+  <footer class="pb-3">
+    <div class="footer-blue container-fluid">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 footer-logo pb-5">
+            <img class="img-fluid" src="/images/solo-logo-footer.png">
+          </div>
+          <div class="col-sm-6 col-md-3 pb-3 footer-quickLinks">
+            <p><big><strong>Quick Links</strong></big></p>
+            <p class="footer-small">
+              <a href="/products">Products</a>
+            </p>
+            <p class="footer-small">
+              <a href="/recipes">Recipes</a>
+            </p>
+            <p class="footer-small">
+              <a href="/heritage">Heritage</a>
+            </p>
+            <p class="footer-small">
+              <a href="/contact">Contact</a>
+            </p>
+          </div>
+          <div class="col-sm-6 col-md-3 pb-3 footer-customerService">
+            <p><big><strong>Customer Service</strong></big></p>
+            <p class="footer-small">
+              <a href="/faqs">FAQs</a>
+            </p>
+            <p class="footer-small">
+              <a href="mailto:info@solofoods.com">info@solofoods.com</a>
+            </p>
+            <p class="footer-small">
+              <a href="tel:8003287656">800-328-7656</a>
+            </p>
+            <!-- <p class="footer-small">
+              Customer Service: Ex. 801
+            </p> -->
+          </div>
+          <div class="col-sm-6 col-md-3 footer-connect">
+            <p><big><strong>Connect</strong></big></p>
+            <p class="footer-social">
+              <a href="https://www.instagram.com/solofoods/?hl=en"><img src="/images/social-footer/instagram.png"></a>
+              <a href="https://www.facebook.com/Solofoods/"><img src="/images/social-footer/facebook.png"></a>
+              <a href="https://www.pinterest.com/solofoods/"><img src="/images/social-footer/pinterest.png"></a>
+              <a href="https://twitter.com/SokolandCompany/"><img src="/images/social-footer/twitter.png"></a>
+            </p>
+            <p class="footer-small">
+              Sokol & Company<br>
+              5315 Dansher Rd.<br>
+              Countryside, IL 60525
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-utility pt-3 container-fluid">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <p class="small">
+
+              &copy; 2023 Solo Foods
+                                            <a  class="" href="/terms-conditions">Terms &amp; Conditions</a>
+                              <a  class="" href="https://www.solofoods.com/privacy">Policies</a>
+                              <a  class="" href="http://sokolcustomfoods.com">Visit Sokol Custom Food Ingredients</a>
+                          </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+
+  <!--<script src="js/vendor/modernizr-3.7.1.min.js"></script>-->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script type="text/javascript" src="/slick/slick.min.js"></script>
+  <script src="/js/jquery.sticky.js"></script>
+  <script src="/js/main.js"></script>
+
+  <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-12611127-1", {"cookieDomain":".solofoods.com"});ga("send", "pageview");
+  //--><!]]>
+  </script>
+
+  <script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=oxhw8a5ik6vlfm84zk9m3g" async="true"></script>
+
+
+
+
+<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebSite","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"creator":{"@id":"#creator"},"name":"Cake & Pastry Fillings, Marzipan, Almond Paste"},{"@id":"#identity","@type":"Organization"},{"@id":"#creator","@type":"Organization"}]}</script></body>
+
+</html>
