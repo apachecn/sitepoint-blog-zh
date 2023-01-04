@@ -1,6 +1,6 @@
 # 使用 Babel 和 webpack 建立 ES6 项目
 
-> 原文:# t0]https://www . sitepoint . com/es 6-babel-web pack/
+> 原文:# t0]https://www . sitepoint . com/es6-babel-webpack/
 
 在这篇文章中，我们将看看如何使用 [Babel](https://babeljs.io/) 和 [webpack](https://webpack.js.org/) 来创建一个处理现代 JavaScript(在网络浏览器中运行)的构建设置。
 
