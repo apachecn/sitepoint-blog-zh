@@ -227,6 +227,6 @@ require_once __DIR__ . "/sitepointtwitter/vendor/OAuth.php";
 
 下次再见，祝 OXID 一切顺利，别忘了在下面的评论中分享你的反馈。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

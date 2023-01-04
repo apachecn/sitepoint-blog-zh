@@ -86,6 +86,6 @@ REST 简单明了，但是健壮而强大。这个例子使用了一个标准协
 
 而且说到 HTTP，还有一点需要探讨；我们在上面的`print_r()`陈述中已经暗示过了；响应代码和 HTTP 头。如果您要在服务器上执行 POST 或其他操作，那么您需要知道它是否工作。类似地，您可能还想给服务器一些关于如何进行 POST 或者用 GET 获取什么类型的数据的指导。所有这些以及更多(嗯，大部分是“所有这些”)将在传奇的最后一章中讲述，在那里我将向您介绍 HTTP 头的迷人世界。
 
-<small>图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

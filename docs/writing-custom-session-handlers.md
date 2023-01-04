@@ -200,6 +200,6 @@ PHP 随机执行垃圾收集。垃圾收集被调用的概率是通过`php.ini`�
 
 在许多情况下，更改 PHP 会话处理的默认行为会很有用。本文向您展示了 PHP 如何“开箱即用”地处理会话数据，以及如何通过将数据存储在 MySQL 数据库中来改变这一点以满足您自己的应用程序的需求。当然，您可以选择自己喜欢的数据库或其他解决方案，如 XML、Memcache 或其他基于文件的系统。在数据被写入之前解除序列化将使您能够按照您认为合适的方式存储数据，只是要记住，您必须以序列化的形式将数据发送回来，以便 PHP 在读取数据时使用它。
 
-<small>图片经由[谢尔盖·米罗诺夫](http://www.shutterstock.com/gallery-121426p1.html) / [快门](http://www.shutterstock.com)</small>
+图片经由[谢尔盖·米罗诺夫](http://www.shutterstock.com/gallery-121426p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

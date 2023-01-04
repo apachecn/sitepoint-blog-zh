@@ -204,6 +204,6 @@ function update_metadata($meta_type, $object_id, $meta_key, $meta_value, $prev_v
 
 Facade 是软件开发中最简单易用的设计模式之一。在整篇文章中，我讨论了 Facade 模式的各种实现。现在是时候在下面的评论中分享你的经历了。你知道任何利用门面的图书馆或服务吗？请随意分享您遇到的 Facade 模式的实际实现。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

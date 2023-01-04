@@ -28,7 +28,7 @@
 
 ![Amazon.de providing product suggestions based on my purchasing history related to biking](img/4a267af313683dd40fed71596e3cdd42.png)
 
-<small>Amazon.de 根据我与自行车相关的购买历史提供产品建议</small>
+Amazon.de 根据我与自行车相关的购买历史提供产品建议
 
 企业通过提供更高质量的推荐而获胜，因为他们可以增加收入。用户也是赢家，因为他们花更少的时间寻找产品。
 
@@ -60,7 +60,7 @@
 
 ![Waveapps.com dashboard showing the invoice creation button at the upper right corner](img/aa5e68b12fdfe8c2ff0d13d65829c82a.png)
 
-<small>右上角显示发票创建按钮的 Waveapps.com 仪表盘</small>
+右上角显示发票创建按钮的 Waveapps.com 仪表盘
 
 为了回答这个问题，我们可以测量用户点击这个按钮所需的时间。通过测量所需的时间，我们可以发现放置不正确的按钮，并尝试优化我们的布局。
 

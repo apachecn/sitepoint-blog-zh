@@ -139,6 +139,6 @@ if ($_SERVER["REQUEST_TIME"] - $tstamp > $delta) {
 
 在应用程序中实现该功能时，将它包装成可重用的组件也是明智的。这很容易做到，所以我将把它作为一个练习留给读者。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

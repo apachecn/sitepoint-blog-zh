@@ -517,6 +517,6 @@ foreach ($posts as $post) {
 
 在以后的文章中，我希望更深入地挖掘领域模型的本质，并开发一个自定义映射层来演示如何在以前的模型和 MySQL 之间传输数据。敬请期待！
 
-<small>图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)</small>
+图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)
 
 ## 分享这篇文章

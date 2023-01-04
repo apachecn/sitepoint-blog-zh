@@ -34,6 +34,6 @@
 
 你经常外包项目或与承包商合作吗？你学到了什么技巧或建议？请在下面的评论中告诉我们。
 
-<small>[笔在合同纸上](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=contract&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=80240431&src=4f0a926e0c1cffb90fb4ae4fdd0218a5-1-8 "_blank")图像</small>
+[笔在合同纸上](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=contract&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=80240431&src=4f0a926e0c1cffb90fb4ae4fdd0218a5-1-8 "_blank")图像
 
 ## 分享这篇文章

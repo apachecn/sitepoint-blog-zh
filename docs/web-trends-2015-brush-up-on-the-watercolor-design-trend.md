@@ -4,7 +4,7 @@
 
 ![Featured image: Aurora Wienhold (via Deviant Art)](img/027d149893312ea78da34caa618c09e6.png)
 
-<small>特色图片:[极光威恩霍尔德](http://aurorawienhold.deviantart.com/art/STOCK-Watercolor-Texture-Frost-344909569)</small>
+特色图片:[极光威恩霍尔德](http://aurorawienhold.deviantart.com/art/STOCK-Watercolor-Texture-Frost-344909569)
 
 美术和平面设计符合这种绘画的方法。无论是异想天开还是女性化，人造水彩潮流都是让你的设计更具个性化的完美方式。这种风格非常适合寻求标准“纯色”外观之外的东西的精品店和创意企业。
 

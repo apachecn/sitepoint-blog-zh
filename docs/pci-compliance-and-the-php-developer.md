@@ -91,6 +91,6 @@ PCI 标准由 12 个基本要求组成。该标准大约每两年更新一次，
 
 我想我真正想强调的一件事是 PCI 不是糖衣。这是创建处理信用卡数据的应用程序的一部分。如果你正在编写一个应用程序来处理这些数据，不管你的客户是否知道，它都适用于你。大部分都在编码水平之上，但它是真实的，是你仍然必须注意的东西。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

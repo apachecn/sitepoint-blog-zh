@@ -24,7 +24,7 @@
 
 ![Bernhard Strigel - 1506: Painting showing ribbon-like speech object leaving the mouth of a speaker.](img/cd8be23c1f654cf94943ee7fb87983f7.png)
 
-<small>[伯恩哈德·斯特里格尔——1506](https://en.wikipedia.org/wiki/Bernhard_Strige)></small>
+[伯恩哈德·斯特里格尔——1506](https://en.wikipedia.org/wiki/Bernhard_Strige)>
 
 正如独立作家罗德里·马森[评论的那样](http://www.independent.co.uk/arts-entertainment/books/features/interesting-object-the-speech-balloon-8967847.html)，它们“不协调地从人们的嘴里冒出来，看起来有点像大型超市的收银台收据，也一样难以阅读。”
 
@@ -34,7 +34,7 @@
 
 ![Extract for 'The Yellow Kid' comic strip - 1895 to 1898](img/bdade2ab6d67c0df83abf3d54223001b.png)
 
-<small>1895 年至 1898 年《黄种人》漫画摘录</small>
+1895 年至 1898 年《黄种人》漫画摘录
 
 如今，拿起一本漫画书，几乎不可能*而不是*发现演讲气泡。但是由于它们与交流的普遍联系，它们的传播已经远远超出了纸的起源。
 
@@ -94,7 +94,7 @@
 
 ![Google Translate](img/1eac3f1cad5517b655e2194a13e87c54.png)
 
-<small>谷歌翻译</small>
+谷歌翻译
 
 ## 那么，言论泡沫的下一步是什么？
 

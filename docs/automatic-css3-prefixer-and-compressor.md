@@ -169,6 +169,6 @@ echo $contents;
 
 在本文中，我向您展示了如何使用 PHP 来自动化一些常见的 CSS 操作。该脚本非常依赖正则表达式，这是一种非常强大的语言，允许我们以我们认为合适的方式操作字符串。总的来说，这个脚本非常简单，但是它提供了很多好处。试着在你的下一个项目中使用它。
 
-<small>图片通过[1x pert](http://www.shutterstock.com/gallery-476578p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片通过[1x pert](http://www.shutterstock.com/gallery-476578p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

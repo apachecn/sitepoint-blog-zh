@@ -109,6 +109,6 @@ echo 'Release date: ' . $book->get_field('release') . '<br />';
 
 有关不同 Pod 方法的更多信息，您可以[访问 Pod Codex](http://podsframework.org/codex/ "Docs - Pods Framework for WordPress")和[在 Pod 论坛](http://podsframework.org/forums/forum/general-discussion/ "General Discussion - Pods Framework for WordPress")寻求支持。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -190,6 +190,6 @@ echo "USB drive dongle ", ($found) ? "found" : "not found";
 
 顺便说一下，win32std 扩展不仅仅提供对注册表的访问。如果你感兴趣的话，去看看 wildphp.free.fr/wiki/doku.php?id=win32std:index 还有什么。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -246,6 +246,6 @@ public function getGeorgeOrwellBooks() {
 
 在处理 XML 数据时，XPath 是减少必须编写的代码量和加快代码执行速度的好方法。虽然不是官方 DOM 规范的一部分，但是 PHP DOM 提供的附加功能允许您用自定义功能扩展普通的 XPath 函数。这是一个非常强大的特性，随着您对 XPath 函数越来越熟悉，您可能会发现对它的依赖越来越少。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

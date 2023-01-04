@@ -177,6 +177,6 @@ $pdo = new PDO($dsn, $username, $password, $options);
 
 这就结束了我们的两部分系列，为什么我们应该避免 MySQL API，以及我们如何通过引入两种替代方法来避免它。我希望我们现在可以更好地摆脱原来的 MySQL API，转而支持 MySQL 或更突出的 PDO 扩展！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

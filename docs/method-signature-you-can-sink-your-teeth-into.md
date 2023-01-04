@@ -42,7 +42,7 @@ def example_method(args)
 end
 ```
 
-<small>( **图一.** )</small>
+( **图一.** )
 
 现在，您已经快速完成了重新封顶，我们可以开始讨论参数处理了。
 
@@ -58,7 +58,7 @@ example_method
 #=> Hello, World
 ```
 
-<small>( **图 b.** )</small>
+( **图 b.** )
 
 仅此而已。
 
@@ -83,7 +83,7 @@ example_method("This is A", "This is B")
 #=> This is B
 ```
 
-<small>( **图 c.** )</small>
+( **图 c.** )
 
 不按顺序传递参数不是语法错误，但在方法内部，它们会在发送时引用值。因为这两个参数都是必需的参数，所以传递两个参数失败将引发一个`ArgumentError`。
 
@@ -96,7 +96,7 @@ def example_method(a,b="default_b_value")
 end
 ```
 
-<small>( **图 d.** )</small>
+( **图 d.** )
 
 既然`b`现在有了默认值，那么这个方法可以叫做`example_method("a_value")` **或者** `example_method("a_value", "b_value")`。这里`example_method`仍然是一个顺序方法，因为它依赖于参数的顺序。然而，这种技术让我们对这个方法的接口有了更多的控制。
 
@@ -113,7 +113,7 @@ example_method({message: "Hello, World!"})
 #=> Hello, World!
 ```
 
-<small>( **图鄂** )</small>
+( **图鄂** )
 
 Ruby 在这里做了一些聪明的事情。如果您的 options hash 是最后一个或唯一的参数，您可以省去大括号。这就是为什么这种技术有时被称为“伪关键字”参数，因为它类似于关键字，但实际上只是隐藏了一个散列。
 
@@ -125,7 +125,7 @@ Ruby 在这里做了一些聪明的事情。如果您的 options hash 是最后�
 example_method(message: "Hello, World!")
 ```
 
-<small>( **图 e.2\.** )</small>
+( **图 e.2\.** )
 
 或者在参数列表的末尾使用选项。
 
@@ -138,7 +138,7 @@ example_method("Yo", "Sup", message: "Hello, World!")
 #=> ["Yo", "Sup", {:message=>"Hello, World!"}]
 ```
 
-<small>( **图 e.3\.** )</small>
+( **图 e.3\.** )
 
 使用这种模式可以得到漂亮的界面。然而，它也不是没有缺点。下面是 abberant 行为的几个例子(其中一些通过使用 Ruby 2.0 的关键字 args 得到缓解)
 
@@ -155,7 +155,7 @@ display_name(nil)
 #=> from (pry):2:in `display_name'
 ```
 
-<small>( **图 e.4\.** )</small>
+( **图 e.4\.** )
 
 这里我们有一个名字的默认值散列。如果我们传递一个散列，默认的散列将被忽略。因为默认散列被忽略，所以从不使用`first_name`键。
 
@@ -168,7 +168,7 @@ display_name(:last_name => "Jetson")
 #=> nil
 ```
 
-<small>( **图 e.5\.** )</small>
+( **图 e.5\.** )
 
 好吧，所以有问题。也就是说，Ruby 开发人员可以使用一些模式来克服这些缺点。让我们看另一个例子。
 
@@ -185,7 +185,7 @@ class HelloWorld
 end
 ```
 
-<small>( **图 e.6\.** )</small>
+( **图 e.6\.** )
 
 上面的代码中发生了一些事情。initialize 方法用默认参数`{}`设置`HelloWorld#new`。这样做是为了在不传递任何参数的情况下实例化这个对象。下一件有趣的事情是当我们设置`@message` var 时。因为我们知道`#new`的参数默认为一个散列，所以我们可以对它调用`Hash`方法。既然我们希望`HelloWorld`在被询问时说些什么，我们可以用`Hash#fetch` [2]默认它。
 
@@ -205,7 +205,7 @@ end
 #=> ["argument_one", "argument_two"]
 ```
 
-<small>( **图鄂** )</small>
+( **图鄂** )
 
 您可以使用任意数量的参数(包括零个)调用此方法。这允许我们在调用方法时做一些花哨的事情。一个重要的注意事项是，由于 splat 操作符将贪婪地获取`(position..position+n)`处的所有值，所以它应该只用作最后或唯一的参数。
 

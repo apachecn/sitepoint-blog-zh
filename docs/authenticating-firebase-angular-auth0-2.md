@@ -577,7 +577,7 @@ export class CommentsComponent {
           <div class="col">
             <img [src]="comment.picture" class="avatar rounded">
             <strong>{{ comment.user }}</strong>
-            <small class="text-info">{{ comment.timestamp | date:'short' }}</small>
+            {{ comment.timestamp | date:'short' }}
             <strong>
               <a
                 *ngIf="canDeleteComment(comment.uid)"

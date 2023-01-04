@@ -203,6 +203,6 @@ php topicProducer.php "DNS server timeout" warnings.prod.dns
 
 希望我已经激起了对 RabbitMQ 的兴趣，也许它会成为解决您可能面临的特定解耦或可伸缩性问题的正确工具。它很容易安装，并有广泛的客户机库供您选择语言。操作监控系统和用于执行大型作业的工作队列的例子只是 RabbitMQ 可以发挥作用的两个真实例子，但是可能还有更多它可以发挥作用的场景。发挥你的想象力。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

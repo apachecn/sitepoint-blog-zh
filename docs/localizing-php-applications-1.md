@@ -85,6 +85,6 @@ echo _("HELLO_WORLD");
 
 当谈到本地化您的 PHP 应用程序时，您可能有很多选择。我们选择使用 GNU gettext 库及其 PHP 扩展，这是一种强大而简单的方法，可以“以正确的方式”本地化应用程序在这一期中，您看到了安装 gettext 和 PHP 扩展需要什么，简单地使用了 Poedit，并用一个简单的 Hello World 脚本吊起了您的胃口。[第 2 部分](https://www.sitepoint.com/localizing-php-applications-2/ "Localizing PHP Applications “The Right Way”, Part 2")将以此为基础学习更多关于 gettext 的知识；我将解释 Hello World 脚本中引入的每个函数以及 gettext 库是如何工作的。
 
-<small>图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

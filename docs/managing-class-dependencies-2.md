@@ -259,6 +259,6 @@ echo $fileStorage->read();
 
 尽管如此，大问题仍然在循环中浮动:DIC，服务定位器，注入工厂…哪一个最终最符合要求？正如我之前说过的，做出正确的决定很大程度上取决于你首先在处理什么。在所有情况下，它们只是控制反转的变体，用一些很好的改进和花哨的混合来装饰。你知道 IoC 是多态性的必由之路，因此也是可测试性的必由之路。让你的个人需求成为你最自信的顾问；他们不会让你失望的。
 
-<small>图片 via[SvetlanaR](http://www.shutterstock.com/gallery-109858p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[SvetlanaR](http://www.shutterstock.com/gallery-109858p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

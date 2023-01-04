@@ -94,6 +94,6 @@ jajeronymo@server:~$ ant -version
 
 在这一点上，我们已经得到了我们所需要的一切，除了 Jenkins 本身，这将在本文的第二部分中讨论。在那之前，保重！
 
-<small>图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

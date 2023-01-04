@@ -6,9 +6,9 @@
 
 ![A Kurzweil Reading Machine](img/1355fc35b7c1ddd811011e46aa76bc28.png)
 
-<small></small>
 
- <small>*原载于 [SitePoint 设计简讯](https://www.sitepoint.com/newsletter/)* 。</small>  <small>早在 80 年代初，我记得我们六年级的老师带我们去看一个‘新的神奇装置’—[一台库兹韦尔阅读机器](http://www.kurzweiltech.com/kcp.html)。
+
+ *原载于 [SitePoint 设计简讯](https://www.sitepoint.com/newsletter/)* 。  早在 80 年代初，我记得我们六年级的老师带我们去看一个‘新的神奇装置’—[一台库兹韦尔阅读机器](http://www.kurzweiltech.com/kcp.html)。
 
 这不完全是一个性感的设计。它看起来像一台复印机，但更接近家用洗衣机的大小。你把一本打开的书放在上面，它大声朗读，甚至在需要时翻页。声音合成器听起来有点刺耳，但是，嘿，那是 1981 年，这个东西的英语说得比 R2-D2 好，所以很难超级挑剔。
 
@@ -24,7 +24,7 @@
 
 ![A blind user with the Optophone.](img/e95ac827cac8af3517df2ecad9fcaf43.png)
 
-<small>一个盲人用光电话。</small>
+一个盲人用光电话。
 
 这是[光电话](https://en.wikipedia.org/wiki/Optophone)，一种在第一次世界大战前的 1913 年发明的阅读机器。
 
@@ -60,4 +60,4 @@ Fournier d'Albe 的发明依赖于使用硒电池将页面上的反射光转化�
 
 *原载于 [SitePoint 设计简讯](https://www.sitepoint.com/newsletter/)* 。
 
-## 分享这篇文章</small>
+## 分享这篇文章

@@ -48,6 +48,6 @@
 
 我不想任何人被愚弄。任何事情都不容易实现。这需要真正的承诺。它需要详尽的测试脚本。它需要复杂的软件来使其自动化(从而实用)。但是对于在多开发人员环境中的人来说，对用户需求的响应是很重要的，变化的速度和可靠性也是很重要的——持续部署可能会成为你新的最好的朋友。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

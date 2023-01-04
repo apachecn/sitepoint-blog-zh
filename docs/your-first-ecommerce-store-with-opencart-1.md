@@ -134,6 +134,6 @@ OpenCart 在安装过程中安装一个样例商店，样例店面看起来是�
 
 在本系列的下一篇文章中，我将深入探讨 OpenCart，并讨论添加选项、属性、属性组，以及最重要的产品！敬请关注。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

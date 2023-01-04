@@ -75,6 +75,6 @@ Packagist 在 GitHub 存储库中搜索分支和`composer.json`文件，并在�
 
 在 Packagist 上列出您的包，以便其他开发人员可以通过 Composer 轻松下载它是很容易的，尽管许多人可能认为这很难，因为他们以前从未这样做过。希望这篇文章能够帮助您将 Composer 的使用提升到一个新的水平，因为它实际上只不过是为包提供一个名称并单击一个巨大的绿色按钮。现在，请继续与全世界分享您一直努力编写的伟大代码吧！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

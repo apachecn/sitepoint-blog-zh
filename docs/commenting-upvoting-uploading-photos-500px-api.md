@@ -312,7 +312,7 @@ public function show($id){
         </a>
         <div class="media-body">
             <h4 class="media-heading">{{ $comment['user']['username'] }}
-                <small>{{ $comment['created_at'] }}</small>
+                {{ $comment['created_at'] }}
             </h4>
             {{ $comment['body'] }}
             @if(count($comment['replies']))
@@ -323,7 +323,7 @@ public function show($id){
                         </a>
                         <div class="media-body">
                             <h4 class="media-heading">{{ $ncomment['user']['username'] }}
-                                <small>{{ $comment['created_at'] }}</small>
+                                {{ $comment['created_at'] }}
                             </h4>
                             {{ $comment['body'] }}
                         </div>

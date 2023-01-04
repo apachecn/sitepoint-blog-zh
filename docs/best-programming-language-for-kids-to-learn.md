@@ -39,7 +39,7 @@
 
 ![A graph to show computer science graduate salaries](img/9fbdd74499a9dd01a8142a2beb2de9a6.png)
 
-<small>来源:CodeSubmit</small>
+来源:CodeSubmit
 
 总之，教你的孩子编码在任何意义上都为他们提供了有价值的技能！
 

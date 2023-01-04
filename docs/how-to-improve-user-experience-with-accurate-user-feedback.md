@@ -35,7 +35,7 @@
 
 <video class="wp-video-shortcode" id="video-180497-1" width="640" height="360" preload="metadata" controls=""><source type="video/mp4" src="https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715094hover.mp4?_=1">[https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715094hover.mp4](https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715094hover.mp4)</video>
 
-<small>[视频来源](https://dribbble.com/shots/14639664--Hover-w-animated-letters)</small>
+[视频来源](https://dribbble.com/shots/14639664--Hover-w-animated-letters)
 
 ### 2.提高参与度
 
@@ -45,7 +45,7 @@
 
 <video class="wp-video-shortcode" id="video-180497-2" width="640" height="360" preload="metadata" controls=""><source type="video/mp4" src="https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715286buttons.mp4?_=2">[https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715286buttons.mp4](https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609715286buttons.mp4)</video>
 
-<small>[视频来源](https://dribbble.com/shots/7441241-Button-Hover-Effects)</small>
+[视频来源](https://dribbble.com/shots/7441241-Button-Hover-Effects)
 
 ### 3.信号活动
 
@@ -55,7 +55,7 @@
 
 <video class="wp-video-shortcode" id="video-180497-3" width="640" height="360" preload="metadata" controls=""><source type="video/mp4" src="https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609801315feedback.mp4?_=3">[https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609801315feedback.mp4](https://uploads.sitepoint.com/wp-content/uploads/2021/01/1609801315feedback.mp4)</video>
 
-<small>[视频来源](https://dribbble.com/shots/12567603-Upvote)</small>
+[视频来源](https://dribbble.com/shots/12567603-Upvote)
 
 ## 网络反馈最常见的例子是什么？
 
@@ -71,7 +71,7 @@
 
     ![Form criteria under input changing color when satisfied](img/4cf4f0edb66b0961080dfc9e570c10bd.png)
 
-    <small>(来源:MailChimp [注册表单](https://login.mailchimp.com/signup/) )</small>
+    (来源:MailChimp [注册表单](https://login.mailchimp.com/signup/) )
 
 *   **通知铃**:提高参与度最广泛采用的反馈形式之一是通知铃。设计师通常将通知铃与显示未读通知数量的小圆圈配对。许多网站选择摇动通知铃声来吸引用户的注意。
 
@@ -83,13 +83,13 @@
 
     ![Warning banner example](img/58539063349267a1ef5002e60caf9dd1.png)
 
-    <small>(来源: [Atlassian.design](https://atlassian.design/components/banner/examples) )</small>
+    (来源: [Atlassian.design](https://atlassian.design/components/banner/examples) )
 
 *   面包屑导航:面包屑导航向用户呈现状态信息，让他们知道他们在流程中的位置以及仍然需要哪些操作。这种类型的反馈提高了用户的参与度，因为用户确切地知道需要多少步。
 
     ![A breadcrumb bar showing three steps to checkout](img/f56e007fefc5d9e353eaaf55aea44eef.png)
 
-    <small>[图片来源](https://dribbble.com/shots/2436989-Breadcrumbs-Day-056-dailyui)</small>
+    [图片来源](https://dribbble.com/shots/2436989-Breadcrumbs-Day-056-dailyui)
 
 ## 结论:我们应该关注 UX 吗？
 

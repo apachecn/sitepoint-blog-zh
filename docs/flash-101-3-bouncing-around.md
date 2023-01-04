@@ -38,7 +38,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 播放动画–您的椭圆应该从其原始位置平稳地移动到您指定的新位置。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 这是你的第一部动作片。很简单，是吧？
 
@@ -52,7 +52,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 再次播放剪辑–您的椭圆在舞台上移动时应该会改变形状。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x2.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x2.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x2.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x2.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 让我们也增加一点颜色变化，好吗？仍然选择第 10 帧中的实例，弹出打开窗口->面板->效果对话框，并从下拉菜单中选择“色调”。选择一种色调——第 10 帧中展平椭圆的填充颜色应立即变为所选颜色。
 
@@ -60,7 +60,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 当你播放这个片段时，你的椭圆不仅会改变形状，还会改变颜色。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x3.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x3.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x3.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x3.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 ##### 走风景优美的路线
 
@@ -76,7 +76,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 创建一个补间动画并播放剪辑–您的点将水平穿过舞台，因为这是两个位置之间的最短距离。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x4.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x4.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x4.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x4.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 要添加您自己的运动路径，右键单击包含点的层，并使用“添加运动引导”命令添加一个新的运动引导层-该层将保存补间动画的运动路径的路径。
 
@@ -88,7 +88,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 请注意，完成后，您需要将元件“对齐”到运动路径的起点和终点，方法是使用箭头工具选择元件，并将其拖到路径的适当终点，直到元件的“注册点”(中间的小空心点)对齐到路径的终点。当您再次播放片段时，圆点应该会沿着您刚刚创建的路径移动。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x5.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x5.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x5.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x5.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 通过在“帧”面板中分别选择“定向到路径”和“对齐”选项，可以选择使元件的基线和/或其注册点朝向运动路径。
 
@@ -98,7 +98,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 补间动画是创建好看且易于组合的动画剪辑的好方法——如下例所示。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x6.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x6.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x6.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x6.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 我是怎么做到的？很简单。
 
@@ -118,7 +118,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 当您播放您的剪辑时，您会看到类似这样的内容:
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x7.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x7.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x7.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x7.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 如果你认为剪辑播放得快一点会更好看，你可以通过修改->电影对话框来改变帧速率。
 
@@ -130,7 +130,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 最后，淡入/淡出效果。选择第一帧中的球，并使用“效果”面板添加 alpha 效果，使球部分透明。对最后一个关键帧做同样的操作。这一次，当你回放剪辑时，球会随着向下移动而慢慢凝固，随着向上反弹而淡出。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x8.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x8.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x8.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x8.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 那花了多长时间？大约五分钟，我会说，结果是一个非常好看的动画剪辑。此外，由于整个剪辑是使用元件构建的，因此您可以在元件编辑模式下轻松更改球的颜色和大小，并使您的更改立即反映在剪辑本身中。你自己试试，你就会明白我的意思了！
 
@@ -140,7 +140,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 使用补间动画很容易实现的另一种效果是所谓的“缩放”效果。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="400" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x9.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x9.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="400" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="400" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x9.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x9.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="400" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 正如您可能已经想到的，这在 Flash 中一点也不困难。对于您的第一个关键帧，只需创建一个符号(图像或文本块)，它的大小非常小:
 
@@ -168,7 +168,7 @@ Flash 提供了两种类型的补间:“形状补间”，主要用于将一个�
 
 回放动画剪辑时，第一个形状会慢慢变形为第二个形状，如下所示:
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x10.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x10.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="300" height="300"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x10.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x10.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="300" height="300" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 是的，它没有艺术价值——但它看起来很酷。您还可以在过渡时改变形状的颜色——只需用不同的颜色和线条样式描边/填充一个或两个形状。
 
@@ -188,7 +188,7 @@ Flash 还允许您使用一种称为“形状提示”的功能来控制形状�
 
 默认情况下，当 Flash 将它们补间在一起时，序列如下所示。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x11.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x11.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x11.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x11.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 但是当我向起始和结束形状添加形状提示时
 
@@ -198,7 +198,7 @@ Flash 还允许您使用一种称为“形状提示”的功能来控制形状�
 
 补间形状试图确保标记点在补间过程中相互对应。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x12.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x12.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="550" height="400"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part3/x12.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part3/x12.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="550" height="400" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 您可以通过“修改”->“变换”->“添加形状提示”菜单命令或使用 Ctrl-Shift-H 键盘快捷键来添加形状提示。
 

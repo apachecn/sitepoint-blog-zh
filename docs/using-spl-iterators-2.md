@@ -146,6 +146,6 @@ getIterator
 
 在本文中，我向您介绍了两个允许您创建自己的迭代器的接口。希望您理解创建自己的迭代器是多么容易，并准备好将 SPL 的这一酷功能添加到您的武器库中。当然，如果你觉得我错过了什么或者做错了什么，或者只是想分享一些东西，请不要犹豫，在评论中告诉我！
 
-<small>图片 via[musha kesa](http://www.shutterstock.com/gallery-96945p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[musha kesa](http://www.shutterstock.com/gallery-96945p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

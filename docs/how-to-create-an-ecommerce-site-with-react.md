@@ -566,9 +566,9 @@ const ProductItem = props => {
                 src="https://bulma.img/placeholders/128x128.png"
                 alt={product.shortDesc}
               />  </figure>  </div>  <div className="media-content">  <b style={{ textTransform: "capitalize" }}>  {product.name}{" "}  <span className="tag is-primary">${product.price}</span>  </b>  <div>{product.shortDesc}</div>  {product.stock > 0 ? (
-              <small>{product.stock + " Available"}</small>
+              {product.stock + " Available"}
             ) : (
-              <small className="has-text-danger">Out Of Stock</small>
+              Out Of Stock
             )}  <div className="is-clearfix">  <button
                 className="button is-small is-outlined is-primary   is-pulled-right"
                 onClick={() =>
@@ -850,7 +850,7 @@ const CartItem = props => {
     <div className=" column is-half">  <div className="box">  <div className="media">  <div className="media-left">  <figure className="image is-64x64">  <img
                 src="https://bulma.img/placeholders/128x128.png"
                 alt={product.shortDesc}
-              />  </figure>  </div>  <div className="media-content">  <b style={{ textTransform: "capitalize" }}>  {product.name}{" "}  <span className="tag is-primary">${product.price}</span>  </b>  <div>{product.shortDesc}</div>  <small>{`${amount} in cart`}</small>  </div>  <div
+              />  </figure>  </div>  <div className="media-content">  <b style={{ textTransform: "capitalize" }}>  {product.name}{" "}  <span className="tag is-primary">${product.price}</span>  </b>  <div>{product.shortDesc}</div>  {`${amount} in cart`}  </div>  <div
             className="media-right"
             onClick={() => props.removeFromCart(cartKey)}
           >  <span className="delete is-large"></span>  </div>  </div>  </div>  </div>

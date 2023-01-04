@@ -378,7 +378,7 @@ npm install @okta/oidc-middleware@1.0.1 dotenv@6.1.0 express-session@1.15.6
 +    {{#if userinfo}}
 +      <h4>
 +        Welcome back, {{userinfo.given_name}}!
-+        <small><a href="/logout">Click here to log out</a></small>
++        <a href="/logout">Click here to log out</a>
 +      </h4>
 +    {{/if}}
      <main>

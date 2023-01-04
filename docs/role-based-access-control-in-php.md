@@ -291,6 +291,6 @@ public static function deletePerms() {
 
 现在，您已经了解了基于角色的访问控制，以及如何在现有应用程序中实现角色和权限。此外，您还了解了一些帮助管理您的角色并使事情井井有条的技巧。和往常一样，我鼓励你尝试，如果遇到困难，就提出问题。我们都在这里互相学习，我很乐意尽我所能帮助你们！
 
-<small>图片 via[PILart](http://www.shutterstock.com/gallery-494302p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[PILart](http://www.shutterstock.com/gallery-494302p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

@@ -12,10 +12,10 @@
 
 | 图书馆 | 平均值。解析时间 | 文件/类计数 |
 | --- | --- | --- |
-| [parse down<small>1 . 6 . 0</small>](http://parsedown.org/) | 2 毫秒 | one |
-| [PHP Markdown<small>1 . 5 . 0</small>](https://michelf.ca/projects/php-markdown/) | 4 毫秒 | four |
-| [PHP Markdown Extra<small>1 . 5 . 0</small>](https://michelf.ca/projects/php-markdown/extra/) | 7 毫秒 | six |
-| [普通标志<small>0 . 12 . 0</small>](http://commonmark.thephpleague.com/) | 46 毫秒 | One hundred and seventeen |
+| [parse down1 . 6 . 0](http://parsedown.org/) | 2 毫秒 | one |
+| [PHP Markdown1 . 5 . 0](https://michelf.ca/projects/php-markdown/) | 4 毫秒 | four |
+| [PHP Markdown Extra1 . 5 . 0](https://michelf.ca/projects/php-markdown/extra/) | 7 毫秒 | six |
+| [普通标志0 . 12 . 0](http://commonmark.thephpleague.com/) | 46 毫秒 | One hundred and seventeen |
 
 不幸的是，由于紧密耦合的设计和整体架构，很难(如果不是不可能的话)用定制逻辑来扩展这些解析器。
 

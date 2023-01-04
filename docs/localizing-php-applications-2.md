@@ -105,6 +105,6 @@ msgstr "Test de traduction..."
 
 在下一部分中，您将看到如何通过组织目录、在语言之间切换、选择备用语言和覆盖当前选定的消息域来开始进行真实世界的本地化。
 
-<small>图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

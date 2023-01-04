@@ -119,6 +119,6 @@ $hook["post_controller"] = array(
 
 在本系列的这一部分中，我们已经学习了如何根据真实项目的实际场景来确定 AOP 的使用范围，并且我已经介绍了 CodeIgniter 作为创建基本 AOP 功能的上下文。现在我们已经完成了理论部分，在下一部分中，我将向您展示如何使用 XML 和基于注释的方法来创建您自己的规则结构，以及如何处理这些规则来应用建议。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

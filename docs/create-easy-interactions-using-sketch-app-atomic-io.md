@@ -28,7 +28,7 @@
 
 ![Setting Up the Artboard in Sketch](img/b9d9d73792dfe7cbcb268d8f825f7e89.png)
 
-<small>在草图中设置画板</small>
+在草图中设置画板
 
 ## 重新创建 SitePoint 徽标
 
@@ -52,7 +52,7 @@
 
 ![Finalising Our Design in Sketch](img/a897838d301048ad7b44f292bb2f5a08.png)
 
-<small>在草图中完成我们的设计</small>
+在草图中完成我们的设计
 
 ## 将层从草图复制到原子
 
@@ -60,13 +60,13 @@
 
 ![Creating the Artboard in Atomic](img/77cec67590376c76c5e7fffd772fefe2.png)
 
-<small>在 Atomic 中创建画板</small>
+在 Atomic 中创建画板
 
 我们现在拥有的是一张空白的画布，这一步主要是将图层从 Sketch App 复制到 Atomic 中。在整个画板中复制不会起作用，因为 Atomic 会将其强制复制到单个展平层中。但这无关紧要——我们需要将我们的设计分成几个*页*,来代表动画中的不同阶段。首先复制图层。
 
 ![Copying Layers Over to Atomic](img/f391c3b33bc4fca14e1a5fee0b3f7b16.png)
 
-<small>将层复制到原子层</small>
+将层复制到原子层
 
 ## 设置原子的阶段
 
@@ -86,7 +86,7 @@
 
 ![Setting the Stage in Atomic](img/f8b4a7d9959a60f56e974a5d65ba8ef0.png)
 
-<small>在原子中设置阶段</small>
+在原子中设置阶段
 
 第二页已经很好了。
 

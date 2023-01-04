@@ -175,6 +175,6 @@ public function compute(MyWrapperDb $db) {
 
 即使你的代码可能没有复杂到需要 750 万年才能运行，你仍然应该把它设计成可移植的，以防地球被沃刚人毁灭，你必须把它重新部署到不同的星球(或框架)上。你不能假设你最喜欢的框架会永远向后兼容，甚至会永远存在。框架，即使有大公司的支持，也是一个实现细节，应该像这样去耦合。这样，您的 cool genius 应用程序就可以始终支持最新、最好的。真正的逻辑将快乐地生活在包装器创建的小气泡中，远离所有邪恶的实现细节和愤怒的依赖。因此，当 ZF3/symfony 3/whatever-else-big-thing 宣布:不要停止编写代码，不要因为必须而学习新的框架(尽管你应该学习，因为你想学习更多)，在泡沫中保持生产力，并在下一个大东西发布时为下一个大东西编写包装。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

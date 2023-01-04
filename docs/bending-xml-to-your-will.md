@@ -187,6 +187,6 @@ foreach($xml->team as $element){
 
 在本文中，您了解了一些关于 XML 的知识，以及如何在 web 上使用它。更重要的是，您了解了两种基本类型的 XML 解析器，基于树的解析器和基于事件的解析器。PHP 提供了几种不同的 XML 解析扩展，其中两种是 XML Parser 和 SimpleXML。每一种都在性能、易用性和程序员需要编写的代码量之间做出了权衡。希望看到这两种扩展是如何使用的将有助于您下次需要使用 XML 时自信地选择最佳方法。
 
-<small>图片 via [肯·德登](http://www.shutterstock.com/gallery-246394p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [肯·德登](http://www.shutterstock.com/gallery-246394p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

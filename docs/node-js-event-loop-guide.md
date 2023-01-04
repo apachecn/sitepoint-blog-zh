@@ -77,7 +77,7 @@ console.log('The event loop continues without blocking...');
 
 ![Event Loop Phases](img/6cfe143616f46db5a0668fe6727deb52.png)
 
-<small>图片来源: [libuv 文档](http://docs.libuv.org/en/v1.x/_images/loop_iteration.png)</small>
+图片来源: [libuv 文档](http://docs.libuv.org/en/v1.x/_images/loop_iteration.png)
 
 1.  时间戳被更新。事件循环在循环开始时缓存当前时间，以避免频繁的与时间相关的系统调用。这些系统调用是 libuv 内部的。
 2.  回路是活的吗？如果循环有活动句柄、活动请求或关闭句柄，则它是活动的。如图所示，队列中挂起的回调使循环保持活动状态。
@@ -192,7 +192,7 @@ fs.readFile('readme.md', () => {
 
 ![Thread Pool Design Overview](img/c7f4da6410135f24a3d7bf9431ab7e46.png)
 
-<small>图片来源: [libuv 文档](http://docs.libuv.org/en/v1.x/_images/architecture.png)</small>
+图片来源: [libuv 文档](http://docs.libuv.org/en/v1.x/_images/architecture.png)
 
 对于网络 I/O，事件循环在主线程内部轮询。这个线程不是线程安全的，因为它不与另一个线程进行上下文切换。文件 I/O 和 DNS 查找是特定于平台的，所以方法是在一个线程池中运行它们。一种想法是自己进行 DNS 查找以远离线程池，如上面的代码所示。例如，输入一个 IP 地址而不是`localhost`，将查找从地址池中取出。线程池的可用线程数量有限，可以通过环境变量`UV_THREADPOOL_SIZE`来设置。默认的线程池大小大约是 4。
 

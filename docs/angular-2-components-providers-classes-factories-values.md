@@ -47,7 +47,7 @@
 
 ![CompDemo with MyClass imported](img/8df49372c4b89dfe2e447a21f252a2ce.png)
 
-<small>图 4:导入了 MyClass 的 CompDemo，添加到 providers 数组中，并在构造函数参数中用作类型。</small>
+图 4:导入了 MyClass 的 CompDemo，添加到 providers 数组中，并在构造函数参数中用作类型。
 
 将`MyClass`提供者添加到这个组件很简单:
 
@@ -97,7 +97,7 @@ TypeScript 让我们指定 myClass 参数需要是 MyClass 类型，DI 系统负
 
 ![bootstrap.ts with a value provider added](img/abc7cea6f5def57e47fcc3eac2a67ad4.png)
 
-<small>图 5:添加了价值提供者的 bootstrap.ts。</small>
+图 5:添加了价值提供者的 bootstrap.ts。
 
 这里，我们通过调用 provide 函数添加了一个提供者，并传入了一个字符串标记(“SECURITY_KEY”)和一个对象，该对象指定我们希望创建一个值提供者和提供者本身—在本例中是一个简单的值。现在，我们想将值提供者生成的值注入到我们的构造函数中，但这是行不通的…
 
@@ -109,7 +109,7 @@ constructor( SECKEY: “SECURITY_KEY”) {...}
 
 ![Importing the “Inject” decorator and using it to inject a value provider](img/64ecb57083448139cbb6a47a89ecf748.png)
 
-<small>图 6:导入“Inject”装饰器，并用它来注入一个用字符串标记标识的值提供者。</small>
+图 6:导入“Inject”装饰器，并用它来注入一个用字符串标记标识的值提供者。
 
 我们可以使用相同的语法来注入`MyClass`提供者:
 
@@ -127,13 +127,13 @@ constructor( @Inject(MyClass) myClass, @Inject('SECURITY_KEY') SECKEY ) {...}
 
 ![ChildComp with MyClass injected into the constructor](img/1a31a8c1964ff155f3060d874417a2b4.png)
 
-<small>图 7:将 MyClass 注入到构造函数中的 ChildComp。</small>
+图 7:将 MyClass 注入到构造函数中的 ChildComp。
 
 注意，我们导入了`MyClass`并使用它来设置构造函数的参数列表中的类型。重要提示:*导入的`MyClass`在`ChildComp`中的唯一目的是作为 DI 系统使用的一个令牌，来寻找一个注册的提供者。*因为`ChildComp`没有自己的使用该令牌注册的提供者，Angular 查找注入器层次结构来找到一个。为了实现这一点，我们需要将`ChildComp`添加到`ProvDemo`组件中:
 
 ![ProvDemo with ChildComp added to the template](img/975be4a5dd600ee36838a9defb07fb76.png)
 
-<small>图 8:模板中添加了 ChildComp 的 ProvDemo。</small>
+图 8:模板中添加了 ChildComp 的 ProvDemo。
 
 我们导入`ChildComp`，向@Component 添加一个 directives 属性，告诉`ProvDemo`我们将使用`ChildComp`组件，并向模板添加`ChildComp`元素。当应用程序运行时，控制台输出显示`ProvDemo`和`ChildComp`都接收到了同一个`MyClass`实例:
 

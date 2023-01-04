@@ -67,7 +67,7 @@ Magento 1 是一个历史悠久的平台，拥有大量的扩展、主题和现�
 
 ![Pet City progressive web application on a mobile device](img/028b5afb50a08baae38edcc23fe8be0c.png)
 
-<small>官方[宠物城](https://www.petcity.gr)网站</small>截图
+官方[宠物城](https://www.petcity.gr)网站截图
 
 ### 4.你对你的商店的表现满意吗？
 
@@ -85,7 +85,7 @@ Magento 1 是一个历史悠久的平台，拥有大量的扩展、主题和现�
 
 ![Mary Kay Virtual Try On Mirror Me](img/f436c1114d20eb559baf3625abff52f1.png)
 
-<small>官方[玫琳凯](https://www.marykay.com)网站</small>截图
+官方[玫琳凯](https://www.marykay.com)网站截图
 
 ### 6.你担心支付数据的安全性吗？
 

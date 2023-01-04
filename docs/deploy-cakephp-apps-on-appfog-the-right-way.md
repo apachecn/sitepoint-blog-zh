@@ -277,6 +277,6 @@ mysql --protocol=TCP --host=localhost --port=10000 --user=RemoteUserName
 
 AppFog 是一个相对年轻的 PaaS 服务，但前景看好。它又快又好用，而且一直在进化。AppFog 还允许您克隆整个应用程序，这有助于创建一个临时或错误修复环境。剩下的就看你的了，所以编码快乐！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -172,6 +172,6 @@ catch (PDOException $e) {
 
 现在，您应该已经具备了从旧的 MySQL 扩展迁移到新的 PDO 扩展的基本知识。您已经看到，虽然大部分时间 PDO 已经可用，但如果由于某种原因它不可用，也很容易设置。您还看到了连接到 MySQL 数据库服务器、发出查询和接收结果是多么容易。当然，这只是一个实用的概述；为了更多地了解 PDO 能提供什么以及你如何利用它，我鼓励你阅读 php.net 大学的可用文档。
 
-<small>图片 via [德克·埃尔肯](http://www.shutterstock.com/gallery-348535p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [德克·埃尔肯](http://www.shutterstock.com/gallery-348535p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

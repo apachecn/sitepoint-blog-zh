@@ -237,6 +237,6 @@ class CustomerForm extends EasyForm
 
 在这个系列中，我们已经学习了如何安装 Cubi，设置系统，并创建一个模块。您可能还会发现，XML 元数据文件比编程代码更容易学习和维护。我希望你喜欢这个系列，并祝你拥有自己的 Openbiz Cubi 业务应用程序。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

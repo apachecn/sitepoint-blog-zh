@@ -96,6 +96,6 @@ ctype_digit((string)$integer); // true
 
 那么你会在哪里使用它们呢？好吧，任何时候你需要从一个表单中引入一个字符串，你可以用它们来测试你正在处理的数据的有效性。真的，前途无量。(幸运的是，我不必公开或私下表明你使用它们的目的；我只说功能是什么，怎么用)。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

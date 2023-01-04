@@ -54,7 +54,7 @@ MagicMirror 插件的工作原理类似于 Photoshop 的草图操作，并且有
 
 ![Connecting the Screen to the Shape](img/be6fe3b8a94a7b5307cbe723ee67625c.png)
 
-<small>将屏幕连接到形状</small>
+将屏幕连接到形状
 
 ## 学习实现它的键盘快捷键
 
@@ -62,13 +62,13 @@ MagicMirror 插件的工作原理类似于 Photoshop 的草图操作，并且有
 
 ![Rotating and Other Keyboard Shortcuts](img/f60adf92f8660e650e7b9225ada5b40f.png)
 
-<small>旋转和其他键盘快捷键</small>
+旋转和其他键盘快捷键
 
 在我们的困境中，我们需要选择矩形并使用 **command+control+shift+r** (我知道，这是一个疯狂的快捷键！)来旋转我们设计的*里面的*这个形状；MagicMirror 实际上使用“填充”样式来创建背景图像，但他们如何旋转它，我不知道。一定是魔法！
 
 ![Now Everything Is in Perspective](img/dc66ca15df4d8ded3519fa054c026ba7.png)
 
-<small>现在一切都明朗了</small>
+现在一切都明朗了
 
 这里有另外两个需要记住的快捷键:
 

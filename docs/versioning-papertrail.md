@@ -158,7 +158,7 @@ end
         <%= l(version.created_at, format: "%-d.%m.%Y %H:%M:%S %Z") %><br/>
         Event ID: <%= version.id %><br/>
         <b>Target:</b> <%= version.item_type %>
-        <small>(id: <%= version.item_id %>)</small>; <b>action</b> <%= version.event %>;<br/>
+        (id: <%= version.item_id %>); <b>action</b> <%= version.event %>;<br/>
         <div>
           More info:
           <pre><%= version.object %></pre>

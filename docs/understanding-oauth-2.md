@@ -101,6 +101,6 @@ $result = file_get_contents($apiResourceUrl, false, $context);
 
 这个系列的代码可以在 GitHub 上找到。
 
-<small>图片通过[Photosani](http://www.shutterstock.com/gallery-54706p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片通过[Photosani](http://www.shutterstock.com/gallery-54706p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

@@ -147,6 +147,6 @@ GRANT ALL ON oxidtestshop.* TO 'oxidtestshopuser'@'localhost' IDENTIFIED BY '<yo
 
 请在评论中告诉我。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

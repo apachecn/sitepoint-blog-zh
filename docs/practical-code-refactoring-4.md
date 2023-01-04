@@ -68,6 +68,6 @@ PHP 有很多动态特性，比如重载 getters 和 setters，动态实例化�
 
 重构是软件开发中确保代码健康的一项重要技术。在本系列中，我介绍了一组重构时可以使用的实用列表。我谈到了好的代码，以及如何在可读性、可扩展性和效率方面实现好的代码。我希望你喜欢阅读这个系列，就像我喜欢写它一样！:)
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享本文

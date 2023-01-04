@@ -409,7 +409,7 @@ Netlify 为我们提供了三种接收通知的方式。在本教程中，我们
   <body>
     <div style='text-align: center; font-size:1.5rem;'>
       <h2>Thank you</h2>
-      <small>You will be replied to shortly</small>
+      You will be replied to shortly
     </div>
   </body>
 </html> 

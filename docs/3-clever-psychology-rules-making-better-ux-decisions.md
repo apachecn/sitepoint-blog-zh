@@ -50,7 +50,7 @@
 
 ![Male and female color dislike](img/1cba87f6c1f90dae30cc58cd9d7cfb94.png)
 
-<small>男女颜色厌恶</small>
+男女颜色厌恶
 
 一些事情显而易见:
 

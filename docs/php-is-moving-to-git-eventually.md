@@ -26,6 +26,6 @@ Subversion(至少在我上次使用它时是 1.5 版本)的分支管理非常糟
 
 总而言之，我觉得从 Subversion 迁移到 Git 对 PHP 项目和整个社区来说都是一件好事。从投票结果来看，迁移到 Git 可能会有争议(虽然我认为更公平地说，从 Subversion 迁移是引发任何争议的原因)，但是有 78 票支持迁移，其中 52 票选择 Git，很明显 PHP 开发社区支持这个决定。
 
-<small>图片 via[marema](http://www.shutterstock.com/gallery-594931p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[marema](http://www.shutterstock.com/gallery-594931p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

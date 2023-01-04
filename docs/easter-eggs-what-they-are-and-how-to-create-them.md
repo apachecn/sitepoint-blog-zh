@@ -118,6 +118,6 @@ else {
 
 在本文中，我已经向您展示了如何创建一个简单的复活节彩蛋。复活节彩蛋是在你的软件上签名并证明你的亲子关系的一种有趣的方式，但是要小心，不要在你的公司软件上添加彩蛋，因为这可能会产生不良后果。现在，每次你运行一个新程序时，你可能会想在互联网上搜索一下，看看它是否包含一个复活节彩蛋。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

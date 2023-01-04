@@ -26,11 +26,11 @@
 
 ![Screenshot: Welcome to the North](img/cf9bd36c2f9bc4c66fdf9e9006d60ed8.png)
 
-<small>图片来源:[烧烤文化](http://www.bbqcultures.com/en_GB/)</small>
+图片来源:[烧烤文化](http://www.bbqcultures.com/en_GB/)
 
 ![Screenshot: BBQ Cultures](img/b42ed5aa1b476e64b528e182c9d7cf60.png)
 
-<small>图片来源:[烧烤文化](http://www.bbqcultures.com/en_GB/)</small>
+图片来源:[烧烤文化](http://www.bbqcultures.com/en_GB/)
 
 大胆丰富的色彩、高清图像和清晰的介绍视频——配以男性化的画外音——都对户外运动者和周末战士有吸引力。该网站甚至用一个交互式滑块来模拟打开的兴奋感。mad-libs 风格的形式也迎合了用户的自我——而不是设计师的。
 
@@ -59,7 +59,7 @@
 
 ![Diagram: How UX solves Problems](img/b030da4ac57157203d31d0e007af9499.png)
 
-<small>图片来源:[你好埃里克](http://www.helloerik.com/ux-is-not-ui)</small>
+图片来源:[你好埃里克](http://www.helloerik.com/ux-is-not-ui)
 
 如上图所示，UX 需要掌握许多不同的学科。这就是为什么一个产品可以有一个很好的用户界面，但却有一个很差的 UX，而一个好的 UX 需要一个好的用户界面。
 
@@ -71,7 +71,7 @@
 
 ![Diagram: A simple site map with 'homepage' at the top.](img/9819fd08b95f61ae9299a5a7a1aa89cf.png)
 
-<small>图片来源:[UXPin](https://www.uxpin.com/)via[Barrel NY](http://www.barrelny.com/)</small>
+图片来源:[UXPin](https://www.uxpin.com/)via[Barrel NY](http://www.barrelny.com/)
 
 正如你在上面从纽约设计机构[看到的，站点地图记录了你站点的信息架构。一旦你创建了这个页面，确保你允许每个“分支”点击到页面本身的线框或原型。](http://www.barrelny.com/)
 
@@ -99,7 +99,7 @@
 
 ![Screenshot: Modal window signup box](img/ead99d878563f0f03240ce43388da4bc.png)
 
-<small>[图片来源:多林哥报名表](https://www.duolingo.com/register%24target_language=da)</small>
+[图片来源:多林哥报名表](https://www.duolingo.com/register%24target_language=da)
 
 例如，Duolingo 只要求提供陈述账户所需的必要数据，仅此而已。输入年龄或性别，虽然对设计者有帮助，但只是用户不想采取的另一个步骤。
 
@@ -107,7 +107,7 @@
 
 ![Screenshot: Modal box titled 'Create your site'.](img/608868d9f5e5eaf1f734b617ef93ba3b.png)
 
-<small>图片来源:[Squarespace](http://www.squarespace.com/templates/?q=bedford)</small>
+图片来源:[Squarespace](http://www.squarespace.com/templates/?q=bedford)
 
 同样，解决方案在于用户测试。您可以定量地确定目标用户的思维阈值，揭示表单中页面、点击和字段的完美数量。这些数字会因你的产品和用户类型而异——没有神奇的数字，所以像 [A/B 测试](https://www.formstack.com/features/a-b-testing)这样的测试是最可靠的方法。
 

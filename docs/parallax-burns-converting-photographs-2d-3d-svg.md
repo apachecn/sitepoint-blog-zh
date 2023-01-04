@@ -10,7 +10,7 @@
 
 ![GIF animation. Camera zooms in and out on an archive photo of President Wilson at the Baseball.](img/fdcccf31bc4470b63a4047a6b267aadb.png)
 
-<small>图 1:视差本·伯恩斯效果(GIF 格式)</small>
+图 1:视差本·伯恩斯效果(GIF 格式)
 
 但还有另一种类似的、但稍微复杂一些的技术，它以不同的速率平移和/或缩放照片的不同层，给图像一种轻微的 3D 效果。有时这被称为一种“[视差-本·伯恩斯效应](https://www.youtube.com/watch?v=p4UvdzUWGiY)”，有时是“[2D 到 3D 效应](https://www.youtube.com/watch?v=3ZYkFkK3Htw)”，有时是“ [2.5D 效应](https://www.youtube.com/watch?v=FraYqnnkxrk)”。你可能会认为它是'*历史频道效果*，但它也可能是' [*VH1:音乐效果背后*](http://www.vh1.com/shows/behind-the-music/episode-guide) '。
 
@@ -37,7 +37,7 @@
 
 ![Woodrow Wilson archive image](img/ec833ed2d465afbf0e92916f8913cb94.png)
 
-<small>图 2:伍德罗·威尔逊档案图像</small>
+图 2:伍德罗·威尔逊档案图像
 
 我的第一个任务是找到一个好的图片。我从 Flickr (图 2)上找到了这张伍德罗·威尔逊的无版权保护的存档照片，这张照片很有深度。
 

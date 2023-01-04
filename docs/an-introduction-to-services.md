@@ -425,6 +425,6 @@ print_r($userService->fetchByIdEncoded(1));
 
 尽管这是一个相当难以应付的场景，但是没有什么可以明确地阻止您在更小、更普通的环境中享受服务的好处，尤其是如果您正在研究 DDD 的一些核心概念的话。因此，现在您已经了解了服务的本质，请放心尝试一下。你不会后悔的。
 
-<small>图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)</small>
+图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)
 
 ## 分享这篇文章*

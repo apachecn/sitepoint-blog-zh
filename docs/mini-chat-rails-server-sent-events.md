@@ -99,7 +99,7 @@ end
 ```
 [...]
 <h4 class="media-heading"><%= link_to comment.user.name, comment.user.profile_url, target: '_blank' %> says
-  <small class="text-muted">[at <%= comment.timestamp %>]</small></h4>
+  [at <%= comment.timestamp %>]</h4>
 [...]
 ```
 
@@ -517,7 +517,7 @@ $ bundle install
       <h4 class="media-heading">
         <a href="<%%- user_profile %>" target="_blank"><%%- user_name %></a>
         says
-        <small class="text-muted">[at <%%- timestamp %>]</small></h4>
+        [at <%%- timestamp %>]</h4>
       <p><%%- body %></p>
     </div>
   </li>

@@ -119,6 +119,6 @@ $app->add(new MyMiddlewareAuth($db));
 
 我发现中间件是实现瘦应用程序各个方面的有力解决方案。在本文中，我解释了中间件架构是如何工作的，以及实现自己的中间件需要什么。有一个额外的小仓库，里面有一些基本的中间件例子，比如 CSRF 保护和 HTTP 认证。我在这里重构了这个例子，[提交了一个拉请求](https://github.com/codeguy/Slim-Extras/pull/63 "Basic Caching Middleware by tboronczyk - Pull Request #63 - codeguy/Slim-Extras")，所以如果你写了一个有用的中间件服务，为什么不考虑把它提交给项目，这样其他人也能受益呢？
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

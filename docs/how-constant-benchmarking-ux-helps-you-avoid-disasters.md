@@ -4,7 +4,7 @@
 
 ![Crimson Tide - 1995: Denzil Washington & Gene Hackman](img/373a0768b6a05a8b3f723710db9b3288.png)
 
-<small>红潮——1995 年:丹泽尔·华盛顿&吉恩·海克曼</small>
+红潮——1995 年:丹泽尔·华盛顿&吉恩·海克曼
 
 如果你曾经看过任何一部海底电影——比如《赤潮热》、《T2》、《猎杀红色十月》——有一种声音你会*永远*听到。那个空洞的、闪闪发光的‘乒’!..平！..'声音。
 
@@ -47,7 +47,7 @@ UX 设计涵盖了如此广泛的软件和网站元素，以至于将其作为�
 
 ![Google Analytics](img/7498acf2461cbedfd6e35c47a0c01123.png)
 
-<small>[转换室亚太博客](http://conversionroom-japac.blogspot.in/2011/04/new-google-analytics-quick-insights.html)</small>
+[转换室亚太博客](http://conversionroom-japac.blogspot.in/2011/04/new-google-analytics-quick-insights.html)
 
 如果客户打算与网站开展业务，网站需要值得信赖。您可以通过注意以下几点来衡量可信度:
 

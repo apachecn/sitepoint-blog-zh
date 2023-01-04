@@ -205,6 +205,6 @@ $app->delete("/book/:id", function ($id) use($app, $db) {
 
 你可以从 GitHub 下载这篇文章的[源代码。](https://github.com/phpmasterdotcom/WritingARESTfulWebServiceWithSlim "phpmasterdotcom/WritingARESTfulWebServiceWithSlim")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -26,13 +26,13 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 [![Sons of Gallipoli](img/2c08445c52b864157e58627da942bb74.png)](http://sonsofgallipoli.com/#!/)
 
-<small>Sons of Gallipoli</small>
+Sons of Gallipoli
 
 当纪录片仍在播放时，视频控件在半透明的覆盖层中显示进度。
 
 [![Sons of Gallipoli](img/2cb58424f9bf167589f1d0ce9190309c.png)](http://sonsofgallipoli.com/#!/)
 
-<small>Image Credit: [SonsofGallipoli.com](http://sonsofgallipoli.com/#!/)</small>
+Image Credit: [SonsofGallipoli.com](http://sonsofgallipoli.com/#!/)
 
 独特的布局、按需网格、CSS3 动画、更广泛的字体可用性以及许多其他因素使得比以往任何时候都更大程度的多样性成为可能。然而，你会注意到它并没有放弃可用性。该网站仍然是高度可导航的。
 
@@ -42,7 +42,7 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 ![Mint Design Company](img/afdfb8a72d2978ebd4bac356edd7a4da.png)
 
-<small>Image Credit: Mint Design Company</small>
+Image Credit: Mint Design Company
 
 2016 年，随着手工艺术品在网站上的出现，多样性将会抬头。尽管库存照片和高质量图像在过去占据了很大的主导地位，但在 2016 年，更多的网站将依赖手绘艺术而不是图形来获得视觉吸引力。
 
@@ -52,7 +52,7 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 [![Flea Hex](img/d1e24e33bd7cbaeddcdfaef76e334760.png)](http://fleahex.com/)
 
-<small>Image Credit: [FleaHex](http://fleahex.com/)</small>
+Image Credit: [FleaHex](http://fleahex.com/)
 
 ## 人工智能的作用增加
 
@@ -62,7 +62,7 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 [![Microsoft Cortana settings](img/a5e805a7694762fc8e1d3083396e9748.png)](http://windows.microsoft.com/en-us/windows-10/getstarted-what-is-cortana)
 
-<small>Image credit: [Microsoft](http://windows.microsoft.com/en-us/windows-10/getstarted-what-is-cortana)</small>
+Image credit: [Microsoft](http://windows.microsoft.com/en-us/windows-10/getstarted-what-is-cortana)
 
 世界上的 UI 设计师负责尽可能无缝和有帮助地做出响应。当然，它们不能即时实时地读取用户的上下文。但是复杂和紧急的人工智能引擎可以。比如:
 
@@ -86,7 +86,7 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 [![Samsung](img/1ecd4f814539d2a77204d0ca9704a393.png)](https://en.wikipedia.org/wiki/Universal_Display_Corporation)
 
-<small>Image credit: [Wiki commons](https://en.wikipedia.org/wiki/Universal_Display_Corporation)</small>
+Image credit: [Wiki commons](https://en.wikipedia.org/wiki/Universal_Display_Corporation)
 
 设计师们面临着一系列全新的挑战，要让应用程序甚至网站以这样的新格式访问。Mozilla 已经在开发一个兼容虚拟现实的网站，这种实验在未来几年只会越来越多。
 
@@ -104,25 +104,25 @@ WordPress 模板、响应式框架的倾向，以及实现某种外观(公司、
 
 [![Roman Kirichik's site](img/89ff93861aa70d02fa26ef10305cad25.png)](http://kirichik.com/)
 
-<small>[Roman Kirichik’s site](http://kirichik.com/)</small>
+[Roman Kirichik’s site](http://kirichik.com/)
 
 ### [标致](http://www.peugeot.com/en)
 
 [![Peugeot - Go with motion/emotion](img/ece78c7115f0319a19b5e667c281bf91.png)](http://www.peugeot.com/en)
 
-<small>[Peugeot – Go with motion/emotion](http://www.peugeot.com/en)</small>
+[Peugeot – Go with motion/emotion](http://www.peugeot.com/en)
 
 ### 桌面时间
 
 [![Desktime](img/7319ae9ce431c2a083cbadfc979a075e.png)](https://www.desktimeapp.com/)
 
-<small>[Desktime](https://www.desktimeapp.com/)</small>
+[Desktime](https://www.desktimeapp.com/)
 
 ### 新字母
 
 [![Typefaces](img/ddd043ba7f05795238b8a80914f0229c.png)](http://www.new-letters.de/)
 
-<small>[New Letters](http://www.new-letters.de/)</small>
+[New Letters](http://www.new-letters.de/)
 
 拆分布局的优点是为用户提供了清晰的二进制选项。
 
@@ -170,7 +170,7 @@ ProductHunt
 
 ![molamil.com](img/bc7731fbbd4359567774654a121f355a.png)
 
-<small>We are a Digital Partner.</small>
+We are a Digital Partner.
 
 ## 结论
 

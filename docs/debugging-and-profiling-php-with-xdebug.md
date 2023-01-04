@@ -149,6 +149,6 @@ Xdebug 充当中间人，控制服务器中 PHP 程序的执行。在本文中�
 
 我希望这篇文章能够帮助您认识到 Xdebug 的好处，如果您还没有开始使用它的话，我也鼓励您马上开始使用它。如果你发现这是一个有价值的工具，你甚至可以考虑通过购买支持协议来支持这个伟大的项目。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -85,7 +85,7 @@
 
 ![Animation: Adaptive Sketch app](img/3c6a59d1705277da8dd0165a4ec57bfb.png)
 
-<small>调整布局以适应移动屏幕</small>
+调整布局以适应移动屏幕
 
 ## 群组调整大小与自动布局插件
 

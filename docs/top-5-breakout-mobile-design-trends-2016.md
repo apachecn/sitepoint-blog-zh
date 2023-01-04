@@ -14,7 +14,7 @@
 
 [![Reddit App via Google Pla](img/67dd0d88024882529bcb086515d5f3f6.png)](https://play.google.com/store/apps/details?id=free.reddit.news)
 
-<small>照片来源: [Reddit 应用程序通过 Google Play](https://play.google.com/store/apps/details?id=free.reddit.news)</small>
+照片来源: [Reddit 应用程序通过 Google Play](https://play.google.com/store/apps/details?id=free.reddit.news)
 
 分层界面的一些常见应用包括:
 
@@ -34,7 +34,7 @@
 
 [![Clear in action - Realmac Software](img/56f1cfdb93b80e1641fc1f9c64eea794.png)](http://realmacsoftware.com/clear/)
 
-<small>图片来源:[清除 via Realmac](http://realmacsoftware.com/clear/)</small>
+图片来源:[清除 via Realmac](http://realmacsoftware.com/clear/)
 
 现在，滑动和点击就像点击一样是本能。触摸屏比光标有更多的潜在可用性——几乎无限的潜力，取决于你的创造力。要让你的移动网站或应用程序与众不同，你需要利用这种创造力。
 
@@ -58,7 +58,7 @@
 
 ![Slack via iTunes](img/db250eb8f6b264a54ee462f290ead006.png)
 
-<small>照片致谢:[通过 iTunes 松弛](https://itunes.apple.com/app/slack-app/id618783545?ls=1&mt=8)</small>
+照片致谢:[通过 iTunes 松弛](https://itunes.apple.com/app/slack-app/id618783545?ls=1&mt=8)
 
 微交互可以是任何东西，从瞬间的动画到可爱的声音效果。微交互的本质是灵活的，但是如果你想充分利用它，如何使用它应该遵循一些预先定义的准则。
 
@@ -76,7 +76,7 @@
 
 [![Betterment via Google Play](img/a2ba15f529d19be9d5738e9f57caed23.png)](https://play.google.com/store/apps/details?id=com.betterment&hl=en)
 
-<small>通过 Google Play 进行改善</small>
+通过 Google Play 进行改善
 
 屏幕越小，排版越有意义。忽略你的文字在移动设备上的呈现方式——换句话说，不改变桌面版本的排版——会创建一个难以阅读和使用的移动网站或应用程序。
 
@@ -100,7 +100,7 @@
 
 [![Spotify via Google Play](img/45424a46928a07af3c72e3bb526e8342.png)](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en)
 
-<small>照片来源:[通过 Google Play 使用 Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en)</small>
+照片来源:[通过 Google Play 使用 Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en)
 
 卡片最初是一种将大量信息组织成一口大小的方式，因此用户可以选择他们想与之互动或忽略的内容。像脸书、推特，尤其是 Pinterest 这样的社交媒体巨头将卡片带入了主流，以此来理清用户生成内容的混乱。
 

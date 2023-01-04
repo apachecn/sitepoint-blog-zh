@@ -177,6 +177,6 @@ echo $newstr;
 
 我很想知道你最常使用的字符串函数，所以请在下面的评论中随意提及。
 
-<small>图片经由[瓦西里斯](http://www.shutterstock.com/gallery-297484p1.html) / [快门架](http://www.shutterstock.com)</small>
+图片经由[瓦西里斯](http://www.shutterstock.com/gallery-297484p1.html) / [快门架](http://www.shutterstock.com)
 
 ## 分享这篇文章

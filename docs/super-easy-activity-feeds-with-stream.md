@@ -308,7 +308,7 @@ end
 
 ```
 <div class="well well-sm">
-  <small class="text-muted"><%= time_ago_in_words item.created_at %> ago</small>
+  <%= time_ago_in_words item.created_at %> ago
   <h3><%= item.title %></h3>
   <p><%= item.message %></p>
 </div> 
@@ -382,7 +382,7 @@ end
 
 ```
 <div class="well well-sm">
-  <small class="text-muted"><%= time_ago_in_words item.created_at %> ago</small>
+  <%= time_ago_in_words item.created_at %> ago
   <h3><%= item.title %></h3>
   <p><%= item.message %></p>
 
@@ -713,7 +713,7 @@ end
 
 ```
 <div class="well well-sm">
-  <p><small class="text-muted"><%= time_ago_in_words activity['time'] %> ago</small></p>
+  <p><%= time_ago_in_words activity['time'] %> ago</p>
 
   <p><strong><%= activity['object'].name %></strong> and <strong><%= activity['actor'].name %></strong> are now friends</p>
 </div> 
@@ -725,7 +725,7 @@ end
 
 ```
 <div class="well well-sm">
-  <p><small class="text-muted"><%= time_ago_in_words activity['time'] %> ago</small></p>
+  <p><%= time_ago_in_words activity['time'] %> ago</p>
   <p>
     <strong><%= activity['actor'].name %></strong> pinned
     <strong><%= activity['object'].title %></strong>

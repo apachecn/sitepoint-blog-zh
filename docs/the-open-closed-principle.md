@@ -340,6 +340,6 @@ echo $renderer->render();
 
 在本文中，我向您展示了如何创建忠实遵守开放/封闭原则的功能性软件组件的示例。作为最相关(如果不是最可靠)的原则之一，该原则当然是 OOP 的一个基本支柱，其好处如此显著，以至于它被不公平地低估了，这是一个耻辱。但是不用说，实现这样一个目标的关键需要将组件设计成多态元素，其行为通过抽象契约明确定义。从那时起，什么方法是扩展它们最有效的(是的，继承/复合二重奏再次出现)，以及它们必须向外部世界公开什么级别的闭包，完全取决于您。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -487,6 +487,6 @@ possible_keys: NULL
 
 在本文中，我讨论了 MySQL `EXPLAIN`关键字，它的输出意味着什么，以及如何使用它的输出来构造更好的查询。在现实世界中，它可能比这里演示的场景更有用。通常情况下，您会将多个表连接在一起，并使用复杂的`WHERE`子句。简单地在几列上添加索引可能并不总是有帮助的，然后是时候更仔细地研究一下查询本身了。
 
-<small>图片 via[Efman](http://www.shutterstock.com/gallery-442516p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[Efman](http://www.shutterstock.com/gallery-442516p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

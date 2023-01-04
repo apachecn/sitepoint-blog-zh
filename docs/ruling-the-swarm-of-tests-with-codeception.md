@@ -180,6 +180,6 @@ OK (1 test, 4 assertions)
 
 但是无论你使用什么样的框架，记住仅仅写测试是不够的。为了使测试干净、稳定和可维护，使用你已经知道的“亲干”原则。像页面对象和控制器(步骤对象)这样的设计模式会在这方面帮到你。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

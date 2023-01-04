@@ -50,7 +50,7 @@
 
 ![Breakfast at Tiffany's poster altered so Audrey is looking at us rather than the text.](img/ccafcaacf460c1432514d9873d320e11.png)
 
-<small>等等。奥黛丽在看着我！现在谁还在乎那条愚蠢的短信？？</small>
+等等。奥黛丽在看着我！现在谁还在乎那条愚蠢的短信？？
 
 对于这样一个微不足道的变化——不超过几个像素——它极大地改变了海报的动态。
 

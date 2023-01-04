@@ -316,6 +316,6 @@ $adapter = new PdoAdapter(
 
 除了试图揭开构造函数是潜在 LSP 违规的根源之一之外，我反对在接口中包含构造函数的论点当然不是教条。但是，仅仅因为 PHP 的对象模型在这方面是宽松的，就意识到这种“结构限制性”契约的后果可能有助于减少这种不灵活、无意义的做法的扩散。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

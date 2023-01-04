@@ -9,14 +9,14 @@
 在移动设备上，我们非常熟悉通知的概念。试着离线几个小时，当你连接到互联网时，你会被安装在你的设备上的不同应用程序的通知淹没。如果我们的网页能够在桌面和移动设备上无缝运行，那就太好了。如引言中所述，这样的系统已经被开发和标准化，所以今天我们有了 [Web 通知 API](https://www.w3.org/TR/notifications/) 。
 
 ![Notification Hell](img/f17b703ef16f4af3d75ccde813f0cb93.png)
-<small>形象恬不知耻地从布拉德·弗罗斯特的陈述中窃取，[死亡扯淡](http://www.slideshare.net/bradfrostweb/death-to-bullshit-now-with-80-more-bullshit)</small>
+形象恬不知耻地从布拉德·弗罗斯特的陈述中窃取，[死亡扯淡](http://www.slideshare.net/bradfrostweb/death-to-bullshit-now-with-80-more-bullshit)
 
 ## 什么是 Web 通知 API
 
 Web 通知 API 被定义为<q cite="https://www.w3.org/TR/notifications/">一个用于终端用户通知的 API。通知允许向网页环境之外的用户警告某个事件，例如电子邮件的发送。</q>规范没有描述 UA 应该如何以及在哪里显示这些通知。因此，我们将在不同的浏览器上看到不同的样式，并且基于我们使用的设备，我们将在不同的地方看到通知(例如，在移动设备上，我们可能会在通知栏中看到它们)。值得注意的是，在显示通知之前，浏览器会向用户显示一个警告，用户必须明确表示同意。
 
 ![An example of a notification using the Web Notifications API on Firefox](img/a1e0f47106a4b9b0867c85729096a8a5.png)
-<small>在 Firefox 上使用 Web 通知 API 的通知示例</small>
+在 Firefox 上使用 Web 通知 API 的通知示例
 
 这个 API 已经存在了一段时间，以至于规范已经改变了几次。该规范有两个主要版本。第一个版本是在 Chrome 和 Firefox 的旧版本中实现的。现在，该规范看起来很稳定，尽管截至 2014 年 4 月 19 日，它仍然是 W3C 的工作草案。
 

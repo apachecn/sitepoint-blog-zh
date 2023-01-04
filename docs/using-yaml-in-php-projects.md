@@ -257,6 +257,6 @@ class YamlParserException extends Exception
 
 现在您已经了解了什么是 YAML，如何在 YAML 表示 PHP 数组，以及如何将 PHP YAML 解析器集成到您的项目中。通过多花一点时间学习 YAML 语法，您将能够掌握它提供的强大功能。您也可以考虑探索广泛使用 YAML 的 Symfony 1.4 和 2 框架。如果您对本文中的[代码感兴趣，可以在 GitHub 上找到。](https://github.com/phpmasterdotcom/UsingYAMLinPHP "phpmasterdotcom/UsingYAMLinPHP")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

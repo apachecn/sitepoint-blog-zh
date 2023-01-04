@@ -333,6 +333,6 @@ if ($book && $book->delete()) {
 
 通过本文，您已经熟悉了一个用于与数据库交互的简单库。事实是，随着应用程序的增长，使用 NotORM 的代码将变得不那么容易管理，因此您需要根据应用程序的预期大小和其他因素来决定 NotORM 是否合适。但是当使用 NotORM 时，您不需要担心编写原始 SQL 查询或创建具有复杂关系的实体类。相反，您可以使用熟悉的面向对象符号来直接处理表和列。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

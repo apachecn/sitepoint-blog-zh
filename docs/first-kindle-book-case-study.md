@@ -131,12 +131,12 @@ Java's original name was what?<br><br>
 
 <body>
 <div>
-<center>
+
 The <b style="font-size: x-large">BIG</b> Java Quiz<br><br>
 by<br><br>
 Jeff Friesen<br><br><br><br><br><br><br><br><br><br>
 A <a href="http://tutortutor.ca">TUTORTUTOR.CA</a> PUBLICATION
-</center>
+
 </div>
 </body>
 </html>
@@ -225,8 +225,8 @@ hope you find this quiz helpful.
 
 <body>
 <div>
-<center><img src="jeff.png" alt="Jeff Friesen" 
-             width="161" height="155"></center><br>
+<img src="jeff.png" alt="Jeff Friesen" 
+             width="161" height="155"><br>
 
 <b>Jeff Friesen</b> is a freelance tutor and software 
 developer with an emphasis on Java. Check out my <a 

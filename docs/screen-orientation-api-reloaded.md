@@ -193,11 +193,11 @@ if (orientation === null) {
          </form>
       </div>
 
-      <small class="author">
+      
          Demo created by <a href="http://www.audero.it">Aurelio De Rosa</a>
          (<a href="https://twitter.com/AurelioDeRosa">@AurelioDeRosa</a>).<br />
          This demo is part of the <a href="https://github.com/AurelioDeRosa/HTML5-API-demos">HTML5 API demos repository</a>.
-      </small>
+      
 
       <script>
          var prefix = 'orientation' in screen ? '' :

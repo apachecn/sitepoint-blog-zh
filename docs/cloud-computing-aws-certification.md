@@ -40,7 +40,7 @@
 
 ![Screenshot of all AWS certifications](img/ea5d3536f893019ff661d72a3da644ab.png)
 
-<small>AWS 认证</small>
+AWS 认证
 
 **基础级**只有一个认证， [AWS 认证云从业者](https://www.sitepoint.com/premium/courses/aws-certified-cloud-practitioner-2020-3110)证书。它涵盖的主题包括:
 
@@ -282,7 +282,7 @@ S3 *怎么收你*？S3 指控你的依据是:
 
 ![AWS S3 Storage Classes](img/af53063739b8a25a1a9469f02589bfb6.png)
 
-<small>[来源:AWS 重塑](https://image.slidesharecdn.com/deep-dive-on-amazon-s3-storage-6c838def-e103-4146-be1d-dc46a04bb6ed-1657834313-181130064200/95/deep-dive-on-amazon-s3-storage-classes-creating-cost-efficiencies-across-your-s3-resources-stg398r1-aws-reinvent-2018-13-1024.jpg?cb=1543560153)</small>
+[来源:AWS 重塑](https://image.slidesharecdn.com/deep-dive-on-amazon-s3-storage-6c838def-e103-4146-be1d-dc46a04bb6ed-1657834313-181130064200/95/deep-dive-on-amazon-s3-storage-classes-creating-cost-efficiencies-across-your-s3-resources-stg398r1-aws-reinvent-2018-13-1024.jpg?cb=1543560153)
 
 ### AWS 数据库服务
 
@@ -602,7 +602,7 @@ AWS Trusted Advisor 是一种工具，通过实施它提供的建议，帮助用
 
 ![AWS Shared Responsibility Model](img/a049f52dd8ffcbd1497a0a824b75b723.png)
 
-<small>[AWS 共享责任模式](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)</small>
+[AWS 共享责任模式](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
 
 上图说明了客户和 AWS 之间的共同责任。
 

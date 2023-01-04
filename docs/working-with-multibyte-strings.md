@@ -100,6 +100,6 @@ echo ($result) ? "found" : "not found";
 
 想了解更多？说真的，你知道？我真的以为这会把你吓跑。我对此没有准备。我的时间到了。你的最佳选择？查看 PHP 手册。哦，试试别的东西。使用某物的实际经验是无法替代的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

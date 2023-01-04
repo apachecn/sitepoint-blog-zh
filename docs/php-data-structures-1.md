@@ -234,6 +234,6 @@ echo $myBooks->bottom() . "n"; // outputs 'A Storm of Swords'
 
 这些结构也受到这种操作的影响:只能从堆栈的顶部添加或移除项，并且只能从队列的前面移除项，或者将项添加到队列的后面。
 
-<small>图片由 [Alexandre Dulaunoy](http://www.flickr.com/photos/31797858@N00/8631389697/) 通过 Flickr</small>
+图片由 [Alexandre Dulaunoy](http://www.flickr.com/photos/31797858@N00/8631389697/) 通过 Flickr
 
 ## 分享这篇文章

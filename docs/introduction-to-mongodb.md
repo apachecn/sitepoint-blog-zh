@@ -207,6 +207,6 @@ print_r($document);
 
 MongoDB 是一个非常简单但功能强大的数据库，如果您有大量非结构化数据，可以使用它。除了我在这篇文章中提到的，还有很多很多更多的特性，也许将来我会写另一篇文章来讨论其中的一些。在那之前，试着按照文章中提到的例子来做，如果你有任何问题，请随意发表评论。
 
-<small>图像通过[图形](http://www.shutterstock.com/gallery-368671p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [快门](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图像通过[图形](http://www.shutterstock.com/gallery-368671p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [快门](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

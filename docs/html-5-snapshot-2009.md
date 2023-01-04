@@ -164,7 +164,7 @@ document.createElement("section");
 <figure>
 <img src="bruce-lawson.png">
 <legend>Bruce Lawson, a sort of modern-day Clark Gable
-<small>Photo copyright Bruce's mum, all rights reserved</small>
+Photo copyright Bruce's mum, all rights reserved
 </legend>
 </figure>
 ```

@@ -252,6 +252,6 @@ include ERRORS . "/404.php";
 
 仅此而已。正如您所看到的，PHP 服务器简单易用。我们的定制快速服务器是非常基本的，代码可以优化和封装成一个更复杂和功能齐全的类。像往常一样，你可以从 GitHub 下载源代码来玩。编码快乐！
 
-<small>图片 via [尤金·库兹曼诺克](http://www.shutterstock.com/gallery-259513p1.html)/[Shutterstock](http:/www.shutterstock.com)</small>
+图片 via [尤金·库兹曼诺克](http://www.shutterstock.com/gallery-259513p1.html)/[Shutterstock](http:/www.shutterstock.com)
 
 ## 分享这篇文章

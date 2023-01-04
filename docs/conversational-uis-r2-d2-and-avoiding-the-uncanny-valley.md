@@ -8,7 +8,7 @@
 
 ![SMS on a Nokia feature phone](img/cf90a60746aa7c61ca5ef477f06250f3.png)
 
-<small>短信:第一杀手级 app。</small>
+短信:第一杀手级 app。
 
 不——尽管它们可能很重要，但我认为最初的杀手级应用应该是[短信](https://en.wikipedia.org/wiki/Short_Message_Service)(或短信)。互相发送短信听起来并不创新或令人兴奋，但从 90 年代早期开始，短信推动了手机市场，同时为电话网络提供商提供了利润丰厚的收入来源。
 
@@ -38,7 +38,7 @@ Slack 没有使用标准的账户创建注册表格，而是使用了他们的�
 
 ![Quartz app: Conversational UIs as News](img/b32da38e96dd7a62c7b04a2249835900.png)
 
-<small>石英 app</small>
+石英 app
 
 Quartz 是一款新的新闻应用程序(目前仅支持 iOS ),它将对话式用户界面的理念提升到了一个新的高度。
 
@@ -50,7 +50,7 @@ Quartz 是一款新的新闻应用程序(目前仅支持 iOS ),它将对话式�
 
 ![Quartz Conversational UIs in action](img/ebf27288061ba9a70c1d2a0e51588d61.png)
 
-<small>石英对话界面</small>
+石英对话界面
 
 一个引人注目的小 UI 触摸是“打字”指示器，它出现在 Quartz 向屏幕发布新消息之前——语音气泡内的三个击鼓点(见上面的动画)。
 
@@ -108,7 +108,7 @@ Quartz 是一款新的新闻应用程序(目前仅支持 iOS ),它将对话式�
 
 ![The Uncanny Valley as Star Wars](img/f0700ac3384703dc20bfd4d6961f9926.png)
 
-<small>作为星球大战的恐怖谷</small>
+作为星球大战的恐怖谷
 
 恐怖谷的概念也适用于这些对话用户界面，这是有道理的。也许“Quartzbot”(或不管它叫什么)有点可爱，因为它设法落在了图表中相对简单、“不令人毛骨悚然”的 R2-D2 部分。
 

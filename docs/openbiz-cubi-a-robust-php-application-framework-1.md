@@ -92,6 +92,6 @@ Cubi 用户帐户简称为“用户”。角色通常意味着一种类型的用
 
 我将在这里结束这个系列的第一部分。到目前为止，我们已经讨论了 web 开发人员面临的挑战以及 Openbiz Cubi 如何提供帮助，如何安装 Cubi，并对 Cubi 的组织方式进行了简要概述。在下一部分中，我将深入探讨并向您展示如何创建您自己的模块。敬请期待！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

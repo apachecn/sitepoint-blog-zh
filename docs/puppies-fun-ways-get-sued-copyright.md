@@ -22,13 +22,13 @@
 
 ![Puppies - Art Rogers (1985)](img/4c1a751ba73d1379f7dbe0a4f3cc0f8c.png)
 
-<small>小狗——阿特·罗杰斯(1985)</small>
+小狗——阿特·罗杰斯(1985)
 
 昆斯在 1988 年创作了他的“一串小狗”雕塑系列，后来他公开承认使用了罗杰斯的照片作为作品的基础。
 
 ![String of Puppies](img/a11ba4ce07bbdc4a4562d7f6d0596145.png)
 
-<small>一串小狗</small>
+一串小狗
 
 在法庭上，昆斯引用了我们今天仍经常听到的两条辩护理由:
 

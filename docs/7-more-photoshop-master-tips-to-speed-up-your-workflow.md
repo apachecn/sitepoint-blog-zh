@@ -28,7 +28,7 @@
 
 [![Susan Murtaugh - My Wacom](img/4fc2af0afe07a342459b4f2af1fe262b.png)](https://www.flickr.com/photos/suzi54241/10887952833)
 
-<small>作品:[苏珊·墨陶](https://www.flickr.com/photos/suzi54241/10887952833)</small>
+作品:[苏珊·墨陶](https://www.flickr.com/photos/suzi54241/10887952833)
 
 第一次使用平板电脑可能会感觉有点奇怪，但一旦你习惯了使用它工作，你就会想知道没有它你是如何应付的。
 
@@ -50,7 +50,7 @@
 
 [![Finbar Bogerd - Media Center Applications](img/a8b8006ce929d5edf155c5fc3f9c0e75.png)](https://www.flickr.com/photos/39224792@N07/5509439264/)
 
-<small>照片:[【精细转向架】](https://www.flickr.com/photos/39224792@N07/5509439264/)</small>
+照片:[【精细转向架】](https://www.flickr.com/photos/39224792@N07/5509439264/)
 
 与其在这里讨论平板电脑的细节，我建议你去看看 [Parka 博客《2015 年优秀平板电脑买家指南》](http://www.parkablogs.com/content/which-graphics-drawing-tablet-buy-2015-non-display-types),里面有一份关于你需要什么样的平板电脑的总结。
 
@@ -76,7 +76,7 @@ droplet 是一种特殊的文件，由您创建并保存在硬盘上，包含您
 
 ![Droplets on a desktop.](img/4dbfe7be800b0ff719f43dfe8c8d48d8.png)
 
-<small>将图像拖放到一个液滴上。</small>
+将图像拖放到一个液滴上。
 
 最酷的是你甚至不用打开 Photoshop！
 
@@ -112,7 +112,7 @@ droplet 是一种特殊的文件，由您创建并保存在硬盘上，包含您
 
 [![Filterforge](img/9766ed3e8021eccbb6d8794caf5f76a8.png)](https://www.filterforge.com/)
 
-<small>过滤器锻造</small>
+过滤器锻造
 
 虽然默认的 Photoshop 的滤镜组很有表现力，但是还有更多可以帮助你的工作流程。虽然我避免让 Photoshop 过载第三方滤镜，但我的系统中有一些“必备”滤镜。它们包括:
 
@@ -134,7 +134,7 @@ droplet 是一种特殊的文件，由您创建并保存在硬盘上，包含您
 
 ![Guideguide](img/b3f9d0527f95e57c551426a496c21cdf.png)
 
-<small>导游导游</small>
+导游导游
 
 扩展通常是免费的，这使得它们成为完全软件升级的一个非常可行的替代方案。
 

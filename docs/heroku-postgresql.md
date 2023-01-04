@@ -160,6 +160,6 @@ $result->closeCursor();
 
 如果您的 web 应用程序使用 PostgreSQL，那么您肯定应该研究 Heroku 的产品。你会发现它们非常适合你。
 
-<small>图片通过[约瑟夫·巴戈塔](http://www.shutterstock.com/gallery-117865p1.html) / [快门](http://www.shutterstock.com)</small>
+图片通过[约瑟夫·巴戈塔](http://www.shutterstock.com/gallery-117865p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

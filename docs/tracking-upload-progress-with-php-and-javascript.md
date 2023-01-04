@@ -221,6 +221,6 @@ PHP 提供了一些额外的指令来帮助微调您应该知道的会话上传�
 
 现在，您应该已经掌握了如何使用会话上传进度功能为文件上传创建进度条。接下来，我鼓励你尝试上传多个文件，使用`$_SESSION[$key]["cancel_upload"]`或者你能想到的任何其他方法来取消正在进行的上传。请在评论中分享你的经历和改进，让其他人也能从中受益和享受！
 
-<small>图像通过[文件 404](http://www.shutterstock.com/gallery-587221p1.html) / [快门](http://www.shutterstock.com)</small>
+图像通过[文件 404](http://www.shutterstock.com/gallery-587221p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

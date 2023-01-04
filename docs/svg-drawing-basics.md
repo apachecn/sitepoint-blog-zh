@@ -112,7 +112,7 @@ stroke="#999" stroke-width="5" stroke-linecap="round" />
 
 ![SVG stroke-linecap](img/d91509a295bab798f0a0c00d15910fae.png)
 
-<small>图片来源:</small>
+图片来源:
 
 ## 多叉线
 
@@ -128,7 +128,7 @@ stroke-linejoin="round" fill="none" />
 
 ![SVG stroke-linejoin](img/27feb20b99131258ff2cd89bc918d3be.png)
 
-<small>图片来源:</small>
+图片来源:
 
 ## 多边形
 

@@ -10,7 +10,7 @@
 
 ![ <em>Latest website on the left with the legacy site on the right</em>](img/86736354141c31815409270172873e64.png)
 
-<small>最新网站在左边，旧网站在右边</small>
+最新网站在左边，旧网站在右边
 
 ## 一个抛光和更新的外观
 
@@ -74,11 +74,11 @@
 
 ![Animation: The way things resized previously](img/3d434b3a63dbdbe863d65600bc8670e4.png)
 
-<small>原字体大小调整功能</small>
+原字体大小调整功能
 
 ![Animation: The way things resize now](img/3cb6ba96c6eabfc14488d07c8d29350f.png)
 
-<small>新的字体调整功能</small>
+新的字体调整功能
 
 注意到当我们调整字体大小时，跟踪字体变得更加困难了吗？这是让你的字体预览变得乏味的一个小问题。有了这个新网站，你可以在预览窗口中单独改变字体的大小，这意味着其他字体不会移动，你也不需要滚动那么多。
 
@@ -88,7 +88,7 @@
 
 ![A Refreshed Specimen Preview](img/86736354141c31815409270172873e64.png)
 
-<small>刷新后的标本预览</small>
+刷新后的标本预览
 
 更新后的网站完全取消了弹出功能。当你点击每种字体上的单词“**See speciment**”时，页面会加载一个长长的页面，概述该字体中的所有字符、其各种粗细、作者/设计者，以及次要信息，如它最常用的位置以及与它匹配的字体。总的来说，这是一个更新鲜的现代外观，实际上吸引了我的注意力。
 
@@ -104,7 +104,7 @@
 
 ![Page load metrics](img/8ff2c02676b3e74af56edce4703c91ac.png)
 
-<small>旧页面负载指标</small>
+旧页面负载指标
 
 屏幕分为“嵌入”和“自定义”两个面板。嵌入部分允许您访问样式表的 URL 和需要使用的 CSS 规则。在“自定义”面板中，您可以选择字体粗细/样式，并查看字体的速度效果。
 
@@ -114,7 +114,7 @@
 
 ![New page load metric](img/4671474fdfd1bdeea2af3139d5ce80d3.png)
 
-<small>新的页面负载指标</small>
+新的页面负载指标
 
 例如，如果你有几种风格，影响可能被判断为“缓慢”，但如果没有数字，就很难理解影响的规模。
 

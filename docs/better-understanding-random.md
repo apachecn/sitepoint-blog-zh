@@ -42,6 +42,6 @@ PHP 使用其他方法获得高质量的种子来生成随机值，用于加密�
 
 因为随机值对于安全应用以及完成各种编程任务非常重要，所以使用高质量的种子作为生成器是程序员应该时刻牢记的一个因素。对于非普通任务(如密码哈希)使用任何种子都可能导致很高的安全风险。确保使用强大的随机生成器和高质量的种子。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -163,6 +163,6 @@ class MyTest extends PHPUnit_Framework_TestCase
 
 如果您确实关心这种逻辑的执行，那么同样重要的是，您知道如何补充 PHPUnit 的功能，以便在尽可能接近生产环境的条件下准确测试您的代码。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

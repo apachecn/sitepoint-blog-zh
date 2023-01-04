@@ -164,6 +164,6 @@ echo 'comment successfully added';
 
 如您所见，Fuel CMS 不像大型 CMS 平台那样为许多事情提供预打包的解决方案；作为开发人员，很多事情都取决于您。但幸运的是，由于 CodeIgniter 框架和 Fuel CMS 的助手库，这并不难。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

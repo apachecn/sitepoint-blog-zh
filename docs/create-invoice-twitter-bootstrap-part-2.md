@@ -21,7 +21,7 @@
 </div>
 <div class="col-xs-6 text-right">
   <h1>INVOICE</h1>
-  <h1><small>Invoice #001</small></h1>
+  <h1>Invoice #001</h1>
 </div>
 <hr>
 next section
@@ -205,7 +205,7 @@ payment details section
           Mobile : +92123456789 <br> <br>
           Twitter  : <a href="https://twitter.com/tahirtaous">@TahirTaous</a> | SitePoint : <a href="https://www.sitepoint.com/author/ttaous/">https://www.sitepoint.com/author/ttaous/</a>
       </p>
-      <h4><small>payment should be mabe by Bank Transfer</h4>
+      <h4>payment should be mabe by Bank Transfer</h4>
     </div>
   </div>
 </div>

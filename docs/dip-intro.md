@@ -395,6 +395,6 @@ print_r($fileStorage->read());
 
 既然您已经知道 DIP 的真正本质，请确保利用它带来的所有好处，这些好处肯定会使您的应用程序不那么容易受到随着时间的推移最终可能出现的脆弱性和刚性问题的影响。
 
-<small>图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)</small>
+图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)
 
 ## 分享这篇文章

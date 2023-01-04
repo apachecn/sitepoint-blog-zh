@@ -202,6 +202,6 @@ $logger->debug('My debug test');
 
 通过利用 PSR-3 日志接口和 log4php，符合标准的日志现在可以非常简单地添加到我们的任何项目中。要了解 log4php 的更多信息，请访问[快速入门指南](http://logging.apache.org/log4php/quickstart.html "Apache log4php - Quick start- Apache log4php")。关于 PSR-3 的更多信息，请阅读 GitHub 上的[标准。](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md "fig-standards/accepted/PSR-3-logger-interface.md at master - php-fig/fig-standards - GitHub")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

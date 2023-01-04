@@ -596,6 +596,6 @@ $unitOfWork->commit();
 
 请记住，尽管这种模式有很多好处，但它远不是解决与对持久层的大规模访问相关的所有问题的灵丹妙药。但是，在必须跨多个位置执行昂贵的数据库写入的企业级应用程序中，UOW 提供了一种有效的、类似于事务的方法来减少底层开销，因此当与缓存机制适当耦合时，它成为一种可靠的、多方面的解决方案。
 
-<small>图片 via [朱可夫奥列格](http://www.shutterstock.com/gallery-66737p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via [朱可夫奥列格](http://www.shutterstock.com/gallery-66737p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

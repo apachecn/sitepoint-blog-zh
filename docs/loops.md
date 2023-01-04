@@ -166,6 +166,6 @@ while (!feof($employeeFile));
 *   如果需要完全脱离循环，可以使用`break`。
 *   如果您想跳过迭代的剩余语句并继续下一个，您可以使用`continue`。
 
-<small>图片 via [马尔西奥](http://www.shutterstock.com/gallery-192436p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via [马尔西奥](http://www.shutterstock.com/gallery-192436p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

@@ -40,7 +40,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 最后，您可以将文本块链接到网站 URL——只需在主字符面板的 URL 字段中输入 URL。这里有一个例子:
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="75"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="75" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="75"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="75" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 版权所有[梅龙菲尔](https://www.melonfire.com/)，2000 年。保留所有权利。
 
@@ -52,7 +52,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 一旦块的单个组件被分离，您可以使用绘图和颜色工具来应用不同类型的效果到对象。拆分文本块是对对象应用补间形状的必要前提。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="75"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x2.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x2.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="75" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="75"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x2.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x2.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="75" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 我是怎么做到的？很简单。
 
@@ -76,7 +76,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 考虑下面的例子，它使用一个补间动画来模拟一个简单的滚动滚动条。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="200" height="50"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x3.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x3.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="200" height="50" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="200" height="50"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x3.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x3.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="200" height="50" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 在本例中，我首先创建了一个包含 tickertape 文本的文本框。然后，我选择了该框，将其转换为一个元件，向下插入一个新的关键帧，并将该元件移动到舞台的另一侧。通过对中间阶段应用补间动画，可以模拟滚动滚动条的效果。
 
@@ -84,7 +84,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 另一个有趣的效应是所谓的“文本淡化”效应。它看起来是这样的:
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="100"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x4.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x4.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="100" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="115" height="100"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x4.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x4.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="115" height="100" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 这也是通过一个补间动画来完成的——实际上是两个补间动画。创建包含文本的元件，并将它的三个实例放在舞台上，在时间轴中彼此相距适当的距离。第一个和第三个实例的 alpha 级别应为 0%(完全透明)，而第二个实例的 alpha 级别应为 100%(完全不透明)。最后，在第一个和第二个实例之间添加一个补间动画，在第二个和第三个实例之间添加另一个补间动画。
 
@@ -128,7 +128,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 完成了吗？切换回舞台，并确保“控制->启用简单按钮”菜单项已激活–这将允许您在 Flash 创作环境本身中测试按钮。现在尝试一下——您应该会看到类似这样的内容:
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="150" height="150"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x5.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x5.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="150" height="150" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="150" height="150"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x5.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x5.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="150" height="150" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 很酷吧。
 
@@ -144,7 +144,7 @@ Flash 还允许你创建动态文本框，以及接受用户输入的文本框�
 
 一旦你输入了一个网址，你就可以看到它是如何通过下面的按钮工作的——它将在一个新的浏览器窗口中打开一个新的网站。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="150" height="150"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x6.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x6.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="150" height="150" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="150" height="150"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part4/x6.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part4/x6.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="150" height="150" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 为了在 Flash 创作环境中测试动作，您需要确保 Control-> Enable Simple Frame Actions 菜单项被激活。
 

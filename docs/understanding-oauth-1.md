@@ -147,6 +147,6 @@ $response = file_get_contents($requestUrl);
 
 本文的授权部分到此结束。到目前为止，您已经学习了如何创建一个新的 Twitter 应用程序，并使用所提供的消费者凭证逐步通过 OAuth“舞蹈”来获得访问凭证。在本系列的第二部分也是最后一部分，我将讨论使用访问凭证向用户的 Twitter 流发布一条 tweet。
 
-<small>图片 via[Quin](http://www.shutterstock.com/gallery-151012p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[Quin](http://www.shutterstock.com/gallery-151012p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

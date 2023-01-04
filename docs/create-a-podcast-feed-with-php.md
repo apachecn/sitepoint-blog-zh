@@ -356,6 +356,6 @@ $app->get('/podcast.xml', function () use ($app, $c) {
 
 在本文中，我展示了如何构建一个简单的应用程序来创建和发布自己的播客。这个实现缺少很多东西，比如编辑和删除剧集、适当的验证和安全性等。它们超出了本文的范围，但是添加起来很简单。请随意从 GitHub 下载源代码并编码！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

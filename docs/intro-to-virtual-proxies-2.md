@@ -431,6 +431,6 @@ foreach ($post->getComments() as $comment) {
 
 第二，它们是一个经典的例子，说明了多态性的使用是一种有效的疫苗，可以减少许多面向对象应用程序遭受的常见的[刚性和脆弱性](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)问题。此外，由于 PHP 的对象模型简单，并且支持[闭包](http://www.php.net/manual/en/functions.anonymous.php)，因此可以将这些特性很好地混合起来，构建底层逻辑由闭包驱动的代理。如果你想独自应对这个挑战，那么我提前祝福你。
 
-<small>图片 via[imredesiuk/](http://www.shutterstock.com/gallery-496894p1.html)Shutterstock</small>
+图片 via[imredesiuk/](http://www.shutterstock.com/gallery-496894p1.html)Shutterstock
 
 ## 分享这篇文章

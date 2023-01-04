@@ -231,6 +231,6 @@ public $scaffold = 'admin';
 
 在这篇介绍性文章中，您只看到了 CakePHP 功能的冰山一角。CakePHP 有很多特性，几乎每一个都是可扩展和可定制的，以满足你的需求。此外，你还可以指望一个非常有用的[文档](http://book.cakephp.org/)，一个完整的 [API 参考](http://api20.cakephp.org/)，以及一个名为[面包店](http://bakery.cakephp.org/)的活跃社区。建议你先从[教程](http://book.cakephp.org/2.0/en/tutorials-and-examples.html)和……祝烘焙快乐！
 
-<small>图片通过[【susaiy】](http://www.shutterstock.com/gallery-603064p1.html)/[快门闭锁](http://shutterstock.com)</small>
+图片通过[【susaiy】](http://www.shutterstock.com/gallery-603064p1.html)/[快门闭锁](http://shutterstock.com)
 
 ## 分享这篇文章

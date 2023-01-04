@@ -419,6 +419,6 @@ if (($current_browser->Browser == 'IE') && ($current_browser->MajorVer == 6)) {
 
 我也给了你一些关于如何使用 Browscap 数据的想法——如果你能想到其他的，一定要在评论中告诉我！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

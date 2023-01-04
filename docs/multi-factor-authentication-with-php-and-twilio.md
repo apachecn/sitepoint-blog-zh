@@ -253,6 +253,6 @@ else {
 
 我希望这篇文章对理解多因素身份验证和 Twilio 有所帮助。欢迎在下方发表评论，分享您如何在自己的应用中使用 Twilio 或实施多因素身份验证。我很想听听！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

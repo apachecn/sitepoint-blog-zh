@@ -87,6 +87,6 @@ if (true) {
 
 祝所有人 2012 年快乐且富有成效。
 
-<small>图片 via [祖里耶塔](http://www.shutterstock.com/gallery-386239p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via [祖里耶塔](http://www.shutterstock.com/gallery-386239p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

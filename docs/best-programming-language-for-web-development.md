@@ -129,7 +129,7 @@
 
 ### 超文本标记语言
 
-<center style="margin: 1em 0;">![HTML5 logo](img/8429490c5e8a3b5abf16988f8978a0e2.png)</center>
+![HTML5 logo](img/8429490c5e8a3b5abf16988f8978a0e2.png)
 
 超文本标记语言(HTML)是创建网页的标准标记语言。与 CSS 和 JavaScript 一起，它是万维网的三大核心技术之一。HTML 简单易学，应用广泛。对于初学者和有经验的开发人员来说，这都是一个不错的选择。
 
@@ -154,7 +154,7 @@ HTML 用于结构化内容，对于创建网页来说是必不可少的，包括
 
 ### 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-<center style="margin: 1em 0;">![CSS3 logo](img/69a62386698eabcfd01e1b84797884e6.png)</center>
+![CSS3 logo](img/69a62386698eabcfd01e1b84797884e6.png)
 
 [层叠样式表](https://www.w3.org/TR/CSS/#css) (CSS)是一种样式表语言，用于描述以 HTML 或 XML 编写的文档的表示。CSS 用于设计所有 HTML 元素的样式，包括文档的布局、颜色和字体。
 
@@ -170,7 +170,7 @@ CSS 简单易学，应用广泛。对于初学者和有经验的开发人员来�
 
 ### Java Script 语言
 
-<center style="margin: 1em 0;">![The unofficial JS logo](img/4c00b834aefebe96edee1abb079a6e89.png)</center>
+![The unofficial JS logo](img/4c00b834aefebe96edee1abb079a6e89.png)
 
 [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) (通常缩写为 JS)是一种高级的、解释型的编程语言。它被用来创建交互式网页。
 
@@ -201,7 +201,7 @@ JavaScript 是由 Brendan Eich 在 1995 年发明的，自此成为网络上使�
 
 ### 服务器端编程语言（Professional Hypertext Preprocessor 的缩写）
 
-<center style="margin: 1em 0;">![The PHP logo](img/0358cb5eff0f0f4def42588e0bc82419.png)</center>
+![The PHP logo](img/0358cb5eff0f0f4def42588e0bc82419.png)
 
 [PHP:超文本预处理器](https://www.php.net/) (PHP)是一种服务器端脚本语言。它被用来创建动态网页。PHP 代码在服务器上执行，然后结果被发送到浏览器。
 
@@ -226,7 +226,7 @@ PHP 是在 PHP 许可下发布的免费开源软件，也是在 1995 年首次�
 
 ### C#
 
-<center style="margin: 1em 0;">![The C sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)</center>
+![The C sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)
 
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (读作“C sharp”)是微软创造的通用、高级、多范例编程语言。它用于创建桌面和网络应用程序。C#类似于 C++，但它有一些独特的功能和微软提供的工具集(如 [Visual Studio](https://visualstudio.microsoft.com/) )，这有助于更好的开发人员体验。
 
@@ -250,7 +250,7 @@ C#于 2000 年首次发布，是一种非常流行的编程语言，尤其是在
 
 ### 以打字打的文件
 
-<center style="margin: 1em 0;">![The TypeScript logo](img/4a9e6500d20bacc0c208077fe1154798.png)</center>
+![The TypeScript logo](img/4a9e6500d20bacc0c208077fe1154798.png)
 
 [TypeScript](https://www.typescriptlang.org/) 是 JavaScript 的超集，增加了静态类型检查。TypeScript 被编译成 JavaScript，因此它可以在任何浏览器或 JavaScript 环境中运行。
 
@@ -276,7 +276,7 @@ TypeScript 也是由微软创建的，并于 2012 年首次发布。近几年在
 
 ### 计算机编程语言
 
-<center style="margin: 1em 0;">![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)</center>
+![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)
 
 Python 是一种广泛使用的高级解释编程语言，由吉多·范·罗苏姆于 1991 年创建。Python 以其简单的语法和可读性而闻名。它用于创建网络应用程序、科学计算、[人工智能](https://www.sitepoint.com/best-programming-language-for-ai/) (AI)等等。
 
@@ -301,7 +301,7 @@ Python 是一种广泛使用的高级解释编程语言，由吉多·范·罗苏
 
 ### 去
 
-<center style="margin: 1em 0;">![The Go logo](img/491ffee5db32b6b3e8e2fd8b2ec0f526.png)</center>
+![The Go logo](img/491ffee5db32b6b3e8e2fd8b2ec0f526.png)
 
 [Go](https://go.dev/) (通常被称为“Golang”)是谷歌在 2009 年创建的一种免费开源编程语言。Go 是一种静态类型的编译语言，感觉像是一种动态语言。它用于创建 web 应用程序、分布式系统等等。
 

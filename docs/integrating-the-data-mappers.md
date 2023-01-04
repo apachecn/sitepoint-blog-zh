@@ -617,6 +617,6 @@ foreach ($posts as $post) {
 
 尽管如此，额外的努力通常会产生有益的波动效应，因为它有助于积极推动多层设计的使用以及良好的 OOP 实践，其中所涉及的对象只有几个，[定义良好的职责](http://en.wikipedia.org/wiki/Single_responsibility_principle)，并且模型不会使其原始的生态系统受到数据库逻辑的污染。除此之外，将模型从一种基础设施转移到另一种基础设施可以相当轻松地完成，您将会看到为什么这种方法在开发必须具有良好伸缩性的应用程序时非常有吸引力。
 
-<small>图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)</small>
+图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://shutterstock.com)
 
 ## 分享这篇文章

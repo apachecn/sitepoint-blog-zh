@@ -295,6 +295,6 @@ foreach($guests as $guest) {
 
 不用说，仅仅因为可以就盲目的把它们堆起来，没有太大的意义。在所有情况下，要有意识，并确保将它们的使用范围缩小到你正在处理的上下文中。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

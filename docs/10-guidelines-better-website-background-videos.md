@@ -50,7 +50,7 @@
 
 ![Low contrast text on video](img/963cb622382f19391511dbc282ce349d.png)
 
-<small>图片由 Pexels 提供</small>
+图片由 Pexels 提供
 
 ## 确保视频拉伸以填充其容器
 

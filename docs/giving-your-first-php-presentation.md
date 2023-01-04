@@ -84,6 +84,6 @@
 
 和往常一样，如果你需要任何帮助或者你需要开始展示 PHP 的最后一击，请随时联系我！
 
-<small>图片 via [朱堤丰](http://www.shutterstock.com/gallery-85050p1.html) /</small>
+图片 via [朱堤丰](http://www.shutterstock.com/gallery-85050p1.html) /
 
 ## 分享这篇文章

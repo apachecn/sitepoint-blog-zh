@@ -54,6 +54,6 @@
 
 在这一部分中，我们讨论了重构代码的可扩展性，集中讨论了三个主要方面:逻辑可扩展性、模块化设计、解耦和封装。希望现在您开始对如何开发和维护更好的应用程序有更好的了解。在最后一部分中，我们将讨论如何在不牺牲可读性和可扩展性的情况下进行重构以获得更高的效率。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -218,7 +218,7 @@ arial, helvetica, sans-serif;font-size:1.1 em;}--></STYLE>
 
 *部门冗余**部门冗余**部门冗余*
 
-您会惊讶地发现有多少标记和属性是多余的，可以在不影响代码运行的情况下删除。像`<FONT>`和`<BASEFONT>`、`<CENTER>`、`<STRIKE>`和`<U>`这样的废弃标签可以用样式表更有效地处理。许多种类的`<BODY>`属性也是如此—`BGCOLOR,``BACKGROUND,``LINK``ALINK``VLINK`等等。越依赖样式表，就越符合 XHTML。
+您会惊讶地发现有多少标记和属性是多余的，可以在不影响代码运行的情况下删除。像`<FONT>`和`<BASEFONT>`、``、`<STRIKE>`和`<U>`这样的废弃标签可以用样式表更有效地处理。许多种类的`<BODY>`属性也是如此—`BGCOLOR,``BACKGROUND,``LINK``ALINK``VLINK`等等。越依赖样式表，就越符合 XHTML。
 
 表格是查找冗余元素的好地方。一个简单的例子，抄袭自第 56 页，告诉我们如何收紧我们的表代码。
 

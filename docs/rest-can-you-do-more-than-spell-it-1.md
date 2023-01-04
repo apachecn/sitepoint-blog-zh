@@ -56,6 +56,6 @@ REST 不是一种固定的做事方式，它是一种基于几个简单原则的
 
 在这个传奇的下一章中，我们的英雄和他勇敢的伙伴将向你展示 PHP 是如何适应这一切的。PHP 如何与 REST 一起使用，特别是它如何与 HTTP 接口。我不知道你怎么样，但是我很兴奋！我迫不及待地想了解这项令人兴奋的技术。
 
-<small>图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

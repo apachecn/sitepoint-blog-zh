@@ -284,6 +284,6 @@ $aLang = array(
 
 我希望你喜欢这个系列，它向你展示了一个优秀的电子商务工具。请继续关注第 3 部分，我们将构建一个定制模块，让您能够将 OXID 定制到众所周知的“下一个级别”。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

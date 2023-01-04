@@ -82,6 +82,6 @@ CSS 参考是一个直观的指南，其中 CSS 属性被组织成:
 
 **如果你有一个想在本系列中看到的 JavaScript 动画库，[联系我们吧！](mailto:maria.perna@sitepoint.com)**
 
-*<small>精选图片由【Unsplash.com】T2</small>提供*
+*精选图片由【Unsplash.com】T2提供*
 
 ## 分享这篇文章

@@ -341,6 +341,6 @@ echo $compositeView->attachView($header)
 
 这并不意味着每当需要在某个地方部署视图处理机制时，就必须坚持模式的优点，因为教条是没有意义的。此外，如果组合不符合您的口味，可以另辟蹊径，通过调用装饰者带来的功能来实现灵活的视图模块。在后续文章中，我将详细介绍这种方法的内部工作原理，所以不要错过它！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

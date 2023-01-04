@@ -14,7 +14,7 @@
 
 ![Sketch Toolbox ](img/ca26fe51e7e93acdd935e372b6728b8e.png)
 
-<small>草图工具箱</small>
+草图工具箱
 
 ## 可以显著加快工作流程的插件
 
@@ -28,7 +28,7 @@
 
 ![AEIconizer interface](img/3cf23b9b8f9e668cab6b25a15cacb611.png)
 
-<small>AEIconizer</small>
+AEIconizer
 
 [**Sketch Commands**](https://github.com/bomberstudios/sketch-commands) 是另一个键盘快捷工具，它为 Sketch App 已经丰富的功能添加了大量方便的按键。执行大量的任务，从快速选择到应用复杂的图像效果，只需轻敲几下键盘。
 
@@ -42,7 +42,7 @@
 
 ![Facebook Origami, Slack, FramerJS, Zeplin and Marvel App icons](img/bb186f24a902645a68fd1473eb1aff7e.png)
 
-<small>脸书折纸、Slack、FramerJS、泽普林和漫威 App</small>
+脸书折纸、Slack、FramerJS、泽普林和漫威 App
 
 ## 快速但高效的插件
 
@@ -52,7 +52,7 @@
 
 ![Easier.cc ](img/b3f553c314dcfc3a6e9507b47fc36f60.png)
 
-<small>easy . cc</small>
+easy . cc
 
 CSS 好友 在这个阶段有点试验性，但对我来说一直很好。如果你真的不喜欢界面(或者你只是有一颗书呆子的心)，你可能会喜欢用代码来设计。按下*命令+shift+a* ，将你的原始 CSS 直接写入对话框，然后观察你的图层变换。
 
@@ -62,7 +62,7 @@ CSS 好友 在这个阶段有点试验性，但对我来说一直很好。如果
 
 ![Sketch Notebook](img/1cf428f5a3478490d6a32437d753a9cd.png)
 
-<small>素描笔记本</small>
+素描笔记本
 
 ## 结论
 

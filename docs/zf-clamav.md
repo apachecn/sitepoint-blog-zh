@@ -178,6 +178,6 @@ echo $this->form;
 
 完成所有这些代码后，您现在有了一个新的 Zend 框架验证器，它将通过 PHP ClamAv 库检查文件是否没有病毒。我希望这篇文章对您有所帮助，它展示了如何在 Zend 框架中创建您自己的定制验证器，并且能够确保您从现在开始在中创建的应用程序中没有病毒上传。如果您想进一步检查代码，本文的[代码可以在 GitHub 上克隆。](https://github.com/phpmasterdotcom/ZFClamAvValidationFilter)
 
-<small>图像通过[数学图形](http://www.shutterstock.com/gallery-577981p1.html) / [快门](http://www.shutterstock.com)</small>
+图像通过[数学图形](http://www.shutterstock.com/gallery-577981p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

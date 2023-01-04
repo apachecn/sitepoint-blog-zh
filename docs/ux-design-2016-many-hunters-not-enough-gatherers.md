@@ -38,7 +38,7 @@ Flickr 就是一个经典的例子。我从 2004 年就已经是会员了，但�
 
 ![Flickr's login 'reminder'.](img/e18cb85becf475de825dab166a52d570.png)
 
-<small>Flickr 的登录“提醒”。</small>
+Flickr 的登录“提醒”。
 
 本周，Richard Child 写了一篇深思熟虑的文章，聚焦于一家在这方面做得很好的公司——Trello。
 

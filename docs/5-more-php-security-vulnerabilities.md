@@ -66,6 +66,6 @@ PHP 的一个缺点是灵活性，但这也是它的优势之一。对于一个 
 
 是的，我知道那是两件事。你明白我不相信别人的意思吗？
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

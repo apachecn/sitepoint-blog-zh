@@ -76,7 +76,7 @@ Bootstrap Tabs 组件包括两个关键的相关部分:一个选项卡式导航�
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Card text here.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">Last updated 3 mins ago</p>
     </div>
   </div>
 

@@ -140,6 +140,6 @@ function emailUser($email) {
 
 我想让你在代码中取一个函数，就一个，看看当你传入不同的数据类型和不同的值时会发生什么。然后，我希望您应用这里讨论的一些过滤方法，看看您的代码在执行方面是否有所不同。我很想知道你在评论中的表现。
 
-<small>图片 via[Chance Agrella](http://freerangestock.com/view_photog.php?photogid=2 "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")/[Freerangestock.com](http://freerangestock.com "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")</small>
+图片 via[Chance Agrella](http://freerangestock.com/view_photog.php?photogid=2 "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")/[Freerangestock.com](http://freerangestock.com "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")
 
 ## 分享这篇文章

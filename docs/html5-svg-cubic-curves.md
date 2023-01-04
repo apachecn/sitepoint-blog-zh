@@ -12,7 +12,7 @@
 
 ![cubic curve](img/f7f4c14b91e8564cb1bf5fee951268de.png)
 
-<small>[图片来源](https://upload.wikimedia.org/wikipedia/commons/d/db/B%C3%A9zier_3_big.gif)</small>
+[图片来源](https://upload.wikimedia.org/wikipedia/commons/d/db/B%C3%A9zier_3_big.gif)
 
 可怕的方程式也可以在 [WolframMathWorld](https://mathworld.wolfram.com/BezierCurve.html) 进行检验。
 

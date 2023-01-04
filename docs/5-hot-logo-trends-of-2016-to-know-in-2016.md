@@ -34,7 +34,7 @@
 
 ![Mule](img/f1ea7fd562ce8832c35106456613594a.png)
 
-<small>骡子:由[Xalion](https://logopond.com/gallery/detail/209320)</small>
+骡子:由[Xalion](https://logopond.com/gallery/detail/209320)
 
 文字标记是设计中的印刷符号，是品牌的视觉符号。它们本质上是极简主义的，但当涉及到位置、字体形状、颜色和其他设计因素时，它们通常是创造性的。
 
@@ -42,7 +42,7 @@
 
 ![Ziphub - Stanislav Levin - Brandcut.com](img/6e59f9c3aa191569231880239e7b6d28.png)
 
-<small>斯坦尼斯拉夫·莱文的 ZipHub–Brandcut.com</small>
+斯坦尼斯拉夫·莱文的 ZipHub–Brandcut.com
 
 与传统的图形标志相比，文字标志可以将设计内容保留在文字中，从而有助于提高品牌召回率。焦点的减少减少了杂乱的机会。
 
@@ -72,7 +72,7 @@ wordmark 可以用于大多数领域，但是由于它只有文字格式，所�
 
 ![Web Factory 'W' two-tone logo](img/20ed0ee5336179e97367a6f5022fccf7.png)
 
-<small>logoholik.com 博扬·斯蒂法诺维奇的网络工厂—[](http://logoholik.com/portfolio/web-tvornica/)</small>
+logoholik.com 博扬·斯蒂法诺维奇的网络工厂—[](http://logoholik.com/portfolio/web-tvornica/)
 
 虽然你的 logo 设计会起到一定的作用，但是保持两种颜色的 logo 会让你的 logo 不会太忙。目标市场将能够更快地认同设计，加上独特的外观是一个很好的刷新相比单调的标志。
 
@@ -92,7 +92,7 @@ wordmark 可以用于大多数领域，但是由于它只有文字格式，所�
 
 ![Paperbridge](img/d4f9e1bf2ba846531120c4cb4f26359a.png)
 
-<small>Goran Vujinovic 设计的纸桥标志</small>
+Goran Vujinovic 设计的纸桥标志
 
 选择手工制作的外观可能会给你的品牌带来一些准复古的外观，而不会过度使用我们经常认为是数字艺术的花哨功能。
 
@@ -100,7 +100,7 @@ wordmark 可以用于大多数领域，但是由于它只有文字格式，所�
 
 ![Mirra - Rita Konik](img/f435a837e8813a7217d55ed0e445005b.png)
 
-<small>mirra─[Rita konik](https://dribbble.com/shots/2463861-Mirra)</small>
+mirra─[Rita konik](https://dribbble.com/shots/2463861-Mirra)
 
 手工制作的外观需要谨慎使用。最适合那些比较艺术的领域和博客。正规企业可能希望远离这种趋势，以避免品牌与目标受众之间的误解。
 

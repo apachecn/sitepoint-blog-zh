@@ -349,7 +349,7 @@ testimonials:
 <main>
   <div class="container">
     <div class="page-header">
-      <h1>{{ testimonial.name }} | <small>{{ testimonial.position }}</small></h1>
+      <h1>{{ testimonial.name }} | {{ testimonial.position }}</h1>
       <time>{{ testimonial.datecreated|date("jS F, Y") }}</time>
     </div>
     <div class="page-content">
@@ -378,7 +378,7 @@ Twig 模板提供了迭代数组的简洁方法，以及一些过滤器。我不
     <div class="page-content">
       {% for testimonial in testimonials %}
         <div class="testimonial">
-          <h3>{{ testimonial.name }} | <small>{{ testimonial.position }}</small></h3>
+          <h3>{{ testimonial.name }} | {{ testimonial.position }}</h3>
           <p>{{ testimonial.body|excerpt(100) }}</p>
         </div>
       {% endfor %}

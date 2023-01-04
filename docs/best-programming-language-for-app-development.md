@@ -35,7 +35,7 @@
 
 ![Graphic: Hybrid vs Native Apps](img/7d0fe8d5bd67d81ac21472fd3e2a76e3.png)
 
-<small>[混合应用 vs 本地应用](https://commons.wikimedia.org/wiki/File:Hybrid_vs_Native_Apps_Header_1200x628_COMPRESSED.png)Merroa</small>
+[混合应用 vs 本地应用](https://commons.wikimedia.org/wiki/File:Hybrid_vs_Native_Apps_Header_1200x628_COMPRESSED.png)Merroa
 
 ### 原生应用
 
@@ -136,7 +136,7 @@
 
 ### iOS 应用程序
 
-<center>[![iOS logo](img/eee922d205c5397a0c2d8f12ecf5a384.png)](https://upload.wikimedia.org/wikipedia/commons/6/63/IOS_wordmark_%282017%29.svg)</center>
+[![iOS logo](img/eee922d205c5397a0c2d8f12ecf5a384.png)](https://upload.wikimedia.org/wikipedia/commons/6/63/IOS_wordmark_%282017%29.svg)
 
 #### 目标-C
 
@@ -157,7 +157,7 @@ Objective-C 是 C 编程语言的一个超集，这意味着它包括 C 的所�
 
 #### 迅速发生的
 
-<center>[![Swift logo](img/e011f88a3c1ca556b13cbc3e326f228a.png)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg)</center>
+[![Swift logo](img/e011f88a3c1ca556b13cbc3e326f228a.png)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg)
 
 **[Swift](https://www.swift.org)** 是一种强大而直观的编程语言，适用于 iOS、macOS、tvOS 和 watchOS。Swift 易于使用且开源，因此任何有想法的人都可以创造出不可思议的东西。
 
@@ -189,11 +189,11 @@ Swift 语言的一些亮点包括:
 
 ### 安卓应用
 
-<center>[![The Android logo](img/9fb3c442404c71ce17ee54761ce072da.png)](https://upload.wikimedia.org/wikipedia/commons/3/3b/Android_new_logo_2019.svg)</center>
+[![The Android logo](img/9fb3c442404c71ce17ee54761ce072da.png)](https://upload.wikimedia.org/wikipedia/commons/3/3b/Android_new_logo_2019.svg)
 
 #### Java 语言(一种计算机语言，尤用于创建网站)
 
-<center>[![The Java Logo](img/d2561f968e274837bb693eca022bec9a.png)](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)</center>
+[![The Java Logo](img/d2561f968e274837bb693eca022bec9a.png)](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
 
 **[Java](https://www.java.com/en/)** 是一种多功能且强大的编程语言，可用于开发 Android 应用程序——如 Spotify、网飞和谷歌地球。Java 也可以用于开发桌面、web 和企业应用程序。它是 T4 最受欢迎的编程语言之一。
 
@@ -211,7 +211,7 @@ Java 是一种编译语言，所以它快速而高效。因为它是类型安全
 
 #### 我的锅
 
-<center>[![The Kotlin logo](img/d30837e22cc4e5584464ba8a6f0980e1.png)](https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg)</center>
+[![The Kotlin logo](img/d30837e22cc4e5584464ba8a6f0980e1.png)](https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg)
 
 **[科特林](https://kotlinlang.org)** 是一种专门为开发 Android 应用而设计的新语言。它运行在 Java 虚拟机(JVM)上，并且与 Java 完全兼容，因此在开发 Kotlin 应用程序时，您可以使用所有现有的 Java 库。
 
@@ -243,7 +243,7 @@ Kotlin 是一种静态类型语言，所以您可以在编译时捕获错误，�
 
 ![Cross-platform applications](img/f86ead022ff506d185232d35f97daf5f.png)
 
-<small>[跨平台应用，由 Tsahi Levent-Levi](https://www.flickr.com/photos/86979666@N00/7809646882)</small>
+[跨平台应用，由 Tsahi Levent-Levi](https://www.flickr.com/photos/86979666@N00/7809646882)
 
 正如我们已经提到的，开发本地应用程序需要花费大量的时间、金钱和精力。使用可以为多个平台生成应用程序的工具来开发跨平台应用程序会容易得多。虽然你仍然需要用你使用的框架或运行时来为 iOS 或 Android 构建应用程序，但你不需要为每个目标编写代码。
 
@@ -257,7 +257,7 @@ Kotlin 是一种静态类型语言，所以您可以在编译时捕获错误，�
 
 #### 阿帕奇科多娃
 
-<center>[![The Cordova logo](img/6482c48e4a66ceb85f1a3d37b40fef39.png)](https://upload.wikimedia.org/wikipedia/en/9/92/Apache_Cordova_Logo.svg)</center>
+[![The Cordova logo](img/6482c48e4a66ceb85f1a3d37b40fef39.png)](https://upload.wikimedia.org/wikipedia/en/9/92/Apache_Cordova_Logo.svg)
 
 **[Cordova](https://cordova.apache.org/)** (之前的 **PhoneGap** )是一个开源的原生运行时，允许你使用 HTML、CSS 和 JavaScript 为多个平台开发应用。它提供了广泛的插件，允许您访问本机设备功能，如相机和 GPS。
 
@@ -271,7 +271,7 @@ Kotlin 是一种静态类型语言，所以您可以在编译时捕获错误，�
 
 #### 电容器
 
-<center>[![The Capacitor logo](img/ffaab7d2c169d5deb2e952e3f5791480.png)](https://user-images.githubusercontent.com/236501/105104854-e5e42e80-5a67-11eb-8cb8-46fccb079062.png)</center>
+[![The Capacitor logo](img/ffaab7d2c169d5deb2e952e3f5791480.png)](https://user-images.githubusercontent.com/236501/105104854-e5e42e80-5a67-11eb-8cb8-46fccb079062.png)
 
 **[电容](https://capacitorjs.com/)** 是一个比较新的选择，是 Ionic 打造的跨平台 app 开发工具包。它还允许您使用 HTML、CSS 和 JavaScript 开发 iOS、Android 和 Web 应用程序。它还提供对本机设备功能的访问，如摄像头和 GPS。
 
@@ -291,7 +291,7 @@ Kotlin 是一种静态类型语言，所以您可以在编译时捕获错误，�
 
 #### 反应自然
 
-<center>[![The React logo](img/ed1f281d1cdad37676a80c0acf9a2071.png)](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)</center>
+[![The React logo](img/ed1f281d1cdad37676a80c0acf9a2071.png)](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 **[React Native](https://reactnative.dev/)** 是一个强大的 UI 框架，已经被用于开发许多流行的应用程序，如[脸书广告](https://docs.expo.dev/versions/v43.0.0/sdk/facebook-ads/)、[沃尔玛](https://medium.com/walmartglobaltech/tagged/react)和[彭博](https://www.bloomberg.com/company/stories/bloomberg-used-react-native-develop-new-consumer-app/)。就像 [React](https://reactjs.org/) 一样，是 Meta(脸书)创造的。
 
@@ -311,7 +311,7 @@ React Native 是开发跨平台应用的绝佳选择，因为对于已经熟悉 
 
 #### 摆动
 
-<center>[![The Flutter logo](img/71ad19fc704c0e2b9912e32e366262f5.png)](https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg)</center>
+[![The Flutter logo](img/71ad19fc704c0e2b9912e32e366262f5.png)](https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg)
 
 **[Flutter](https://flutter.dev/)** 是一种专门为开发跨平台应用而设计的新语言，包括移动、web、桌面和嵌入式设备。它运行在 Dart 虚拟机上，并且完全兼容 **[Dart](https://dart.dev/)** 。和 Dart 一样，Flutter 也是谷歌创造的。
 
@@ -330,7 +330,7 @@ Flutter 有很多库可以加快开发流程，让你快速开发 app。此外�
 
 #### 离子框架
 
-<center>[![The Ionic logo](img/b640006349ea2f1fd4a1039685c73cb6.png)](https://upload.wikimedia.org/wikipedia/commons/2/24/Ionic-logo-landscape.svg)</center>
+[![The Ionic logo](img/b640006349ea2f1fd4a1039685c73cb6.png)](https://upload.wikimedia.org/wikipedia/commons/2/24/Ionic-logo-landscape.svg)
 
 **[Ionic framework](https://ionicframework.com/)**是使用 HTML、CSS 和 JavaScript 开发跨平台应用的流行选择。
 
@@ -349,7 +349,7 @@ Ionic 是开发跨平台应用的绝佳选择，因为它易学易用。此外�
 
 #### 类星体
 
-<center>[![The Quasar logo](img/b3159ffa81eece5e303f9fdc8801ed2b.png)](https://camo.githubusercontent.com/44def50d1ff358d19bafe61e56fe9ff486fdf9d3b3a41a90417183a6ff4b097e/68747470733a2f2f63646e2e7261776769742e636f6d2f7175617361726672616d65776f726b2f7175617361722d6172742f38363363313462642f646973742f7376672f7175617361722d6c6f676f2d66756c6c2d696e6c696e652e737667)</center>
+[![The Quasar logo](img/b3159ffa81eece5e303f9fdc8801ed2b.png)](https://camo.githubusercontent.com/44def50d1ff358d19bafe61e56fe9ff486fdf9d3b3a41a90417183a6ff4b097e/68747470733a2f2f63646e2e7261776769742e636f6d2f7175617361726672616d65776f726b2f7175617361722d6172742f38363363313462642f646973742f7376672f7175617361722d6c6f676f2d66756c6c2d696e6c696e652e737667)
 
 **[Quasar](https://quasar.dev/)** 是一个跨平台的应用程序开发框架，也使用 HTML、CSS 和 JavaScript。它建立在 [Vue.js](https://vuejs.org/) 的基础上，它使用了最新的技术，如 Vue 3、 [Vite](https://vitejs.dev/) 以使开发速度极快，并使用 Cordova 和 Capacitor 来支持原生应用程序。
 

@@ -45,7 +45,7 @@
 
 ![Competency and behavior ability to change chart](img/60100515e4c262b41adc0fa87e9b712c.png)
 
-<small>图片来源:[定位系统博客](https://strategicdiscipline.positioningsystems.com/hs-fs/hubfs/Competency_Ability_to_Change_Chart.jpg)</small>
+图片来源:[定位系统博客](https://strategicdiscipline.positioningsystems.com/hs-fs/hubfs/Competency_Ability_to_Change_Chart.jpg)
 
 这是关于核心竞争力的坏消息。上面列出的很多都很难学习或提高。然而，困难并不是不可能的。
 

@@ -137,6 +137,6 @@ GitHub 上有一个关于 RFC-2069 HTTP 摘要访问的简单例子。如果你�
 
 SSL 是通过公共互联网发送用户身份验证数据的最现代、最安全的方法。但是当 SSL 不可用时，请在基本身份验证上使用摘要。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

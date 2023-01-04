@@ -357,6 +357,6 @@ $userMapper->delete(3);
 
 即使在企业环境中，使用契约来明确概述应用程序组件的行为不仅是一种奢侈，而且是必须的，也很难弄清楚如何将一组操作紧密地组合在一起。尽管如此，花点时间设计更干净的类，不要把不相关的职责混在一起，这也没什么坏处。从这个意义上说，这个原则只是一个指导方针，在这个过程中会帮助你，但肯定是一个非常有价值的原则。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

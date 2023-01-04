@@ -311,6 +311,6 @@ echo $page->render();
 
 尽管如此，利用它们的能力并以灵活的方式使用它们来操作视图对象并不复杂。在这种情况下，本综述中展示的模块只是基本的例子，离生产就绪还差得很远；希望它们足以说明一个有效的观点，并鼓励以多方面的方式使用模式。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

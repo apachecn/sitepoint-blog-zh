@@ -136,6 +136,6 @@ echo '$customerName has the value: ' . $customerName;
 
 关于变量的更多信息，请查看 PHP 文档。您将回顾您在这里学到的一切，并了解 PHP 将自动定义哪些特殊变量并使其可用于您的脚本，变量如何绑定到声明它的上下文，甚至变量如何可以用作其他变量的名称！
 
-<small>图片 via [卡赞爱德华](http://www.shutterstock.com/gallery-70895p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [卡赞爱德华](http://www.shutterstock.com/gallery-70895p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

@@ -162,6 +162,6 @@ foreach($users as $user) {
 
 在本文中，我展示了如何使用 Swift Mailer 轻松发送电子邮件。这是一个非常强大的库，如你所见，它允许你使用 OOP 方法做很多事情。当然，Swift Mailer 还有很多其他的方法和类，我没有在本文中介绍。你可以在官方文档中对它们进行研究，但这应该足以让你开始发送电子邮件而不会有任何麻烦。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

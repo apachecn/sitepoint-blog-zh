@@ -96,11 +96,11 @@
 ```
 <div class="page-header">
 
-<center>
+
 
 < ?php echo do_shortcode('[mc4wp_form id="53"]'); ?>
 
-</center>
+
 
 </div> 
 ```

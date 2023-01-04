@@ -14,7 +14,7 @@
 
 [![Dr Chatty — By Alastair Thompson](img/6e5c1f742af4904b56eed9da58d0ef58.png)](https://www.flickr.com/photos/at-photos/2921609970/)
 
-<small>第一行很难——照片:[阿拉斯泰尔·汤普森](https://www.flickr.com/photos/at-photos/2921609970/)</small>
+第一行很难——照片:[阿拉斯泰尔·汤普森](https://www.flickr.com/photos/at-photos/2921609970/)
 
 文章介绍段落很难，就像在聚会、酒吧和公园长椅上很难开口一样。我们都知道如何进行对话，但找到一种平稳的方式与陌生人开始对话感觉像是一场高风险的游戏。这大概解释了为什么搭讪技巧书每年能卖出几千万。
 

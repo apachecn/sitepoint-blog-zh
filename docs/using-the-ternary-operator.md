@@ -62,6 +62,6 @@ $message = $isWinner
 
 三元运算符起初可能看起来有点奇怪，但是很容易掌握，并且很容易向将来可能维护您的代码的其他人解释。通过一点点实践，你将能够给你的 PHP 代码带来额外的惊喜，并从你的生活中清除一点点困惑。
 
-<small>图片 via [阿曼·曾德](http://www.shutterstock.com/gallery-73477p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [阿曼·曾德](http://www.shutterstock.com/gallery-73477p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

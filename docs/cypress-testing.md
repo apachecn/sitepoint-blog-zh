@@ -41,7 +41,7 @@ Cypress 构建在[电子](https://www.sitepoint.com/electron-forge-react-build-s
 
 ![Software Testing by Nick Youngson CC BY-SA 3.0 Pix4free.org](img/31e1283df0e11c404e57daaa7117c5f2.png)
 
-<small>软件测试由 Nick Youngson CC BY-SA 3.0 pix4 free . or</small>
+软件测试由 Nick Youngson CC BY-SA 3.0 pix4 free . or
 
 **软件测试**是验证应用程序功能的过程。这可以通过运行应用程序并尝试其各种功能来手动完成，也可以通过编写代码测试应用程序的功能来自动完成。
 

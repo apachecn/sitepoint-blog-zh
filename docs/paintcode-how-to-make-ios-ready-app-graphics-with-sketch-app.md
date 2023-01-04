@@ -73,7 +73,7 @@ PaintCode 2 是为那些希望在应用程序本身中绘制和编辑矢量的�
 
 ![Saving common colors in the StyleKit](img/db234fab3943c6c73ea0e553216a530e.png)
 
-<small>在样式工具包中保存常用颜色</small>
+在样式工具包中保存常用颜色
 
 这里有一个在实际的 PaintCode 应用程序中创建的 StyleKit(以及它输出的代码)的示例，供那些对代码方面更感兴趣的人使用。
 

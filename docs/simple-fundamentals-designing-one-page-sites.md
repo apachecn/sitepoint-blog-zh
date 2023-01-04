@@ -58,7 +58,7 @@ Squarespace 通过他们的[封面](http://www.squarespace.com/seven/cover/)选�
 
 ![Illuminated manuscript](img/3cddda52a77adf694b99bd6ac9ef3614.png)
 
-<small>每毫米使用的照明原稿</small>
+每毫米使用的照明原稿
 
 回到中世纪，纸的生产成本很高，所以很容易理解为什么工匠会在每一页上写这么多内容。同样，当你只有一页纸时，你很容易把那一页纸挤得像一张被照亮的手稿。这就是为什么你需要知道如何小心地管理你的内容——有时要对什么内容是合格的做出艰难的决定。
 

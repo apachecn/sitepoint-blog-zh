@@ -177,7 +177,7 @@ echo $cropped;
 
 在本文中，我创建了一个简单的裁剪工具，向您展示 ImageMagick 扩展的强大功能和易用性。您可以了解更多关于它的知识，并通过使用它强大的 API 来发挥创造力，做出更有用的东西。例如，如果您想扩展我在这里介绍的内容，您可以让用户选择下载多种尺寸的图像。GitHub 上有本文附带的示例代码，可以帮助您入门。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 如果你喜欢读这篇文章，你会爱上[可学的](https://learnable.com?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoint 的所有电子书和交互式在线课程，如 [Jump Start PHP](https://learnable.com/books/jump-start-php?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink) 。
 

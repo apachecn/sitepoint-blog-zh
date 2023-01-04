@@ -500,7 +500,7 @@ SocketService.on('message', function(msg){
                         <div class="user">{{ msg.user }}</div>
                         <div class="message">{{ msg.text }}</div>
                     </p>
-                    <small>{{ humanize(msg.time) }}</small>
+                    {{ humanize(msg.time) }}
                 </div>
             </div>
         </li>
@@ -535,7 +535,7 @@ SocketService.on('message', function(msg){
                     <div class="user">{{ msg.user }}</div>
                     <div class="message">{{ msg.text }}</div>
                 </p>
-                <small>{{ humanize(msg.time) }}</small>
+                {{ humanize(msg.time) }}
             </div>
         </div>
     </li>

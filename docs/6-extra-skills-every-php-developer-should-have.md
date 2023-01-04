@@ -32,6 +32,6 @@ PHP 开发现在很热，但是也有很多人从事 PHP 开发。如果你想�
 
 这六项技能对于大多数自由职业者来说是必不可少的，但是如果你是一名 PHP 开发人员，它们可能会更加重要。Web 开发是一个竞争非常激烈的领域，在较低的层次上突破是很困难的。一旦你获得了这些技能，并开始了你的职业生涯，你就可以作为一名独立的 PHP 开发人员享受令人兴奋的工作、灵活性和高薪。
 
-<small>图片经由[德米特里·希罗诺夫](http://www.shutterstock.com/gallery-91282p1.html)/[Shutterstock.com](http://www.shutterstock.com)</small>
+图片经由[德米特里·希罗诺夫](http://www.shutterstock.com/gallery-91282p1.html)/[Shutterstock.com](http://www.shutterstock.com)
 
 ## 分享这篇文章

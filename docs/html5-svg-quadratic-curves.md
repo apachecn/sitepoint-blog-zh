@@ -12,7 +12,7 @@
 
 ![quadratic curve](img/13448437a3df434c1d0d856163419f0e.png)
 
-<small>[图片来源](https://upload.wikimedia.org/wikipedia/commons/3/3d/B%C3%A9zier_2_big.gif)</small>
+[图片来源](https://upload.wikimedia.org/wikipedia/commons/3/3d/B%C3%A9zier_2_big.gif)
 
 数学忍者们还可以在 [WolframMathWorld](http://mathworld.wolfram.com/QuadraticCurve.html) 检查诱发偏头痛的方程式。
 

@@ -211,6 +211,6 @@ ApiGen 还有许多其他有用的标志(Google Analytics 的实现、自定义�
 
 无论您是从事较小项目的单个开发人员，还是从事共同工作的较大团队的一员，注释对于您的工作流程都是必不可少的。如果做得恰当，并考虑到某些项目范围或团队范围的标准，它将帮助您和您的同事在以后重新访问旧代码时避免数小时的辛苦工作，并将允许您的代码的用户有一个更顺畅的体验进入它并逗留。糟糕的文档是复杂库的新用户放弃它们的主要原因之一——所以为了避免拒绝你的用户和同事，今天就采用这些最佳实践。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

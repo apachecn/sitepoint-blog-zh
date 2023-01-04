@@ -20,7 +20,7 @@
 
 ![A technical SEO Venn diagram showing technical, on-page and off-page factors and where they intersect](img/6786bcd3fb438642c5a85728daee2a7d.png)
 
-<small>图片来源:[WordStream](https://www.wordstream.com/blog/ws/2019/05/28/technical-seo)</small>
+图片来源:[WordStream](https://www.wordstream.com/blog/ws/2019/05/28/technical-seo)
 
 SEO 专家和营销团队使用 Google Search Console、Google PageSpeed Insights、web crawlers、mobile crawlers 和索引工具等工具来优化他们的网页，并通过技术 SEO 审核提高搜索引擎排名。
 
@@ -42,7 +42,7 @@ SEO 专家和营销团队使用 Google Search Console、Google PageSpeed Insight
 
 ![A diagram showing all the factors involved in an SEO audit](img/5cf7ba729e8111a8baf1b77ee4be3497.png)
 
-<small>图片来源:[搜索引擎登陆](https://searchengineland.com/technical-seo-audit-what-to-look-for-385213)</small>
+图片来源:[搜索引擎登陆](https://searchengineland.com/technical-seo-audit-what-to-look-for-385213)
 
 但是，如果你在一家零售公司工作，你的工作可能是确保页面加载速度快，没有图像问题，以及所有的 4xx 链接重定向到正确的位置。
 
@@ -56,7 +56,7 @@ SEO 专家和营销团队使用 Google Search Console、Google PageSpeed Insight
 
 ![Computer screen showing a performance audit](img/ac1f26bdf07864869f0aa7ccb5ff5da6.png)
 
-<small>图片来源:[deep crawl](https://www.deepcrawl.com/)</small>
+图片来源:[deep crawl](https://www.deepcrawl.com/)
 
 对于 Wix 用户来说，Deepcrawl 是专业人士信任的顶级工具，但大多数人开始使用谷歌搜索控制台:
 
@@ -109,7 +109,7 @@ SEO 专家和营销团队使用 Google Search Console、Google PageSpeed Insight
 
 ![A screenshot op Google's PageSpeed tool](img/51e099a6d7ce91b8c042686d62750144.png)
 
-<small>图片来源:[页面速度](https://developers.google.com/speedGoogle)</small>
+图片来源:[页面速度](https://developers.google.com/speedGoogle)
 
 以下是如何使用 Google PageSpeed Insights 来检查网站的性能:
 
@@ -127,11 +127,11 @@ SEO 专家和营销团队使用 Google Search Console、Google PageSpeed Insight
 
 ![CryptoWallet web view](img/b2ff4664e21a5a8705c7c555a8f53312.png)
 
-<small>网页浏览</small>
+网页浏览
 
 ![CryptoWallet mobile view](img/c174de3c1f2aedcae19981d3ce8ca78f.png)
 
-<small>移动滚动视图</small>
+移动滚动视图
 
 使用像[Responsive Web Design Checker](https://responsivedesignchecker.com/)这样的工具或者使用 Google Chrome 中的以下步骤，很容易检查网站的响应性:
 

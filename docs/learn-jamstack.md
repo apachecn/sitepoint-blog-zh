@@ -10,7 +10,7 @@ web 开发时常会出现戏剧性的好转。在本文中，我们将介绍 Jam
 
 ![Jamstack logo](img/f78819f018124c82757172780094de2c.png)
 
-<small>提供:Netlify</small>
+提供:Netlify
 
 Jamstack 是 T2 对现代网络的重新定义，旨在提供更快、更安全的网站。这些站点可伸缩性更好，并且使用合适的工具集，开发和维护起来更容易(也更有趣)。
 
@@ -38,11 +38,11 @@ Jamstack 是 T2 对现代网络的重新定义，旨在提供更快、更安全�
 
 这就是 J A M 栈:JavaScript、API、标记。
 
-<center>
+
 
 [https://www.youtube.com/embed/1ZfMpG6ML-w](https://www.youtube.com/embed/1ZfMpG6ML-w)
 
-</center>
+
 
 ## 解耦、无头、微服务、无服务器……不好意思，什么？
 

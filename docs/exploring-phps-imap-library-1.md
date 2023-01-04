@@ -228,6 +228,6 @@ function get_mime_type($structure) {
 
 我们通过回顾连接到 IMAP 服务器的基础知识开始了这个系列，然后继续列出可用文件夹中的邮件，最后阅读电子邮件的内容。在下一部分中，我将讨论可用于实现电子邮件客户端的附加功能的函数，如删除邮件和处理附件。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

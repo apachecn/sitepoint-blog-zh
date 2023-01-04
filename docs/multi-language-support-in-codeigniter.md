@@ -168,6 +168,6 @@ class LanguageLoader
 
 大多数全栈 PHP 框架都有多语言支持，这使我们能够轻松地用不同的语言呈现我们的应用程序界面。在本文中，我们看到了如何使用 CodeIgniter 提供多种语言。当然，还有其他构建多语言解决方案的方法，所以请随意讨论您在 CodeIgniter 甚至其他框架中实现多语言支持的最佳实践和经验。我期待着收到你的来信！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

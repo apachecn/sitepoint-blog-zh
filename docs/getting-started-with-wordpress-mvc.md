@@ -285,7 +285,7 @@ $this->render_view('_item', array('locals' => array('object' => $object)));
         <?php echo $object->producer; ?>
     </div>
     <div class="genre">
-        <small><?php echo $object->genres; ?></small>
+        <?php echo $object->genres; ?>
     </div>
 </div> 
 ```
@@ -323,10 +323,10 @@ http://localhost/WordPress/anime_lists/2/
         <?php echo $object->producer; ?>
     </div>
     <div class="genre">
-        <small><?php echo $object->genres; ?></small>
+        <?php echo $object->genres; ?>
     </div>
     <div class="plot">
-        <small><?php echo $object->plot; ?></small>
+        <?php echo $object->plot; ?>
     </div>
 </div> 
 ```
@@ -335,7 +335,7 @@ http://localhost/WordPress/anime_lists/2/
 
 ```
 <div class="plot">
-    <small><?php echo $object->plot; ?></small>
+    <?php echo $object->plot; ?>
 </div> 
 ```
 

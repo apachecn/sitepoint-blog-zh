@@ -223,6 +223,6 @@ else {
 
 希望本指南能让您对监控文件完整性有更好的理解。在你的网站上有这样的东西是一个无价的安全措施，你可以放心地知道你的文件完全按照你的意图。当然，不要忘记定期备份。你知道…以防万一。
 
-<small>图像通过半匹配/ [快门](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图像通过半匹配/ [快门](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

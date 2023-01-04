@@ -76,7 +76,7 @@ mongod
 
 ![MongoDB Compass connected to localhost:27107](img/cc7fb9464304969e92d59cb343a487fb.png)
 
-*<small>MongoDB 罗盘连接本地主机</small>*
+*MongoDB 罗盘连接本地主机*
 
 注意，数据库`admin`、`config`和`local`是自动创建的。
 
@@ -90,7 +90,7 @@ mongod
 
 ![MongoDB Compass connected to mLabs](img/095b7328b9fc60526b5a48c062474993.png)
 
-*<small>MongoDB 罗盘连接 mLabs</small>*
+*MongoDB 罗盘连接 mLabs*
 
 注意，我调用了我的数据库`sp-node-article`。你可以随便叫你的名字。
 
@@ -394,7 +394,7 @@ router.post('/', (req, res) => {
 
 ![Form output logged to terminal](img/eb664116ee609896d5996cd8b97fd7a8.png)
 
-*<small>表格输出记录到终端</small>*
+*表格输出记录到终端*
 
 ### 关于请求和响应对象的注释
 
@@ -718,7 +718,7 @@ if (errors.isEmpty()) {
 
 ![Using Compass to check that our data was saved to MongoDB](img/c796f44c2c578724fd4309d7c1a7288c.png)
 
-*<small>使用 Compass 检查我们的数据是否保存到 MongoDB</small>*
+*使用 Compass 检查我们的数据是否保存到 MongoDB*
 
 ### 从数据库中检索数据
 

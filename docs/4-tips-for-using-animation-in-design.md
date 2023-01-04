@@ -4,7 +4,7 @@
 
 ![norman mclaren ](img/5f20b74dba01fa5deb85825ba7f1602e.png)
 
-<small>不是两个，Norman McLaren 1968</small>
+不是两个，Norman McLaren 1968
 
 > 动画不是运动的绘画艺术，而是运动的艺术。诺曼·麦克拉伦
 
@@ -60,7 +60,7 @@
 
 ![Screenshot: Showing Youtube playback speed controls.](img/50979b4b71a8fc613cb1b23c1b2a317d.png)
 
-<small>Youtube 通过玩家设置面板提供可变的回报速度。</small>
+Youtube 通过玩家设置面板提供可变的回报速度。
 
 如果你不确定一个动作，在网上搜索现实世界中的视频，以四分之一的速度研究这个动作。较低的回放速度通常会带来美妙的触感。许多人不知道 Youtube 通过播放器设置面板提供可变播放速度控制。
 
@@ -74,7 +74,7 @@
 
 ![Mario](img/3f2ab5d384a42a1d8bef66a204f2e11e.png)
 
-<small>鸣谢:[马丁·德拉博](http://martindrapeau.github.io/backbone-game-engine/)——中坚游戏引擎。</small>
+鸣谢:[马丁·德拉博](http://martindrapeau.github.io/backbone-game-engine/)——中坚游戏引擎。
 
 尽量避免零星或闪光的动作。保持稳定。让观众享受并接受他们所看到的，尤其是当动画对消化信息至关重要的时候。与点相对的曲线运动是理想的，除非必要，否则柔软的运动要超过剧烈的曲折。
 
@@ -94,11 +94,11 @@
 
 [![Every Last Drop](img/344fee9479d1baa74adab0b294f2fa00.png)](http://everylastdrop.co.uk/)
 
-<small>http://everylastdrop.co.uk/</small>
+http://everylastdrop.co.uk/
 
 ![reverend danger](img/53bf0c447fb0b7939175a0b19d82efc2.png)
 
-<small>http://www.reverenddanger.com/</small>
+http://www.reverenddanger.com/
 
 虽然这两个网站的动画制作方式非常不同，但它们网站的每个元素都经过精心制作，不仅讲述了它们的故事，还帮助它们向前发展。
 

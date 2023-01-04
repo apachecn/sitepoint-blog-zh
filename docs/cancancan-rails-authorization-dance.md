@@ -187,7 +187,7 @@ resources :sessions, only: [:update]
                 <%= link_to session_path(k), method: :patch do %>
                   <%= v %>
                   <% if v == current_user.role %>
-                    <small class="text-muted">(current)</small>
+                    (current)
                   <% end %>
                 <% end %>
               </li>

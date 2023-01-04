@@ -399,6 +399,6 @@ foreach ($guests as $guest) {
 
 与任何开发方法一样，您不必在应用程序中使用存储库，甚至不必用 DDD 背后的一堆概念来破坏它们。运用常识，只有当你认为它们会符合你的需求时，才选择它们。真的就这么简单。
 
-<small>图片 via[Chance Agrella](http://freerangestock.com/view_photog.php?photogid=2 "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")/[Freerangestock.com](http://freerangestock.com "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")</small>
+图片 via[Chance Agrella](http://freerangestock.com/view_photog.php?photogid=2 "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")/[Freerangestock.com](http://freerangestock.com "freerangestock.com | Free Stock Photos - Totally Free Commercial Photography and Textures")
 
 ## 分享这篇文章

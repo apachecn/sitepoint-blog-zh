@@ -39,6 +39,6 @@
 
 试试这个方法——我敢肯定，你会发现各种各样的电子邮件都可以预先写好，每天都可以给自己额外的时间去做更重要的工作。享受这段额外的时间吧！
 
-<small>[电子邮件图片](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=email&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=76778770&src=07e0ae191e9b159b962182e61e293407-1-14)通过 Shutterstock</small>
+[电子邮件图片](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=email&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=76778770&src=07e0ae191e9b159b962182e61e293407-1-14)通过 Shutterstock
 
 ## 分享这篇文章

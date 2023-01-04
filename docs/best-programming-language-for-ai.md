@@ -63,7 +63,7 @@
 
 ### 计算机编程语言
 
-<center style="margin:1em 0">![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)</center>
+![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)
 
 [Python](https://www.python.org/) 是**最受人工智能**欢迎的编程语言，它是[最热门的语言之一](https://www.sitepoint.com/python-trends-whats-hot/)，也很容易学习！
 
@@ -86,7 +86,7 @@ Python 是一种具有动态语义的解释型高级通用编程语言。它的�
 
 ### 稀有
 
-<center style="margin:1em 0">![The R logo](img/3bfbe4e6c4df76711a73e5ec679f904e.png)</center>
+![The R logo](img/3bfbe4e6c4df76711a73e5ec679f904e.png)
 
 [R](https://www.r-project.org/) 是由 [R 统计计算基金会](https://www.r-project.org/foundation/)支持的用于统计计算和图形的编程语言和免费软件环境。
 
@@ -106,7 +106,7 @@ R 语言在统计学家中是一种通用语言，因为它广泛用于官方统
 
 ### 朱莉娅
 
-<center style="margin:1em 0">![Julia logo](img/c8cb9fb48e9d2f0e3dff9afcf6240473.png)</center>
+![Julia logo](img/c8cb9fb48e9d2f0e3dff9afcf6240473.png)
 
 [Julia](https://julialang.org/) 是一种相对较新的(2012 年推出)高级高性能技术计算动态编程语言，其语法为其他技术计算环境的用户所熟悉。
 
@@ -125,11 +125,11 @@ R 语言在统计学家中是一种通用语言，因为它广泛用于官方统
 
 ### C++和 C
 
-<center style="margin:1em 0">![C++ logo](img/43435395acf66bbd380e90c127b1329e.png)</center>
+![C++ logo](img/43435395acf66bbd380e90c127b1329e.png)
 
 [C++](https://isocpp.org/) 是一种偏向于系统编程的通用编程语言，在设计时考虑了[可移植性](https://en.wikipedia.org/wiki/Portable_programming)、[使用效率和灵活性](https://en.wikipedia.org/wiki/C%2B%2B#Efficiency)。C++的主要竞争对手是微软的 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ，它在语法上非常相似，但提供了一些额外的功能和好处，如更受管理的内存模型以及开箱即用的 [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) (语言集成查询)支持，等等。
 
-<center style="margin:1em 0">![C Sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)</center>
+![C Sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)
 
 C++在广泛的领域也很有用，比如计算机图形学、[图像处理](https://opencv.org/)和[科学计算](http://www.netlib.org/blas/)。类似地，C#已经被用于开发 3D 和 2D 游戏，以及工业应用。
 
@@ -147,7 +147,7 @@ C++在广泛的领域也很有用，比如计算机图形学、[图像处理](ht
 
 ### Java 语言(一种计算机语言，尤用于创建网站)
 
-<center style="margin:1em 0">![The Java logo](img/eccc1752ab0b11c0356592bd7b7521d6.png)</center>
+![The Java logo](img/eccc1752ab0b11c0356592bd7b7521d6.png)
 
 Java 是一种多功能的强大的编程语言，它使开发者能够创建健壮的、高性能的应用。
 

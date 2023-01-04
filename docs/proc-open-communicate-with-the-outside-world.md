@@ -90,6 +90,6 @@ proc_close($p);
 
 我在 GitHub 上放了一些[示例代码](https://github.com/phpmasterdotcom/CommunicateWithTheOutsideWorld "phpmasterdotcom/CommunicateWithTheOutsideWorld - GitHub")，模拟了一个使用 NME 的基本 wiki，就像上面的例子一样。如果您有兴趣进一步玩和探索，请随意克隆它。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

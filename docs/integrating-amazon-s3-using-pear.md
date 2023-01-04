@@ -130,6 +130,6 @@ foreach ($bucket->getObjects($prefix) as $object) {
 
 希望这篇文章已经让您对 S3 即服务的能力有了一点了解。我鼓励你[阅读更多关于 S3](http://aws.amazon.com/s3/ "Amazon Simple Storage Service (Amazon S3)") 的内容，研究`Services_Amazon_S3`的[示例](http://pear.php.net/manual/en/package.webservices.services-amazon-s3.php "Manual :: Services_Amazon_S3")和 [API 文档](http://pear.php.net/package/Services_Amazon_S3/docs/latest/ "Services_Amazon_S3 0.3.5")，并考虑将它们集成到你的应用程序中。
 
-<small>图像通过[马尔西左袋](http://www.shutterstock.com/gallery-7475p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [分流仓](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图像通过[马尔西左袋](http://www.shutterstock.com/gallery-7475p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [分流仓](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

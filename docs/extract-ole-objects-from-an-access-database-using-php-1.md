@@ -200,6 +200,6 @@ function extractPackage($data) {
 
 在本系列的[第二部分](https://www.sitepoint.com/extract-ole-objects-from-an-access-database-using-php-2/ "Extract OLE Objects from an Access Database using PHP, Part 2")中，我们将关注提取已知对象类型这一更复杂的问题，特别关注从遗留 Access 数据库中提取 Acrobat PDF 文档。与此同时，您可以随意用本文的代码克隆 [GitHub 库来玩和探索。](https://github.com/phpmasterdotcom/ExtractObjectsFromAccessDatabase/tree/part-1 "ExtractObjectsFromAccessDatabase at part-1 - GitHub")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

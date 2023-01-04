@@ -374,6 +374,6 @@ $user->update(array(
 
 在本文中，我们查看了脸书的实时更新和订阅 API，看到它们对于保持本地存储的数据最新是多么的有用，因为它们允许我们在发生变化时获取更新的数据。我们通过构建一个示例应用程序来演示如何使用它们，该应用程序监视用户的好友列表，并让她知道何时发生了变化。如果你有其他有用的想法，请务必在评论中告诉我！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

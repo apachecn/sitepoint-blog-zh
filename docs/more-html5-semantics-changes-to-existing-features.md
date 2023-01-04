@@ -68,7 +68,7 @@ W3C 对这些特性有一个[描述，并附有例子。](https://www.w3.org/htm
 例如，HTML5 先驱报的页脚包含版权声明。因为这本质上是法律细则，所以它非常适合于`small`元素:
 
 ```
-<small>&copy; SitePoint Pty. Ltd.</small>
+&copy; SitePoint Pty. Ltd.
 ```
 
 ### 治眼睛痛的药

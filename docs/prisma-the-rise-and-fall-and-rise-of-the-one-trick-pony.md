@@ -12,7 +12,7 @@
 
 ![Page curl - jigsaw - posterize filters](img/7e5bbd2bc1a1b529f84cf44175806e83.png)
 
-<center style="margin-top:-2em"><small>Page Curl, Jigsaw and Posterize. ‘One-Trick-Pony’ Filters</small></center>
+Page Curl, Jigsaw and Posterize. ‘One-Trick-Pony’ Filters
 
 这些过滤器有时很有趣——但它们有真正的、实际的商业用途吗？
 
@@ -42,17 +42,17 @@
 
 ![The original photo](img/035d10c0ae209ea7f6b837ebcaffa072.png)
 
-<center style="margin-top:-2em"><small>The original photo</small></center>
+The original photo
 
 这第一个棱镜过滤器被称为“海森堡”,它有一个坚硬的，几乎木刻印刷外观。
 
 ![Heisenberg](img/d5224cfbad4c272f909f751ceba2d1f1.png)
 
-<center style="margin-top:-2em"><small>Heisenberg</small></center>
+Heisenberg
 
 ![Traditional Woodcut design](img/7e256824477a785a30076ceeb4d91015.png)
 
-<small>传统木刻设计</small>
+传统木刻设计
 
 传统上，木刻版画是用雕刻工具制作的，这些工具往往会在木材表面挖出不完美的曲线。海森堡过滤器回应这些凹槽。
 
@@ -62,11 +62,11 @@
 
 ![Composition](img/6f90ff8f595a6ccb92408202698afaca.png)
 
-<center style="margin-top:-2em"><small>Composition</small></center>
+Composition
 
 [![Painting: Easton Davy — Jazz Museum Rotterdam](img/1fe617380dc28449021b9e28d959b016.png)](http://www.jazzmuseumrotterdam.com/en/category/news/)
 
-<small>伊斯顿·戴维—鹿特丹爵士博物馆</small>
+伊斯顿·戴维—鹿特丹爵士博物馆
 
 “构图”赋予了这幅图像一种超级时髦的 50 年代爵士乐的感觉。我可以看到这种处理方法被用在音乐或活动杂志上，以形成一种非常强烈的视觉信号。
 
@@ -82,7 +82,7 @@
 
 ![Gothic effect in Prisma](img/859fbbac0b3d427f318af807619155a1.png)
 
-<small>Prisma 中的哥特式效果</small>
+Prisma 中的哥特式效果
 
 我也不想这么说，但是 Prisma 很酷。它可能不会让你的坏照片变好，但它能把你的好照片带到一个新的引人注目的地方。
 

@@ -42,6 +42,6 @@ Luka Kladaric 展示了“LAMP Scaling 101 ”,这是针对任何达到单个服
 
 当然，这篇文章只是对我在 phpDay 2013 上的经历和学习的一个简短回顾，但是希望它能让你了解一些你应该知道的主题，以及你可以从哪些方面着手来提高你的 PHP 技能，甚至激发你参加附近的一个会议！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

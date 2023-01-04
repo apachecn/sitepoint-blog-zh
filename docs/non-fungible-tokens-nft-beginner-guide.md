@@ -18,7 +18,7 @@
 
 ![Unique Kanaria birds](img/1f4bf88ba68037feb8405b5dd60d5d8b.png)
 
-<small>独特的[卡娜莉亚](https://url.rmrk.app/sp)鸟类</small>
+独特的[卡娜莉亚](https://url.rmrk.app/sp)鸟类
 
 如果这就是 NFT 的全部，那么有什么大不了的，为什么有些 NFT 贵得离谱？
 

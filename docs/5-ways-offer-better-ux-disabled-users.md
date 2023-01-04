@@ -22,7 +22,7 @@
 
 ![Simulated Protanopia & Deuteranopia vision](img/093095dcbfacd24573cdc565ecc2c10a.png)
 
-<small>模拟幻视&幻视</small>
+模拟幻视&幻视
 
 色觉缺陷是这个列表中最普遍的缺陷，也是最容易被忽视的。它经常被错误地描述为色盲，它影响了全球约 8%的男性(尽管女性较少)。如果你在设计时没有考虑色觉缺陷，你就忽略了世界上大约 8%的地方。
 

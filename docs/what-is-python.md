@@ -29,7 +29,7 @@
 
 “什么是 Python？”这个问题有一个简单的答案你可以在维基百科条目的第一段找到。但是它不会告诉你为什么 Python 一直是最受欢迎的编程语言之一，或者为什么它可以用于这么多不同的事情，以及为什么它在几乎所有这些方面都非常出色。
 
-<center style="margin: 1em 0;">![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)</center>
+![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)
 
 但是我们想要回答这些问题，所以让我们快速地探究一下是什么让 Python 如此独特、流行和有趣。
 
@@ -37,7 +37,7 @@
 
 ![XKCD #353\. I wrote 20 short programs in Python yesterday. It was wonderful. Perl, I'm leaving you.](img/eb4b1bd33c07f8ea15988adeff940c3d.png)
 
-<small>[XKCD #353，【Python】](https://xkcd.com/353/)</small>
+[XKCD #353，【Python】](https://xkcd.com/353/)
 
 简而言之， [Python](https://www.python.org/) 是一种高级编程语言，由[吉多·范·罗苏姆](https://gvanrossum.github.io/)于 1991 年创造。此后，它以开源许可的形式发布，任何想使用或修改该软件的人都可以免费获得。
 

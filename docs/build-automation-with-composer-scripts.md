@@ -111,6 +111,6 @@ class Installer
 
 在本文中，我介绍了如何使用 Composer 脚本来执行构建自动化的基本示例。这些任务可以根据您的需要简单或复杂，因为它们利用了您现有的 PHP 知识投资。希望这篇文章能启发您使用 Composer，而不仅仅是依赖管理。有关如何使用作曲脚本的更多信息，请参见[getcomposer.org/doc/articles/scripts.md](http://getcomposer.org/doc/articles/scripts.md "Composer")。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -295,6 +295,6 @@ echo $cycle->render();
 
 就哪种模式最符合要求展开一场激烈的争论根本没有什么意义；只要确保选择一个你觉得最符合你手头需求的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

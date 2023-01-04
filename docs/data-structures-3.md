@@ -306,6 +306,6 @@ $pq->setExtractFlags(SplPriorityQueue::EXTR_BOTH);
 
 我已经向您介绍了堆抽象数据类型，并向您展示了如何使用简单的数组实现从堆中插入和提取项。我们还看到了比较器如何在 min 和 maxheaps 中使用，以及优先级队列如何操作。敬请期待；在下一篇文章中，我将讨论图形！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -115,7 +115,7 @@ public function registerComponents(){
 
 ```
 <p>This is the default markup for component GoogleAnalytics</p>
-<small>You can delete this file if you want</small>
+You can delete this file if you want
 ```
 
 我们将用谷歌的谷歌分析跟踪代码来改变这些内容。

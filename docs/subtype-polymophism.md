@@ -310,6 +310,6 @@ $view = new View(new FileCache());
 
 如果您还没有重构您的应用程序，以便它们可以利用多态性带来的好处，那么您最好抓紧时间，因为您错过了大奖！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

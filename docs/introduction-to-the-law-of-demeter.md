@@ -376,6 +376,6 @@ print_r($fileStorage->read());
 
 尽管它的名字很华丽，但 Demeter 法则是一个强大的范例，它的主要目标是通过消除任何不必要的中介来促进高度解耦的应用程序组件的实现。只要遵循它的戒律，当然不要陷入盲目的教条主义，你会看到你的代码质量提高了。保证。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

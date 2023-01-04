@@ -210,6 +210,6 @@ Jenkins 有一个监听端口 8080 的 web 界面。将您的浏览器指向`htt
 
 如第一部分所述，本文的目标是让 Jenkins 理解开发团队可以解决的运营 CI 问题。我们的例子过于简单，但是通过这篇文章和其他提到的文章，感兴趣的读者可以使用工具创建更加复杂和有用的 Ant 脚本。关于这一点，请查看[http://jenkins-php.org/](http://jenkins-php.org/)，在那里可以找到 PHP 开发相关的多项任务的综合模板。
 
-<small>图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

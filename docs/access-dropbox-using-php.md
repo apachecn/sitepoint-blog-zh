@@ -165,6 +165,6 @@ if (!isset($access_token)) {
 
 这只是 Dropbox API 的一小部分，但作为开发自己的应用程序的起点，这已经足够了。对我来说，这也是和 OAuth 一起打球的好机会。请随意细化和扩展本文附带的代码，以满足您的需求，并一如既往地祝您编码愉快！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

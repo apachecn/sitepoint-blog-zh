@@ -8,7 +8,7 @@
 
 ![J.L.M. Lauweriks. Alphabet, [1900]. NAI Collection](img/20457494aca5ada85c34934da52ae34f.png)
 
-<small>[J.L.M .劳韦里克斯。字母表，[1900]。奈收藏](https://www.flickr.com/photos/nai_collection/8474899479/)</small>
+[J.L.M .劳韦里克斯。字母表，[1900]。奈收藏](https://www.flickr.com/photos/nai_collection/8474899479/)
 
 世界上许多著名的图书馆、政府机构、私人公司、国家档案馆、博物馆和历史学会都使用 Flickr 作为他们的书籍、文档、插图和照片的目录。它的大部分是在公共领域和版权免费。
 
@@ -30,7 +30,7 @@
 
 ![Flickr search - no known copyright restrictions](img/54f58d1a38164b544593e1ff0b5fabac.png)
 
-<small>Flickr 搜索—“无已知版权限制”</small>
+Flickr 搜索—“无已知版权限制”
 
 ## 你会如何使用这些图片？
 
@@ -44,7 +44,7 @@
 
 ![Seamless Texture Tool](img/b6b94e8c3e3c60ea210e4b2f3d633288.png)
 
-<small>橙色框无缝纹理工具</small>
+橙色框无缝纹理工具
 
 ## 想法二:寻找排版灵感
 
@@ -54,7 +54,7 @@
 
 ![Typography on Flickr](img/a23f9a4dccee3ea024dcf29f02fe482b.png)
 
-<small>Flickr 上的排版</small>
+Flickr 上的排版
 
 ## 想法三:用一件古装作品来营造气氛
 
@@ -62,7 +62,7 @@
 
 ![Library of Congress](img/e09bbcc8a36b2f687e824553a6d9f0f7.png)
 
-<small>国会图书馆:[内布拉斯加州林肯市老鹰水果店和首都酒店](https://www.flickr.com/photos/library_of_congress/2179171500/)</small>
+国会图书馆:[内布拉斯加州林肯市老鹰水果店和首都酒店](https://www.flickr.com/photos/library_of_congress/2179171500/)
 
 现在，我不得不承认，在 Flickr 上找到有用的公共领域图片需要聪明的“搜索”和顽强的决心。你必须在搜索中发挥创造力。将这些图片批量上传到 Flickr 的自动化系统在给它们添加有意义的标签方面做得很好，但是庞大的数量是你需要处理的事情。
 

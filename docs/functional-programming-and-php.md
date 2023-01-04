@@ -159,6 +159,6 @@ $app->get("/home", function () {
 
 在本文中，我们讨论了函数式编程的基础，利用 PHP 的特性编写并提供了它们的例子。尽管本文给出的例子可能对您没有实际用处，但您会发现在许多情况下函数式风格可以显著提高您所编写代码的质量。尽量找这样的案例，功能性的思考，乐趣无穷！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

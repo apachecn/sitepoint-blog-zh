@@ -10,7 +10,7 @@
 
 ![OMEGA Watches](img/2561e4b56afc57eca52840c71462ba72.png)
 
-<small>来源:[欧米茄手表](http://www.omegawatches.com/)</small>
+来源:[欧米茄手表](http://www.omegawatches.com/)
 
 极简网站体现了 2015 年网页设计的核心理念之一:简单。除了必要的元素之外，去掉所有的元素不仅给你的网站增添了优雅的气息，还减少了加载时间，这对于移动浏览来说是一个很好的优势。加上更少的元素意味着更容易的响应设计。
 
@@ -33,7 +33,7 @@
 
 ![Shadow](img/c5f5dd21bc9b455f3b99cb106b59d28d.png)
 
-<small>来源:[影子](http://shadow.is/)</small>
+来源:[影子](http://shadow.is/)
 
 更小的屏幕意味着更长的卷轴。
 
@@ -63,7 +63,7 @@
 
 ![Toyota: Dream Car Collection](img/8065c613239c73a6944cd002d6a23ee5.png)
 
-<small>来源:[丰田:梦想汽车集锦](http://www.toyota-insidedreams.com/dreamcar-collection/)</small>
+来源:[丰田:梦想汽车集锦](http://www.toyota-insidedreams.com/dreamcar-collection/)
 
 像极简主义一样，扁平化的简洁仍然是它的优势。几乎卡通化的图形、易读性优先的排版和有趣的颜色使这种风格易于理解。
 
@@ -113,7 +113,7 @@
 
 ![Spotify: Found them First](img/3c1825eac70c103dc60bcedc7f7ac251.png)
 
-<small>来源: [Spotify:先找到他们](https://spotify-foundthemfirst.com/en-US)</small>
+来源: [Spotify:先找到他们](https://spotify-foundthemfirst.com/en-US)
 
 引人注目的颜色减少了网站显得沉闷的可能性——极简主义的天然弱点。当积极使用印刷字体时，颜色可以吸引人们对某些单词或短语的注意。此外，颜色在暗示可用性方面有重要作用:想想悬停在卡片上时会改变颜色，这是交互性的一个明显标志。
 
@@ -134,7 +134,7 @@
 
 ![R/M Design School](img/daba281afed0ce29e950b6b79ae53539.png)
 
-<small>[R/m 设计学院](http://school.readymag.com/)</small>
+[R/m 设计学院](http://school.readymag.com/)
 
 高清是任何高于 200 ppi (dpi)的分辨率，而标准清晰度是 72 ppi。这使得以标准清晰度设计的图像在高清设备上看起来模糊不清，但高清图像在标清设备上看起来很好。这意味着使用标清显示器的用户不会注意到这种差异，但使用高清显示器的用户肯定会注意到。
 
@@ -155,7 +155,7 @@
 
 ![Mario Frigerio: Wedding Photographer](img/3256d9a2d66f076b083baa60d5fa5005.png)
 
-<small>来源:[马里奥·弗里格里奥:婚礼摄影师](http://www.fotofrigerio.it/en)</small>
+来源:[马里奥·弗里格里奥:婚礼摄影师](http://www.fotofrigerio.it/en)
 
 这一点在英雄图像的流行中表现得最为明显——充满整个背景的单张照片。英雄图片可以更快地吸引用户，使其成为登陆和登录页面的完美选择。
 
@@ -178,7 +178,7 @@
 
 ![Google Ideas](img/d078fe04728d304b8c8add6556531b3f.png)
 
-<small>来源:[谷歌创意](https://www.google.com/ideas/)</small>
+来源:[谷歌创意](https://www.google.com/ideas/)
 
 动态排版并不总是意味着狂野或精致的字体——事实上，最常见的是简单的排版，符合平面设计和极简主义等趋势。动态排版的趋势是指任何吸引注意力的文本，无论是简单的还是复杂的。这包括非常大或非常小的字体。
 
@@ -198,7 +198,7 @@
 
 ![Beatbox Academy](img/6d8e2f0c0e00dadf5834e7c4de429df4.png)
 
-<small>来源: [Beatbox 学院](http://www.beatboxacademy.ca/)</small>
+来源: [Beatbox 学院](http://www.beatboxacademy.ca/)
 
 HTML5、CSS、Javascript 和 jQuery 的进步现在允许更全面的交互，[这实际上促进了业务](http://news.psu.edu/story/352874/2015/04/14/research/interactivity-tools-can-boost-persuasiveness-websites)。这一趋势源于以下方面的增长:
 
@@ -226,7 +226,7 @@ HTML5、CSS、Javascript 和 jQuery 的进步现在允许更全面的交互，[�
 
 ![Behance](img/3e5e909cca556aa802e9bebee3e518a0.png)
 
-<small>来源:[行为](https://www.behance.net/)</small>
+来源:[行为](https://www.behance.net/)
 
 排在前十位的是另一个适应移动设备的趋势。
 

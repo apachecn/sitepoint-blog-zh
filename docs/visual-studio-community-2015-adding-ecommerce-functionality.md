@@ -57,7 +57,7 @@
       <div class="row">
         <div class="col-sm-6">
         <h4 class="product-name"><strong>Lesson 1</strong></h4>
-        <h4><small>Beginner Lessons</small></h4>
+        <h4>Beginner Lessons</h4>
         </div>
         <div class="col-sm-4">
         <div class="col-sm-6 text-right">
@@ -73,7 +73,7 @@
       <div class="row">
         <div class="col-sm-6">
         <h4 class="product-name"><strong>Lesson 2</strong></h4>
-        <h4><small>Intermediate Lessons</small></h4>
+        <h4>Intermediate Lessons</h4>
         </div>
         <div class="col-sm-4">
         <div class="col-sm-6 text-right">

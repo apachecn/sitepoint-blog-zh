@@ -32,6 +32,6 @@ PHP 程序员通常可以编写在已知环境中运行的应用程序，而 Jav
 
 并不是每个应用程序都需要使用框架来编写。但是如果您已经决定您的需要，那么将您的需要与各种框架产品的特性和优点进行比较是有益的。它可能是一个你已经熟悉的框架，也可能是一个新的框架，但是只有通过客观的分析，你才能确定它真的是最适合的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

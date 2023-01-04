@@ -27,7 +27,7 @@ $ rails generate controller pages index
 
 <p>I'm alive! Thanks to a little help from <a href="https://shellycloud.com/"></p>
 
-<small><%= Time.now %></small>
+<%= Time.now %>
 ```
 
 现在将根目录路由到这个页面…

@@ -210,6 +210,6 @@ echo $response->getContent();
 
 在这篇文章中，我介绍了 Aura 的基本工作原理。还展示了我们如何集成呈现策略以及如何构建适当的 HTTP 响应。你可以使用 Aura 这样的路由库。我前面讨论过的路由器来动态调用控制器。也许在以后的文章中，我会展示如何整合所有这些，并从 Aura 组件构建您自己的框架。敬请期待！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

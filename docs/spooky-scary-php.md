@@ -292,6 +292,6 @@ echo "Query: $dbq";
 
 我希望你喜欢这篇文章，这些例子不会给你(太多)噩梦！我相信你也有自己的困扰或可怕的代码，无论你在世界的哪个角落，都没有必要让假期的乐趣消失，所以请在下面的评论中分享你的可怕 PHP 故事吧！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -56,11 +56,11 @@
 
 不再需要猜测——您只需点击播放按钮，就能亲眼看到您的用户是如何操作的。
 
-<center>
+
 
 [https://www.youtube.com/embed/KoVum1nuihA](https://www.youtube.com/embed/KoVum1nuihA)
 
-</center>
+
 
 ## 触摸热图
 

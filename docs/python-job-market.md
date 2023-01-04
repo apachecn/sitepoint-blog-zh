@@ -30,7 +30,7 @@
 
 ![](img/b67d3bd94d42c62d63be8c2a1cc36c3c.png)
 
-<small>[机器学习:Python 对比 R 和 MATLAB](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20machine%20learning,R%20machine%20learning,MATLAB%20machine%20learning) 。</small>
+[机器学习:Python 对比 R 和 MATLAB](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20machine%20learning,R%20machine%20learning,MATLAB%20machine%20learning) 。
 
 大概没必要解释为什么**人工智能** (AI)现在很火。事实上，过去十年金融成功的公式似乎是:
 
@@ -68,7 +68,7 @@
 
 ![](img/48d9bc1215fad43bb8fc97e8f204d68a.png)
 
-<small>[无服务器架构:Python 对比 JavaScript 和 Go](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20serverless,JavaScript%20serverless,Go%20serverless) 。</small>
+[无服务器架构:Python 对比 JavaScript 和 Go](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20serverless,JavaScript%20serverless,Go%20serverless) 。
 
 这是另一种说法*将服务与云*集成在一起——然而，这是另一个你可以肯定会持续增长的领域。
 
@@ -96,7 +96,7 @@
 
 ![](img/b90916c8d7f568883afc697422064806.png)
 
-<small>[区块链:Python 对比 C++和 Java](https://trends.google.com/trends/explore?date=today%205-y&q=blockchain%20Python,blockchain%20Java,blockchain%20C%2B%2B) 。</small>
+[区块链:Python 对比 C++和 Java](https://trends.google.com/trends/explore?date=today%205-y&q=blockchain%20Python,blockchain%20Java,blockchain%20C%2B%2B) 。
 
 最初我不打算把区块链包括在这个列表中，因为在我看事情的方式(有限且肯定有偏见)中，我不太清楚加密货币在几年后是否仍然是一个东西。
 
@@ -104,7 +104,7 @@
 
 ![](img/991abc01bac31bd676e9bf4ffd392d3a.png)
 
-<small>[金融:Python 对比 C++和 Java](https://trends.google.com/trends/explore?date=today%205-y&q=finance%20C%2B%2B,finance%20Python,finance%20Java) 。</small>
+[金融:Python 对比 C++和 Java](https://trends.google.com/trends/explore?date=today%205-y&q=finance%20C%2B%2B,finance%20Python,finance%20Java) 。
 
 如果你收集了足够的知识来理解加密货币的金融方面，再加上对 Python 的精通，这可能会为一些投资银行和金融科技初创公司的 IT 部门打开许多大门。
 
@@ -120,7 +120,7 @@
 
 ![](img/720b5c7b541da55ba1505ace4683023b.png)
 
-<small>[数据科学:Python 对比 R 和 Scala](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20data%20science,R%20data%20science,Scala%20data%20science) 。</small>
+[数据科学:Python 对比 R 和 Scala](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20data%20science,R%20data%20science,Scala%20data%20science) 。
 
 **数据科学**的研究领域越来越多:
 
@@ -146,7 +146,7 @@
 
 ![](img/22154e10557a16d4d62622656bba2923.png)
 
-<small>[Web 开发:Python 对比 PHP 和。网](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20web%20development,PHP%20web%20development,.NET%20web%20development)。</small>
+[Web 开发:Python 对比 PHP 和。网](https://trends.google.com/trends/explore?date=today%205-y&q=Python%20web%20development,PHP%20web%20development,.NET%20web%20development)。
 
 这可以说是这个列表中最不热门的话题。但事实是，即使有了上述微服务的兴起，web 开发也不会很快有任何进展。web 和移动应用程序仍然需要大量的后端编程来处理来自 web 浏览器或移动用户界面的输入。
 

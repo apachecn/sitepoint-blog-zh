@@ -24,7 +24,7 @@
 
 ![Co-ordinates system explained.](img/faf8c472e98498d7144e6be1e931a5cf.png)
 
-<small>平面的原点(x = 0；y=0)位于设备屏幕的中央。</small>
+平面的原点(x = 0；y=0)位于设备屏幕的中央。
 
 你应该记住的第一件事是坐标系统。与使用 quartz composer 修补程序构建相比，折纸修补程序(如层/层组或文本层)使用像素坐标。
 
@@ -36,8 +36,8 @@
 
 ![A switch patch](img/8166c25932ffd130d67e5ef9b2c3a7ba.png)
 
-<small>开关补丁是二进制
-值 0 和 1 被描绘为开和关状态的最常见用例。</small>
+开关补丁是二进制
+值 0 和 1 被描绘为开和关状态的最常见用例。
 
 ### 快捷键
 
@@ -55,7 +55,7 @@
 
 ![A demo project structure](img/1b988a3c4c88dbe83f1b7240e15c5f94.png)
 
-<small>一个演示项目结构。</small>
+一个演示项目结构。
 
 ## 让我们开始原型制作
 
@@ -69,7 +69,7 @@
 
 ![Importing all media used in our prototype](img/0052b82449267191af87bcee52cccc38.png)
 
-<small>导入我们原型中使用的所有媒体。</small>
+导入我们原型中使用的所有媒体。
 
 因为我们正在构建一个 2 页的原型，所以使用“图层组补丁”是一个很好的实践，这样我们就不会迷失在每页将要进行的所有布线中。通过按下键盘上的*‘G’*来创建层群组 patch(或通过从 patch 检查器中拖放 patch)。
 
@@ -87,7 +87,7 @@
 
 ![Opening the Patch Inspector](img/7a7848449b5b7f7d737fd8e04e0965bb.png)
 
-<small>打开补丁检查器</small>
+打开补丁检查器
 
 太好了！现在，我们想在点击应用程序欢迎屏幕上的“立即探索”按钮时进入第二页。我们还希望应用程序的第二个屏幕优雅地滑入——甚至可能在滑入时有一点奇妙的弹跳。
 

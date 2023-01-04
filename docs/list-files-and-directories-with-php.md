@@ -243,6 +243,6 @@ foreach($iterator as $entry) {
 
 你知道实现目标的其他方法吗？如果是这样，你想与我们分享，请吧。知识共享总是受欢迎的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -70,12 +70,12 @@ Last login: Tue Apr 12 09:10:17 2005 from mowmow.example.com
 <span class="prompt">jdoe@demo:~$</span> _</samp>
 ```
 
-## 8.<small></small>
+## 8.
 
- <small>在 HTML5 之前，`<small>`元素只是一个表示性的元素，用于使用较小的字体书写单词。在 HTML5 中`<small>`有一些语义值。现在,`<small>`元素表示经常出现在小字体中的文本，如免责声明、警告、法律限制或版权。其使用示例如下所示:
+ 在 HTML5 之前，``元素只是一个表示性的元素，用于使用较小的字体书写单词。在 HTML5 中``有一些语义值。现在,``元素表示经常出现在小字体中的文本，如免责声明、警告、法律限制或版权。其使用示例如下所示:
 
 ```
-This article is offered to you by Aurelio De Rosa <small>Copyright © 2014</small>
+This article is offered to you by Aurelio De Rosa Copyright © 2014
 ```
 
 ## 9.
@@ -141,4 +141,4 @@ document.getElementById('form-calculation').addEventListener('submit', function(
 
 在这篇文章中，我们已经讨论了一些很少使用并且经常被遗忘的 HTML 标签。我建议你不时阅读一下提供的 HTML 标签的完整列表。通过这种方式，你将刷新你的语义元素知识，也许你会在这个过程中发现一个惊喜(就像我对`<dfn>`标签所做的那样)。
 
-## 分享这篇文章</small>
+## 分享这篇文章

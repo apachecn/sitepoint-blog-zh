@@ -177,6 +177,6 @@ class PathController
 
 在本文中，我向您介绍了 AOP。您应该对 AOP 试图实现的目标有一个基本的了解，并且熟悉一些基本的 AOP 术语。在本系列的下一部分，我将向您展示在现实世界的项目中哪里需要 AOP，以及我们如何使用 CodeIgniter 钩子来创建 AOP 功能。敬请期待！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

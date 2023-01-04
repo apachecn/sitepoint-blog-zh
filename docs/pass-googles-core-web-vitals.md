@@ -154,7 +154,7 @@ Web workers 可以在后台线程上运行脚本，减少主线程的负载。�
 
 ![website ad](img/6e83c740429baf7936d11230f9295747.png)
 
-<small>[截图来源](https://thesmartlocal.com/read/ice-hotel-gallery-snow-city/)</small>
+[截图来源](https://thesmartlocal.com/read/ice-hotel-gallery-snow-city/)
 
 有几种方法可以做到这一点:
 

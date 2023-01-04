@@ -36,6 +36,6 @@ EC2 允许我们以计算机科学课程中教授的方式构建 web 应用程�
 
 如果您的兴趣被激起，请继续关注[第 2 部分](https://www.sitepoint.com/from-zero-to-cloud-2/ "From Zero to Cloud: Setting up an EC2 Sandbox, Part 2")，在那里我们将超越注册，开始配置开发环境和安装 AMI！
 
-<small>图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

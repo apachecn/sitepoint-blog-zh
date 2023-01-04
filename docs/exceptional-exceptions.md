@@ -133,6 +133,6 @@ catch-all 是最高的 catch 块，它必须捕获上升到该级别的每个异
 
 总的来说，只有当你的代码不能用给定的输入完成请求的指令时才抛出异常，总是抛出一个定制的异常，实际上告诉调用代码是什么情况，如果你调用其他代码，那么只捕捉你能够并且应该处理的异常。这将使你的组件少了很多黑盒(自定义异常)，并减少了集成你的组件的开发人员不得不改变你的代码的机会(不要捕捉你不应该捕捉的)。我们总是告诉我们的客户/经理要具体，但我们也应该具体！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

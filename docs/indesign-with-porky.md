@@ -14,7 +14,7 @@
 
 ![Scripts Panel](img/a983dad0919296541bac4d35d046f182.png)
 
-<small>脚本面板</small>
+脚本面板
 
 Porky 需要在你的本地计算机上安装 node.js，[完整的说明可以在这里找到](https://nodejs.org/en/)。当你安装了它，我们可以安装一些 Porky 需要的 node.js 的附件来处理它所支持的各种服务的连接。通过打开命令行并发出这两个命令来安装它们(这适用于安装了 InDesign CC 的 Mac，路径会因您的平台和版本而异):
 

@@ -199,6 +199,6 @@ curl_close($ch);
 
 我们从讨论什么是双向短信以及它为什么有用开始了本教程。然后，我们通过 4 个主要阶段讨论了双向消息传递的过程。现在，您应该能够将这里介绍的概念应用于任何给定的 SMS 网关，并在您的 PHP 应用程序中实现双向 SMS。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -203,6 +203,6 @@ public class MyActivity extends Activity {
 
 本文的第 1 部分主要关注设置 Android 应用程序来发出请求。在本文接下来的第 2 部分中，我们将深入探讨在这两种环境中处理数据序列化和压缩的问题。敬请期待！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

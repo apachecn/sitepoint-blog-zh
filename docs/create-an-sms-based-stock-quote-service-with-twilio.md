@@ -357,6 +357,6 @@ $sms = $twilio->account->sms_messages->create(
 
 您可能还希望尝试添加新的命令。也许你订阅的不是即时响应的服务，而是定期更新？或者甚至设置一些阈值，比如“股价跌破 x 就给我发短信”)。欢迎在下面的评论中提出任何其他想法！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

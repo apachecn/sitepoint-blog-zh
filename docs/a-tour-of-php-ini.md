@@ -126,6 +126,6 @@ date.timezone = "US/Central"
 
 强烈建议所有 web 开发人员浏览一下他们服务器的`php.ini`文件，熟悉它的内容，并适当地个性化一些指令。本文中的配置指令应该为您提供了一个良好的起点。如果你使用共享主机，主机公司设置的配置可能不总是最好的，也可能不符合你的编码风格。请咨询您的提供商，了解您可以使用哪些选项来自定义您的环境。
 
-<small>图片来源于[摄影记者](http://www.shutterstock.com/gallery-293770p1.html) / [摄影记者](http://www.shutterstock.com/)</small>
+图片来源于[摄影记者](http://www.shutterstock.com/gallery-293770p1.html) / [摄影记者](http://www.shutterstock.com/)
 
 ## 分享这篇文章

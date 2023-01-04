@@ -46,6 +46,6 @@
 
 如果您已经使用了这种技术，或者在阅读了本文之后已经采用了这种技术，我很想听听您对它的看法，以及您是否以任何方式改变了上面的过程。请留言评论:)
 
-<small>图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via [查尔斯·泰勒](http://www.shutterstock.com/gallery-6748p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

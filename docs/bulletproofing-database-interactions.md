@@ -256,6 +256,6 @@ Tests: 2, Assertions: 2, Failures: 1.
 
 在本文中，我们看到了如何使用 PHPUnit 的数据库扩展用 PHP 编写数据库测试，这使得确保与数据库交互的代码是正确的变得更加容易。更重要的是，它给了我们信心，让我们在修复错误和改进/重构代码时做出改变。就像生活中的其他事物一样，软件也有很多变化。编写自动化测试可以帮助您更有效、更自信地使代码适应这些变化。
 
-<small>图片经由[塔蒂安娜·普欧波娃](http://www.shutterstock.com/gallery-77552p1.html) / [快门](http://www.shutterstock.com/)</small>
+图片经由[塔蒂安娜·普欧波娃](http://www.shutterstock.com/gallery-77552p1.html) / [快门](http://www.shutterstock.com/)
 
 ## 分享这篇文章

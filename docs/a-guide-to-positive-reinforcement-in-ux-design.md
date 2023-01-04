@@ -42,7 +42,7 @@ Obachan 在其网站上实现了一个伟大而微小的正面强化的例子。
 
 ![A GIF showing happy emojis bouncing in place of the Add to Cart button after an item is added to the cart](img/40c626052e89cb82e2c880aff69c3b8d.png)
 
-<small>来源:[getobachan.com](https://www.getobachan.com/products/yellow-gorilla-cloth)网店</small>
+来源:[getobachan.com](https://www.getobachan.com/products/yellow-gorilla-cloth)网店
 
 我们来看看 [AdEspresso 的联系方式](https://adespresso.com/contacts/)。一旦您提交了他们的联系表单，按钮文本将更新为“发送中…”以显示当前状态。换句话说，网站让你知道他们已经收到了你的提交，并正在处理你的请求。
 
@@ -68,7 +68,7 @@ Obachan 在其网站上实现了一个伟大而微小的正面强化的例子。
 
 ![Taxfix completed tax submission, showing the refund to be received](img/211f451fd5dffa4069754e8ddee9375b.png)
 
-<small>来源:[YouTube](https://www.youtube.com/watch?v=uoH8i9ixE50)tax fix 的推广视频</small>
+来源:[YouTube](https://www.youtube.com/watch?v=uoH8i9ixE50)tax fix 的推广视频
 
 更进一步，我们来看看[Intercom.com](https://www.intercom.com/)。它们为试图建立第一个内部通信对话项目的用户提供了一个很好的入门工作流。它们都将总体进度显示为不同个人入职步骤的进度。它为您提供了仍然需要哪些信息的详细概述。此外，您可以离开入职流程，稍后从您离开的地方继续。
 
@@ -114,7 +114,7 @@ iNudgeyou 做了一个类似的实验[来发现食物单位大小的影响。在
 
 ![A bar graph showing the relative amounts of apple and cake eaten on each day](img/13509a12b2fee15376a181b097d4faa6.png)
 
-<small>图片来源:[因古尤实验](https://inudgeyou.com/en/new-experiment-just-a-simple-trick-can-nudge-you-to-eat-healthier-2/)关于鼓励人们吃更健康的食物</small>
+图片来源:[因古尤实验](https://inudgeyou.com/en/new-experiment-just-a-simple-trick-can-nudge-you-to-eat-healthier-2/)关于鼓励人们吃更健康的食物
 
 现在，我们可以在界面设计中模拟微移理论。向每当用户向下滚动产品页面时触发的“添加到购物车”按钮添加一个小动画，我们可以轻推用户点击该按钮。
 

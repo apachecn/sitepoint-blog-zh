@@ -81,7 +81,7 @@
 
 ### C++
 
-<center style="margin: 1em 0;">![The C++ logo](img/43435395acf66bbd380e90c127b1329e.png)</center>
+![The C++ logo](img/43435395acf66bbd380e90c127b1329e.png)
 
 C++ 是一种很好的游戏开发编程语言，因为它快速而高效。游戏开发者使用 C++来创建高性能的游戏，它还拥有丰富的调试工具，这对游戏开发至关重要。
 
@@ -108,7 +108,7 @@ C++ 是一种很好的游戏开发编程语言，因为它快速而高效。游�
 
 ### Java 语言(一种计算机语言，尤用于创建网站)
 
-<center style="margin:1em 0">![The Java logo](img/eccc1752ab0b11c0356592bd7b7521d6.png)</center>
+![The Java logo](img/eccc1752ab0b11c0356592bd7b7521d6.png)
 
 Java 是一种通用且强大的编程语言，广泛应用于许多不同的行业。对于游戏开发来说，它也是一个不错的选择，因为它具有 C++的许多优点，而且可以在各种平台上运行。
 
@@ -130,7 +130,7 @@ Java 是一种通用且强大的编程语言，广泛应用于许多不同的行
 
 ### JavaScript(带 HTML 和 CSS)
 
-<center style="margin: 1em 0;">![The unofficial JS logo](img/4c00b834aefebe96edee1abb079a6e89.png)</center>
+![The unofficial JS logo](img/4c00b834aefebe96edee1abb079a6e89.png)
 
 JavaScript (JS)是另一种用于游戏开发的通用编程语言，它的优点是相对容易学习。虽然 JavaScript 没有 C++或 Java 快，但它仍然适合开发 2D 游戏。
 
@@ -154,7 +154,7 @@ JavaScript 游戏可以在任何网络浏览器上运行，这使得它们易于
 
 ### C#
 
-<center style="margin: 1em 0;">![The C sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)</center>
+![The C sharp logo](img/d6b27c43ab3d864729ec1fa7a6e58e17.png)
 
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 是微软创造的。它有许多与 C++相同的优点，是开发 2D 和 3D 游戏的特别好的选择。
 
@@ -175,7 +175,7 @@ C#和 Visual Studio(同样由微软创建)之间的集成非常出色，调试�
 
 ### 左上臂
 
-<center style="margin:1em 0">![The Lua logo](img/618c64e7aa50fa37dedcbde7c51c6a2f.png)</center>
+![The Lua logo](img/618c64e7aa50fa37dedcbde7c51c6a2f.png)
 
 Lua 是一种轻量级脚本语言，被用于许多不同的行业，包括游戏开发。易学易用，速度也快(这是个不一般的连击！).
 
@@ -202,7 +202,7 @@ Lua 通常用于开发游戏逻辑，它可以嵌入到其他编程语言中。�
 
 ### 作为游戏开发语言的 Python
 
-<center style="margin: 1em 0;">![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)</center>
+![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)
 
 虽然我们没有提到它，但是 [Python](https://www.python.org/) 是另一种在初级开发人员中流行的语言。就像 Lua 一样，非常好学；而且不像 Lua，它是一种通用语言，可以打开游戏开发行业之外的大门，比如数据科学和人工智能。
 

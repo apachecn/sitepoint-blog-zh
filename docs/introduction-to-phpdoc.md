@@ -224,6 +224,6 @@ moteutsch@vivaldi:~$ phpdoc -h
 
 在本文中，我已经让您初步了解了 PhpDoc 及其许多强大的特性。我已经解释了文档块及其组件的用途；我已经向您展示了如何使用包来组织您的文档；我已经解释了哪些代码元素可以被记录，以及这样做的一些常见例子；最后，我向您展示了如何从源代码生成文档。我强烈建议您在自己的项目中开始使用 PhpDoc，即使只是为了记录最重要的部分。它非常简单明了，可以为你和你的同事节省无数个小时的焦虑和烦恼。
 
-<small>图片 via [扎多罗日涅伊维克多](http://www.shutterstock.com/gallery-599005p1.html) / [快门](http://www.shutterstock.com/)</small>
+图片 via [扎多罗日涅伊维克多](http://www.shutterstock.com/gallery-599005p1.html) / [快门](http://www.shutterstock.com/)
 
 ## 分享这篇文章

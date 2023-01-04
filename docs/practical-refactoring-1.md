@@ -40,6 +40,6 @@
 
 现在您已经知道了什么是好的代码，我们可以继续本系列的下一部分了。在第 2 部分中，我将向您展示重构时需要注意的一些事情，以获得更好的可读性。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -225,7 +225,7 @@ function setTicker()  
 
 {  
 
- document.all.ticker_space.innerHTML='<center><a href="' +   
+ document.all.ticker_space.innerHTML='<a href="' +   
 
  ticker.childNodes(item_count).getAttribute('URL') + '" target="'   
 
@@ -233,7 +233,7 @@ function setTicker()  
 
  '" class="ticker_style"' + isPauseContent + '>' +    
 
- ticker.childNodes(item_count).firstChild.text + '</a></center>';  
+ ticker.childNodes(item_count).firstChild.text + '</a>';  
 
  if(item_count==ticker.childNodes.length-1)  
 

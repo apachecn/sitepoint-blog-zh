@@ -153,7 +153,7 @@ public function example1() {
 
 现在您已经知道如何使用 CodeIgniter 分页库的最有用的配置选项，并且还可以修复分页链接的显示方式，以便为您的用户提供一致的体验。CodeIgniter 的每个下载都附带了一个用户指南，所以一定要查看那里库的其他配置选项。它包含设置分页链接样式的选项，以及更改页面上呈现链接的方式的选项。
 
-<small>图片 via [亚历克西斯·普恩特斯](http://www.shutterstock.com/gallery-2901p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via [亚历克西斯·普恩特斯](http://www.shutterstock.com/gallery-2901p1.html)/[Shutterstock](http://shutterstock.com)
 
 如果你喜欢读这篇文章，你会爱上[可学的](https://learnable.com?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoint 的所有电子书和交互式在线课程，如 [Jump Start PHP](https://learnable.com/books/jump-start-php?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink) 。
 

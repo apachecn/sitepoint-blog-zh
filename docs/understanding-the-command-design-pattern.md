@@ -116,6 +116,6 @@ $msgQueue->execute();
 
 在本教程中，我向您展示了 Command 模式如何成为实现命令队列的有用设计模式，在命令队列中，请求可以排队以进行顺序处理，同时将执行的实际实现与队列本身分离。
 
-<small>[堀岩](http://www.shutterstock.com/gallery-632761p1.html) / [梭托](http://shutterstock.com)</small>
+[堀岩](http://www.shutterstock.com/gallery-632761p1.html) / [梭托](http://shutterstock.com)
 
 ## 分享这篇文章

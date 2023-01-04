@@ -79,9 +79,9 @@
   <label for="email">Email address</label>
   <input type="email" class="form-control"
      id="email" aria-describedby="emailHelp" placeholder="Enter email"> <!-- #1 -->
-  <small id="emailHelp" class="form-text text-muted"> <!-- #2 -->
+   <!-- #2 -->
     For authentication purposes only. We will never share your email with anyone!
-  </small>
+  
 </div> 
 ```
 
@@ -94,9 +94,9 @@
   <label for="email">Email address</label>
   <input type="email" class="form-control form-control-lg"
      id="email" aria-describedby="emailHelp" placeholder="Enter email"> <!-- #1 -->
-  <small id="emailHelp" class="form-text text-muted">
+  
     For authentication purposes only. We will never share your email with anyone!
-  </small>
+  
 </div>
 
 <div class="form-group">
@@ -121,9 +121,9 @@
   <label for="pricingPlan">Pricing plan</label>
   <input type="text" readonly class="form-control-plaintext"
      id="pricingPlan" value="Basic" aria-describedby="pricingPlanHelp"> <!-- #1 -->
-  <small id="pricingPlanHelp" class="form-text text-muted">
+  
     Basic is the only plan so far, but we'll introduce more soon!
-  </small>
+  
 </div> 
 ```
 

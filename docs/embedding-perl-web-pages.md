@@ -1000,7 +1000,7 @@ Alias /asp/ "/home/www/asp/"          
 
 <H3>Environment Variables</H3>           
 
-<CENTER>           
+           
 
 <TABLE BORDER=1>           
 
@@ -2279,7 +2279,7 @@ Alias /asp/ "/home/www/asp/"          
 
 <H3>Environment Variables</H3>           
 
-<CENTER>           
+           
 
 <TABLE BORDER=1>           
 

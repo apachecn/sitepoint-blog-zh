@@ -575,17 +575,17 @@ var ca_tutortutor_AJSCOLib =
     var month = date.getMonth();
     document.writeln("<table border=1>");
     document.writeln("<th bgcolor=#eeaa00 colspan=7>");
-    document.writeln("<center>" + Date.monthNames[month] + " " + year + 
-                     "</center>");
+    document.writeln("" + Date.monthNames[month] + " " + year + 
+                     "");
     document.writeln("</th>");
     document.writeln("<tr bgcolor=#ff7700>");
-    document.writeln("<td><b><center>S</center></b></td>");
-    document.writeln("<td><b><center>M</center></b></td>");
-    document.writeln("<td><b><center>T</center></b></td>");
-    document.writeln("<td><b><center>W</center></b></td>");
-    document.writeln("<td><b><center>T</center></b></td>");
-    document.writeln("<td><b><center>F</center></b></td>");
-    document.writeln("<td><b><center>S</center></b></td>");
+    document.writeln("<td><b>S</b></td>");
+    document.writeln("<td><b>M</b></td>");
+    document.writeln("<td><b>T</b></td>");
+    document.writeln("<td><b>W</b></td>");
+    document.writeln("<td><b>T</b></td>");
+    document.writeln("<td><b>F</b></td>");
+    document.writeln("<td><b>S</b></td>");
     document.writeln("</tr>");
     var dayOfWeek = new Date(year, month, 1).getDay();
     var day = 1;
@@ -627,12 +627,12 @@ var ca_tutortutor_AJSCOLib =
 
 图 1 显示了一个示例日历页面。
 
-<center>
+
 ![The current day is highlighted in yellow.](img/f2f5a91bd8267e326ade7ec12e06c42e.png)
 
 **图 1:** 当天用黄色突出显示。
 
-</center>
+
 
 清单 4 展示了一个 HTML 文档，其中嵌入了一个用于测试`_Math`的脚本。
 
@@ -772,13 +772,13 @@ var ca_tutortutor_AJSCOLib =
 
 图 2 显示了一条彩色的心形曲线。
 
-<center>
+
 
 ![Reload the page to change the curve's color.](img/db9506503c02305a7da2543464949195.png)
 
 **图 2:** 重新加载页面来改变曲线的颜色。
 
-</center>
+
 
 ## 结论
 

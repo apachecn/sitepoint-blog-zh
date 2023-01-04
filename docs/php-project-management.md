@@ -54,6 +54,6 @@
 
 底线是:项目管理是一场你赢不了的游戏。如果你在预算和时间之内到达，就好像每个人都会认为你是个骗子，不会再相信你的估计。关注重要的事情。具体点，友善点，敏捷点，抱最好的希望。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

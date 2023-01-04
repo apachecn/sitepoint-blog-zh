@@ -371,6 +371,6 @@ else {
 
 在本文中，我们已经介绍了很多内容，关于通行证管理，还有更多内容需要探讨。可以从 PassSigner 库开始，并在它的基础上进行构建。您可以轻松地为您或您的客户创建各种通行证申请。编码快乐！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

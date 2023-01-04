@@ -319,6 +319,6 @@ function downloadAttachment($imap, $uid, $partNum, $encoding, $path) {
 
 我们已经看完了 PHP 的 IMAP 函数，现在你应该有足够的理解来组装一个简单的工作邮件阅读器。请务必了解其他可用的功能，并探索它们以拓宽您的理解。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

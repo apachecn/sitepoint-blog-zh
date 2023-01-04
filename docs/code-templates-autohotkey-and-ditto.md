@@ -56,6 +56,6 @@ Ditto 允许你在多台计算机上同步你的剪贴板，如果你能用你�
 
 在本文中，我向您展示了如何使用 NetBeans 的代码模板和 AutoHotKey 以及 Ditto 来提高我的编程效率。如果你以前不熟悉这些程序，我希望它们对你有用。如果你有任何想要分享的提高效率的小技巧，请在下面的评论区随意发表。
 
-<small>图片 via [贡纳尔·皮佩尔](http://www.shutterstock.com/gallery-242458p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [贡纳尔·皮佩尔](http://www.shutterstock.com/gallery-242458p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

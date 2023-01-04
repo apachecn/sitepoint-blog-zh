@@ -75,6 +75,6 @@ Catchable fatal error: Argument 1 passed to stringTest() must be an instance of 
 
 类型提示是 PHP 中引入的一种面向对象编程技术(专门用于识别被捕获异常的类型)。我鼓励你在这里阅读更多关于使用对象的内容。
 
-<small>图片 via[Carlos e . Santa Maria](http://www.shutterstock.com/gallery-73309p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[Carlos e . Santa Maria](http://www.shutterstock.com/gallery-73309p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

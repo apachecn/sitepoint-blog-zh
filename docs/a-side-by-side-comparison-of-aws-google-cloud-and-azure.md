@@ -135,19 +135,19 @@ Azure 似乎在为一些人(特别是美国的企业部门)工作，但正如 T2
 
 ![AWS server locations](img/d4a0b51e38be9779807e33eb32b61db1.png)
 
-<small>[AWS 位置。图由亚马逊](https://datacenterlocations.com/wp-content/uploads/2020/08/AWS-data-center-location-map.jpg)</small>
+[AWS 位置。图由亚马逊](https://datacenterlocations.com/wp-content/uploads/2020/08/AWS-data-center-location-map.jpg)
 
 Azure 的覆盖面也相当广:
 
 ![Azure server locations](img/e347ca850404f9c35bbf788202bf90e8.png)
 
-<small>[蔚蓝的天空。图由微软](https://azurecomcdn.azureedge.net/cvt-7edd7dd38cdf5a1d744cb2accdedcbc2aa74e40b5225b631a4700dd77ef951img/shared/regions-map-desktop.svg)T3 制作</small>
+[蔚蓝的天空。图由微软](https://azurecomcdn.azureedge.net/cvt-7edd7dd38cdf5a1d744cb2accdedcbc2aa74e40b5225b631a4700dd77ef951img/shared/regions-map-desktop.svg)T3 制作
 
 谷歌在美国、欧洲和亚洲有稳固的覆盖，在南美有一些覆盖，但在非洲没有。
 
 ![Google server locations](img/2cc8a67d1827fd5e8e3564575057bc20.png)
 
-<small>[谷歌云位置](https://cloud.google.com/about/locations/)</small>
+[谷歌云位置](https://cloud.google.com/about/locations/)
 
 但是要注意，在不同的地方部署会有不同的价格，美国和欧洲——按此顺序——通常是最便宜的。
 

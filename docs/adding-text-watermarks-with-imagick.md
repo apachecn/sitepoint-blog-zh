@@ -222,6 +222,6 @@ echo $image;
 
 对我来说，PHP 中的图像操作已经成为该语言最令人愉快的方面之一，我只能希望 Imagick 在未来的版本中成为捆绑包。如果您正在寻找一种贡献的方式，我鼓励您将其他命令行示例转换为 PHP，然后将您的结果发布在官方 PHP 手册上，这样其他人就可以学习和享受了。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

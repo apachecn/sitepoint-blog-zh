@@ -530,7 +530,7 @@ function xmlDsoTicker(objName, counter, maxMsgs, timeOut) {  
 
   <!-- begin ticker placement -->   
 
-  <center>   
+     
 
   <object id="ticker" CLASSID="clsid:550dda30-0541-11d2-9ca9-   
 
@@ -556,7 +556,7 @@ class="tickerStyle">  
 
   </script>   
 
-  </center>   
+     
 
   <!-- end ticker placement -->   
 

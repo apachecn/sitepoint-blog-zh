@@ -213,7 +213,7 @@ RenderSection 需要一个参数，这是部分的名称。如果它不存在，
 ```
 @section footer {
 
-        <small>Copyright 2010</small>
+        Copyright 2010
 
 }
 ```
@@ -231,7 +231,7 @@ RenderSection 需要一个参数，这是部分的名称。如果它不存在，
 
 @section footer {
 
-    <small>Copyright</small>
+    Copyright
 
 }
 ```
@@ -275,7 +275,7 @@ RenderSection 需要一个参数，这是部分的名称。如果它不存在，
 
 @section footer {
 
-    <small>Copyright</small>
+    Copyright
 
 }
 ```

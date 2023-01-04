@@ -14,7 +14,7 @@
 
 ![American Gothic parodies - The Muppets, Big Bang Theory, Beavis & Butthead & Barbie & Ken](img/61d528fca598623837c69b4ed0d3c3a0.png)
 
-<small>提线木偶，生活大爆炸，比维斯&大头鱼&芭比&肯</small>
+提线木偶，生活大爆炸，比维斯&大头鱼&芭比&肯
 
 美国哥特式是“标志性”形象的定义。这个意象大胆、简单且易于解析——是两个人和房子。虽然从技术上来说，这是一幅“美术作品”，但它的构成几乎像个孩子——就像一个符号或路标。
 
@@ -38,7 +38,7 @@
 
 ![Friends icon (with pitchfork)](img/d7cbb18a773c265d6e01cccecd99a47c.png)
 
-<small>好友图标(带干草叉)</small>
+好友图标(带干草叉)
 
 我承认我在这里临时加了一个干草叉有点恶作剧。但即使没有它，美国哥特式的“视觉回声”仍然清晰可见。
 
@@ -52,7 +52,7 @@
 
 ![Original Friends icons vs. Updated icon](img/bf5bddda0932b1570e216d3ea7ccf327.png)
 
-<small>原始好友图标与更新图标</small>
+原始好友图标与更新图标
 
 这是一个聪明的方法。一方面，凯特琳对非常小的图像做了非常微妙的改变。另一方面，这是一张每天呈现给全球十亿用户的图片。这是一个巨大的影响——比可口可乐、迪士尼或国际足联这样的巨擘影响更广。
 

@@ -593,7 +593,7 @@ end
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-plus"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   <% if a.trackable %>
     <%= link_to a.trackable.title, story_path(a.trackable) %> was added.
   <% else %>
@@ -607,7 +607,7 @@ end
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-edit"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   <% if a.trackable %>
     <%= link_to a.trackable.title, story_path(a.trackable) %> was edited.
   <% else %>
@@ -621,7 +621,7 @@ end
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-remove"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   An article was deleted.
 </li>
 ```
@@ -674,7 +674,7 @@ tracked owner: Proc.new { |controller, model| controller.current_user ? controll
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-plus"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   <strong><%= activity.owner ? activity.owner.name : 'Guest' %></strong>
   <% if a.trackable %>
     added the story <%= link_to a.trackable.title, story_path(a.trackable) %>.
@@ -689,7 +689,7 @@ tracked owner: Proc.new { |controller, model| controller.current_user ? controll
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-edit"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   <strong><%= activity.owner ? activity.owner.name : 'Guest' %></strong>
   <% if a.trackable %>
     edited the story <%= link_to a.trackable.title, story_path(a.trackable) %>.
@@ -704,7 +704,7 @@ tracked owner: Proc.new { |controller, model| controller.current_user ? controll
 ```
 <li class="list-group-item">
   <span class="glyphicon glyphicon-remove"></span>
-  <small class="text-muted"><%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+  <%= a.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
   <strong><%= activity.owner ? activity.owner.name : 'Guest' %></strong>
   deleted a story.
 </li>
@@ -1023,7 +1023,7 @@ tracked owner: Proc.new { |controller, model| controller.current_user ? controll
     <% @activities.each do |activity| %>
       <li class="list-group-item">
         <span class="glyphicon glyphicon-<%= activity.key.match(/\.(.*)/)[1] %>"></span>
-        <small class="text-muted"><%= activity.created_at.strftime('%H:%M:%S %-d %B %Y') %></small><br/>
+        <%= activity.created_at.strftime('%H:%M:%S %-d %B %Y') %><br/>
         <strong><%= activity.owner ? activity.owner.name : 'Guest' %></strong>
         <%= render_activity(activity, display: :i18n) %>
         <% if activity.trackable %>

@@ -277,6 +277,6 @@ while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
 
 我希望这篇文章对你有所帮助，就像我写它的乐趣一样。像这样的兼职项目可以真正激励我们坚持写博客，即使这感觉像是一件苦差事。作为一个额外的奖励，它的娱乐内容为您的访客；我是说，谁不喜欢看图呢？
 
-<small>图片 via [安吉拉·韦彤](http://www.shutterstock.com/gallery-273049p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [安吉拉·韦彤](http://www.shutterstock.com/gallery-273049p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

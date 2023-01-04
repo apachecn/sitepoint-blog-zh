@@ -21,7 +21,7 @@ Docker 是彻底解决软件容器和虚拟化问题的灵丹妙药。是的，�
 
 ## 码头工人的历史
 
-<center style="margin: 1em 0;">![Docker logo](img/1d381939257a52782a7d98f4344348be.png)</center>
+![Docker logo](img/1d381939257a52782a7d98f4344348be.png)
 
 [Docker](https://www.docker.com/) was created in 2013 by [Solomon Hykes](https://twitter.com/solomonstre) while working for [dotCloud](https://www.docker.com/press-release/dotcloud-inc-now-docker-inc/), a cloud hosting company. It was originally built as an internal tool to make it easier to develop and deploy applications.
 
@@ -35,7 +35,7 @@ Docker containers 基于 Linux [containers](https://en.wikipedia.org/wiki/OS-lev
 
 ![Diagram representing Docker architecture, by nhumrich](img/6d11e49cde2aee18b494b7f284ec1ea0.png)
 
-<small>Docker 架构，由[nhumrich](https://openclipart.org/artist/nhumrich)</small>
+Docker 架构，由[nhumrich](https://openclipart.org/artist/nhumrich)
 
 Docker 是一种允许您构建、运行、测试和部署分布式应用程序的技术。它使用操作系统级别的虚拟化来交付被称为容器的软件包中的软件。
 
@@ -123,7 +123,7 @@ Docker 容器是可移植的，可以在任何安装了 Docker 引擎的主机�
 
 要运行容器，首先需要从注册表中提取图像。然后，您可以使用这个映像创建并启动容器。
 
-<center style="margin: 1em 0;">![The Alpine Linux logo](img/ccc9863b5c9c0bafe0101c44d6fa40cb.png)</center>
+![The Alpine Linux logo](img/ccc9863b5c9c0bafe0101c44d6fa40cb.png)
 
 For example, let’s say we want to launch an [Alpine Linux](https://www.alpinelinux.org/) container. We would first pull the [Alpine Docker image from Docker Hub](https://hub.docker.com/_/alpine). To do that, we use the `docker pull` command, followed by the name of the repository and tag (version) that we want to download:
 

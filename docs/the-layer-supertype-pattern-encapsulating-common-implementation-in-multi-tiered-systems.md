@@ -496,6 +496,6 @@ foreach ($post->comments as $comment) {
 
 虽然它通常被视为被高估和滥用的野兽，但我希望现在很少有人会不同意继承是一种强大的机制，当在多层系统中巧妙地使用时，它可以有效地防止代码重复。当创建子类型时，继承提供了大量现成的优点，使用诸如 Layer Supertype 之类的简单模式就是一个例子，这些子类型彼此共享样板实现的大部分。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

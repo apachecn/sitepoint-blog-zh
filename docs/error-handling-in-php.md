@@ -208,6 +208,6 @@ throw new Exception();
 
 PHP 提供了各种处理错误情况的内置函数，包括记录和显示错误。它还为您提供了通过注册错误处理程序和使用异常来自定义错误处理策略的灵活性。错误是生活中的事实，但是希望我在本文中提供的信息能够帮助您更好地处理它们。
 
-<small>图片 via [伊利亚·安德里亚诺夫](http://www.shutterstock.com/gallery-460606p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [伊利亚·安德里亚诺夫](http://www.shutterstock.com/gallery-460606p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

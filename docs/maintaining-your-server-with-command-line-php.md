@@ -251,6 +251,6 @@ exec("rm -r $tmpFolder $tmpFolder.tgz");
 
 我希望本文为您提供了一些想法和知识，这些想法和知识将有助于您将来承担维护该服务器的任务，并且我希望您也可以使用这些 CLI 示例脚本作为基础来创建自己的维护脚本。
 
-<small>图片 via [程远扬](http://www.shutterstock.com/gallery-676222p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via [程远扬](http://www.shutterstock.com/gallery-676222p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

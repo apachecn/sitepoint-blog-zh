@@ -475,7 +475,7 @@ end
 <% from_reply_form ||= nil %>
 <% unless from_reply_form %>
   <% if comment.leaf? %>
-    <small class="text-muted">There are no replies yet - be the first one to reply!</small>
+    There are no replies yet - be the first one to reply!
   <% end %>
   <p><%= link_to 'reply', new_comment_path(comment.id) %></p>
 <% end %>

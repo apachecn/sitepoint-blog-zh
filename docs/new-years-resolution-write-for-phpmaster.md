@@ -16,6 +16,6 @@ PHPMaster 正在寻找人们来分享他们的知识、经验和对各种 PHP �
 
 你的作品可以在一个月内被全世界超过 30 万初露头角的开发者和 PHP 专家所接受。这是一个赚取额外收入的好方法，同时也能在 PHP 社区建立你的声誉。你还在等什么？[今天给我发一封电子邮件](mailto:tim.boronczyk@phpmaster.com)介绍你自己并提出你的主题！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

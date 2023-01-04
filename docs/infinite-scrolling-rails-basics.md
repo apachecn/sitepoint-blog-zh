@@ -184,7 +184,7 @@ WillPaginate.per_page = 10
 <div>
   <h2><%= link_to post.title, post_path(post) %></h2>
 
-  <small><em><%= post.timestamp %></em></small>
+  <em><%= post.timestamp %></em>
 
   <p><%= truncate(strip_tags(post.body), length: 600) %></p>
 </div>

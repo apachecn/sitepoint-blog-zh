@@ -74,6 +74,6 @@
 
 这些是十大问题，如果你不小心避免，会让你的 PHP 应用程序被攻破。是的，10 分钟。数一数… 1，2，3…什么？你只数了 8 个？好吧，也许 7 个。好吧，那让你知道你是多么容易被愚弄，我甚至不是坏人！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

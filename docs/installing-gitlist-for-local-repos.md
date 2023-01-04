@@ -102,6 +102,6 @@ GitList 接口是使用 [Twitter 引导](http://twitter.github.com/bootstrap/ "T
 
 GitList 由 [Twig](http://twig.sensiolabs.org/ "Twig - The flexible, fast, and secure template engine for PHP") 模板引擎提供支持，所有模板都可以在`views`下获得。为了了解这是怎么回事，我推荐你看一下这篇[教程](http://twig.sensiolabs.org/doc/templates.html "Twig - The flexible, fast, and secure template engine for PHP")。修改`.twig`文件后，不要忘记清理`cache`文件夹的内容！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

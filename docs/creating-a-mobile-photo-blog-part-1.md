@@ -217,6 +217,6 @@ foreach ($msgList as $msg) {
 
 这就把我们带到了第 1 部分的结尾。到目前为止，您已经有了一个构建应用程序并确保只发布您发送的消息的游戏计划。您还拥有数据库模式和一个允许您连接到 POP3 服务器并检索邮件的类。请务必回来参加第二部分，看看这些部分是如何组合在一起实现项目的。
 
-<small>图片 via [安吉拉·韦彤](http://www.shutterstock.com/gallery-273049p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [安吉拉·韦彤](http://www.shutterstock.com/gallery-273049p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

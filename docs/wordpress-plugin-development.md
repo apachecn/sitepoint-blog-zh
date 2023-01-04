@@ -162,6 +162,6 @@ public function widget($args, $instance) {
 
 现在你已经熟悉了 WordPress 插件的必要基础，确保 WordPress 可以检测并激活它，并扩展`WP_Widget`类来创建你自己的小部件。本文中的示例小部件演示了通过管理员提供的配置表单定制小部件显示的能力。虽然很简单，但它强调了你将使用的基本`WP_Widget`方法，你可以很容易地从这个例子中继续前进，为你自己的 WordPress 驱动的站点创建更强大的功能。这个例子的代码可以在 [PHPMaster 的 GitHub 账户](https://github.com/phpmasterdotcom/WordPressPluginDevelopment)下获得，所以你可以完整地看一下代码。
 
-<small>图片 via[bio raven](http://www.shutterstock.com/gallery-144271p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[bio raven](http://www.shutterstock.com/gallery-144271p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

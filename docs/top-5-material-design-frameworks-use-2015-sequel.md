@@ -28,7 +28,7 @@ Daemonite 的框架于 6 月 23 日作为开源项目发布，托管在 [GitHub]
 
 [![Daemonite's Material UI ](img/297f4218ca514b0e2f210d061ca05473.png)](http://daemonite.github.io/material/)
 
-<small>达蒙尼特的材料界面</small>
+达蒙尼特的材料界面
 
 这个框架提供了一个很好的组件(卡片、可折叠区域、下拉菜单、模态和吐司、导航、进度条、标签和平铺)和元素(按钮、表单元素(基本)、表单元素(物化)、图标和表格)的集合。
 
@@ -40,7 +40,7 @@ Daemonite 的框架于 6 月 23 日作为开源项目发布，托管在 [GitHub]
 
 [![Material Design by FEZVRASTA](img/aedbcc54f8c78aa2f9dd2dae046d1d29.png)](https://fezvrasta.github.io/bootstrap-material-design/)
 
-<small>FEZVRASTA 的材料设计</small>
+FEZVRASTA 的材料设计
 
 但是，请注意，该主题的存储库会发出警告:
 
@@ -54,7 +54,7 @@ Daemonite 的框架于 6 月 23 日作为开源项目发布，托管在 [GitHub]
 
 [![lumX Material Design](img/deec260cb18f937f1968da8b11ddf11a.png)](http://ui.lumapps.com/)
 
-<small>lumX 材料设计</small>
+lumX 材料设计
 
 它的 CSS 比一些较大的框架要轻，但是包括了通用的混合、排版、颜色、Flexbox、按钮、浮动、动作按钮、图标、列表、数据表、卡片、复选框、单选按钮、开关和工具栏。它也是一个稳定的框架，可以证明是 web 开发项目的一个好选择。
 
@@ -64,7 +64,7 @@ Bootswatch 的[论文](http://bootswatch.com/paper/)与其说是框架，不如�
 
 [![Bootswatch's Paper](img/070f7f0967cf409266b5728ff4913997.png)](http://bootswatch.com/paper/)
 
-<small>boots 沃琪的纸</small>
+boots 沃琪的纸
 
 尽管 Bootswatch 的 Paper 主题提供的多样性和功能比其他框架少得多，但它仍然是一个稳定的框架，具有平滑的过渡和动画。Paper 提供了导航条、按钮、排版、表格、表单、导航、指示器、进度、工具条、容器和对话框的演示。主题是好的，但这个主题没有什么与众不同或独特之处值得一提。
 

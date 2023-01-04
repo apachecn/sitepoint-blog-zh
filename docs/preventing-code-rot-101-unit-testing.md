@@ -136,6 +136,6 @@ class DBLayer
 
 一个明智的程序员会说:“当我提交代码时，只有上帝，单元测试，我知道它做什么。过一段时间，只有上帝和单元测试知道。”
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

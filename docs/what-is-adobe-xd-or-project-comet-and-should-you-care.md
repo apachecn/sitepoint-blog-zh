@@ -28,7 +28,7 @@ All-all-in，界面看起来很有前途。
 
 ![Inserting objects via the toolbar](img/770acccad4159dd3539d7738350f87fb.png)
 
-<small>通过工具栏插入对象</small>
+通过工具栏插入对象
 
 *   选择: **V**
 *   矩形: **R**
@@ -49,7 +49,7 @@ Sketch 用户将更习惯于在这里看到“层列表”,然而，Adobe XD 已
 
 ![Finding the tools and styling layers](img/6269ae784324b662592b5ebdc95f59f4.png)
 
-<small>寻找工具和样式层</small>
+寻找工具和样式层
 
 Adobe XD 的*看起来*没有任何矢量编辑工具，因为没有图标提示它，但事实上，你可以直接在画布上双击形状进入编辑模式，然后双击矢量的*点*将它们转换为贝塞尔曲线。我认为重要的工具实际上是隐藏的(没有界面，没有菜单选项，没有图标)，但是如果你仔细想想，它让工具栏**几乎是空的**。
 
@@ -61,7 +61,7 @@ Sketch 的工具栏中有一系列工具，还有文本标签，我一直认为�
 
 ![Adobe XD vs. Sketch: comparing the toolbars](img/c2c01865a2f0b9e966c8f17342e316cd.png)
 
-<small>Adobe XD 与 Sketch:比较工具栏</small>
+Adobe XD 与 Sketch:比较工具栏
 
 另一个缺失的元素是上下文/右键菜单，再次暗示任意特性的大量减少。
 
@@ -81,7 +81,7 @@ Sketch 的工具栏中有一系列工具，还有文本标签，我一直认为�
 
 ![Activating Repeat Grids](img/72e025ca221cbe44f675fd0b7a5e19c4.png)
 
-<small>激活重复网格</small>
+激活重复网格
 
 之后，您可以拉动侧边手柄，根据需要多次重复这些卡片——您甚至可以单击每张卡片之间的间距，并用鼠标拖动来调整它。
 
@@ -93,7 +93,7 @@ Adobe XD 提供了一个快速简单的画板共享功能，它类似于 Sketch 
 
 ![Sharing artboards](img/aff6c3dcf807d87018983c52b731ac94.png)
 
-<small>共享画板</small>
+共享画板
 
 如浏览器所示:
 
@@ -115,7 +115,7 @@ Adobe XD 提供了一个快速简单的画板共享功能，它类似于 Sketch 
 
 ![Recording the user flows](img/0afd21200b410fcd0c077064235826cf.png)
 
-<small>记录用户流量</small>
+记录用户流量
 
 ## 导出资产
 
@@ -127,7 +127,7 @@ Adobe XD 目前支持 PNG 和 SVG，但目前不支持 JPG、TIFF 或 PDF 格式
 
 ![Exporting image assets](img/29a9c652e25374a7b21f5a385b7376a0.png)
 
-<small>导出图像资产</small>
+导出图像资产
 
 ## 结论
 

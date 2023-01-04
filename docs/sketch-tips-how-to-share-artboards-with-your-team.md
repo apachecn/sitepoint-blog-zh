@@ -60,7 +60,7 @@ Sketch 用户可以从 [Sketch to Slack 插件](https://github.com/shahruz/Send-
 
 ![Generating an API token for Slack](img/589ed61fc20895dc11c01df76bd19ddc.png)
 
-<small>为 Slack 生成 API 令牌</small>
+为 Slack 生成 API 令牌
 
 现在，点击你想要连接的 Slack 团队旁边的“创建令牌”,按照说明进行操作，直到 Slack 给你一个 API 令牌。之后，安装 *Sketch to Slack 插件*如果你还没有，导航到*插件→ Sketch To Slack →更新 API 令牌*并使用 Slack 给你的令牌。
 

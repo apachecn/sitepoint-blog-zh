@@ -68,6 +68,6 @@ PHP 允许开发人员非常轻松地使用 Bcrypt，这就引出了一个问题
 *   [维基百科–河豚(cypher)](http://en.wikipedia.org/wiki/Blowfish_(cipher) "Blowfish (cipher) - Wikipedia, the free encyclopedia")
 *   [堆栈溢出——如何在 PHP 中使用 Bcrypt 散列密码](http://stackoverflow.com/questions/4795385/how-do-you-use-bcrypt-for-hashing-passwords-in-php "How do you use bcrypt for hashing passwords in PHP? - Stack Overflow")
 
-<small>图片 via [瓦莱丽·波塔波娃](http://www.shutterstock.com/gallery-96482p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [瓦莱丽·波塔波娃](http://www.shutterstock.com/gallery-96482p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

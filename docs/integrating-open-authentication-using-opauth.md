@@ -161,6 +161,6 @@ public function authenticate() {
 
 让我知道你对使用 Opauth 来标准化你的认证机制的想法。尝试为其他 PHP 框架创建 Opauth 插件，支持开源社区。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

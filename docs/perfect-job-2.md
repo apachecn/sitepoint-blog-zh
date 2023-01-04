@@ -862,11 +862,11 @@ mysql_free_result($result);    
 
 </ul>    
 
-<center>    
+    
 
 <input type="submit" name="submit" value="Search">    
 
-</center>    
+    
 
 </form>    
 

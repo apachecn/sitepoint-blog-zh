@@ -49,7 +49,7 @@ Slack 是为了找出答案的实验。从一开始，他们就避开了商业�
 
 [![Early Slackbot versions (2013)](img/1554cf9e08a1ed04f762f0ed362ba6d6.png)](https://twitter.com/meowza/status/612492815637975040)
 
-<small>Slack 设计师 Slackbot 的早期化身[@ meowza](https://twitter.com/meowza/status/612492815637975040)</small>
+Slack 设计师 Slackbot 的早期化身[@ meowza](https://twitter.com/meowza/status/612492815637975040)
 
 有一个厚脸皮的“懒汉机器人”欢迎你，还有无尽的快乐表情文件夹。毫不费力地搜索和发布 gif 让每个人都变成了喜剧演员。
 
@@ -69,7 +69,7 @@ Slack 是为了找出答案的实验。从一开始，他们就避开了商业�
 
 [![SharePoint](img/118a8f4e9e131df31c07c090a261c704.png)](http://www.lifeinsharepoint.co.uk/2012/07/17/sharepoint-2013-screenshots/)
 
-<small>SharePoint:信用—[SharePoint](http://www.lifeinsharepoint.co.uk/2012/07/17/sharepoint-2013-screenshots/)生活 </small>
+SharePoint:信用—[SharePoint](http://www.lifeinsharepoint.co.uk/2012/07/17/sharepoint-2013-screenshots/)生活 
 
 就像一个整洁的郊区火车站，人们可能会经过 SharePoint，但他们绝不会想到在那里社交。人们穿过去，然后出来。而对谈话艺术来说是致命的。
 

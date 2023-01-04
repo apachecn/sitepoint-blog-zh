@@ -55,6 +55,6 @@ WampServer 菜单有到几个相关页面和文件夹的链接。
 
 最后，服务器端编程无疑有其挑战。但是现在您意识到使用 WampServer 设置开发服务器可以节省大量时间和精力，并为您提供在本地机器上安全开发下一个杀手级应用程序的方法。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

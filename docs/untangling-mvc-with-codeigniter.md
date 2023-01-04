@@ -230,6 +230,6 @@ public function index() {
 
 希望你现在明白 MVC 是怎么回事了，一种基于功能分离代码片段的方法，使一切更有条理。虽然 CodeIgniter 碰巧是我选择的框架，但该模式的知识几乎适用于您选择的任何其他框架，当然，您也可以在没有框架的情况下用自己的代码实现它。
 
-<small>图片 via [阿列克谢·罗扎诺夫斯基](http://www.shutterstock.com/gallery-480505p1.html)/</small>
+图片 via [阿列克谢·罗扎诺夫斯基](http://www.shutterstock.com/gallery-480505p1.html)/
 
 ## 分享这篇文章

@@ -158,6 +158,6 @@ echo $obj; // MySample:Alireza
 
 OOP 编程可以产生更易维护和测试的代码。它帮助我们创建更好的标准 PHP 代码。此外，它使得利用 PHP 提供的神奇方法和常量成为可能。
 
-<small>图片 via [斯捷潘·卡普尔](http://www.shutterstock.com/gallery-640609p1.html)/[Shutterstock](http://www.shutterstock)</small>
+图片 via [斯捷潘·卡普尔](http://www.shutterstock.com/gallery-640609p1.html)/[Shutterstock](http://www.shutterstock)
 
 ## 分享这篇文章

@@ -134,6 +134,6 @@ session_start();
 
 在本文中，我们看到了实现`SessionHandlerInterface`接口并提供 PHP 在 Redis 数据库中存储会话数据所需的逻辑是多么容易。自定义会话处理在代码级别是透明的，其结果是一种令人兴奋的方式，可以不费吹灰之力增加应用程序的安全性和灵活性！要了解更多信息，请阅读 PHP 手册关于[自定义会话处理](http://www.php.net/manual/en/session.customhandler.php "PHP: Custom Session Handlers")的内容，并在 GitHub 上探索本文的[附带代码。](https://github.com/phpmasterdotcom/SavingPHPSessionsInRedis "phpmasterdotcom/SavingPHPSessionsInRedis - GitHub")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

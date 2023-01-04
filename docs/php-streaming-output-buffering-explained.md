@@ -149,7 +149,7 @@ fastcgi_buffer_size   1k;
          <title>Ajax Streaming Test</title>
        </head>
        <body>
-         <center><a href="#" id="test">Test Ajax Streaming</a></center>
+         <a href="#" id="test">Test Ajax Streaming</a>
          <script type="text/javascript"> document.getElementById('test').onclick = function() {
              xhr = new XMLHttpRequest();
              xhr.open("GET", "response.php", true);

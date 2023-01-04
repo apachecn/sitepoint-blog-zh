@@ -36,6 +36,6 @@
 
 在功能被删除或转换之前弃用它们，可以让依赖您的代码的用户有时间更新他们自己的代码。通过遵循本文中的建议，您会发现保持代码新鲜更容易，并且您的用户不会有任何不愉快的惊喜。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

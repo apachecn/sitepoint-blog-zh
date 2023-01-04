@@ -166,6 +166,6 @@ echo "</ul>";
 
 在一个一切都变得越来越互联的世界里，现在开放图形正在成为标准，将粉丝与他们最喜欢的艺术家联系起来非常重要，Last FM 通过其 API 做得很好。开放让你可以增强你的社区，提高你的产品/想法的知名度，最好的方法就是拥有一个公共 API。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

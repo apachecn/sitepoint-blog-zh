@@ -106,6 +106,6 @@ $myCar->drive();
 
 在本文中，您了解了如何使用工厂方法模式来本地化不同对象的构造，并允许您在事先不知道具体需要什么类型的情况下创建对象。您还看到了工厂方法可以使用其他工厂方法来创建对象对象并定义它们生成的对象。
 
-<small>图片 via [俞明林](http://www.shutterstock.com/gallery-650362p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via [俞明林](http://www.shutterstock.com/gallery-650362p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

@@ -265,6 +265,6 @@ Cache::config('short', array(
 
 有相当多的技术可以确保 CakePHP 快速运行。有些改变可能比其他的更难实现，但是不要气馁。无论你使用什么样的框架或语言，优化都是有代价的，一旦你的应用完成，CakePHP 让你快速开发极其复杂的 web 应用的能力将大大超过优化的努力。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

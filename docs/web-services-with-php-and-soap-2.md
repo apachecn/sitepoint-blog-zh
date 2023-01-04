@@ -114,6 +114,6 @@ $client = new nusoap_client("products.wsdl", true);
 
 对本文的评论已经关闭。有关于 PHP 的疑问？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?34-PHP?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 
-<small>图片 via[Lilyana Vynogradova](http://www.shutterstock.com/gallery-9125p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[Lilyana Vynogradova](http://www.shutterstock.com/gallery-9125p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

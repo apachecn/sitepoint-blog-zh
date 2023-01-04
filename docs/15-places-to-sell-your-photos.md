@@ -36,6 +36,6 @@ CanStockPhoto–CanStockPhoto 让你轻松在网上出售照片。注册一个�
 
 对本文的评论已经关闭。有关于摄影的疑问？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?302-Photography-amp-Audio-visual-Media?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 
-<small>通过 Shutterstock 拍摄图像</small>
+通过 Shutterstock 拍摄图像
 
 ## 分享这篇文章

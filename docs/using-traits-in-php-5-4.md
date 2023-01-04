@@ -335,6 +335,6 @@ $messenger->alert(); //Custom Message
 
 Traits 是 PHP 5.4 中引入的最强大的特性之一，我已经在本文中讨论了几乎所有的特性。它们允许程序员跨多个类水平地重用代码片段，这些类不必在同一个继承层次结构中。它们为我们提供了代码重用的轻量级机制，而不是复杂的语义。尽管 traits 有一些缺点，但它们肯定有助于改进应用程序的设计，消除代码重复，使其更加简洁。
 
-<small>图像通过[视频](http://www.shutterstock.com/gallery-196033p1.html) / </small>
+图像通过[视频](http://www.shutterstock.com/gallery-196033p1.html) / 
 
 ## 分享这篇文章

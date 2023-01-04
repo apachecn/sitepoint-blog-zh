@@ -165,6 +165,6 @@ $eventHandler->updateEvent('end', '2012-12-02 21:30:00', 2);
 
 如果使用得当，MySQL 触发器不仅可以对站点的性能产生积极的影响，还可以让您不必编写大量 PHP 代码来处理这些操作。我希望你会发现它们在你的项目中很有用，就像我在我的项目中一样，所以请尽情享受吧！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

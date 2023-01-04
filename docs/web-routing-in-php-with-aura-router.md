@@ -305,6 +305,6 @@ $map->add("read", "/blog/read/{:id}{:format}", [
 
 在本文中，我们已经介绍了使用 Aura 的一些基本和高级特性。用于 web 路由的路由器。为什么不试试光环呢？路由器？我相信它会让你的网络路由生活比以前更容易。看看[http://auraphp.github.com/Aura.Router](http://auraphp.github.com/Aura.Router "Aura for PHP -- A web routing implementation")吧，因为它比我们在当前的文章中要说的更多。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -67,6 +67,6 @@ echo $_SESSION["videogame"];
 
 正如我所说的，这些只是 PHP 中可用的超级全局变量中的几个，我认为你会用得最多。`$_GET`和`$_POST`允许你的脚本从外界获取信息。`$_SESSION`让你在访问者浏览会话期间记住页面请求之间的数据。`$_SERVER`保存关于 web 服务器和页面请求的信息。理解这些并学会有效地使用它们，无疑会帮助你相对容易地用 PHP 编写出优秀的、交互式的网站。
 
-<small>图片 via[Tom Wang](http://www.shutterstock.com/gallery-572953p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[Tom Wang](http://www.shutterstock.com/gallery-572953p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

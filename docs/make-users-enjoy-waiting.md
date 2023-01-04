@@ -56,7 +56,7 @@ Pic Monkey 的加载栏大块更新，从大约 20%到 45%到 90%完成。
 
 ![Google Inbox](img/8bca1561628bbe913a216e6604fe9944.png)
 
-<small>谷歌收件箱:完成比完美更好</small>
+谷歌收件箱:完成比完美更好
 
 用户几乎没有注意到丢失了什么，因为他或她太忙于查看那里的*是什么*。
 
@@ -104,7 +104,7 @@ Pic Monkey 的加载栏大块更新，从大约 20%到 45%到 90%完成。
 
 ![ Tourism website for Bialystok fully loaded](img/e2aac0c716306c80d90d830d7899fe0c.png)
 
-<small>又装了..</small>
+又装了..
 
 数字艺术杂志《幻觉》使用了同样的基本概念。
 

@@ -39,7 +39,7 @@
 
 ![A simple chart made in Boxy SVG](img/4b39ecee2ba77ad192a5951ea9981dd6.png)
 
-<small>用 Boxy SVG 制作的简单图表</small>
+用 Boxy SVG 制作的简单图表
 
 你可能通常会在网上看到这种 JPEG 或 PNG 格式的图表——事实上，如果你*希望*将它从 Boxy SVG 导出为 PNG 格式。
 
@@ -75,8 +75,8 @@
 
 ![Showing the same image at different scales. The yellow line stays the same thickness regardless of image scaling.](img/f04a82209b64e264a4ed65412a9a1e66.png)
 
-<small>以不同的比例显示同一幅图像。无论图像缩放比例如何
-，黄线的粗细保持不变。</small>
+以不同的比例显示同一幅图像。无论图像缩放比例如何
+，黄线的粗细保持不变。
 
 这是我昨天玩 Boxy SVG 时才知道的 SVG 技巧。
 
@@ -92,7 +92,7 @@
 
 ![](img/df5bf3d508a6b97df6fde18b850316fe.png)
 
-<small>SVG: ↔ Resize your browser window ↔</small>
+SVG: ↔ Resize your browser window ↔
 
 试着上下调整你的浏览器窗口，你会注意到黄色的星球大战线保持同样的宽度，而它周围的一切都在缩放。试着让你的 JPEG 文件做到这一点。
 

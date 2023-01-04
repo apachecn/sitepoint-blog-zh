@@ -259,6 +259,6 @@ if ($sftp->mkdir('directory/name')) {
 
 安装 SSH2 PHP 扩展，它为您的脚本提供了连接到 SSH2 服务器的能力。您可以利用方便的类来简化执行 SFTP 或 SCP 调用的代码，或者如果库没有提供特定的功能，则可以通过利用 SSH2 包装器功能来使用大多数核心文件系统操作。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -143,6 +143,6 @@ MacBook-Pro:.ec2 john2$ ssh -i john2.kp ubuntu@ec2-50-19-132-116.compute-1.amazo
 
 这是关于在 Amazon EC2 上设置开发沙箱的 3 部分系列的第 2 部分。我们已经从一个全新的账户变成了一个正在运行的 Ubuntu 实例。请继续关注，享受在亚马逊运行服务器的回报。[接下来，我们将介绍](https://www.sitepoint.com/from-zero-to-cloud-3/ "From Zero to Cloud: Setting up an EC2 Sandbox, Part 3")设置灯组和创建我们自己的图像！
 
-<small>图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

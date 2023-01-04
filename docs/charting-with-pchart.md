@@ -231,6 +231,6 @@ $myPowersImage->drawLegend(70,100,
 
 如果您有兴趣查看本文中用于生成图形的完整源代码，可以在 GitHub 上找到。
 
-<small>图像通过[爪兽](http://www.shutterstock.com/gallery-716569p1.html) / [快门](http://www.shuttestock.com)</small>
+图像通过[爪兽](http://www.shutterstock.com/gallery-716569p1.html) / [快门](http://www.shuttestock.com)
 
 ## 分享这篇文章

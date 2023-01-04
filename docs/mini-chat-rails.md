@@ -452,7 +452,7 @@ helper_method :current_user
     <div class="form-group">
       <%= f.label :body, 'Enter your comment:' %>
       <%= f.text_area :body, rows: 3, class: 'form-control', required: true, maxlength: 2000 %>
-      <small class="label label-warning">Cannot be blank or contain more than 2000 symbols.</small>
+      Cannot be blank or contain more than 2000 symbols.
     </div>
 
     <%= f.submit 'Post', class: 'btn btn-primary btn-lg' %>
@@ -542,7 +542,7 @@ end
               comment.user.profile_url, target: '_blank', class: 'pull-left' %>
   <div class="media-body">
     <h4 class="media-heading"><%= link_to comment.user.name, comment.user.profile_url, target: '_blank' %> says
-      <small class="text-muted">[at <%= comment.created_at.strftime('%-d %B %Y, %H:%M:%S') %>]</small></h4>
+      [at <%= comment.created_at.strftime('%-d %B %Y, %H:%M:%S') %>]</h4>
     <p><%= comment.body %></p>
   </div>
 </li>

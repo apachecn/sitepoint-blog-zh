@@ -127,7 +127,7 @@ if(cluster.isMaster) {
 | **单流程** | Six hundred and fifty-four | Seven hundred and eleven | Seven hundred and eighty-three | Seven hundred and seventy-six | Seven hundred and fifty-four |
 | **8 名工人** | Five hundred and ninety-four | One thousand one hundred and ninety-eight | Two thousand one hundred and ten | Three thousand and ten | Three thousand and twenty-four |
 
-<small>(每秒处理的请求数)</small>
+(每秒处理的请求数)
 
 ## 高级操作
 

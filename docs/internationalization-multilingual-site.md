@@ -109,7 +109,7 @@
 
 ![Google URL structure](img/442c16f0e42fe5fc5ba7b0bb50783c0a.png)
 
-<small>[图片来源](https://lh3.googleusercontent.com/KS2cphe5C-Eco2QCI86gdDvqs8Lkqo6o5SvfEPU0CBkeYHmhwso1NHsdTH4RDJeg86y4_7cFPDTr28kvSf_FD8A9w70DmMsWHuzaIvj8xspdE8VaNMKJvaEcV_d8lkQHk-IsSa5Q=s0)</small>
+[图片来源](https://lh3.googleusercontent.com/KS2cphe5C-Eco2QCI86gdDvqs8Lkqo6o5SvfEPU0CBkeYHmhwso1NHsdTH4RDJeg86y4_7cFPDTr28kvSf_FD8A9w70DmMsWHuzaIvj8xspdE8VaNMKJvaEcV_d8lkQHk-IsSa5Q=s0)
 
 ### 4.使用`hreflang`属性
 

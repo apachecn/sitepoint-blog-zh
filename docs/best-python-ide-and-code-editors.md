@@ -91,7 +91,7 @@ IDE 是为软件开发提供工具的软件应用程序。一个**代码编辑�
 
 ### 原子
 
-<center style="margin: 1em 0;">![The Atom logo](img/449ed26a4a0e7bf7e4a9d498273394e3.png)</center>
+![The Atom logo](img/449ed26a4a0e7bf7e4a9d498273394e3.png)
 
 [Atom](https://atom.io/) ，一个“21 世纪的可黑客攻击的文本编辑器”，已经被证明是一个相当创新的编辑器，与 GitHub 有着杰出的集成(嗯，Atom *是由 GitHub 开发的*)，我们以前写过关于 [Atom 插件的文章，用于运行代码和预览更改](https://www.sitepoint.com/7-atom-add-ons-for-running-code-and-previewing-changes/)。
 
@@ -105,13 +105,13 @@ IDE 是为软件开发提供工具的软件应用程序。一个**代码编辑�
 
 ### Visual Studio 代码
 
-<center style="margin: 1em 0;">![The VS Code logo](img/c16974227a087fbda42763d7a8d2293e.png)</center>
+![The VS Code logo](img/c16974227a087fbda42763d7a8d2293e.png)
 
 [VS 代码](https://code.visualstudio.com/)“免费的、基于开源的、可以在任何地方运行的”编辑器[在很大程度上](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-integrated-development-environment)是 2023 年代码编辑的标准。还记得 GitHub *为* Atom 开发的电子框架吗？具有讽刺意味的是，VS 代码也是在它之上开发的！
 
 ![A screenshot of the VS Code interface](img/bb3baedb73660c8d81cc3e22c9cd391b.png)
 
-<small>VS 代码界面截图。[图片来源](https://code.visualstudio.com/assets/home/home-screenshot-win.png)</small>
+VS 代码界面截图。[图片来源](https://code.visualstudio.com/assets/home/home-screenshot-win.png)
 
 VS 代码界面截图
 
@@ -145,7 +145,7 @@ Python 代码的智能感知和自动完成。[图片来源](https://code.visual
 
 ![Jupyter notebook running in VS code in the Notebook Editor](img/15fdc6b8ec895ab339edd69bb5803bc3.png)
 
-<small>Jupyter 笔记本运行在 VS 代码的笔记本编辑器中。[图片来源](https://code.visualstudio.com/assets/docs/languages/python/native-jupyter.png)</small>
+Jupyter 笔记本运行在 VS 代码的笔记本编辑器中。[图片来源](https://code.visualstudio.com/assets/docs/languages/python/native-jupyter.png)
 
 所以，是的，VS 代码将满足你所有的基本 Python 编码需求(甚至更多)。
 
@@ -155,7 +155,7 @@ Python 代码的智能感知和自动完成。[图片来源](https://code.visual
 
 #### extra:Visual Studio(IDE)
 
-<center style="margin: 1em 0;">![The Visual Studio logo](img/30e5b221921c157e97d723e0597a1085.png)</center>
+![The Visual Studio logo](img/30e5b221921c157e97d723e0597a1085.png)
 
 Visual Studio 是微软的成熟集成开发环境，既可以在[购买](https://visualstudio.microsoft.com/subscriptions/)，也可以在[免费购买](https://visualstudio.microsoft.com/free-developer-offers/)。
 
@@ -163,13 +163,13 @@ Visual Studio 是什么？NET 和 C++开发人员通常用来编写游戏程序(
 
 ### 精力
 
-<center style="margin: 1em 0;">![The Vim logo](img/0a313b32884e59db07232794f18f1363.png)</center>
+![The Vim logo](img/0a313b32884e59db07232794f18f1363.png)
 
 Vim “无处不在的文本编辑器”，是一个高度可配置的文本编辑器，旨在使创建和更改任何类型的文本都非常高效。它作为“vi”包含在大多数 UNIX 系统和 macOS 中。Vim 非常稳定，并且正在不断发展，变得更好。
 
 ![The Vim console](img/2e7f4bda380416e68f7ccb404ed1e995.png)
 
-<small>Vim 控制台。[图片来源](https://upload.wikimedia.org/wikipedia/commons/8/8c/Vim-%28logiciel%29-console.png)</small>
+Vim 控制台。[图片来源](https://upload.wikimedia.org/wikipedia/commons/8/8c/Vim-%28logiciel%29-console.png)
 
 其特点包括:
 
@@ -193,7 +193,7 @@ Vim 不仅仅是一个 IDE。更像是一种生活方式！但是，即使你不
 
 ### 皮查姆
 
-<center style="margin: 1em 0;">![The PyCharm logo](img/21ebd8f0f6cd53f88df84a76ca585e9e.png)</center>
+![The PyCharm logo](img/21ebd8f0f6cd53f88df84a76ca585e9e.png)
 
 通过 [PyCharm](https://www.jetbrains.com/pycharm/) “面向专业开发人员的 Python IDE”，我们谈论的是一个合适的图形 IDE，我们*最终*谈论 Python，附带的好处包括:
 
@@ -203,7 +203,7 @@ Vim 不仅仅是一个 IDE。更像是一种生活方式！但是，即使你不
 
 ![The PyCharm interface](img/e0df7e536cbcf38b3707d099b0af544f.png)
 
-<small>py charm 接口。[图片来源](https://www.jetbrains.com/pycharm/img/screenshots/complexLook@2x.jpg)</small>
+py charm 接口。[图片来源](https://www.jetbrains.com/pycharm/img/screenshots/complexLook@2x.jpg)
 
 PyCharm 是一个跨平台的 IDE，可以在 Windows、Linux 或 macOS 上运行。它还有专业版(付费)和社区版(免费)两种版本。专业版为 Python 开发提供了集成的工具集，包括对 Django 的支持。
 
@@ -225,13 +225,13 @@ PyCharm 是一个跨平台的 IDE，可以在 Windows、Linux 或 macOS 上运�
 
 ### Spyder
 
-<center style="margin: 1em 0;">![The Spyder logo](img/e37268102a22b2a572c9aec958be83e9.png)</center>
+![The Spyder logo](img/e37268102a22b2a572c9aec958be83e9.png)
 
 [Spyder](https://www.spyder-ide.org/) “科学 Python 开发环境”，是一个跨平台的 IDE，可以在 Windows、Linux 或 macOS 上工作。它也是开源的，在麻省理工学院的许可下可以免费使用。
 
 ![A screenshot of the Spyder interface](img/7fb38623959e327658ec590fcadb43a4.png)
 
-<small>Spyder 界面截图。[图片来源](https://upload.wikimedia.org/wikipedia/commons/1/1b/Spyder-windows-screenshot.png)</small>
+Spyder 界面截图。[图片来源](https://upload.wikimedia.org/wikipedia/commons/1/1b/Spyder-windows-screenshot.png)
 
 Spyder 在很多方面与 PyCharm 颇为相似。它们都是支持插件的 Python 原生 ide。但是 Spyder 是专为数据科学而设计的:
 
@@ -251,7 +251,7 @@ Spyder 在很多方面与 PyCharm 颇为相似。它们都是支持插件的 Pyt
 
 ### 崇高的文本
 
-<center style="margin: 1em 0;">![The Sublime Text logo](img/3ef8484af350c7e788b5d16de53d0eb8.png)</center>
+![The Sublime Text logo](img/3ef8484af350c7e788b5d16de53d0eb8.png)
 
 Sublime Text 是一个复杂的代码、标记和散文文本编辑器。它也是跨平台的(Windows、macOS 或 Linux ),并作为付费产品提供(99 美元)。
 
@@ -259,13 +259,13 @@ Sublime Text 是一个复杂的代码、标记和散文文本编辑器。它也�
 
 ![The Sublime Text interface](img/deda6917d2510c0c2a1b57c2b57a447e.png)
 
-<small>崇高的文字界面。[图片来源](https://www.sublimetext.com/screencasts/osx_image_4_light_packed.png)</small>
+崇高的文字界面。[图片来源](https://www.sublimetext.com/screencasts/osx_image_4_light_packed.png)
 
 我必须说，直到几年前，Sublime Text 提供了一种优质的体验，因为它的界面设计简洁，资源消耗低(很明显，它背后有高质量的产品管理和软件工程)。但是男孩在过去的五年里对 VS 代码失去了动力。
 
 ![Sublime Text vs Visual Studio Code chart](img/74a9a13bf3c3109b3157e12828d86a72.png)
 
-<small>崇高文本 vs Visual Studio 代码</small>
+崇高文本 vs Visual Studio 代码
 
 无论如何，不管怎样，Sublime Text 确实为最新的 Python 版本提供了[更新支持:](https://www.sublimetext.com/blog/articles/sublime-text-4)
 
@@ -293,13 +293,13 @@ Sublime Text 是一个复杂的代码、标记和散文文本编辑器。它也�
 
 ### PyDev
 
-<center style="margin: 1em 0;">![The PyDev logo](img/6b211692f5c7d8653e73add2865e1a05.png)</center>
+![The PyDev logo](img/6b211692f5c7d8653e73add2865e1a05.png)
 
 [PyDev](https://www.pydev.org/) 是“用于 Eclipse 的 Python IDE，可用于 Python、 [Jython](https://www.jython.org/) 和 [IronPython](https://ironpython.net/) 的开发”。因为它运行在 Eclipse IDE 之上，所以它也需要 Java。
 
 ![The PyDev interface](img/431e1ed2c4215c263e3802bf5917eeee.png)
 
-<small>PyDev 接口。[图片来源](https://upload.wikimedia.org/wikipedia/commons/c/c9/Screenshot_Vrapper.png)</small>
+PyDev 接口。[图片来源](https://upload.wikimedia.org/wikipedia/commons/c/c9/Screenshot_Vrapper.png)
 
 PyDev 增加了许多通用特性，以及许多 Python 特有的特性:
 
@@ -336,7 +336,7 @@ VS PyDev 的代码扩展。[图片来源](https://www.pydev.oimg/vscode/install.
 
 ### 托尼
 
-<center style="margin: 1em 0;">![The Thonny logo](img/2369a0055af5099e58c6890450925705.png)</center>
+![The Thonny logo](img/2369a0055af5099e58c6890450925705.png)
 
 “面向初学者的 Python IDE”Thonny，是一个非常简单、非常轻量级(~20MB)，但功能相当不错的 Python 代码编辑器/IDE——它甚至已经内置了 Python 3！
 
@@ -344,7 +344,7 @@ VS PyDev 的代码扩展。[图片来源](https://www.pydev.oimg/vscode/install.
 
 ![A screenshot of the Thonny interface](img/3be6f9992acac00d5b416f2638897999.png)
 
-<small>Thonny 界面截图。[图片来源](https://thonny.org/img/screenshot.png)</small>
+Thonny 界面截图。[图片来源](https://thonny.org/img/screenshot.png)
 
 该项目是开源的，托管在 [GitHub](https://github.com/thonny/thonny) 上。
 
@@ -356,7 +356,7 @@ VS PyDev 的代码扩展。[图片来源](https://www.pydev.oimg/vscode/install.
 
 ### Wing Python IDE
 
-<center style="margin: 1em 0;">![The Wing IDE logo](img/08fc76e207e2bb962c3fe15d28e45494.png)</center>
+![The Wing IDE logo](img/08fc76e207e2bb962c3fe15d28e45494.png)
 
 [Wing Python IDE](https://wingware.com/) ，“Python 的智能开发环境”，我们列表中最新的 Python IDE，有三个版本(参见[完整对比](https://wingware.com/downloads)):
 
@@ -366,7 +366,7 @@ VS PyDev 的代码扩展。[图片来源](https://www.pydev.oimg/vscode/install.
 
 ![A screenshot of the Wing IDE interface](img/b995c09586631adca64a58427c678e3d.png)
 
-<small>Wing IDE 界面截图。[图片来源](https://wingware.cimg/screenshots/wing7-screenshot-linen-small.jpg)</small>
+Wing IDE 界面截图。[图片来源](https://wingware.cimg/screenshots/wing7-screenshot-linen-small.jpg)
 
 它还展示了您在 IDE 中所期望的一切，但目标是 Python 开发:
 

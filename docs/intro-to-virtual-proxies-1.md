@@ -381,6 +381,6 @@ echo $post->getTitle() . $post->getContent() . " Quote from: " .
 
 毫不奇怪，虚拟代理也可以被实现为与集合相互作用，而没有太多的麻烦。因此，在下一部分中，我将向您展示如何创建一个面向集合的代理类，这样您就可以自己看看它是否符合您的需要。
 
-<small>图片 via[imredesiuk/](http://www.shutterstock.com/gallery-496894p1.html)Shutterstock</small>
+图片 via[imredesiuk/](http://www.shutterstock.com/gallery-496894p1.html)Shutterstock
 
 ## 分享这篇文章

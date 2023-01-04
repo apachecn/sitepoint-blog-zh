@@ -196,7 +196,7 @@ $loader = new ApcUniversalClassLoader("apc.prefix.");
 
 现在[工作组](http://groups.google.com/group/php-standards)中当前的热门讨论集中在缓存上。如果这是你想参与的事情，请随时加入讨论！
 
-<small>图片 via[Matyas Szabo](http://www.shutterstock.com/gallery-606322p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[Matyas Szabo](http://www.shutterstock.com/gallery-606322p1.html)/[Shutterstock](http://shutterstock.com)
 
 如果你喜欢读这篇文章，你会爱上[可学的](https://learnable.com?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoint 的所有电子书和交互式在线课程，如 [Jump Start PHP](https://learnable.com/books/jump-start-php?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink) 。
 

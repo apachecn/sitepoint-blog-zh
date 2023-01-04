@@ -208,6 +208,6 @@ foreach (new RecursiveIteratorIterator($iter) as $item) {
 
 SPL 是一个“标准”图书馆。有时你可能会发现这些课程太笼统，它们可能并不总是能满足你的需求。在这种情况下，您可以轻松地扩展这些类来添加您自己的功能或根据需要调整现有的功能。在本系列的下一部分，我将向您展示如何使用 SPL 接口来创建您自己的定制类，这些类可以像数组一样被遍历和访问。
 
-<small>图片 via[musha kesa](http://www.shutterstock.com/gallery-96945p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[musha kesa](http://www.shutterstock.com/gallery-96945p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

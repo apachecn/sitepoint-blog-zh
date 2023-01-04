@@ -426,7 +426,7 @@ App.global_chat = App.cable.subscriptions.create {
   <div class="form-group">
     <%= f.label :body %>
     <%= f.text_area :body, class: 'form-control' %>
-    <small class="text-muted">From 2 to 1000 characters</small>
+    From 2 to 1000 characters
   </div>
 
   <%= f.submit "Post", class: 'btn btn-primary btn-lg' %>

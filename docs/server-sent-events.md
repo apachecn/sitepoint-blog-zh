@@ -279,6 +279,6 @@ xhr.send(null);
 
 然后，确保您的应用程序在该自定义标头存在时关闭连接。为此，将`Content-type:`头的值设置为`text/plain`，并(可选地)在 URL 的响应中包含一个`Connection: close`头。
 
-<small>[相通的节点](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=server+side&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=84800629&src=1a5c9eb77ad5f7b3cfdf9cce3f20c022-1-7)图像</small>
+[相通的节点](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=server+side&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=84800629&src=1a5c9eb77ad5f7b3cfdf9cce3f20c022-1-7)图像
 
 ## 分享这篇文章

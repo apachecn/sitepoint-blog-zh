@@ -94,6 +94,6 @@ INSTANCE	i-01aa9f60	ami-43b5752a			pending	john2.kp	9		m1.large	2011-08-22T04:49
 
 这就结束了我们关于用 Amazon EC2 建立开发沙箱的三部分系列。我们以我们的头在云端开始，以云端的 AMI 结束。只要你注意自己的使用，亚马逊是一个出奇便宜的沙盒。不使用实例时，请将其关闭，并确保熟悉它们的[价格](http://aws.amazon.com/ec2/pricing/ "Amazon EC2 Pricing")。
 
-<small>图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[light spring](http://www.shutterstock.com/gallery-540784p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

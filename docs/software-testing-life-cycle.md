@@ -46,6 +46,6 @@
 
 当然，每个项目都是独特的，都有自己的特定需求。我在这里试图呈现的是一个总结，如果你愿意的话，是一个起点，让读者洞察等待勤奋的软件测试人员的许多可能性和机会。
 
-<small>[迷宫](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=software+testing&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=91816988&src=38931fd7b8b3eb589bbf6062d0c9cdd2-1-15)图像通过快门</small>
+[迷宫](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=software+testing&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=91816988&src=38931fd7b8b3eb589bbf6062d0c9cdd2-1-15)图像通过快门
 
 ## 分享这篇文章

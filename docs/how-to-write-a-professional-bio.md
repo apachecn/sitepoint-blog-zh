@@ -48,7 +48,7 @@
 
 如果你喜欢读这篇文章，你会喜欢[可学的](https://learnable.com/)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoints 的所有电子书和互动在线课程，如[建立一个成功的网页设计业务](https://learnable.com/courses/build-a-successful-web-design-business-2723)。
 
-<small>*形象鸣谢:*</small>
+*形象鸣谢:*
 
 对这篇文章的评论已经关闭。对内容有疑问？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?434-Web-Content?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 

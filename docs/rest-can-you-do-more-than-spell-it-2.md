@@ -143,6 +143,6 @@ class Restaurant extends Resource
 
 我们现在把你带回到已经在进行中的常规系列节目。:)
 
-<small>图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via[little Sam](http://www.shutterstock.com/gallery-351511p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

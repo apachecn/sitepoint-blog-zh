@@ -40,7 +40,7 @@
 
 ![Image Source: http://anthemicagency.com](img/1ed596bf21c9f03a66a4eb65fbad3665.png)
 
-<small>图片来源:[http://anthemicagency.com](http://anthemicagency.com)</small>
+图片来源:[http://anthemicagency.com](http://anthemicagency.com)
 
 ### 有限的标题导航
 
@@ -48,7 +48,7 @@
 
 ![RevLocal - Marketing made affordable](img/65865daf42fd7b6b339f2d674ccdb63d.png)
 
-<small>图片来源:[http://revlocal.com](http://revlocal.com)</small>
+图片来源:[http://revlocal.com](http://revlocal.com)
 
 理想情况下，您会希望这个标题栏“有粘性”，这样当用户向下滚动页面时，它会保持不动。
 
@@ -82,7 +82,7 @@
 
 ![Img Source: http://insurance-solutions.com](img/26a913b5d823aff69bb3a603b61d8ad0.png)
 
-<small>Img 来源:[http://insurance-solutions.com](http://insurance-solutions.com)</small>
+Img 来源:[http://insurance-solutions.com](http://insurance-solutions.com)
 
 ## 将它们放在一起
 

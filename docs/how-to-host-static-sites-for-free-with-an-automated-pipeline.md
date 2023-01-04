@@ -6,7 +6,7 @@
 
 ![](img/f78819f018124c82757172780094de2c.png)
 
-<small>*提供:Netlify*</small>
+*提供:Netlify*
 
 在之前的一篇文章中，我们回顾了 100 个 Jamstack 工具、API 和服务来支持你的站点，其中包括许多托管服务。
 
@@ -54,11 +54,11 @@ Netlify 实际上开发了一个[拖放服务](https://app.netlify.com/drop)，�
 *   免费附加一个域名(也有免费的 HTTPS)
 *   通过 [Netlify 工作流程](https://www.netlify.com/products/workflow/)、[功能](https://www.netlify.com/products/functions/)和[更多功能](https://www.netlify.com/products/)更进一步
 
-<center>
+
 
 [https://www.youtube.com/embed/-LRlQ_jaLAU](https://www.youtube.com/embed/-LRlQ_jaLAU)
 
-</center>
+
 
 ### 自动化部署
 

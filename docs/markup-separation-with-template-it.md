@@ -14,7 +14,7 @@ HTML 模板 IT 扩展提供了一个可靠的模板系统，允许代码和表�
 <!-- BEGIN Article -->
 <div>
 	<h2>{ArticleTitle}</h2>
-	<small>{ArticleAuthor}</small>
+	{ArticleAuthor}
 	<p>{ArticleBody}</p>
 </div>
 <!-- END Article -->

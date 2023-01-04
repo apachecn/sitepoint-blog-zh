@@ -1278,9 +1278,9 @@ export class HeaderComponent {
     <strong class="mr-1"><a routerLink="/" class="home-link">Popular Dogs ❤</a></strong>
   </div>
   <div class="ml-3">
-    <small *ngIf="auth.loading" class="loading">
+    
       Logging in...
-    </small>
+    
     <ng-template [ngIf]="!auth.loading">
       <button
         *ngIf="!auth.loggedIn"
@@ -1288,7 +1288,7 @@ export class HeaderComponent {
         (click)="auth.login()">Log In</button>
       <span *ngIf="auth.loggedIn">
         <img [src]="auth.userProfile.picture">
-        <small>{{ auth.userProfile.name }}</small>
+        {{ auth.userProfile.name }}
         <button
           class="btn btn-danger btn-sm"
           (click)="auth.logout()">Log Out</button>

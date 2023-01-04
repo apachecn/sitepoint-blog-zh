@@ -115,6 +115,6 @@ Poedit 然后打开 PO 文件并显示原始字符串及其翻译。您可以直
 
 我很喜欢写这个系列，感谢您花时间学习如何用 gettext“正确地”本地化您的 PHP 应用程序。gettext 真的是一个很棒的开源工具，它让你专注于代码，让你的生活变得更轻松。
 
-<small>图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

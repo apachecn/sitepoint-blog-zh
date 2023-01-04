@@ -250,6 +250,6 @@ $twitter_subscribe->sendUpdates();
 
 请在下面的评论中告诉我你在应用程序开发中遇到的实际情况，以及你是如何通过适配器提供解决方案的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

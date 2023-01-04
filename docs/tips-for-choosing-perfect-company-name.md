@@ -38,7 +38,7 @@
 *   [伟大企业的 10 条戒律](http://sbinformation.about.com/od/advertisingpr/a/businessnames.htm)，About.com
 *   [给你的企业命名时要避免的 8 个错误](http://www.entrepreneur.com/startingabusiness/startupbasics/namingyourbusiness/article76958.html)，Entrepreneur.com
 
-<small>*图片来源:[L _ Avi](http://www.sxc.hu/profile/L_Avi)*</small>
+*图片来源:[L _ Avi](http://www.sxc.hu/profile/L_Avi)*
 
 对本文的评论已经关闭。有关于创业的疑问？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?61-Business-amp-Legal-Issues?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 

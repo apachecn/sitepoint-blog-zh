@@ -132,6 +132,6 @@ public function raiseEvent($name, $event) {
 
 这就结束了我们这个三部分系列的第二篇文章。最后一篇文章介绍了行为的创建和实现，这是在保持组件易于重用的同时扩展组件功能的另一个好方法。
 
-<small>图片 via [菲利普丘克奥列格瓦西洛维奇](http://www.shutterstock.com/gallery-81464p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [菲利普丘克奥列格瓦西洛维奇](http://www.shutterstock.com/gallery-81464p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

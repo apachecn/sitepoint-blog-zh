@@ -50,7 +50,7 @@ Flash 允许您添加任意数量的声音文件到 Flash 电影中；但是，�
 
 除了在电影播放时播放声音文件之外，Flash 还允许您播放声音来响应用户的操作。最常见的例子是将声音文件附加到 Flash 按钮上，以便根据按钮状态播放不同的声音。看一下这个例子，它演示了如何为“悬停”和“点击”事件播放不同的剪辑。
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="200" height="200"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part6/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part6/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="200" height="200" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" align="center" width="200" height="200"><param name="movie" value="https://www.webmasterbase.com/examples/flash101-part6/x1.swf"><param name="loop" value="true/"><param name="quality" value="high/"><param name="bgcolor" value="#FFFFFF/"><embed src="https://www.webmasterbase.com/examples/flash101-part6/x1.swf" loop="" quality="high" bgcolor="#FFFFFF" align="center" width="200" height="200" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 我是怎么做到的？实际上并不太难——创建一个 Flash 按钮，并在符号编辑模式下向时间轴添加一个新层。然后，只需在这个新图层上插入与向上、向上和向下状态对应的关键帧，并从库中为每个状态拖动不同的声音文件。
 

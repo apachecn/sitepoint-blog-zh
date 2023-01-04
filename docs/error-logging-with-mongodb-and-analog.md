@@ -153,6 +153,6 @@ Analog::log("FYI, a log entry", Analog::INFO);
 
 在考虑将 MongoDB 添加到现有应用程序时，从小处着手是有意义的，日志记录是理想的选择。不同类型的错误可以包含不同类型的信息，您还可以将当前对象或任何其他信息保存到 MongoDB，因为它有一个灵活的模式。任何新技术都可能有一点学习曲线，但是希望命令行示例能够帮助您更加接近您正在从事的工作。在新事物中只实现一个功能是一个很好的尝试方式——希望你和我们一样喜欢 MongoDB！
 
-<small>图片 via[mama-art](http://www.shutterstock.com/gallery-252451p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[mama-art](http://www.shutterstock.com/gallery-252451p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

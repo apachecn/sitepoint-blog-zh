@@ -101,6 +101,6 @@ Richard Ishida 有一篇很棒的文章[世界各地的人名](https://www.w3.or
 
 > 尽量保持网站“简洁”(人们想要你的内容，而不是完整的 jQuery 库)。类似地，网站应该在没有 JavaScript 的情况下工作(功能手机，旧的黑莓手机，等等。).没有 JavaScript 和 CSS3，你仍然可以创建高质量的网站。为非 iPhone 手机&低带宽市场建立网站并不是一个约束，因为最终，它实际上会让你成为一个更好的开发者(和设计师)；你变得对质量、性能/速度和有用性(而不是幻想)小心翼翼。
 
-<small>感谢[泰国的 Maxart](http://twitter.com/maxart) ，印度的 [Shwetank Dixit](http://twitter.com/shwetank) ，日本的[丹尼尔·戴维斯](http://twitter.com/ourmaninjapan)，中国的 [Zi Bin Cheah](http://twitter.com/zibin) 。</small>
+感谢[泰国的 Maxart](http://twitter.com/maxart) ，印度的 [Shwetank Dixit](http://twitter.com/shwetank) ，日本的[丹尼尔·戴维斯](http://twitter.com/ourmaninjapan)，中国的 [Zi Bin Cheah](http://twitter.com/zibin) 。
 
 ## 分享这篇文章

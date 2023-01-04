@@ -10,7 +10,7 @@
 
 ## 1)编写老式 HTML
 
-错误:互联网早期的标记选项比我们今天的少得多。然而,[旧习难改](http://stackoverflow.com/questions/14613030/do-i-need-a-doctype-declaration-in-a-php-file-with-html)，许多人仍然写着他们的 HTML，好像我们还在 20 世纪。这里的例子是使用`<table>`元素进行布局，使用`<span>`或`<div>`元素，而其他特定于语义的标签可能更合适，或者使用当前 HTML 标准不支持的标签，如`<center>`或`<font>`，或者在具有大量`&nbsp;`实体的页面上分隔项目。
+错误:互联网早期的标记选项比我们今天的少得多。然而,[旧习难改](http://stackoverflow.com/questions/14613030/do-i-need-a-doctype-declaration-in-a-php-file-with-html)，许多人仍然写着他们的 HTML，好像我们还在 20 世纪。这里的例子是使用`<table>`元素进行布局，使用`<span>`或`<div>`元素，而其他特定于语义的标签可能更合适，或者使用当前 HTML 标准不支持的标签，如``或`<font>`，或者在具有大量`&nbsp;`实体的页面上分隔项目。
 
 **影响**:编写过去十年的 HTML 会导致过于复杂的标记，在多种浏览器中表现不一致。在更多的[现代浏览器如微软 Edge](http://blogs.msdn.com/b/ie/archive/2015/02/26/a-break-from-the-past-the-birth-of-microsoft-s-new-web-rendering-engine.aspx/?WT.mc_id=13417-DEV-sitepoint-article41) 甚至是过去版本的 Internet Explorer (11，10，9)中，这是不必要的。
 

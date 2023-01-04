@@ -37,7 +37,7 @@ Web 可访问性是开发应用程序的过程，这些应用程序可以被最�
 
 ![How the award looks to a non-blind person](img/f0fb687142ce2cea3e3d572c4586689e.png)
 
-<small>上面的比较受到了 [Jared Smith 关于网页可访问性](http://www.slideshare.net/PlainTalkConf/jared-smith-introduction-to-web-accessibility)的演讲的启发。</small>
+上面的比较受到了 [Jared Smith 关于网页可访问性](http://www.slideshare.net/PlainTalkConf/jared-smith-introduction-to-web-accessibility)的演讲的启发。
 
 现在，我已经能够让您对残疾世界和实现可访问性原则的必要性有所了解，您也可以从阅读患有不同残疾的 web 用户的故事中受益。
 

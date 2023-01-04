@@ -183,6 +183,6 @@ MongoDB 将索引保存在 RAM 中。确保总索引大小不超过 RAM 限制�
 
 这部分到此为止。总之，如果选择了合适的索引方法，索引对应用程序是非常有益的。[在下一部分](https://www.sitepoint.com/mongodb-indexing-2/ "MongoDB Indexing, Part 2")中，我们将看看如何在嵌入文档、子文档和排序中使用索引。敬请期待！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

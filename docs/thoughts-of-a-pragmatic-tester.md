@@ -85,6 +85,6 @@ class BonusTest extends PHPUnit_Framework_TestCase
 
 务实地编写您的测试。使用功能(验收)测试来测试应用程序的行为，使用单元测试来测试代码。测试常见用法、不当用法情况和罕见事件非常重要。但是请记住，即使 100%的代码覆盖率也不能保证代码质量或稳定性。
 
-<small>图片 via /</small>
+图片 via /
 
 ## 分享这篇文章

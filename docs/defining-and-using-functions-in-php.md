@@ -136,6 +136,6 @@ echo calcAverage(12, 34, 56, 78, 90, 9, 8, 7);
 
 现在，您应该能够创建自己的函数，或者从 PHP 广泛的选择中找到相关的函数。
 
-<small>图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://www.shutterstock.com)</small>
+图片通过[肯托](http://www.shutterstock.com/gallery-168430p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

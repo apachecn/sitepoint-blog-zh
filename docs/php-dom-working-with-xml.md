@@ -367,6 +367,6 @@ public function findBooksByGenre($genre)
 
 虽然您今天看到的许多事情可能已经可以在 SimpleXML 中轻松完成，但我希望本文向您展示了如何使用 DOM 实现同样的事情，以及 DOM 的一些好处。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

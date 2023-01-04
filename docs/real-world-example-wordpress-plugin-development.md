@@ -262,17 +262,17 @@ public function location_meta_box_display($post){
         ?>
         <div class="field">
             <label for="wp_location_phone">Contact Phone</label>
-            <small>main contact number</small>
+            main contact number
             <input type="tel" name="wp_location_phone" id="wp_location_phone" value="<?php echo $wp_location_phone;?>"/>
         </div>
         <div class="field">
             <label for="wp_location_email">Contact Email</label>
-            <small>Email contact</small>
+            Email contact
             <input type="email" name="wp_location_email" id="wp_location_email" value="<?php echo $wp_location_email;?>"/>
         </div>
         <div class="field">
             <label for="wp_location_address">Address</label>
-            <small>Physical address of your location</small>
+            Physical address of your location
             <textarea name="wp_location_address" id="wp_location_address"><?php echo $wp_location_address;?></textarea>
         </div>
         <?php
@@ -280,7 +280,7 @@ public function location_meta_box_display($post){
         if(!empty($this->wp_location_trading_hour_days)){
             echo '<div class="field">';
                 echo '<label>Trading Hours </label>';
-                echo '<small> Trading hours for the location (e.g 9am - 5pm) </small>';
+                echo ' Trading hours for the location (e.g 9am - 5pm) ';
                 //go through all of our registered trading hour days
                 foreach($this->wp_location_trading_hour_days as $day_key => $day_value){
                     //collect trading hour meta data
@@ -806,7 +806,7 @@ public function __construct(){
             </select>
         </p>
         <p>
-            <small>If you want to display multiple locations select how many below</small><br/>
+            If you want to display multiple locations select how many below<br/>
             <label for="<?php echo $this->get_field_id('number_of_locations'); ?>">Number of Locations</label>
             <select class="widefat" name="<?php echo $this->get_field_name('number_of_locations'); ?>" id="<?php echo $this->get_field_id('number_of_locations'); ?>" value="<?php echo $number_of_locations; ?>">
                 <option value="default" <?php if($number_of_locations == 'default'){ echo 'selected';}?>>All Locations</option>

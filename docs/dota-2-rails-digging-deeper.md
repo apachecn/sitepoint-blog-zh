@@ -116,7 +116,7 @@ end
 *views/matches/show . html . erb*
 
 ```
-<% page_header "Match #{@match.uid} <small>#{@match.started_at}</small>" %>
+<% page_header "Match #{@match.uid} #{@match.started_at}" %>
 
 <h2 class="<%= @match.winner.downcase %>"><%= @match.winner %> won</h2>
 
@@ -199,7 +199,7 @@ end
       <% player.ability_upgrades.each do |ability| %>
         <td class="text-center">
           <%= image_tag ability[:image], alt: ability[:name], title: ability[:name] %><br/>
-          <small class="text-muted"><%= ability[:time] %></small>
+          <%= ability[:time] %>
         </td>
       <% end %>
     </tr>
@@ -483,7 +483,7 @@ end
 *views/matches/show . html . erb*
 
 ```
-<% page_header "Match #{@match.uid} <small>#{@match.started_at}</small>" %>
+<% page_header "Match #{@match.uid} #{@match.started_at}" %>
 
 <h2 class="<%= @match.winner.downcase %>"><%= @match.winner %> won</h2>
 

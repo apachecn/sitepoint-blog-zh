@@ -252,6 +252,6 @@ $html = file_get_contents("http://example.com/upload.php", false, $context);
 
 希望您已经发现本文中的片段很有趣。他们展示了创造性的问题解决和使用 PHP 的内置功能的新效果。我希望它们对你有用，并能给你启发。如果你有自己鼓舞人心的片段，欢迎在下面的评论中分享。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

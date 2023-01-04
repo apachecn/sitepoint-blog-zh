@@ -191,7 +191,7 @@ bundle install
 ```
 <h2><%= article.title %></h2>
 
-<small class="text-muted"><%= article.created_at.strftime('%-d %B %Y %H:%M:%S') %></small>
+<%= article.created_at.strftime('%-d %B %Y %H:%M:%S') %>
 
 <p><%= article.body %></p>
 
@@ -438,7 +438,7 @@ articles:
 ```
 <h2><%= article.title %></h2>
 
-<small class="text-muted"><%= l(article.created_at, format: '%-d %B %Y %H:%M:%S') %></small>
+<%= l(article.created_at, format: '%-d %B %Y %H:%M:%S') %>
 
 <p><%= article.body %></p>
 
@@ -536,7 +536,7 @@ articles:
 *articles/index.html.erb*
 
 ```
-<small><%= t('.count', :count => @articles.length) %></small>
+<%= t('.count', :count => @articles.length) %>
 ```
 
 我将 hash 作为第二个参数传递给`t`方法。它使用这个`count`属性来选择所需的翻译，并将其值插入到字符串中。很酷，不是吗？

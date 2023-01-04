@@ -202,6 +202,6 @@ class Application_Form_User extends Zend_Form
 
 使用上面的代码，当有无效输入时，表单将只显示自定义消息…这正是我们想要的！如果您需要使用更多的消息，例如几个阶段中的建议，只需在用于`setErrorMessages()`方法的数组中添加更多的字符串。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

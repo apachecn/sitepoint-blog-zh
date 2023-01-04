@@ -183,6 +183,6 @@ class BinaryTree
 
 下一次我将讨论广度优先搜索，并介绍一些新的数据结构。敬请期待！在此之前，我鼓励您探索其他树类型以及它们各自的插入和删除节点的算法。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

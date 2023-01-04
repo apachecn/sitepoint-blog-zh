@@ -14,7 +14,7 @@ Jamstack 中的 *A* 代表 *API* 。API 可以为你做任何事情，从发送�
 
 [![](img/f78819f018124c82757172780094de2c.png)](https://jamstack.org/)
 
-<small>*提供:Netlify*</small>
+*提供:Netlify*
 
 托管 Jamstack 站点通常涉及自动部署管道。例如，您可能在 GitHub 中有一个存储库，每次推送时，它都会自动触发一次在线部署(通过 [webhooks](https://en.wikipedia.org/wiki/Webhook) ，运行必要的[构建工具](https://en.wikipedia.org/wiki/List_of_build_automation_software)(如 Jekyll)和[回归测试](https://en.wikipedia.org/wiki/Regression_testing)(通过 Travis CI)。
 
@@ -231,11 +231,11 @@ Firebase 的 **[云函数](https://firebase.google.com/products/functions)** 和
 
 **[Firebase 认证](https://firebase.google.com/products/auth)** (带其[即用型 UI](https://opensource.google/projects/firebaseui) )和 **[带 Amplify](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js)** 的认证也非常全面和灵活，比 Auth0 更直观。Firebase 还提供匿名认证！好奇？看看这个视频:
 
-<center>
+
 
 [https://www.youtube.com/embed/ApG8L2RKrSI](https://www.youtube.com/embed/ApG8L2RKrSI)
 
-</center>
+
 
 [![](img/b4538bd62ff18194f357fdc8dd9e1afd.png)](https://docs.netlify.com/visitor-access/identity/)
 
@@ -332,11 +332,11 @@ Netlify 似乎又一次提出了最容易实现的解决方案，用 **[Netlify 
 
 你听说过大多数人认为自己高于平均水平吗？似乎公司也陷入了偏见，因为 **[OneSignal](https://onesignal.com/)** ， **[Pushwoosh](https://www.pushwoosh.com/)** 和 **[Truepush](https://www.truepush.com/)** 都宣称自己是*【头号推送通知服务】*。在任何情况下，他们都有慷慨的免费计划(以及从你通过他们发送的数据中获得的大量营销见解)，OneSignal 提供了更多的集成。
 
-<center>
+
 
 [https://www.youtube.com/embed/znzJNm9YQeA](https://www.youtube.com/embed/znzJNm9YQeA)
 
-</center>
+
 
 还可以查看 **[飞艇](https://www.airship.com/)****[弹射器](https://www.catapush.com/)****[lean plum](https://www.leanplum.com/)****[Pushover](https://pushover.net/)**[多了](https://vwo.com/engage/)…
 

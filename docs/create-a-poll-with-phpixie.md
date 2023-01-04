@@ -456,6 +456,6 @@ return array(
 
 尽管如此，还有很多东西需要学习。像自定义路线和复杂的 ORM 关系这样的东西可以帮助您更好地定制您的项目。请访问 PHPixie 网站了解更多信息。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

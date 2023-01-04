@@ -181,7 +181,7 @@ Route::group(['middleware' => ['auth']], function () {
 
 ```
 <div class="well well-sm">
-    <p><small class="text-muted">{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</small></p>
+    <p>{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</p>
 
     <p><strong>{{ $activity['actor']['name'] }}</strong> created a new post titled <strong>{{ $activity['object']['title'] }}</strong></p>
 </div> 
@@ -321,7 +321,7 @@ Route::group(['middleware' => 'auth'], function () {
 
 ```
 <div class="well well-sm">
-    <p><small class="text-muted">{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</small></p>
+    <p>{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</p>
     <p>You are now friends with <strong>{{ $activity['follower']['name'] }}</strong></p>
 </div> 
 ```
@@ -338,7 +338,7 @@ Route::group(['middleware' => 'auth'], function () {
 
 ```
 <div class="well well-sm">
-    <p><small class="text-muted">{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</small></p>
+    <p>{{ date('F j, Y, g:i a', strtotime($activity['time'])) }}</p>
     <p><strong>{{ $activity['actor']['name'] }}</strong> is now friends with <strong>{{ $activity['followed']['name'] }}</strong></p>
 </div> 
 ```

@@ -34,6 +34,6 @@
 
 代码审查很难实现，尤其是在一个不习惯它的老团队中。但是一旦完成，它不仅会减少代码中的缺陷数量，还会增加协作并帮助团队建设，改善开发人员之间的“兄弟情谊”,并将在整个团队或部门中传播最佳实践和技能改进。任何类型的代码审查都比没有好，所以如果你的团队今天没有使用它，建议使用它。这只会有所帮助。如果你是一个单独的开发者，找一个志趣相投的人一起审查代码——上网，社交，扩大你的开发圈子，团队合作。不要将其他开发人员视为竞争对手，将代码评审视为你的敌人，将其他人视为战友，将代码评审作为你完美前线的武器。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

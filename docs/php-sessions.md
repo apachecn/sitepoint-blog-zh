@@ -134,7 +134,7 @@ if ($_POST["username"] == "admin" && $_POST["password"] == sha1("password")) {
 *   [PHP 安全联盟-PHP 安全指南:会议](http://phpsec.org/projects/guide/4.html "PHP Security Consortium - PHP Security Guide: Sessions")
 *   [Wikibooks–PHP 编程:会话](http://en.wikibooks.org/wiki/PHP_Programming/Sessions "Wikibooks - PHP Programming: Sessions")
 
-<small>图片 via[Kokhanchikov](http://www.shutterstock.com/gallery-137605p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[Kokhanchikov](http://www.shutterstock.com/gallery-137605p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 如果你喜欢读这篇文章，你会爱上[可学的](https://learnable.com?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoint 的所有电子书和交互式在线课程，如 [Jump Start PHP](https://learnable.com/books/jump-start-php?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink) 。
 

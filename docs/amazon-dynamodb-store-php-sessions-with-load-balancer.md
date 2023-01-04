@@ -173,6 +173,6 @@ function getServerName() {
 
 检查的起点是 [AWS 主页](http://aws.amazon.com)。现在，如果你已经完成了测试，不要忘记终止你所有的东西，如果不是快乐的编码！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

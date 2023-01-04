@@ -84,6 +84,6 @@ Pimero 免费版是一个功能丰富的可下载选项，用于标准化您的�
 
 对本文的评论已经关闭。有一个关于经营自由职业的问题吗？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?61-Business-amp-Legal-Issues?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 
-<small>图片来源:[内森·苏兹](http://www.sxc.hu/photo/104746)</small>
+图片来源:[内森·苏兹](http://www.sxc.hu/photo/104746)
 
 ## 分享这篇文章

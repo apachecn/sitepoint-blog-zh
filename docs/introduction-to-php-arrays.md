@@ -255,6 +255,6 @@ foreach ($prices as $city => $snack) {
 
 哎呀，所有那些表和数组让我感到饥饿。我想我要乘电梯下去，吃一个带薯条的汉堡。或者说我喜欢鱼和薯条？
 
-<small>图片 via[keko 64](http://www.shutterstock.com/gallery-167056p1.html%22 "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[keko 64](http://www.shutterstock.com/gallery-167056p1.html%22 "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

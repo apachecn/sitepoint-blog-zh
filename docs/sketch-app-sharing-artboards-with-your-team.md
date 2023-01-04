@@ -64,7 +64,7 @@ Sketch 用户可以从 [Sketch to Slack 插件](https://github.com/shahruz/Send-
 
 ![Choosing a Slack team to connect to](img/4955f4ae6625a6ebb1ab3bb5732ba671.png)
 
-<small>选择一个松散团队连接到</small>
+选择一个松散团队连接到
 
 设置完毕后，选择任意数量的画板，并导航回*插件→草图松弛*以选择您希望草图将画板发送到的位置。你可以选择一个频道、一个组、一个用户——甚至 Slackbot 本身(用于测试)。非常适合与大型团队共享设计！
 

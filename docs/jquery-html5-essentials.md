@@ -59,7 +59,7 @@ HTML5 是取代 HTML4.01 和 XHTML1.1 的新版本，作为最新的 HTML 网页
 <basefont> 	Not supported in HTML5.
  <big>Not supported in HTML5.
 
-<center> 	Not supported in HTML5.
+ 	Not supported in HTML5.
 
 <dir> 	Not supported in HTML5.
  <font>Not supported in HTML5.
@@ -72,7 +72,7 @@ HTML5 是取代 HTML4.01 和 XHTML1.1 的新版本，作为最新的 HTML 网页
  <u>Not supported in HTML5.
  <xmp>Not supported in HTML5.</xmp></u>`~~</noframes></font> </dir>
 
-</center></big></applet></acronym> 
+</big></applet></acronym> 
 ```
 
 **W3C HTML5 参考:**【http://www.w3schools.com/html5/html5_reference.asp 

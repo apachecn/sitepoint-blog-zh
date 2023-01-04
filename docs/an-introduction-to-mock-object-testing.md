@@ -224,6 +224,6 @@ class StatusServiceTest extends PHPUnit_Framework_TestCase
 
 现在，你应该有一个通过测试了。恭喜你！您已经开始使用模拟对象进行测试了！希望你能更有效地编程，最重要的是，摆脱你将来遇到的节目停止依赖。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

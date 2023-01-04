@@ -48,6 +48,6 @@ OMG–这是来自天堂的系统！那么为什么不是每个人都有一个�
 
 他们只让我写这部分。但是请继续关注亲爱的读者，[因为下周我将深入](https://www.sitepoint.com/php-and-the-i-2/ "PHP and the i, Part 2")I 上的开发对于那些冒险进入这个领域的勇敢的 PHP 程序员来说是什么样的！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

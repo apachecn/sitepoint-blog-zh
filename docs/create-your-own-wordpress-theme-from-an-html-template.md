@@ -357,7 +357,7 @@ index.php
 这两行检查是否提供了任何帖子。根据您正在查看的页面，会有不同的帖子可用。例如，在主博客页面上，会显示一定数量的最新帖子。如果您正在查看一个特定的帖子，那么只有该帖子将被提供给循环。对于类别、标签或作者页面，将显示属于该标签、类别或作者的所有帖子。有了这两条线，我们现在进入了循环的内部。我们现在需要指示 WordPress 为文章集中的每篇文章分别执行几行代码。例如:
 
 ```
-<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>"><?php the_title(); ?></a></h2><small><?php the_time('F jS, Y') ?> by <?php the_author() ?> </small>
+<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>"><?php the_title(); ?></a></h2><?php the_time('F jS, Y') ?> by <?php the_author() ?> 
 ```
 
 这个示例部分以包含文章标题的 h2 标签开始，该标签链接到文章的页面。在这下面，列出了发布时间和作者，包裹在小标签中。这里有许多新的模板标签，您可以使用许多其他标签来自定义您的模板，以显示您想要的 HTML。以下是一些比较常见的例子:

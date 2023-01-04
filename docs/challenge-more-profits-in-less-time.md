@@ -24,6 +24,6 @@
 
 你的计时器现在开始计时，祝你好运！
 
-<small>[Coinstack 图像](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=money&search_group=#id=100580731&src=7e72e86c69554918d71512e133c33ff5-1-0)通过 Shutterstock</small>
+[Coinstack 图像](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=money&search_group=#id=100580731&src=7e72e86c69554918d71512e133c33ff5-1-0)通过 Shutterstock
 
 ## 分享这篇文章

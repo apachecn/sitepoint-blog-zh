@@ -416,7 +416,7 @@ $routeProvider.when('/chat/:roomid', {
         <img ng-src="{{msgs.userimg}}" width="20" />{{msgs.message}}
       </h4>
       <span>{{msgs.postedby}}
-        <small class="text-muted">{{msgs.posteddate | date:'yyyy-MM-dd HH:mm:ss'}}</small>
+        {{msgs.posteddate | date:'yyyy-MM-dd HH:mm:ss'}}
       </span>
     </div>
     <div class="message" ng-show="chatMessages && chatMessages.length == 0">

@@ -54,7 +54,7 @@ Brandisty 提供的另一个简洁的功能是 logo 主页，它对会议特别�
 
 ![Screenshot: Manage multiple brands and sub-brands.](img/ea76269637b62da8d31519be8aad6b68.png)
 
-<small>管理多个品牌和子品牌。</small>
+管理多个品牌和子品牌。
 
 遗憾的是，Brandisty 不允许您将徽标直接上传到此主页，除非您首先创建了自己的独立品牌空间。虽然这可能会被视为一些合作伙伴的负担，但这也让他们能够完全控制自己的品牌——这对大多数公司来说肯定是一个胜利。
 

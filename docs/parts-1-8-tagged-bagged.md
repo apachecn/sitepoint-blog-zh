@@ -1094,7 +1094,7 @@ for (initial value of counter; condition; update counter)            
 </head>            
 
 <body>            
-<center>Turning The Tables, JSP-Style!</center>            
+Turning The Tables, JSP-Style!            
 <br>            
 <%!            
 // define the number            
@@ -1425,7 +1425,7 @@ HTML 表单通常用于获取网站访问者的信息，如他们的姓名、邮
 
 <body>               
 
-<center>               
+               
 <form method="GET" action="matrix.jsp">               
 <table cellspacing="5" cellpadding="5" border="0">               
 
@@ -1444,7 +1444,7 @@ HTML 表单通常用于获取网站访问者的信息，如他们的姓名、邮
 </table>               
 </form>               
 
-</center>               
+               
 </body>               
 
 </html>
@@ -1475,7 +1475,7 @@ HTML 表单通常用于获取网站访问者的信息，如他们的姓名、邮
 </head>                
 
 <body>                
-<center>                
+                
 <%                
 // matrix.jsp                
 
@@ -1489,7 +1489,7 @@ fname = request.getParameter("name");                
 out.println("Welcome to The Matrix, " + fname + "!");                
 
 %>                
-</center>                
+                
 </body>                
 </html>
 ```
@@ -1536,7 +1536,7 @@ String fname;                
 </head>                
 
 <body>                
-<center>                
+                
 <%                
 // matrix.jsp                
 
@@ -1556,7 +1556,7 @@ else                
 out.println("Leave immediately, Agent!");                
 }                
 %>                
-</center>                
+                
 </body>                
 </html>
 ```
@@ -1694,7 +1694,7 @@ else                
 
 <body>                  
 
-<center>                  
+                  
 <form method="GET" action="pills.jsp">                  
 
 <font size="-1" face="Arial">                  
@@ -1715,7 +1715,7 @@ pills, willya? </font>                  
 <input type="Submit">                  
 </form>                  
 
-</center>                  
+                  
 </body>                  
 
 </html>
@@ -1730,7 +1730,7 @@ pills, willya? </font>                  
 </head>                  
 
 <body>                  
-<center>                  
+                  
 <%                  
 // pills.jsp                  
 
@@ -1760,7 +1760,7 @@ else                  
   }                  
 }                  
 %>                  
-</center>                  
+                  
 </body>                  
 </html>
 ```
@@ -2048,7 +2048,7 @@ Pick your favourite shows:                    
 </head>                     
 
 <body>                     
-<center>                     
+                     
 <%                     
 // matrix.jsp                     
 
@@ -2095,7 +2095,7 @@ else                    
 <%                     
 }                     
 %>                     
-</center>                     
+                     
 </body>                     
 </html>
 ```
@@ -2442,7 +2442,7 @@ Conn.close();
 </head>                         
 
 <body>                         
-<center>                         
+                         
 <%                         
 // check submit state                         
 String submit = request.getParameter("submit");                         
@@ -2533,7 +2533,7 @@ Conn.close();                        
  %>                         
 
 </table>                         
-</center>                         
+                         
 </body>                         
 </html>
 ```
@@ -2564,7 +2564,7 @@ SQL 爱好者知道这是通过`INSERT`查询实现的。因此，议程上的�
 </head>                          
 
 <body>                          
-<center>                          
+                          
 <h2>Add Address Book Entry</h2>                          
 
 <table border=0 cellspacing=5 cellpadding=5>                          
@@ -2670,7 +2670,7 @@ value="Add"></td> </tr>                          
 </form>                          
 </table>                          
 
-</center>                          
+                          
 </body>                          
 </html>
 ```
@@ -2685,7 +2685,7 @@ value="Add"></td> </tr>                          
 <basefont face="Arial">                          
 </head>                          
 <body>                          
-<center>                          
+                          
 
 <%@ page language="java" import="java.sql.*" %>                          
 
@@ -2747,7 +2747,7 @@ Conn.close();                          
 
 %>                          
 
-</center>                          
+                          
 </body>                          
 </html>
 ```
@@ -2768,7 +2768,7 @@ Conn.close();                          
 </head>                           
 
 <body>                           
-<center>                           
+                           
 <%                           
 // check submit state                           
 String submit = request.getParameter("submit");                           
@@ -2866,7 +2866,7 @@ Conn.close();                          
  %>                           
 
 </table>                           
-</center>                           
+                           
 </body>                           
 </html>
 ```
@@ -2882,7 +2882,7 @@ Conn.close();                          
 </head>                           
 
 <body>                           
-<center>                           
+                           
 <h2>Update Address Book Entry</h2>                           
 
 <%@ page language="java" import="java.sql.*" %>                           
@@ -2993,7 +2993,7 @@ value="Update"></td> </tr>                          
 </form>                           
 </table>                           
 
-</center>                           
+                           
 </body>                           
 </html>
 ```
@@ -3006,7 +3006,7 @@ value="Update"></td> </tr>                          
 <basefont face="Arial">                           
 </head>                           
 <body>                           
-<center>                           
+                           
 
 <%@ page language="java" import="java.sql.*" %>                           
 
@@ -3069,7 +3069,7 @@ Conn.close();                          
 
 %>                           
 
-</center>                           
+                           
 </body>                           
 </html>
 ```
@@ -3099,7 +3099,7 @@ Conn.close();                          
 <basefont face="Arial">                            
 </head>                            
 <body>                            
-<center>                            
+                            
 
 <%@ page language="java" import="java.sql.*" %>                            
 
@@ -3150,7 +3150,7 @@ Conn.close();                            
 
 %>                            
 
-</center>                            
+                            
 </body>                            
 </html>
 ```

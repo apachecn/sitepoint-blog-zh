@@ -6,7 +6,7 @@
 
 ![Glossy rendered UI versus flat design](img/13b52fbcf1e0329bd8902e7050f3ddb8.png)
 
-<small>输家和赢家</small>
+输家和赢家
 
 失败者是斜边，人工缝制的边界，光泽反射和阴影。
 
@@ -28,7 +28,7 @@
 
 ![Mr Retro's Permanent Press filters](img/8f048e3987135ee1fd11eef0dcb23719.png)
 
-<small>复古先生的永久压滤机</small>
+复古先生的永久压滤机
 
 Photoshop 插件制造商 Retro 先生已经通过使用他们的[永久按压](https://www.misterretro.com/filters/permanent-press)滤镜组在旧的印刷样式上重复来谋生。每个滤镜都模仿了经典印刷作品中一些自然、肮脏的瑕疵。
 
@@ -53,7 +53,7 @@ Photoshop 插件制造商 Retro 先生已经通过使用他们的[永久按压](
 
 ![Chris Spooner's Distressed Halftones](img/388f65e93ccc562c22481e46ee120b64.png)
 
-<small>克里斯·史普纳的仿旧半色调</small>
+克里斯·史普纳的仿旧半色调
 
 克里斯·斯普纳(勺子图形)多年来一直慷慨地提供精彩的设计资源——包括[这个美味的略有斑驳的半色调网点选择](http://blog.spoongraphics.co.uk/freebies/10-distressed-vector-halftone-patterns-for-illustrator)。
 
@@ -65,7 +65,7 @@ Photoshop 插件制造商 Retro 先生已经通过使用他们的[永久按压](
 
 ![Halftone swatches](img/d1b9885b80b02f8f81c456a1a411519d.png)
 
-<small>半色调样本</small>
+半色调样本
 
 **2)。**下一步开始复制你的背景对象，使用*粘贴在前面*将副本直接放置在原始元素的顶部。
 

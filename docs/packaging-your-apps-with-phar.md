@@ -174,6 +174,6 @@ $phar->setStub(file_get_contents("stub.php"));
 
 Phar 可以为您省去打包和部署应用程序的许多麻烦，我建议您考虑使用它。本文旨在向您介绍 Phar 的主要概念。您了解了如何创建归档文件和包含文件，了解了存根文件的重要性，以及 PHP 如何访问归档文件中的文件。不幸的是，PHP 手册中关于使用 Phar 的资源并不完整，互联网上其他地方有限的资源也不够有用。希望在以后的文章中，我能够向您展示更多关于利用 Phar 的内容。
 
-<small>图片 via [帕维尔·伊格纳托夫](http://www.shutterstock.com/gallery-372148p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [帕维尔·伊格纳托夫](http://www.shutterstock.com/gallery-372148p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

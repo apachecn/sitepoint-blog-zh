@@ -14,7 +14,7 @@
 
 ![Urban artwork: Wait Here Until You Are Useful](img/967be375082cd7ec14837fd6a5c07b66.png)
 
-<small>图片来源:“[在这里等着，直到你有用](https://www.flickr.com/photos/londonmatt/5764025335/)马特·布朗。[知识共享](https://creativecommons.org/licenses/by/2.0/legalcode)</small>
+图片来源:“[在这里等着，直到你有用](https://www.flickr.com/photos/londonmatt/5764025335/)马特·布朗。[知识共享](https://creativecommons.org/licenses/by/2.0/legalcode)
 
 显然，可用性和可享受性也很重要…只是没有*和*重要。事实上，[密执安大学的一项研究](http://deepblue.lib.umich.edu/bitstream/handle/2027.42/30954/0000626.pdf)不仅证实了这一点，还给出一个数字。有用性是可用性的 1.5 倍。
 
@@ -35,7 +35,7 @@
 
 ![The Aim of the wise is not to secure pleasure but to avoid pain  - Aristotle](img/f94e3cbf913afe83739b8a6043eba99c.png)
 
-<small>图片来源:“[智者的目标……](https://www.flickr.com/photos/quoteseverlasting/9423117353/)”永恒引用。[知识共享](https://creativecommons.org/licenses/by/2.0/legalcode)。</small>
+图片来源:“[智者的目标……](https://www.flickr.com/photos/quoteseverlasting/9423117353/)”永恒引用。[知识共享](https://creativecommons.org/licenses/by/2.0/legalcode)。
 
 你怎么知道你的用户有什么问题？答案很简单— [客户开发](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)。访谈、调查、日记研究、分析、A/B 测试等。揭示用户的紧迫问题是与你的产品有关的，还是与你的产品无关的，以及他们解决这些问题的偏好是什么。
 
@@ -55,7 +55,7 @@
 
 ![Screenshot: Buffer UI](img/7e017c7e023ecd501ea9996d086d7754.png)
 
-<small>图片来源:[缓冲](https://buffer.com/)</small>
+图片来源:[缓冲](https://buffer.com/)
 
 一个很好的组合是 [Buffer](https://buffer.com/) ，它从模仿主页的登陆页面开始，围绕着使用产品的行动号召。CTA 是假的，并把用户带到一个道歉页面，解释说他们仍在对它进行“最后的润色”。然而，他们收集了“早期天使”的电子邮件，并确定有足够多的人愿意使用它。
 
@@ -67,7 +67,7 @@
 
 ![Quote: 'Everything should be as simple as possible. But not simpler' - Albert Einstein](img/5d5ca6a550d2adae162d742f8757694d.png)
 
-<small>图片来源:“[简单 2](https://www.flickr.com/photos/bjornmeansbear/5010984974/) ”克里斯蒂安·比约纳德。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/legalcode)</small>
+图片来源:“[简单 2](https://www.flickr.com/photos/bjornmeansbear/5010984974/) ”克里斯蒂安·比约纳德。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/legalcode)
 
 根据尼尔森诺曼集团的 UX 专家的说法，可用性有五个因素:
 
@@ -97,7 +97,7 @@
 
 ![Sign on door: "Usability testing in Progress. Do not disturb"](img/aa25ae6b18f2ccef050804a6eeab34df.png)
 
-<small>图片来源:“[可用性测试正在进行中](https://www.flickr.com/photos/roebot/2964156413/)亚伦·富尔克森。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/legalcode)。</small>
+图片来源:“[可用性测试正在进行中](https://www.flickr.com/photos/roebot/2964156413/)亚伦·富尔克森。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/legalcode)。
 
 测试产生定性或定量数据，但最好两者都有。记录量化的细节，如时间、点击量、访问了哪些页面等。而且还能引出用户在使用系统时感觉如何的定性反馈。测试后的访谈或调查会有所帮助，让用户在测试中大声说出他们的想法也是如此。
 
@@ -113,7 +113,7 @@ UX 先锋 Don Norman 解释道:情绪是我们做决定的重要因素，经常�
 
 ![ATM](img/9cfc187c5baa190cec3ce0fdbb1574f8.png)
 
-<small>图片来源:[兆瓦 86](https://www.flickr.com/photos/32317927@N07/3403076282/) 。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/)</small>
+图片来源:[兆瓦 86](https://www.flickr.com/photos/32317927@N07/3403076282/) 。[知识共享](https://creativecommons.org/licenses/by-sa/2.0/)
 
 其他研究也支持这一点。克洛斯正明和香织·柏村证明了用户认为有趣的产品更有用。研究人员测试了两台自动取款机，一台全新，另一台破旧，但可用性相同。用户认为美观的功能更好。
 
@@ -131,7 +131,7 @@ UX 先锋 Don Norman 解释道:情绪是我们做决定的重要因素，经常�
 
 ![Screenshot: Mailchip UI showing sense of humour](img/d02a6beea4a012edede2073151f3bc3c.png)
 
-<small>照片致谢 **:** [MailChimp](http://mailchimp.com/)</small>
+照片致谢 **:** [MailChimp](http://mailchimp.com/)
 
 而且别忘了你文案的语气也可以娱乐。一个恰当的笑话或可爱的措辞可以让你的用户微笑，甚至缓解紧张的行为，就像上面的 [MailChimp](http://mailchimp.com/) 。
 
@@ -141,7 +141,7 @@ UX 先锋 Don Norman 解释道:情绪是我们做决定的重要因素，经常�
 
 ![Screenshot: Duolingo](img/c94e5949e17824bfe01c66eae4d26f35.png)
 
-<small>图片来源:[多林戈](https://www.duolingo.com/)T3</small> 
+图片来源:[多林戈](https://www.duolingo.com/)T3 
 
 **有用的**。大多数人都想学习一门新的语言，所以让学习变得“简单”和有趣的服务肯定是有用的。因为它是免费的，并且应用了一个类似游戏的教学系统，这是一个比筛选教科书更有用的选择。
 
@@ -149,7 +149,7 @@ UX 先锋 Don Norman 解释道:情绪是我们做决定的重要因素，经常�
 
 ![Screenshot: Level up](img/79371e4f268f91907ee5bac98a04f230.png)
 
-<small>图片来源:[灵歌](http://www.lingholic.com/wp-content/uploads/2014/05/Earning-lingots-on-Duolingo.png)</small>
+图片来源:[灵歌](http://www.lingholic.com/wp-content/uploads/2014/05/Earning-lingots-on-Duolingo.png)
 
 **过瘾**。同样有效的教学方法也使得 Duolingo 使用起来很有趣。学习是通过有趣的游戏完成的，用户可以获得一个货币系统来购买额外的功能。美学也是例外，平滑的平面设计图像和一个有趣的猫头鹰吉祥物。
 

@@ -186,6 +186,6 @@ echo $invoice->render();
 
 现在您已经知道了使用 Zend_PDF 创建 PDF 文档的基本知识，尽管还有比我在本文中提到的更多的特性。如果你想克隆和试验这篇文章的[源代码，可以在 GitHub 上找到。当然，如果您遇到任何问题，请随时发表评论。](https://github.com/phpmasterdotcom/GeneratingInvoicesWithZendPdf "phpmasterdotcom/GeneratingInvoicesWithZendPdf")
 
-<small>图片 via [克里斯蒂娜·德里德](http://www.shutterstock.com/gallery-58978p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [克里斯蒂娜·德里德](http://www.shutterstock.com/gallery-58978p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

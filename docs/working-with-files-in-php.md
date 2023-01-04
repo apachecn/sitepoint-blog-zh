@@ -274,6 +274,6 @@ Excel 中显示的文件内容现在如下所示:
 
 本文向您介绍了如何使用文件，并展示了如何查找关于文件的信息、读取和写入文件。在处理文件时，您还可以使用许多其他函数——本文已经介绍了一些最常用的函数。你可以在 PHP 的[文件系统函数页面](http://php.net/manual/en/ref.filesystem.php)找到更多信息。
 
-<small>图片 via[Marco Rullkoetter](http://www.shutterstock.com/gallery-172795p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[Marco Rullkoetter](http://www.shutterstock.com/gallery-172795p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

@@ -52,7 +52,7 @@
 
 ![Angular 2 components: Using inputs and outputs properties in the @Component decorator](img/6b9241b74c445fa60b8eaee3b2544110.png)
 
-<small>图 1:在`@Component`装饰器</small>中使用“输入”和“输出”属性的组件
+图 1:在`@Component`装饰器中使用“输入”和“输出”属性的组件
 
 关于上面的输入和输出，有几点需要注意:
 
@@ -65,7 +65,7 @@
 
 ![Anglular 2 components: Using the input and output defined by ParentComp](img/9becca17b1a79a4ed65a356f90b78277.png)
 
-<small>图 2:该组件使用由 ParentComp</small> 定义的输入和输出
+图 2:该组件使用由 ParentComp 定义的输入和输出
 
 使用“ParentComp”的语法非常简单:
 
@@ -81,7 +81,7 @@
 有一种替代语法可用于定义组件中的输入属性和输出事件。在上面的例子中，我们使用了传递给`@Component`装饰器的对象的“输入”和“输出”属性。Angular 还让我们使用一个`@Input`和`@Output`装饰器来获得相同的结果:
 
 ![Angular 2 components: Using the @Input and @Output decorator](img/e468abf31cf7e43bff1711aa01f78e1b.png)
-<small>图 3:采用`@Input`和`@Output`装饰器</small>
+图 3:采用`@Input`和`@Output`装饰器
 
 在上面版本的 ParentComp 中，我们去掉了`@Component`定义对象的“输入”和“输出”属性。相反，我们在第 2 行的导入命令中添加了“输入”和“输出”，并使用 ParentComp 类中的`@Input`和`@Output`装饰器来声明“我的名字”和“我的事件”
 

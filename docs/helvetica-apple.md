@@ -42,6 +42,6 @@ AnyoneCanSwiss 的德克和韦斯质疑 Helvetica 是否只是一个完全的设
 
 我们会看到的。
 
-<small>(最初发表于 SitePoint 设计通讯)</small>
+(最初发表于 SitePoint 设计通讯)
 
 ## 分享这篇文章

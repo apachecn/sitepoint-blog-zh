@@ -259,6 +259,6 @@ php-maven 插件支持与 Eclipse IDE 的集成，但默认情况下它不包含
 
 在本文中，您已经学习了如何从命令行和在 Eclipse 中安装和使用 PHP-Maven 插件。Maven for PHP 是一个强大的 PHP 平台构建自动化工具。使用 Maven，用户只需要为项目提供配置，而可配置的插件完成编译项目、运行单元测试、生成 API 文档等工作。Maven for PHP 将很快成为 PHP 开发者工具箱中的必备工具。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

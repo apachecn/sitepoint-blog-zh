@@ -18,7 +18,7 @@
 
 ![Boy on bed of nails - Austin Kirk](img/19e3d544d3cbdb1b1131a19bc8828452.png)
 
-<small>照片:[奥斯柯克](https://www.flickr.com/photos/aukirk/14015754422)</small>
+照片:[奥斯柯克](https://www.flickr.com/photos/aukirk/14015754422)
 
 问我们(残疾人群体，我碰巧患有 erbs 麻痹，使我右臂的使用和运动受到限制)发生了什么，我们的需求可能是什么，以及我们如何驾驭我们周围的世界，有时会令人不舒服。然而，为了确保产品能够给那些身体可能不完全健康的用户提供最好的体验，我们作为设计师必须愿意走出我们的舒适区，并准备好听到证明我们最初的设计忽略了最初应该被视为用户的社区的答案。
 
@@ -26,7 +26,7 @@
 
 ![Photo by Juliana Coutinho: https://www.flickr.com/photos/ngmmemuda/4928131604](img/adb4af15eca77a6c87087d1aad4217cf.png)
 
-<small>[朱莉安娜·库蒂尼奥](https://www.flickr.com/photos/ngmmemuda/4928131604)拍摄的照片</small>
+[朱莉安娜·库蒂尼奥](https://www.flickr.com/photos/ngmmemuda/4928131604)拍摄的照片
 
 为和你一样的人设计总是更容易。通常情况下，产品最初是根据与公司所有者和团队相似的用户来创建的。在早期阶段，在他们获得足够的用户之前，基于尝试和真实的设计实践的移情假设被使用，这没有错。
 

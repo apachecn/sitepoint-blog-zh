@@ -212,6 +212,6 @@ OK (1 test, 1 assertion)
 
 在本教程中，我们看到了如何使用 PHPUnit 的数据库扩展在 PHP 中编写插入操作的数据库测试。本教程中介绍的技术也适用于删除和更新操作。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -130,6 +130,6 @@ case "logout":
 
 到目前为止，您应该已经了解了 CSRF 攻击的基本原理，以及可以采取哪些措施来保护您的站点和用户。正如本·富兰克林所说:“一盎司的预防抵得上一磅的治疗。”我相信我们所有人都宁愿花时间来确保我们编写的代码是安全的，而不是处理压力、头痛和围绕妥协的可能诉讼。
 
-<small>图片 via[Blazej Lyjak](http://www.shutterstock.com/gallery-507601p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[Blazej Lyjak](http://www.shutterstock.com/gallery-507601p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

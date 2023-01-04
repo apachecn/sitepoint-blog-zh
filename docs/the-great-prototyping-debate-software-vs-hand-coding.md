@@ -73,6 +73,6 @@ Pingendo 是一个免费的可视化原型开发工具。你可以下载桌面�
 
 它有很多让人喜欢的地方。
 
-<small>[原载](https://go.sitepoint.com/t/ViewEmail/y/BC45DCBE445BB161)于 [Sitepoint 设计简讯](https://www.sitepoint.com/newsletter/)。</small>
+[原载](https://go.sitepoint.com/t/ViewEmail/y/BC45DCBE445BB161)于 [Sitepoint 设计简讯](https://www.sitepoint.com/newsletter/)。
 
 ## 分享这篇文章

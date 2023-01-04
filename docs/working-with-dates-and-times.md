@@ -287,6 +287,6 @@ Mon, 16 Jan 2012 13:03:49 -0500
 
 将所有时间基于 UTC 的想法不仅仅适用于 PHP 和 MySQL 在任何语言中，这都被认为是很好的练习。如果你发现自己在用另一种语言工作，很有可能你会对自己说“该死，为什么他们不能像 PHP 那样做呢？”
 
-<small>图片 via[Yakobchuk Vasyl](http://www.shutterstock.com/gallery-79658p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[Yakobchuk Vasyl](http://www.shutterstock.com/gallery-79658p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

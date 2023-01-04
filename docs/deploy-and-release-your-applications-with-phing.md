@@ -344,6 +344,6 @@ $ wget http://www.yoursite.com/helloworld/releases/trunk/install.sh && sh instal
 
 我们已经在这里看到了许多有用的 Phing 特性，但是还有更多需要发现。您可以“按原样”使用构建文件来部署您当前和未来的项目，或者通过添加更多的特性来扩展它，比如支持单元测试、Git、数据库处理，甚至自定义扩展。和往常一样，官方文档将是您最好的起点。
 
-<small>图片 via[1971 yes](http://www.shutterstock.com/gallery-222367p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[1971 yes](http://www.shutterstock.com/gallery-222367p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

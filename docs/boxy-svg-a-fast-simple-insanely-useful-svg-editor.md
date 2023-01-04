@@ -94,7 +94,7 @@ SVG 有很多在网络上非常有用的特性。其中包括:
 
 ![The DEFS panel](img/512d586807c150738511d2046cd7ba2e.png)
 
-<small>在矩形 SVG 中使用 DEFS</small>
+在矩形 SVG 中使用 DEFS
 
 我还发现，如果你在 [IcoMoon](https://icomoon.io/app/) 创建一个 SVG 图标集，然后在 Boxy SVG 中打开它，你会看到你所有的图标都出现在符号菜单中。即使您将它们从主文档视图中删除，您仍然可以在 DEFS 面板中找到它们。
 
@@ -112,7 +112,7 @@ SVG 有很多在网络上非常有用的特性。其中包括:
 
 ![Animation: Masking in Boxy](img/3d0fc8be895ca8b278ff103dafc6be96.png)
 
-<small>动画:方框中的遮罩</small>
+动画:方框中的遮罩
 
 BoxySVG 中还有很多，包括漂亮的排版控件和一个探路者工具，但我不想在这里写 2000 字。推荐你有戏，看你怎么想。除了时间，它不会花费你任何东西。
 

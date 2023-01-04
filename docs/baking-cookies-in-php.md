@@ -102,6 +102,6 @@ setcookie("FirstCookie", $firstcookie, $expiry, "/", ".trial.com");
 
 饼干就这些了。你现在应该能够在你的 PHP 应用程序中使用 cookie 了，所以开始烘焙吧，让我知道你的 cookie 味道如何！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

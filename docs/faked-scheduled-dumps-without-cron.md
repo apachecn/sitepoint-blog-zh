@@ -43,6 +43,6 @@ if ($check < strtotime(date("Y-m-d 00:00:00"))) {
 
 令人惊讶的是，有时最复杂的问题也有简单而优雅的解决方案。我在 stack 的时候做的一件事就是遍历程序的所有进程，寻找方便的钩子或者漏洞。这种特殊的解决方案可能不适合所有人，但对于我的问题来说，它足够好，并允许我使用现有的平台，并且仍然不让普通用户访问敏感的密码。感谢您让我分享，如果有什么的话，我希望它能鼓励您在自己的日常编程问题中找到创造性的解决方案。
 
-<small>图片 via [非洲工作室](http://www.shutterstock.com/gallery-137002p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [非洲工作室](http://www.shutterstock.com/gallery-137002p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

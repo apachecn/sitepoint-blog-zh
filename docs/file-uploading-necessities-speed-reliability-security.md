@@ -10,7 +10,7 @@
 
 ![Image of hand holding a mobile phone](img/f8b2f42c444f01bdaefbadc5eb44b22d.png)
 
-<small>[图片由 rawpixel.com 在 Freepik 上](https://www.freepik.com/free-photo/hands-holding-downloading-mobile-phone-with-coffee-cup-beverage_2791399.htm)</small>
+[图片由 rawpixel.com 在 Freepik 上](https://www.freepik.com/free-photo/hands-holding-downloading-mobile-phone-with-coffee-cup-beverage_2791399.htm)
 
 我们与 [Filestack](https://www.filestack.com/?utm_source=Sitepoint&utm_medium=Leads%20Acquisition&utm_content=article) 合作创作了这篇文章。感谢您对使 SitePoint 成为可能的合作伙伴的支持。
 

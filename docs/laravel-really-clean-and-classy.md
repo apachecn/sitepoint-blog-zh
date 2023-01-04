@@ -124,6 +124,6 @@ return View::make("success");
 
 就是这样，使用 Laravel 制作一个应用程序确实很简单。代码简单易懂。我希望这对您有用，您可以考虑在下一个 PHP 应用程序中使用 Laravel。下次见！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

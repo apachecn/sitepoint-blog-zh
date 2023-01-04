@@ -119,6 +119,6 @@ PHP 脚本通常包含其他 PHP 文件，这些文件包含连接数据库等�
 
 记住以上 8 点，就有可能在很大程度上保证 PHP 应用程序的安全。到目前为止，最好的建议是不要相信用户输入，但是也要确保保护好你的文件系统和数据库。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

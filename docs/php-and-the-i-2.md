@@ -42,6 +42,6 @@ RPG 人员习惯于创建一个单一的 RPG 程序，将这三者结合成一�
 
 大概就是这样。至少一开始是这样。我们系列的最后一篇马上就要到了，我们将讨论如何开发好的商业屏幕。同时，祝你好运！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

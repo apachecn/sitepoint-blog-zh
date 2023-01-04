@@ -98,6 +98,6 @@ Databases 选项卡列出了 MongoDB 服务器上所有可用的数据库。要�
 
 在 Rockmongo 中还有很多其他的特性，我相信一旦你开始使用它，你会想去探索的。在本文中，我只介绍了最常用的特性，以帮助您开始使用它。如果你有任何与文章相关的问题，欢迎发表你的评论！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

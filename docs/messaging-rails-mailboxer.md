@@ -520,7 +520,7 @@ end
   <p><%= render 'conversations/participant', conversation: conversation %></p>
 
     <p><%= conversation.last_message.body %>
-      <small>(<span class="text-muted"><%= conversation.last_message.created_at.strftime("%-d %B %Y, %H:%M:%S") %></span>)</small></p>
+      (<span class="text-muted"><%= conversation.last_message.created_at.strftime("%-d %B %Y, %H:%M:%S") %></span>)</p>
 </li>
 ```
 
@@ -866,7 +866,7 @@ end
   <p><%= render 'conversations/participant', conversation: conversation %></p>
 
   <p><%= conversation.last_message.body %>
-    <small>(<span class="text-muted"><%= conversation.last_message.created_at.strftime("%-d %B %Y, %H:%M:%S") %></span>)</small></p>
+    (<span class="text-muted"><%= conversation.last_message.created_at.strftime("%-d %B %Y, %H:%M:%S") %></span>)</p>
 </li>
 ```
 

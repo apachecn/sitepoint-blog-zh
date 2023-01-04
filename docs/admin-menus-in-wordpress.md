@@ -281,6 +281,6 @@ function handleMenu() {
 
 本教程教你如何在 WordPress 中构建内部管理菜单。您构建了一个简单的插件来实现一个可以改变菜单项顺序的系统。我们使用 WordPress 的内部选项来存储和检索这些数据，并使用自定义过滤器来确保我们的自定义菜单顺序得以实现。
 
-<small>[詹姆斯投出](http://www.shutterstock.com/gallery-74155p1.html) / [快门](http://www.shutterstock.com)</small>
+[詹姆斯投出](http://www.shutterstock.com/gallery-74155p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

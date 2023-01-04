@@ -254,6 +254,6 @@ function delete_custom_fields() {
 
 Drupal CMS 提供了许多有用的钩子和一个强大的 API，允许我们执行各种定制。在本文中，我们能够创建一个全新的节点类型，它将出现在 Drupal 的内容部分。我们还使用 Drupal 的 API 将字段附加到这个新的节点类型上，这样任何人都可以使用这个新的节点类型轻松地添加内容。所以，祝您在为 Drupal 站点创建下一个新节点类型时愉快。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

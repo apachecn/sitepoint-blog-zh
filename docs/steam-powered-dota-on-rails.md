@@ -544,7 +544,7 @@ end
 *views/matches/show . html . erb*
 
 ```
-<% page_header "Match #{@match.uid} <small>#{@match.started_at}</small>" %>
+<% page_header "Match #{@match.uid} #{@match.started_at}" %>
 
 <h2 class="<%= @match.winner.downcase %>"><%= @match.winner %> won</h2>
 
@@ -750,7 +750,7 @@ end
 *views/matches/show . html . erb*
 
 ```
-<% page_header "Match #{@match.uid} <small>#{@match.started_at}</small>" %>
+<% page_header "Match #{@match.uid} #{@match.started_at}" %>
 
 <h2 class="<%= @match.winner.downcase %>"><%= @match.winner %> won</h2>
 

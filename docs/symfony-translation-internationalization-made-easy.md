@@ -187,6 +187,6 @@ foreach($filter as $file) {
 
 我们已经介绍了如何翻译字符串，如何使用后备语言环境，如何处理多元化，以及如何利用转储程序。我希望这篇教程能帮助你从国际化开始，在 Symfony 翻译组件的帮助下，国际化变得很简单。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

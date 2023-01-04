@@ -256,6 +256,6 @@ $container['tweet_service'] = $container->extend('tweet_service', function($twSs
 
 欢迎在下面的评论中分享你在项目中管理依赖关系的经验，以及你对 Pimple 作为依赖注入容器的看法。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

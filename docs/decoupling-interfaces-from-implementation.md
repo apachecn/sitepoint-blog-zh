@@ -328,6 +328,6 @@ foreach ($post->comments as $comment) {
 
 由于存在大量的设计模式，盲目崇拜分离的接口是没有意义的，因此应该谨慎使用它们，并且只有当情况允许逆转应用程序组件之间的依赖关系时才使用。诉诸你的常识，不要异想天开，当你真的认为它们会对你的设计产生积极影响时，就使用它们。
 
-<small>图片 via [库帕](http://www.shutterstock.com/gallery-664216p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via [库帕](http://www.shutterstock.com/gallery-664216p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

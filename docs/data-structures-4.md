@@ -298,6 +298,6 @@ $g->shortestPath('A', 'G');  // No route from A to G
 
 在这篇文章中，我介绍了图论的基础知识，表示图的两种方法，以及图论应用中的两个基本问题。我已经向您展示了如何使用广度优先搜索来查找任意两个节点之间的最少跳数，以及如何使用 Dijkstra 的解决方案来查找任意两个节点之间的最短路径。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

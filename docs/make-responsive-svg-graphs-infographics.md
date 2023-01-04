@@ -161,6 +161,6 @@
 
 ![Hiding SVG elements below certain breakpoints](img/466c33999a460c4c2d9d3aaad1a69f7b.png)
 
-<small>隐藏特定断点下的 SVG 元素</small>
+隐藏特定断点下的 SVG 元素
 
 在 [CodePen](http://codepen.io) 上看 SitePoint ( [@SitePoint](http://codepen.io/SitePoint) )的笔[星际迷航 Vs 星球大战 NGRAM(响应式)](http://codepen.io/SitePoint/pen/RRbRJy/)。

@@ -102,6 +102,6 @@ $_xhprof['dot_errfile'] = '/tmp/xh_dot.err';
 
 我希望您喜欢对 XHProf 和 XHGui 提供的功能的概述，并且它提供了对有效的分析工具集的价值的洞察。虽然您的应用程序层可能是导致性能瓶颈的一个不常见的原因，但是您现在应该已经具备了隔离这些原因并采取进一步措施消除它们的必要知识。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -30,7 +30,7 @@ Java 被认为是全世界程序员都需要的技能。由于 Java Applet 是 J
 
 ![applet2fig1](img/b2163252a23affceccd83856cedaf70f.png)
 
-<center>Figure 1: Real World Applications of Java</center>
+Figure 1: Real World Applications of Java
 
 ## Java 小程序的真实应用
 
@@ -76,7 +76,7 @@ Java Web Start 应用程序运行在受限环境中，不允许它们访问系�
 
 ![applet2fig2](img/fd42b8152ad9e9ae9ee48e6dd812c5ee.png)
 
-<center>Figure 2: Enabling Web Start in NetBeansIDE</center>
+Figure 2: Enabling Web Start in NetBeansIDE
 
 点击 Enable Web Start 并选择“CodeBase”作为本地执行。
 
@@ -86,13 +86,13 @@ Java Web Start 应用程序运行在受限环境中，不允许它们访问系�
 
 ![applet2fig3](img/0a23f9f821e22b2e999963c7ba88ccc6.png)
 
-<center>Figure 3: Enabling Web Start and signing</center>
+Figure 3: Enabling Web Start and signing
 
 构建项目以在本地测试 Java Web Start。现在，您可以注意到目录下的一些更改，即创建了两个新文件(launch.html 和 launch.jnlp ),其中包含 AmitJavaApplication 项目 jar 文件“AmitJavaApplication.jar ”:
 
 ![applet2fig4](img/5ef8810122466fb33b4523342d110673.png)
 
-<center>Figure 4: Directory Structure changes after building AmitJavaApplication</center>
+Figure 4: Directory Structure changes after building AmitJavaApplication
 
 如上所示，Java Web Start 创建了三个文件:
 
@@ -104,7 +104,7 @@ Java Web Start 应用程序运行在受限环境中，不允许它们访问系�
 
 ![applet2fig5](img/b484798951fbe117fdfebcbc7a9cbb8b.png)
 
-<center>Figure 5: AmitWebApplication Directory Structure</center>
+Figure 5: AmitWebApplication Directory Structure
 
 运行项目并打开 launch.html，执行后会看到如下页面:
 
@@ -112,19 +112,19 @@ Java Web Start 应用程序运行在受限环境中，不允许它们访问系�
 
 ![applet2fig6](img/c48d0bf43d126523eabccd1703ce2683.png)
 
-<center>Figure 6: Executing launch.html</center>
+Figure 6: Executing launch.html
 
 单击“Launch ”,之后您将可以选择下载 launch.jnlp 文件。在系统上的任何位置下载该文件:
 
 ![applet2fig7](img/ca8bfa6ebcec5fcb1f91312b50c472cc.png)
 
-<center>Figure 7: Downloading Web Start Software launch.jnlp</center>
+Figure 7: Downloading Web Start Software launch.jnlp
 
 现在，双击“launch.jnlp”就可以看到，使用 Web Start 作为独立软件，同样的小程序是可见的。这项工作表明，它不是运行在浏览器下，如我的[前一篇文章](https://www.sitepoint.com/embedding-applet-web-application/)所示。因此，这是为用户提供下载和运行软件选项的另一种方式:
 
 ![applet2fig8](img/aed352392fe39e7a07d9bb600e242df9.png)
 
-<center>Figure 8: Applet visible outside browser</center>
+Figure 8: Applet visible outside browser
 
 ## 两种形式的 Java 小程序
 
@@ -156,7 +156,7 @@ Java Web Start 应用程序运行在受限环境中，不允许它们访问系�
 
 ![applet2fig9](img/bf3ed0fdfe3054f3b36cfd73f13e87cd.png)
 
-<center>Figure 9: Next Generation Java Plug-in features as mentioned at Oracle Java Website</center>
+Figure 9: Next Generation Java Plug-in features as mentioned at Oracle Java Website
 
 **Java SE 7 Update 10**
 Oracle Java 网站上声明的安全增强功能:
@@ -187,11 +187,11 @@ Oracle Java 网站上声明的安全增强功能:
 
 ![applet2fig10](img/238ec99840d6a4657e3d30ada520be05.png)
 
-<center>Figure 10: Accessing Java Control Panel from command prompt</center>
+Figure 10: Accessing Java Control Panel from command prompt
 
 ![applet2fig11](img/fd0ec6f8b1d510e24225fd8de6b59831.png)
 
-<center>Figure 11: Java Control Panel Security Levels</center>
+Figure 11: Java Control Panel Security Levels
 
 **Java SE 7 更新 25:Java Applet&Web Start–代码签名**
 如 Oracle Java 所述:“所有文件必须在签名前添加到 jar 中”以及
@@ -211,7 +211,7 @@ Oracle Java 网站上声明的安全增强功能:
 
 ![applet2fig12](img/614bfea787cd1903a789535e028ef579.png)
 
-<center>Figure 12: Java SE7 Update 51</center>
+Figure 12: Java SE7 Update 51
 
 **被阻止或混合代码**
 [如果你的小程序被阻止或警告“混合代码”怎么办？](https://blogs.oracle.com/java-platform-group/entry/what_to_do_if_your)
@@ -232,49 +232,49 @@ Oracle Java 网站上声明的安全增强功能:
 
 ![applet2fig13](img/4a5750d36b807a318d682710abc89393.png)
 
-<center>Figure 13: Larry Green’s Applet Page: http://www.ltcconline.net/greenL/java/index.html</center>
+Figure 13: Larry Green’s Applet Page: http://www.ltcconline.net/greenL/java/index.html
 
 [测试小程序的安全性](http://lionsgate.tripod.com/)
 
 ![applet2fig14](img/8091063a2f0c7aa00a289175e178e0df.png)
 
-<center>Figure 14: Another Java Applet Page: http://lionsgate.tripod.com/</center>
+Figure 14: Another Java Applet Page: http://lionsgate.tripod.com/
 
 [教育 Java 小程序](http://www.falstad.com/mathphysics.html)
 
 ![applet2fig15](img/748d83e1162c0feed0e65cd03511e406.png)
 
-<center>Figure 15: Mathematics, Physics and Engineering Applets: http://www.falstad.com/mathphysics.html</center>
+Figure 15: Mathematics, Physics and Engineering Applets: http://www.falstad.com/mathphysics.html
 
 上述网站还提供了其他使用 Applet 的网站的链接。网站内容:*“链接到其他教育网站，提供数学/物理相关信息或对教学有用的 java 小程序”*:
 
 ![applet2fig16](img/eb9ac250db8e9e644b1be3492e6ce496.png)
 
-<center>Figure 16: Links to other sites: [http://www.falstad.com/mathphysics.html](http://www.falstad.com/mathphysics.html)</center>
+Figure 16: Links to other sites: [http://www.falstad.com/mathphysics.html](http://www.falstad.com/mathphysics.html)
 
 [样本量计算器小程序](http://design.iasri.res.in/ssrs/ecalci2.jsp)
 
 ![applet2fig17](img/9600c9fb53477ed35186a6cd52ed3288.png)
 
-<center>Figure 17: Sample Survey Resources Applet: http://design.iasri.res.in/ssrs/ecalci2.jsp</center>
+Figure 17: Sample Survey Resources Applet: http://design.iasri.res.in/ssrs/ecalci2.jsp
 
 [Java 小程序:文字磁铁争夺](http://web.cortland.edu/flteach/mm-course/wordscrambleapplets/index.html)
 
 ![applet2fig18](img/0e500020c2e49339b1f1d6e68451e02e.png)
 
-<center>Figure 18: Word Magnets Scramble: http://web.cortland.edu/flteach/mm-course/wordscrambleapplets/index.html</center>
+Figure 18: Word Magnets Scramble: http://web.cortland.edu/flteach/mm-course/wordscrambleapplets/index.html
 
 DAE ja viewone pro
 
 ![applet2fig19](img/8f0669c2956a1c8ffc7a5f0d74512beb.png)
 
-<center>Figure 19: DAEJA viewONE pro: http://www.daeja.com/demo/viewone-pro-demo-list.asp</center>
+Figure 19: DAEJA viewONE pro: http://www.daeja.com/demo/viewone-pro-demo-list.asp
 
 [交互式 Java 小程序](http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/index.html)
 
 ![applet2fig20](img/1aa4930b632196770081cf149f13d7c9.png)
 
-<center>Figure 20: [Interactive Java Applets](http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/index.html)</center>
+Figure 20: [Interactive Java Applets](http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/index.html)
 
 您可以将此网站上的[小程序添加到您的网站](http://www.javafile.com/)
 
@@ -282,7 +282,7 @@ DAE ja viewone pro
 
 ![applet2fig21](img/872b21cb2c7bc068e045696f56efba88.png)
 
-<center>Figure 21: [List of Applets around WWW](http://www.montgomerycollege.edu/~dsolomon/273/ca273y/java/resources.html)</center>
+Figure 21: [List of Applets around WWW](http://www.montgomerycollege.edu/~dsolomon/273/ca273y/java/resources.html)
 
 ## 结论
 

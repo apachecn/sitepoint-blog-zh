@@ -182,6 +182,6 @@ mysqli_commit($db);
 
 不要忘了查看 PHP 手册以获得关于 MySQLi 及其函数库和内置类的更多信息，当我们关注 PDO 时，请继续关注[第二部分](https://www.sitepoint.com/avoid-the-original-mysql-extension-2/ "Avoid the Original MySQL Extension, Part 2")。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -100,7 +100,7 @@ YouTube 都实现了 5 秒或 10 秒的快进/快退，这很棒。如果您错�
 
 <video class="wp-video-shortcode" id="video-180734-1" width="1280" height="720" preload="metadata" controls=""><source type="video/mp4" src="https://uploads.sitepoint.com/wp-content/uploads/2021/01/1611195184twitch-settings.mp4?_=1">[https://uploads.sitepoint.com/wp-content/uploads/2021/01/1611195184twitch-settings.mp4](https://uploads.sitepoint.com/wp-content/uploads/2021/01/1611195184twitch-settings.mp4)</video>
 
-<small>来源: [Twitch](https://twitch.tv) 视频播放器</small>
+来源: [Twitch](https://twitch.tv) 视频播放器
 
 ### 移动视频播放器
 

@@ -207,6 +207,6 @@ $collection
 
 MongoDB 每个版本都在变得越来越好，还有很多我在这里没有提到的特性。PHP 手册为您提供了一些信息，但是最好阅读 MongoDB 文档来了解最新和最棒的特性。这篇文章充满了您可以尝试的东西，比如使用`$`-操作符、查询嵌入的文档以及排序和跳过结果。请随意修改它们，并在评论中留下你的问题和发现。
 
-<small>图片 via[Pakhnyushcha](http://www.shutterstock.com/gallery-102849p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[Pakhnyushcha](http://www.shutterstock.com/gallery-102849p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

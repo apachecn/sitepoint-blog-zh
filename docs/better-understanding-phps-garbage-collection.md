@@ -68,6 +68,6 @@ GC 例程做的第一件事是遍历根缓冲区，并将所有 zval 计数减 1
 
 也许最重要的是，我们应该始终遵循良好的编程准则，以便我们最小化或消除全局变量，并将我们的变量绑定到作用域，这样，即使我们有一个长时间运行的脚本，我们也可以在函数而不是脚本结束时释放内存。还要注意什么时候使用数组中的数组，或者引用对象的对象，因为这种情况会导致内存泄漏，并且是正式垃圾收集过程的真正目标。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

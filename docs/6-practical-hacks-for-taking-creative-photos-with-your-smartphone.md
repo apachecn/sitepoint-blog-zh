@@ -14,13 +14,13 @@
 
 ![Sunglasses as a lens](img/ceab0b1d69eb7448c5f26c631ff00f02.png)
 
-<small>[*照片*](https://www.flickr.com/photos/notarim/5565786744/)*BY*[*mark notari*](https://www.flickr.com/photos/notarim/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/notarim/5565786744/)*BY*[*mark notari*](https://www.flickr.com/photos/notarim/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 偏振滤光器安装在 DSLR 相机的镜头上，以帮助减少眩光，消除分散注意力的反射，并影响曝光。使用智能手机时，一个简单又便宜的方法是透过你的太阳镜拍照。这提供了与偏光滤镜相同的好处，并为您的图像带来美丽的彩色渐变效果(取决于您太阳镜的颜色)。
 
 ![Train station view shot using sunglasses filter.](img/a60482c58b4f6db575f3a3ad55f2b33e.png)
 
-<small>[*照片*](https://www.flickr.com/photos/simplebitsdan/1381003930/)BY[*丹塞德霍尔姆*](https://www.flickr.com/photos/simplebitsdan/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/simplebitsdan/1381003930/)BY[*丹塞德霍尔姆*](https://www.flickr.com/photos/simplebitsdan/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ## 2.把你的手机放在玻璃或玻璃瓶里，拍水下照片。
 
@@ -32,7 +32,7 @@
 
 ![Swimmer: above water- below water shot](img/8c95a2607ba71fdccf5858c12c17ff83.png)
 
-<small>[*照片*](https://www.flickr.com/photos/jasonnunez/19699512038/) *by* [*杰森·努内斯*](https://www.flickr.com/photos/jasonnunez/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/jasonnunez/19699512038/) *by* [*杰森·努内斯*](https://www.flickr.com/photos/jasonnunez/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 这种技术也非常适合拍摄上下(也称为分割拍摄)照片，这基本上是水下照片，也显示了水面上的一半。
 
@@ -42,13 +42,13 @@
 
 ![High contrast black and white park view](img/d9249ea8436efac289cc1c1d33df7d92.png)
 
-<small>[照片](https://www.flickr.com/photos/notoriousjes/5759430939/) by [杰西卡](https://www.flickr.com/photos/notoriousjes/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[照片](https://www.flickr.com/photos/notoriousjes/5759430939/) by [杰西卡](https://www.flickr.com/photos/notoriousjes/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ## 4.使用荧光棒获得酷炫多彩的效果。
 
 ![Colorful shot through glow sticks](img/5fb2c06b6a86f694e65527d533ab60ec.png)
 
-<small>*照片* *by* [*大卫置顶*](https://www.flickr.com/photos/dstopping/)*/*[*CC BY-NC 2.0*](https://creativecommons.org/licenses/by-nc/2.0/)</small>
+*照片* *by* [*大卫置顶*](https://www.flickr.com/photos/dstopping/)*/*[*CC BY-NC 2.0*](https://creativecommons.org/licenses/by-nc/2.0/)
 
 荧光棒是一种有趣又便宜的方式(100 根各种颜色的荧光棒只需 10 美元)来给你的照片增添一些趣味。对于这个技巧，你需要做的就是将荧光棒放在相机镜头前，将它们放在照片的前景中。这也将使他们的照片稍微模糊，发光的效果。
 
@@ -56,7 +56,7 @@
 
 ![Abstract blue and green light effects in the darkness.](img/00ca8d9c7041baac242ef20cb3f885ed.png)
 
-<small>[*照片*](https://www.flickr.com/photos/rachelpasch/3058400080/) *by* [*雷切尔*](https://www.flickr.com/photos/rachelpasch/)*/*[*CC BY-NC 2.0*](https://creativecommons.org/licenses/by-nc/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/rachelpasch/3058400080/) *by* [*雷切尔*](https://www.flickr.com/photos/rachelpasch/)*/*[*CC BY-NC 2.0*](https://creativecommons.org/licenses/by-nc/2.0/)
 
 ## 5.用放大镜作为临时的微距镜头。
 
@@ -70,13 +70,13 @@
 
 ![Close up of a flower.](img/15d2f66ec093a93465b39e9fa8f00639.png)
 
-<small>[*照片*](https://www.flickr.com/photos/momentsforzen/8587623387)BY[*moments forzen*](https://www.flickr.com/photos/momentsforzen/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/momentsforzen/8587623387)BY[*moments forzen*](https://www.flickr.com/photos/momentsforzen/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ## 6.尝试用水晶棱镜创造抽象的构图。
 
 ![Girl photographed through prism.](img/78ea6714aa2567d4a9380beb517d6b25.png)
 
-<small>*照片* *by* [*麦克莫纳汉*](https://www.flickr.com/photos/mikey_blue_eyes/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+*照片* *by* [*麦克莫纳汉*](https://www.flickr.com/photos/mikey_blue_eyes/)*/*[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ![A crystal prism available on EBay.](img/e9036744f0db36d5f56c32dfcbffde65.png)
 
@@ -86,7 +86,7 @@
 
 ![Photo taken through crystal prism](img/531781133efc708fe78300a9cc254ff7.png)
 
-<small>[*照片*](https://www.flickr.com/photos/kurosugarlolita/5247914832)*BY*[*KuroSugarLolita*](https://www.flickr.com/photos/kurosugarlolita/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)</small>
+[*照片*](https://www.flickr.com/photos/kurosugarlolita/5247914832)*BY*[*KuroSugarLolita*](https://www.flickr.com/photos/kurosugarlolita/)/[*CC BY-NC-ND 2.0*](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 你可以在网上购买棱镜(价格低至 6 美元),或者在你当地的爱好或科学商店购买。
 

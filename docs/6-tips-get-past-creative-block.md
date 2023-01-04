@@ -24,7 +24,7 @@
 
 ![Illustration: Girl in onesie lying on her tummy.](img/ff329a7064345b7460c9f6979b47e190.png)
 
-<small>由 [Jj 杜兰](https://99designs.com/illustrations/contests/illustrative-design-go-coffee-mug-cute-lazy-creature-585183/entries/209)</small>
+由 [Jj 杜兰](https://99designs.com/illustrations/contests/illustrative-design-go-coffee-mug-cute-lazy-creature-585183/entries/209)
 
 有创造力的员工坐着做很多工作。或者越来越多地站在办公桌前——甚至在[踩踏](http://www.theatlantic.com/business/archive/2015/08/workplace-sitting-pedaling-bicycle-desk/401729/)的时候！但是一位医生的研究表明，我们的许多创造性想法实际上是在我们躺着的时候产生的[。](http://phys.org/news/2005-05-creative-lying.html)
 
@@ -36,7 +36,7 @@
 
 ![Little red riding hood dancing with wolf](img/c216836c40f7c970e2c775cc58cbe934.png)
 
-<small>由[艾娃 N 加尔达](https://99designs.com/profiles/avasart/designs/67179?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D12)</small>
+由[艾娃 N 加尔达](https://99designs.com/profiles/avasart/designs/67179?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D12)
 
 我知道你有工作，有截止日期，有一个忙碌的“无处不在”的时间表，但是偶尔关掉日常思考的逻辑，去玩一玩，真的有帮助！玩耍有助于将你的创造性思维从右脑思维的理性和严谨中解放出来。当你玩的时候，你经常会暂停批判性的判断，你能够从新的、新颖的角度来看待想法。
 
@@ -48,7 +48,7 @@
 
 ![Illustration: Young Buddha sits in a lotus flower](img/f347a6254cad783fe8e5d89d1c63817e.png)
 
-<small>由[肥鼠](https://99designs.com/profiles/371854/designs/330544?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D92)为 janajegathasan</small>
+由[肥鼠](https://99designs.com/profiles/371854/designs/330544?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D92)为 janajegathasan
 
 不管你选择如何给它贴上标签(正念、注意力、分区…)，冥想对创造力有很多好处。研究表明，冥想有助于消除“[认知僵化](http://mentalhealthdaily.com/2015/07/26/7-ways-to-increase-your-cognitive-flexibility/)”，即无法从不同角度看待想法。冥想所需的注意力有助于培养一个在接触新思想时更加灵活的头脑。
 
@@ -62,7 +62,7 @@
 
 ![Surreal cat with guitar](img/bbc323e86079c4e16778b09e97054e9d.png)
 
-<small>by[cheese prodigy](https://99designs.com/profiles/1238133/designs/112055?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D92)for sheamus 99</small>
+by[cheese prodigy](https://99designs.com/profiles/1238133/designs/112055?from=%2Fdiscover%3Fcategory%3Dillustrations%26page%3D92)for sheamus 99
 
 追求完美的压力是巨大的，尤其是当你要取悦客户的时候。这种感觉会限制你的创造力。因此，重要的是要记住，要给自己为了创造而创造的自由。
 

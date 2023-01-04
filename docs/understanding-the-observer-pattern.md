@@ -166,6 +166,6 @@ $auth->attach(new Auth_ForumHook());
 
 在本文中，我向您展示了基本的主体-观察者模式，并提供了具体的例子，说明如何使用这种行为模式来轻松扩展现有类的功能，而无需紧密耦合任何新的需求。这种模式使您能够在相关和依赖对象之间实现更高水平的一致性，而不会牺牲代码的可重用性。
 
-<small>图片经由 [JPF](http://www.shutterstock.com/gallery-873394p1.html) / [快门](http://www.shutterstock.com)</small>
+图片经由 [JPF](http://www.shutterstock.com/gallery-873394p1.html) / [快门](http://www.shutterstock.com)
 
 ## 分享这篇文章

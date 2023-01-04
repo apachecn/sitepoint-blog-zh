@@ -162,7 +162,7 @@ $dompdf->stream("sample.pdf",array("Attachment"=>0));
 
 在这样的文章中解释一个库提供的所有特性确实很困难，所以一定要查看文档和源代码，了解一些很酷的特性，比如添加回调、使用自定义字体等。另外，我很乐意在我有限的专业知识范围内帮助你。欢迎在评论区留下你的问题和分享你的经历。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 如果你喜欢读这篇文章，你会爱上[可学的](https://learnable.com?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink)；向大师们学习新技能和技术的地方。会员可以即时访问 SitePoint 的所有电子书和交互式在线课程，如 [Jump Start PHP](https://learnable.com/books/jump-start-php?utm_source=sitepoint&utm_medium=link&utm_campaign=learnablelink) 。
 

@@ -103,6 +103,6 @@ echo ngettext("%d file deleted.", "%d files deleted.", 5);
 
 本系列的下一部分(也是最后一部分)将向您展示如何将从 PHP 代码中提取 msgid 字符串的过程自动化到一个模板文件中，您可以从该模板文件中生成您自己的语言环境的目录。
 
-<small>图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[sgame](http://www.shutterstock.com/gallery-62870p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

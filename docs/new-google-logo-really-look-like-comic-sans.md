@@ -81,7 +81,7 @@ Futura 由保罗·伦纳于 1927 年设计，是有史以来最常青、最受�
 
 ![Red Bull, Louis Vuitton, 2001:a Space Odyssey, The Social Network, The Apollo 11 Moon plaque and Union Pacific (Clockwise)](img/2345f449cf2ab9293f408ef20a9e57e4.png)
 
-<small>红牛，路易威登，2001:太空漫游，社交网络，阿波罗 11 号月亮牌匾和联合太平洋(顺时针)</small>
+红牛，路易威登，2001:太空漫游，社交网络，阿波罗 11 号月亮牌匾和联合太平洋(顺时针)
 
 这些都是令人难以置信的优雅和高档的用法。很难想出比登月牌更“庄严”的文件，而路易威登正是高端精致的定义。
 

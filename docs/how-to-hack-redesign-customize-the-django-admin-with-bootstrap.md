@@ -297,7 +297,7 @@ Django 模板非常通用和强大，既可以在[应用级别](https://docs.dja
 <h1>
   <span style="color: #57C5A5 !important">ActionPlanNow.com</span>
   <br />
-  <small>{% block head_title %}{% endblock %}</small>
+  {% block head_title %}{% endblock %}
 </h1>
 {% endblock %}
 

@@ -575,13 +575,13 @@ export default {
       <div class="message" v-for="(message, index) in messages" :key="index">
         <div class="clearfix">
           <h4 class="message-title">{{ message.name }}</h4>
-          <small class="text-muted float-right">@{{ message.username }}</small>
+          @{{ message.username }}
         </div>
         <p class="message-text">
           {{ message.text }}
         </p>
         <div class="clearfix">
-          <small class="text-muted float-right">{{ message.date }}</small>
+          {{ message.date }}
         </div>
       </div>
     </div>
@@ -635,7 +635,7 @@ export default {
 ```
 <template>
   <div class="message-form ld-over">
-    <small class="text-muted">@{{ user.username }}</small>
+    @{{ user.username }}
     <b-form @submit.prevent="onSubmit" class="ld-over" v-bind:class="{ running: sending }">
       <div class="ld ld-ring ld-spin"></div>
       <b-alert variant="danger" :show="hasError">{{ error }} </b-alert>
@@ -1267,7 +1267,7 @@ export default {
 
 ```
 <div class="user-typing">
-  <small class="text-muted" v-if="userTyping">@{{ userTyping }} is typing....</small>
+  @{{ userTyping }} is typing....
 </div> 
 ```
 

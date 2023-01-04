@@ -182,6 +182,6 @@ PHP 5.5 提供了许多改进来促进 PHP 开发。除了新功能之外，在�
 
 你会升级到 PHP 5.5 吗？请在评论中告诉我们。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

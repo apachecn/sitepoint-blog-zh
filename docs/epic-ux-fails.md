@@ -30,7 +30,7 @@
 
 [!['Hello my name is' sticker with 'Subscriber' written on it.](img/d6ebb43aff8c76b75ddca2b414ec43b4.png)](http://)
 
-<small>图片来源:[奎因.安雅](https://www.flickr.com/photos/quinnanya/4464205726/)途经[Foter.com](http://foter.com/)/[CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)</small>
+图片来源:[奎因.安雅](https://www.flickr.com/photos/quinnanya/4464205726/)途经[Foter.com](http://foter.com/)/[CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
 
 回复“*亲爱的订户*”的公司。我最近在订阅《连线》杂志时遇到了一个问题。我和一个很好的家伙打了一场电子邮件网球，他帮我解决了一些事情。但是每封邮件都在我最后一封邮件的后面写着“亲爱的订户”。
 
@@ -92,7 +92,7 @@
 
 ![Man in darkness looking at glowing phone screen.](img/7db5ce4e0c0ac5b090d5d1cd49bfeebb.png)
 
-<small>图片来源:[japanexperterna . se](https://www.flickr.com/photos/68532869@N08/17468693762/)via[视觉追捕](https://visualhunt.com/) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)</small>
+图片来源:[japanexperterna . se](https://www.flickr.com/photos/68532869@N08/17468693762/)via[视觉追捕](https://visualhunt.com/) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
 
 最终，他发现灯泡烧了。第二天早上这个项目被搁置了。
 

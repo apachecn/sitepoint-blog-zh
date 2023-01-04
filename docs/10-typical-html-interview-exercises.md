@@ -63,7 +63,7 @@ WHATWG 规范没有给元素`main`赋予任何语义值，而[将它描述为另
    </article>
 </main>
 <footer>
-   <small>Copyright &amp;copy; Aurelio De Rosa 2014</small>
+   Copyright &amp;copy; Aurelio De Rosa 2014
 </footer>
 ```
 
@@ -96,7 +96,7 @@ WHATWG 规范没有给元素`main`赋予任何语义值，而[将它描述为另
   </article>
 </main>
 <footer role="contentinfo">
-  <small>Copyright &amp;copy; Aurelio De Rosa 2014</small>
+  Copyright &amp;copy; Aurelio De Rosa 2014
 </footer>
 ```
 
@@ -116,7 +116,7 @@ WHATWG 规范没有给元素`main`赋予任何语义值，而[将它描述为另
 
 ```
 <img src="image.jpg" alt="London by night">
-<small>The copyright of this image is owned by Aurelio De Rosa</small>
+The copyright of this image is owned by Aurelio De Rosa
 ```
 
 ## 5.副标题

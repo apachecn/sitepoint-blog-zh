@@ -149,7 +149,7 @@ public function widget($args, $instance)
         	<li>
         		<a href="<?php echo $url; ?>"><?php echo $title; ?></a>
         		<br>
-        		<small><?php echo $comment_count; ?> comments</small>
+        		<?php echo $comment_count; ?> comments
         	</li>
         	<?php
 
@@ -220,7 +220,7 @@ public function widget($args, $instance)
         	<li>
         		<a href="<?php echo $url; ?>"><?php echo $title; ?></a>
         		<br>
-        		<small><?php echo $comment_count; ?> comments</small>
+        		<?php echo $comment_count; ?> comments
         	</li>
         	<?php
 

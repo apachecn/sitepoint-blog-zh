@@ -153,6 +153,6 @@ Content-Disposition 头详细说明了内容应该如何呈现；有两个可能
 
 你有它！您已经看到了如何发送超级基本文本电子邮件消息，以及带有附件的完整 HTML 电子邮件。简单的邮件只需调用 mail()函数即可。对于 HTML 邮件，您需要使用 MIME 标准将您的电子邮件分成多个部分，并根据您选择的边界进行划分。然后，您定义内容是什么，如何编码，可能还有处置，然后是内容本身。根据你打算向谁发送电子邮件，你会希望认真考虑可能导致你的邮件更有可能被标记为垃圾邮件的因素，以防万一你真的想发送一些严肃的东西。
 
-<small>图片通过[Photosani](http://www.shutterstock.com/gallery-54706p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片通过[Photosani](http://www.shutterstock.com/gallery-54706p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

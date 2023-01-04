@@ -109,6 +109,6 @@ configure --enable-aop=shared
 
 编译源代码的能力是一项很好的技能，尤其是如果您以后想要修改 PHP 的话。也许你想添加新的功能，链接一个新的库，或者只是想成为下一个伟大的 PHP 核心开发者(他们总是可以使用帮助！).现在你知道怎么做了，就可以自由地去破解和构建了！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

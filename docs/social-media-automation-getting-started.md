@@ -18,7 +18,7 @@
 
 ![concept image: man posting to social media](img/7c62c1684998760fb027bcab9287e776.png)
 
-<small>[来源](https://www.freepik.com/free-vector/developer-laptop-computer-with-open-robotic-soft-open-automation-architecture-open-source-robotics-soft-free-development-concept_11667733.htm)</small>
+[来源](https://www.freepik.com/free-vector/developer-laptop-computer-with-open-robotic-soft-open-automation-architecture-open-source-robotics-soft-free-development-concept_11667733.htm)
 
 ### 安排内容并不意味着失去控制
 
@@ -55,7 +55,7 @@
 
 ![clocks showing various time zones](img/45fcbaeebdccce23e7155dbc1c5bed9c.png)
 
-<small>[来源](https://www.pexels.com/photo/london-new-york-tokyo-and-moscow-clocks-48770/)</small>
+[来源](https://www.pexels.com/photo/london-new-york-tokyo-and-moscow-clocks-48770/)
 
 社交媒体算法倾向于在发布后立即获得大量参与的帖子。因为他们得到更多的喜欢和分享，他们被认为是相关的内容。因此，这增加了更多人在他们的订阅源上看到你的帖子的可能性。
 
@@ -71,7 +71,7 @@
 
 ![Social media posts calendar for scheduling content](img/243f90bf30f762f75fcb29904854922b.png)
 
-<small>[来源](https://www.freepik.com/free-vector/creative-hand-drawn-social-media-calendar-template_15629077.htm)</small>
+[来源](https://www.freepik.com/free-vector/creative-hand-drawn-social-media-calendar-template_15629077.htm)
 
 没有必要从头开始创建社交媒体日历。社交媒体自动化工具让营销人员可以在特定时间安排帖子。这可以让你免去在不同平台上发布内容的繁琐过程，尤其是对于雄心勃勃的社交媒体营销活动。
 
@@ -97,7 +97,7 @@
 
 ![Kik chatbot sephora](img/3a1a3cd7e76d93b992bd7c04055db378.png)
 
-<small>[来源](https://smbp.uwaterloo.ca/2017/06/chatbots-sephoras-not-just-a-pretty-digital-face-its-very-smart-too/)</small>
+[来源](https://smbp.uwaterloo.ca/2017/06/chatbots-sephoras-not-just-a-pretty-digital-face-its-very-smart-too/)
 
 除了处理客户服务查询，聊天机器人还可以帮助处理订单，并共享特定 FAQ 部分的链接来解决问题。他们还可以将客户导向销售或支持代理，以获得更个性化的响应。
 
@@ -129,7 +129,7 @@
 
 ![concept image: man surrounded by social social media posts](img/fb9647a9c3a59e7a6e6b988655f69b63.png)
 
-<small>[来源](https://www.freepik.com/free-vector/visual-data-concept-illustration_7504550.htm)</small>
+[来源](https://www.freepik.com/free-vector/visual-data-concept-illustration_7504550.htm)
 
 我们建议每月或每季度生成社交媒体报告，以评估您内容的表现。你还应该考虑监控你的竞争对手的结果，以确定你如何与他们竞争。
 

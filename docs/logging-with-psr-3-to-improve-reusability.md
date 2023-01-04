@@ -273,6 +273,6 @@ KLogger 不接受调试级别消息的第二个参数，所以即使有适配器
 
 PSR-3 会影响您在应用程序中使用日志记录的方式吗？请在下面的评论区告诉我们。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

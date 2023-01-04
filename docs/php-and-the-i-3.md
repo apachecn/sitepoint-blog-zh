@@ -44,6 +44,6 @@
 
 如果你已经建立了一个或两个网站，并且做得很好，你可能会说除了商业页面之外，这里的一切对常规网站都很重要。你可能是对的。也许真正的区别是，一个令人愉快的外观可以鼓励用户在网站上掩饰面向数据的问题，但在商业页面上，一切都摆在你面前，你必须把它做好。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

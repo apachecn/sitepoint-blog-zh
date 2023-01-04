@@ -193,6 +193,6 @@ public function applyBeforeAspects() {
 
 在本系列中，您了解了 AOP 的概念，以及如何识别应该应用 AOP 的情况。虽然我希望您现在对 AOP 如何工作有了更好的理解，但是请记住 CodeIgniter 不是一个 AOP 框架，所以使用 hooks 并不是在您的项目中应用 AOP 的最佳方式。相反，CodeIgniter 在整个系列中充当了一个媒介，从头开始提供关于 AOP 的知识，以便您可以轻松地适应任何新的 AOP 框架。我建议您对大型项目使用众所周知的 AOP 框架，因为如果使用不当，它可能会使您的应用程序更加复杂。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

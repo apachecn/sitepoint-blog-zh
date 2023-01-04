@@ -313,7 +313,7 @@ touch app/views/tags/_tag.html.erb
 *app/views/tags/tag . html . erb*
 
 ```
-<span class="quiet"><small><%= link_to tag.title, "#" %> </small></span> 
+<span class="quiet"><%= link_to tag.title, "#" %> </span> 
 ```
 
 让我们通过控制台创建一些标签。五个就够了:

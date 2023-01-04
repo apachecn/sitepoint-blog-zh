@@ -898,7 +898,7 @@ end
 [...]
 <% @polls.each do |poll| %>
   <div class="well">
-    <h2><%= poll.topic %> <small>(voted: <%= poll.votes_summary %>)</small></h2>
+    <h2><%= poll.topic %> (voted: <%= poll.votes_summary %>)</h2>
 [...]
 ```
 

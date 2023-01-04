@@ -131,6 +131,6 @@ shameer@yukon:~/HelloWorld$ phing hello.xml target1
 
 在本文中，我向您介绍了 PHP 构建工具 Phing。Phing 比我在这里讨论的要多得多，例如，您可以使用它来帮助进行[数据库迁移](http://davedevelopment.co.uk/2008/04/14/how-to-simple-database-migrations-with-phing-and-dbdeploy.html)。我推荐阅读 Phing 优秀的[文档](http://www.phing.info/docs/guide/stable/)，看看这个强大的工具能做什么。
 
-<small>图片 via [迪诺 O](http://www.shutterstock.com/gallery-120487p1.html)/[Shutterstock](http://www.shutterstock.com/)</small>
+图片 via [迪诺 O](http://www.shutterstock.com/gallery-120487p1.html)/[Shutterstock](http://www.shutterstock.com/)
 
 ## 分享这篇文章

@@ -294,10 +294,10 @@ Nuxt.js 的另一个优点是它会监听`pages`目录中的文件变化，所�
             <div class="content">
               {{ post.summary }}
               <br>
-              <small>
+              
                 by <strong>{{ post.author}}</strong>
                 \\ {{ post.published }}
-              </small>
+              
             </div>
           </div>
           <footer class="card-footer">

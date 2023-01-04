@@ -46,6 +46,6 @@ Traits 允许 PHP 开发人员创建更干净、更简单、更高效的代码�
 *   PHP 特质，对待还是威胁？
 *   [Refulz PHP:PHP 中的特征——多重和嵌套特征](http://php.refulz.com/traits-in-php-multiple-and-nested-traits/ "Refulz PHP: Traits in PHP – Multiple and Nested Traits")
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

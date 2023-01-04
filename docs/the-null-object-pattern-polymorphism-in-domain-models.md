@@ -260,6 +260,6 @@ class NullUser implements UserInterface
 
 尽管如此，逐渐采用值得信赖的编程原则和设计模式，以及该语言的对象模型目前达到的成熟水平，为坚定地向前迈进并开始使用一些不久前还被认为是混乱、不切实际的概念的小“奢侈品”提供了所有必要的基础。Null Object 模式就属于这一类，但是它的实现如此简单优雅，以至于在清理客户机代码中重复的 Null 值检查时，很难不发现它的吸引力。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -430,7 +430,7 @@ rake db:migrate
 ```
 [...]
 <p><%= photo.title %></p>
-<small><%= number_to_human_size photo.image.size %></small>
+<%= number_to_human_size photo.image.size %>
 [...]
 ```
 

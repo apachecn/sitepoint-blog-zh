@@ -227,6 +227,6 @@ catch (Exception $e) {
 
 调试 PHP 代码最安全的方法是使用在 IDE 中设置的调试器环境。然而，对于更快的调试和应用程序级日志记录，FirePHP 可以发挥重要作用。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

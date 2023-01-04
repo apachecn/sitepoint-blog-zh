@@ -238,6 +238,6 @@ else {
 
 这里的代码用于演示目的，我已经省略了许多在编写实际应用程序时需要执行的过滤和安全相关的检查。然而，它突出了本文中提出的要点。脸书 PHP SDK 使得与脸书的集成变得容易。它抽象了 OAuth 认证和脸书图形 API 的工作。
 
-<small>图片 via [姆卡巴科夫](http://www.shutterstock.com/gallery-810352p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [姆卡巴科夫](http://www.shutterstock.com/gallery-810352p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

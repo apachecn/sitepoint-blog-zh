@@ -229,6 +229,6 @@ echo $fileStorage->read();
 
 没有必要觉得一切都失去了，但是，有一些额外的方法可以用来以有效的方式处理为类提供它们的合作者的方式，包括使用服务定位器模式、原始依赖注入，甚至利用依赖注入容器的好处。这些都将在后续中详细介绍[，敬请期待！](https://www.sitepoint.com/managing-class-dependencies-2)
 
-<small>图片 via[SvetlanaR](http://www.shutterstock.com/gallery-109858p1.html)/[Shutterstock](http://shutterstock.com)</small>
+图片 via[SvetlanaR](http://www.shutterstock.com/gallery-109858p1.html)/[Shutterstock](http://shutterstock.com)
 
 ## 分享这篇文章

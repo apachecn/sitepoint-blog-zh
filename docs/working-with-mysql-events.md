@@ -209,6 +209,6 @@ else {
 
 现在，您应该对什么是 MySQL 事件以及如何创建和管理您自己的事件有了深入的了解。虽然事件不能替代 cron 作业或计划任务，因为事件不能执行外部代码，如 PHP 脚本，但对于特定于 MySQL 数据库的依赖于时间的任务，它们是一种有用的替代方法。和往常一样，如果你有兴趣了解更多，一定要阅读官方文档。
 
-<small>图片通过[【加西娅】](http://www.shutterstock.com/gallery-427987p1.html) / [快门闭锁](http://www.shutterstock.com/)</small>
+图片通过[【加西娅】](http://www.shutterstock.com/gallery-427987p1.html) / [快门闭锁](http://www.shutterstock.com/)
 
 ## 分享这篇文章

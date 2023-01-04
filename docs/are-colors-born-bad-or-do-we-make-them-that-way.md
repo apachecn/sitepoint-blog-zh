@@ -6,7 +6,7 @@
 
 *![Cigarette box](img/82448decf8a763d3200be2fe4728b286.png)
 
-<small>澳大利亚香烟包装</small>
+澳大利亚香烟包装
 
 我想不会。
 
@@ -32,7 +32,7 @@ GfK 公司受委托对 1000 名吸烟者进行研究，以确定世界上最具�
 
 ![Tineye Flick search on P448C](img/c96d65ed6c1db2553faa73ea0d1a16cd.png)
 
-<small>P448C 上的 Tineye 轻弹搜索</small>
+P448C 上的 Tineye 轻弹搜索
 
 但是，另一方面，许多设计师在过去使用这种颜色(或一种非常接近的颜色)取得了巨大的成功。
 
@@ -40,7 +40,7 @@ GfK 公司受委托对 1000 名吸烟者进行研究，以确定世界上最具�
 
 [![http://designspiration.net/colors/50380E/](img/3c8f8aa8fb2e195628775a963345a010.png)](http://designspiration.net/colors/50380E/)
 
-<small>礼遇:designspiration.net</small>
+礼遇:designspiration.net
 
 ![Mona lisa, Gucci coat, DOG album cover design](img/05c1436d88d2768e946439b8d91d18d4.png)
 

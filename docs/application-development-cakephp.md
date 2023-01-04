@@ -262,9 +262,9 @@ Array  
 
 ```
 <h1><?php echo $data['Note']['title']?></h1>  
-<p><small>   
+<p>   
 Created: <?php echo $data['Note']['created']?>   
-</small></p>   
+</p>   
 <p><?php echo $data['Note']['body']?></p>
 ```
 

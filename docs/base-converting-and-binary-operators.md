@@ -163,6 +163,6 @@ foreach ($people as $person => $value) {
 
 这篇文章绝对涵盖了很多材料！我向你展示了计数系统是如何构成的，向你展示了如何在不同的数字系统之间转换，以及如何使用二进制运算符。本文以一个简单的位屏蔽示例总结了所有内容。希望现在您能够轻松地将这些看似棘手的概念成功地融入到您的脚本中！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

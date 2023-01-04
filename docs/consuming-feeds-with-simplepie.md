@@ -119,6 +119,6 @@ $feed->init();
 
 我期待看到下一个最好的谷歌阅读器替代品，由 SimplePie 提供支持，由你编写！您可以在 GitHub 上找到本文附带的一个简短示例来帮助您入门。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -279,6 +279,6 @@ function findFileName($data, $str, $offset, $headerBlock) {
 
 你可以在 GitHub 上获得这个系列的代码。回购有两个分支——[part-1](https://github.com/phpmasterdotcom/ExtractObjectsFromAccessDatabase/tree/part-1 "ExtractObjectsFromAccessDatabase at part-1 - GitHub")用于第一部分的附随代码，以及 [part-2](https://github.com/phpmasterdotcom/ExtractObjectsFromAccessDatabase/tree/part-2 "ExtractObjectsFromAccessDatabase at part-2 - GitHub") 用于该部分的代码。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

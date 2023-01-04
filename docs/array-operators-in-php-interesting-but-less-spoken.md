@@ -250,6 +250,6 @@ bool(true)
 
 关于 PHP 的操作符在使用数组时如何表现的实际文档很少，但是要了解更多信息，您可以查看用户在数组操作符页面中提交的注释。这里也欢迎你的问题和评论，我很乐意进一步解释。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

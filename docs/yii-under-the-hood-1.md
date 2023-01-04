@@ -197,6 +197,6 @@ class MyApplication extends CComponent
 
 在第 2 部分中，我将讨论事件，这是在基于组件的架构中创建高度可重用代码的另一个关键原则。我将向您展示如何在 PHP 中使用基于事件的编程，以及 Yii 如何使组件的子类能够引发和处理事件。
 
-<small>图片 via [菲利普丘克奥列格瓦西洛维奇](http://www.shutterstock.com/gallery-81464p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via [菲利普丘克奥列格瓦西洛维奇](http://www.shutterstock.com/gallery-81464p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

@@ -41,7 +41,7 @@ Jude 的想法是构建物联网硬件和软件，这些硬件和软件将知道
 
 ![Team Sparkle](img/de14609453205ee74bbd6608edbde9d7.png)
 
-<small>团队火花</small>
+团队火花
 
 虽然 Sparklemotion 在技术上没有赢得投票，但我们中的一些人受到了足够的启发，无论如何都想继续努力。谁说这是民主了？
 
@@ -168,7 +168,7 @@ end
 
 [![The Hugo/SparkleMotion frontend](img/fa1c369509bdae76b9a5b68068cea21d.png)](https://www.sitepoint.com/wp-content/uploads/2016/06/1467171756iot-sparkfun_007.png)
 
-<small>Hugo/sparkle motion 前端</small>
+Hugo/sparkle motion 前端
 
 Hugo 还有一个很棒的主题系统，让我们可以在几秒钟内获得一个真实的外观和感觉。我们选择了[自由职业者主题](http://themes.gohugo.io/freelancer/)作为我们的出发点，因为它有着酷炫的外观和简洁实用的布局。
 
@@ -227,7 +227,7 @@ Adam Roberts 编写了一些 JavaScript 代码，从服务器获取信号，并�
 
 ![Energy Saving Programmable Remote Control Motion Sensor Plug](img/6e4566792642ad16d0695573edcf0ece.png)
 
-<small>[节能可编程遥控运动传感器插头](http://www.alibaba.com/product-detail/Energy-Saving-Programmable-Remote-Control-Motion_60427544219.html?spm=a2700.7724838.0.0.51ySlV)</small>
+[节能可编程遥控运动传感器插头](http://www.alibaba.com/product-detail/Energy-Saving-Programmable-Remote-Control-Motion_60427544219.html?spm=a2700.7724838.0.0.51ySlV)
 
 我们认为这可能是一个安装“预制”传感器组件的好地方。像图中这样的设备可以在任何标准电源插座上运行，并且内置 wi-fi。它们被设计成与简单的手机应用程序进行通信。如果我们能够嗅到这些设备传输的 wi-fi 信号，并找出如何与它们交谈，我们将拥有一个相对便宜、有吸引力、wi-fi 就绪的市电供电设备，我们可以在几乎任何房间部署，而不需要合格的电工。
 

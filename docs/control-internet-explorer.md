@@ -348,7 +348,7 @@ function TDC_Ticker(objName, counter, maxMsgs, timeOut)  
 
 <!-- BEGIN TICKER PLACEMENT -->  
 
-<center>  
+  
 
 <object id="ticker" classid="CLSID:333C7BC4-460F-11D0-BC04-0080C7055A83">  
 
@@ -378,7 +378,7 @@ new TDC_Ticker('ticker',tickerCount,tickerMaxMsgs,2000); // Set the Ticker  
 
 </script>  
 
-</center>  
+  
 
 <!-- END TICKER PLACEMENT -->  
 

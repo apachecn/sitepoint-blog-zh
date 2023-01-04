@@ -241,6 +241,6 @@ close API 接受两个可选参数:由协议定义的状态代码和描述。状
 *   [了解系统。一个简单的 ASP.NET 回应服务器](http://www.paulbatum.com/2011/10/getting-to-know-systemnetwebsockets.html)
 
 立即开始使用 WebSockets 进行开发！
-<small>[电插座](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=sockets&search_group=#id=34520161&src=45c66e58381057476152b535894b1502-1-25)图像快门</small>
+[电插座](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=sockets&search_group=#id=34520161&src=45c66e58381057476152b535894b1502-1-25)图像快门
 
 ## 分享这篇文章

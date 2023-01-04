@@ -96,6 +96,6 @@ php /home/jajeronymo/www/php-cs-fixer.phar fix /home/jajeronymo/www/fixer-test.p
 
 采用编码标准对于降低复杂 web 应用程序的开发成本以及保证投资是永久性的并且不依赖于最初的编程团队是至关重要的。PSR 的提议可以成为实现这一目标的一种方式，它对像 Jenkins 这样的 CI 平台的易用性是通过 PHP-CS-Fixer 这样的工具实现的。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

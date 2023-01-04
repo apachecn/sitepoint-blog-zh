@@ -156,6 +156,6 @@ define('WPLANG', 'es_ES') // set the second parameter to your locale
 
 正如你所看到的，WordPress 主题和插件的翻译是一个非常简单的过程。不需要成为 PHP 大师；这只是按照逻辑顺序执行几个简单步骤的问题。现在，当你对这些步骤有了很好的理解，我希望你将这些知识应用到你现有的或未来的主题或插件项目中，从而让 WordPress 用户能够以一种他们自然的语言使用他们喜欢的发布平台。
 
-<small>图片 via[iQoncept](http://www.shutterstock.com/gallery-248635p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[iQoncept](http://www.shutterstock.com/gallery-248635p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

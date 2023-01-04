@@ -30,7 +30,7 @@
 
 ![Google UI animations](img/898712b9d43525022b58be416d2559c2.png)
 
-<small>嘿，如果谷歌做到了…</small>
+嘿，如果谷歌做到了…
 
 你不能扔石头而不击中一个新的脸书界面更新。数字观众的好处是，虽然他们很挑剔，但他们的短期记忆很好，因为数字世界发展速度如此之快。
 
@@ -56,7 +56,7 @@
 
 ![Amazon's checkout UI](img/8f4703b175f79278de70c3498e0be291.png)
 
-<small>亚马逊的结账界面</small>
+亚马逊的结账界面
 
 这些古怪的“简单的简”界面几乎把你带回到“石器时代”的互联网，那时[白宫网站仍然有剪贴画作为其导航图像](https://www.washingtonpost.com/news/the-fix/wp/2014/10/21/the-white-houses-first-website-launched-20-years-ago-this-week-and-it-was-amazing/)。就像白宫网站一样，Craigslist 和 Reddit 拥有相当大的流量，为大量不同的用户提供服务。亚马逊，另一个重量级人物，可以说有一些相当“丑陋”的功能仍然工作得很好。
 
@@ -72,7 +72,7 @@
 
 ![Windows 8's minimalist start screen](img/2b5336ccfb39283b50dab7c8ef5857fb.png)
 
-<small>还记得……这个吗？？？</small>
+还记得……这个吗？？？
 
 那么简单到底是什么呢？嗯，两件事:理解和清晰。设计必须让人们容易理解现在发生了什么，以及他们下一步能做什么。
 

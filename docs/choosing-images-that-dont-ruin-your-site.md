@@ -22,7 +22,7 @@
 
 ![Broken children](img/e94b9596cca97d72eb650e0b0fef9af5.png)
 
-<small>破碎的孩子</small>
+破碎的孩子
 
 上图是反对虐待儿童的宣传。无论是否付诸实施，图像都会自动产生共鸣，唤起情绪，从而真正引发变化。当图像被观看者看到并摄取时，它已经产生了影响。
 
@@ -70,7 +70,7 @@
 
 ![Two dinner party images. Left image is from shutterstock. Right image is from James Morley's Flickr under Creative Commons](img/44d4a86c528408ac76c0f3f820bee8fb.png)
 
-<small>(右侧图片致谢:[https://www.flickr.com/photos/whatsthatpicture/3089020081/](https://www.flickr.com/photos/whatsthatpicture/3089020081/))</small>
+(右侧图片致谢:[https://www.flickr.com/photos/whatsthatpicture/3089020081/](https://www.flickr.com/photos/whatsthatpicture/3089020081/))
 
 (右侧图片来源:[https://www.flickr.com/photos/whatsthatpicture/3089020081/](https://www.flickr.com/photos/whatsthatpicture/3089020081/))
 

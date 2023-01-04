@@ -118,6 +118,6 @@ React 似乎是一个有前途的项目，尽管它还没有准备好投入生�
 *   查看韦德勒的演示文稿。
 *   在 [React 网站](http://reactphp.org/ "React")上浏览示例。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -111,7 +111,7 @@ PHP 开发框架的世界在过去的十年中迅速发展。框架来了又去�
 
 ### 拉勒韦尔
 
-<center style="margin-bottom:1.2em;" href="https://laravel.com/">![Laravel logo](img/c130f6b09eb7ccfbbc25020ba65eaa0e.png)</center>
+![Laravel logo](img/c130f6b09eb7ccfbbc25020ba65eaa0e.png)
 
 来自 [Laravel 网站](https://laravel.com/docs/4.2/introduction):
 
@@ -149,7 +149,7 @@ Laravel 也很容易通过 Composer 安装，或者像 [Homestead](https://larav
 
 ### symphony
 
-<center style="margin-bottom:1.2em;" href="https://symfony.com/">![Symfony logo](img/9264a50b25bc9eaea1b75a85a5b697c6.png)</center>
+![Symfony logo](img/9264a50b25bc9eaea1b75a85a5b697c6.png)
 
 Symfony 可以从两个不同的角度来看。它是一个 PHP 框架，也是用于构建 web 应用程序的 PHP 组件的集合。由于这种多功能性，Symfony 是高度可扩展的。您可以使用整个框架，也可以只选择几个适合您的用例的组件。它可以是简单的，也可以是复杂的，证明 Symfony 确实是一个伟大的软件的证据是，大多数其他 PHP 框架在后台使用 Symfony 组件。
 
@@ -170,7 +170,7 @@ SitePoint 有一个很好的 Symfony 文章集，可以让你快速了解这里�
 
 ### CakePHP
 
-<center style="margin-bottom:1.2em;" href="https://cakephp.org/">![CakePHP logo](img/b950cc63f382847858bcf1024d6a615f.png)</center>
+![CakePHP logo](img/b950cc63f382847858bcf1024d6a615f.png)
 
 CakePHP 背后的想法是拥有一个专注于快速开发的 web 开发框架，使构建 web 应用程序更简单、更快速，并且需要更少的代码。这个想法是使用约定而不是配置来实现快速工作，而不需要预先做很多决定。这意味着没有 XML 或 YAML 文件。
 
@@ -191,7 +191,7 @@ CakePHP 有其[内置的 ORM](https://book.cakephp.org/3/en/orm.html) ，在模�
 
 ### 代码点火器
 
-<center style="margin-bottom:1.2em;" href="https://www.codeigniter.com/">![CodeIgniter logo](img/b835dae9af6a8742f21581bbedba31b0.png)</center>
+![CodeIgniter logo](img/b835dae9af6a8742f21581bbedba31b0.png)
 
 就像 CakePHP 一样，CodeIgniter 被创建为一个快速开发的 MVC 框架，只需要很少的配置。但是它的创造者把它带到了一个新的高度。
 
@@ -210,7 +210,7 @@ CodeIgniter 的占用空间非常小(下载量只有 1.2MB)，这意味着它几
 
 ### 燃料电池
 
-<center style="margin-bottom:1.2em;" href="https://fuelphp.com/">![FuelPHP](img/713cf5d4cba06a615e62b6e119ec90df.png)</center>
+![FuelPHP](img/713cf5d4cba06a615e62b6e119ec90df.png)
 
 FuelPHP 是这个列表中最年轻的框架。它的[引入了](https://fuelphp.com/)以下命题:
 
@@ -247,7 +247,7 @@ FuelPHP 提供了自己的 ORM 和命令行工具，并有一个小但非常热�
 
 ### Yii2
 
-<center style="margin-bottom:1.2em;" href="https://www.yiiframework.com/">![Yii2](img/1adfcc93926c99cb83b50ac3744da776.png)</center>
+![Yii2](img/1adfcc93926c99cb83b50ac3744da776.png)
 
 一个我们还没看的框架是 [Yii2](https://www.yiiframework.com/) 框架。对于那些刚刚起步的人来说，这是一个很好的选择。它有一个[相当简单的说明手册](https://www.yiiframework.com/doc/guide/2.0/pt-br/start-prerequisites)，可以让开发者很快上手并运行。
 

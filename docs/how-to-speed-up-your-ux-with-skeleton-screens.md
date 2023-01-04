@@ -8,7 +8,7 @@
 
 ![Waiting ](img/c60f64681050f307e311c3e868efd7a1.png)
 
-<small>照片:[马尔科·朱梅利，《等待》](https://www.flickr.com/photos/marcogiumelli/14846579922/)</small>
+照片:[马尔科·朱梅利，《等待》](https://www.flickr.com/photos/marcogiumelli/14846579922/)
 
 2014 年麻省理工学院的一项研究表明，人类可以在短短 13 毫秒内感知离散的图像，但决定聚焦在哪里需要 100 到 140 毫秒。实际上，这给了我们大约 200 毫秒的时间来呈现用户界面的状态变化，以便看起来是即时的。
 

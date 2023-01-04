@@ -121,6 +121,6 @@ $event->trigger('myEvent', null, $parameters);
 
 您可能会被所有这些变化淹没，我认为这并不奇怪，因为已经引入了大量的新功能和改进。其实这篇文章只是撇清了表面。请随意下载该框架的副本并进行探索。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

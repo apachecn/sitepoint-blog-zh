@@ -39,7 +39,7 @@
 
 ![Regina Dugan at I/O](img/ad6ca82bd35fe51f614481ca41891714.png)
 
-<small>输入/输出处的雷吉娜·杜根</small>
+输入/输出处的雷吉娜·杜根
 
 事实上，去年，Regina Dugan 在 Google I/O 上对 Project Abacus 做了一个精彩的(6 分钟)解释。
 
@@ -55,7 +55,7 @@
 
 ![Trust Score in action ](img/9cf06233681a4d73a3221852d2559565.png)
 
-<small>行动信任分数</small>
+行动信任分数
 
 Abacus 的另一个重要方面是，与所有当前的系统不同，Abacus 会不断验证您的身份并保持一个“信任分数”。
 

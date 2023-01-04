@@ -58,11 +58,11 @@
 
 C 和 C++是道德黑客中最流行的两种编程语言。它们都是强大的语言，可以用来创建各种各样的黑客工具。
 
-<center style="margin:1em 0">![The C Logo](img/4eecf9668519d56f82d46dd9af397300.png)</center>
+![The C Logo](img/4eecf9668519d56f82d46dd9af397300.png)
 
 C ( [ISO 标准](https://www.iso.org/standard/74528.html)，[维基百科](https://en.wikipedia.org/wiki/C_(programming_language)))是一种低级语言，这意味着它比 Python 这样的高级语言更接近机器代码。这使得 C 成为编写系统级软件的好选择，比如操作系统和网络驱动。如果你有另一种编程语言的背景，学习起来也相对容易。
 
-<center style="margin:1em 0">![C++ logo](img/43435395acf66bbd380e90c127b1329e.png)</center>
+![C++ logo](img/43435395acf66bbd380e90c127b1329e.png)
 
 C++ ( [官方网站](https://isocpp.org/)，[维基百科](https://en.wikipedia.org/wiki/C++))是 C 编程语言的扩展。它旨在提供面向对象的编程特性，如类和继承。C++是一种复杂的语言，但它可以用来编写非常高效的代码。
 
@@ -80,7 +80,7 @@ C++ ( [官方网站](https://isocpp.org/)，[维基百科](https://en.wikipedia.
 
 ### 计算机编程语言
 
-<center style="margin:1em 0">![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)</center>
+![The Python logo](img/3b5e6273fc4cf5c294c3affad1750c48.png)
 
 Python ( [官方网站](https://www.python.org/)、[维基百科](https://en.wikipedia.org/wiki/Python_(programming_language)、 [SitePoint](https://www.sitepoint.com/web/python/) )是一种在黑客社区中广泛使用的高级编程语言。它很容易学习，并且有大量的库，可用于网络分析、web 抓取和数据库操作等任务。
 
@@ -94,7 +94,7 @@ Python ( [官方网站](https://www.python.org/)、[维基百科](https://en.wik
 
 ### 尝试
 
-<center style="margin:1em 0">![The Bash logo](img/0010fe5a3be24eaa431b071765698163.png)</center>
+![The Bash logo](img/0010fe5a3be24eaa431b071765698163.png)
 
 Bash ( [官方网站](https://www.gnu.org/software/bash/)，[维基百科](https://en.wikipedia.org/wiki/Bash_(Unix_shell)))是一个 Unix shell，这是一种为运行其他程序提供接口的程序。Bash 通常用作命令行解释器(CLI)，这意味着它可以用来执行用户输入的命令。
 

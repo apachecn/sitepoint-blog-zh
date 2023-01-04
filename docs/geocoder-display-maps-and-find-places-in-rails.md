@@ -267,7 +267,7 @@ end
 <fieldset class="form-group">
   <%= f.label :address, 'Address' %>
   <%= f.text_field :address, class: "form-control" %>
-  <small class="text-muted">You can also enter IP. Your IP is <%= request.ip %></small>
+  You can also enter IP. Your IP is <%= request.ip %>
 </fieldset>
 [...] 
 ```
@@ -425,7 +425,7 @@ end
 <fieldset class="form-group">
   <%= f.label :raw_address, 'Address' %>
   <%= f.text_field :raw_address, class: "form-control" %>
-  <small class="text-muted">You can also enter IP. Your IP is <%= request.ip %></small>
+  You can also enter IP. Your IP is <%= request.ip %>
 </fieldset>
 
 <div class="form-group row">

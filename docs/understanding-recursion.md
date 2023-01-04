@@ -212,6 +212,6 @@ function factorial ($number, $factorial = 1) {
 
 递归是这样的，甚至许多有经验的程序员可以几年不使用它，而许多其他人甚至从未听说过它，这很可悲，因为它是一个真正强大的概念。我希望通过这篇文章，我可以给你足够的知识去开始编写你自己的递归函数。但是请记住，就像火一样，你必须始终小心谨慎，明智地使用这一工具。
 
-<small>图片由 [Alexandre Duret-Lutz](http://www.flickr.com/photos/24183489@N00/268729905) 通过 Flickr</small>
+图片由 [Alexandre Duret-Lutz](http://www.flickr.com/photos/24183489@N00/268729905) 通过 Flickr
 
 ## 分享这篇文章

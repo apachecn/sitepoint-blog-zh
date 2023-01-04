@@ -218,6 +218,6 @@ switch (httpResponse.getStatusLine().getStatusCode()) {
 
 现在，您已经知道如何在 PHP 和 Android 中实现用于序列化和压缩目的的内容协商以及响应缓存。我希望这篇文章对您有用，并且您的移动应用程序会因此更加高效。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

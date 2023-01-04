@@ -123,7 +123,7 @@ HTML 的 Twig 引擎是`{%...%}`和`{{...}}`部分。请特别注意`{{...}}`符
             <template>
                 <div class="ui message">
                     <p>{%verbatim%}{{quote}}{%endverbatim%}<br>
-                        <small><em>{%verbatim%}{{source}}{%endverbatim%}</em></small>&nbsp;&nbsp;<i title="Refresh" class="refresh teal icon small link" on-click="{%verbatim%}{{getQuote}}{%endverbatim%}"></i></p>
+                        <em>{%verbatim%}{{source}}{%endverbatim%}</em>&nbsp;&nbsp;<i title="Refresh" class="refresh teal icon small link" on-click="{%verbatim%}{{getQuote}}{%endverbatim%}"></i></p>
                 </div>
             </template>
         </polymer-element>

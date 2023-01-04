@@ -122,10 +122,10 @@ performance.clearMeasure("durationFoo");
       <div id="ut-measures"></div>
     </div>
 
-    <small class="author">
+    
       Demo created by <a href="http://www.audero.it">Aurelio De Rosa</a>
       (<a href="https://twitter.com/AurelioDeRosa">@AurelioDeRosa</a>)
-    </small>
+    
 
     <script>
       window.performance = window.performance || {};

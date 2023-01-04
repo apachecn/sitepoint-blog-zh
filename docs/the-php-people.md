@@ -36,6 +36,6 @@ PFCongres 2011 分为两个部分，这有时让我很难决定我想参加哪�
 
 PHP 中的社区非常庞大，并且每天都在增长，这一切都是为了分享。如果你看到有人需要帮助，你可以帮助他，给他提供指导。如果你看到一个开源项目，那很好；贡献并帮助它成长。即使是很小的事情也会有所不同，比如为一个项目写文档或者留下反馈。这是许多人正在做的事情，它以一种方式帮助了人和项目的成长，如果人们不愿意分享他们的一些时间，这是不可能的。如果你还没有参加会议，试着去参加吧。世界各地全年都有几个计划。这是一个很好的机会，所以面对面与他人分享，建立持久的友谊。
 
-<small>图片 via [伊戈尔·卡隆](http://www.shutterstock.com/gallery-52392p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via [伊戈尔·卡隆](http://www.shutterstock.com/gallery-52392p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art") / [梭托](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

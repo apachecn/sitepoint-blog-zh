@@ -118,6 +118,6 @@ if ($matchesFound) {
 
 好了，事情差不多结束了。虽然使用正则表达式可以做更多的事情，包括前视、后视和更复杂的反向引用示例，所有这些都可以在 PHP 的在线文档中找到，但希望您有足够的东西可以使用，为本文中的许多脚本服务。
 
-<small>图片 via[Boris MRD ja](http://www.shutterstock.com/gallery-538708p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")</small>
+图片 via[Boris MRD ja](http://www.shutterstock.com/gallery-538708p1.html "Stock Photos | Shutterstock: Royalty-Free Subscription Stock Photography & Vector Art")/[Shutterstock](http://www.shutterstock.com "Stock Photos and Royalty-Free Images by Subscription")
 
 ## 分享这篇文章

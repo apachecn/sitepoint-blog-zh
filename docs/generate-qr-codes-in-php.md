@@ -98,6 +98,6 @@ QR 码还可以存储电话号码、vCards 和电子邮件地址。一些网站�
 
 在本文中，您看到了如何在 PHP 中为各种打印和 web 应用程序轻松生成 QR 码。我还向您展示了如何提前计算最终生成的图像大小，因为该库不提供这样的功能。简而言之，使用二维码是一件令人愉快的事情，会带来很多机会。如何用它们来增强您的 PHP 应用程序？
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -297,7 +297,7 @@ End Sub  
 
 onLoad="document.forms[0].search.focus();">   
 
-<center>   
+   
 
 <h3>Datagrid Drilldown Search Example</h3>   
 
@@ -343,7 +343,7 @@ Font-Size="8pt" HeaderStyle-BackColor="#FF8040"    
 
 AlternatingItemStyle-BackColor="#eeeeee" />   
 
-</form></center></body></html>
+</form></body></html>
 ```
 
 ##### 结论

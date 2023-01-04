@@ -277,6 +277,6 @@ Liquibase Rollback Successful
 
 在本文中，我们讨论了 Liquibase，一个数据库重构和变更管理工具。Liquibase 最重要的用途是与一个团队中的多个开发人员同步数据库更改；当您在本地数据库中进行一些更改时，其他开发人员可以将这些更改应用到他们的机器中。您的更改将在每个变更集中进行版本控制，如果出现问题，您可以轻松地回滚到以前的状态。除此之外，您还可以使用 Liquibase 进行数据库迁移和部署。在这篇文章中，我没有涵盖 Liquibase 的所有伟大特性，但是 Liquibase 有一本非常好的手册，你一定要读一读。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

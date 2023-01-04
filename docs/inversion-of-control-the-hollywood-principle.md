@@ -244,6 +244,6 @@ $post->setComment($comment);
 
 如果您在应用程序中使用依赖注入(您正在使用，对吗？)那么你应该感觉到你的程序员的本能得到了很好的满足，因为你已经利用了控制反转提供的好处。然而，正如我之前试图演示的那样，除了以正确的方式管理类依赖之外，这种方法还适用于很多情况。事件驱动设计无疑是一个很好的例子。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

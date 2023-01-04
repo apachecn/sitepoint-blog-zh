@@ -15,6 +15,6 @@
 
 还有更多好消息，PSR-1 和 PSR-2 可以用 PHP-CS-Fixer 来执行。目标是自动修复大多数问题，该工具知道如何修复 PSR-1 和 PSR-2 文档中定义的编码标准的问题。感谢杨奇煜在嗅探器上所做的努力；你做得很好。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

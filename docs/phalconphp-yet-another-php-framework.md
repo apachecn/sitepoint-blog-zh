@@ -154,6 +154,6 @@ $users = $this->modelsManager->createBuilder()->from('Users')->orderBy('username
 
 Phalcon 提供了现代 PHP MVC 框架的经典特性，因此使用起来应该很舒服，从这个意义上说，它只是另一个 PHP 框架。但是它真正与众不同的地方是它的速度。如果你有兴趣了解更多关于 Phalcon 的知识，请查看[框架的文档](http://docs.phalconphp.com/en/latest/index.html)。一定要试出来！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

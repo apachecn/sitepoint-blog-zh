@@ -307,7 +307,7 @@ $ touch _layouts/post.html
 
 <article>
   <h2>{{ page.title }}</h2>
-  <small>Written by <strong>{{ site.author }}</strong><date>{{ page.date | date: "%B %-d, %Y" }}</date>.</small>
+  Written by <strong>{{ site.author }}</strong><date>{{ page.date | date: "%B %-d, %Y" }}</date>.
 
   {{ content }}
 </article>

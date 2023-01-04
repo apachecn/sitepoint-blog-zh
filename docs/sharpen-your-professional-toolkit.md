@@ -34,6 +34,6 @@
 
 你如何跟上技术和技能的发展？请在下面的评论中告诉我们。
 
-<small>[三把刀](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=knives&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=71763823&src=cf16457444915f9d2a884157835686db-1-11)图像通过快门</small>
+[三把刀](http://www.shutterstock.com/cat.mhtml?lang=en&search_source=search_form&version=llv1&anyorall=all&safesearch=1&searchterm=knives&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1#id=71763823&src=cf16457444915f9d2a884157835686db-1-11)图像通过快门
 
 ## 分享这篇文章

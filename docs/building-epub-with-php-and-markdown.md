@@ -404,6 +404,6 @@ protected function createArchive($workDir, $epubFile)
 
 当该说的都说了，该做的都做了，我们有了闪亮的新电子书。我们有很好的机会通过 EpubCheck 应用程序的验证，最重要的是，我们有另一个有用的工具添加到我们的 PHP-super-hero belt！这只是一个起点，如果你愿意，你可以通过代码添加过滤器、特性、主题和风格等等。保持冷静，享受乐趣，写那些电子书！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

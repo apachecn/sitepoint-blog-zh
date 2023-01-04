@@ -104,6 +104,6 @@ $table->drop_unique("email");
 
 就是这样！我希望您发现 Laravel 的迁移是一个解决方案，可以避免您在管理数据库模式时所经历的所有时间。下次见！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

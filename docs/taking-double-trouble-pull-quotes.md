@@ -10,7 +10,7 @@
 
 ![Silver Bells Poem. Showing a drop cap](img/d14f770acac0b88aa315d40e6963bf8f.png)
 
-<small>Drop cap – Silver bells</small>
+Drop cap – Silver bells
 
 另一方面，我们的数字内容需要更加灵活，减少对单一格式或呈现风格的依赖。这也是一件很酷的事情，允许用户自由调整和翻译文本，覆盖字体和转换文本到语音。
 
@@ -26,7 +26,7 @@
 
 ![Creative use of pull quotes: The War on Religion<](img/3b654cdc3550387a5b85cc806ba9b3b5.png)
 
-<small>Creative use of pull quotes: The War on Religion</small>
+Creative use of pull quotes: The War on Religion
 
 这是一种设计用来隔离和突出正文中特别有趣的句子的装置。这是一个“诱饵”,旨在吸引浏览者进入内容。
 
@@ -45,7 +45,7 @@ but, like you said, the drunk edge gave it a real power.</p>
 
 ![Alice Cooper in Rolling Stone](img/52f6420cd9baa9ff3010e66eba59905e.png)
 
-<small>Alice Cooper in Rolling Stone</small>
+Alice Cooper in Rolling Stone
 
 上面的标记在上面的视觉网络杂志布局中完全有意义——但是如果你通过文本到语音转换听它，你会听到一个随机的句子在没有明显原因的情况下重复。
 

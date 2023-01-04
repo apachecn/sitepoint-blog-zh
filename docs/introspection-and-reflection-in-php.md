@@ -234,6 +234,6 @@ The method convert() exists for GBPCurrencyConverter.
 
 在本文中，您已经看到了如何使用 PHP 的自省函数和反射 API 来获取关于类、接口、属性和方法的信息。提取这些信息的目的是为了在运行时更深入地了解代码，并创建复杂的应用程序。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

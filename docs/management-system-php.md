@@ -1305,7 +1305,7 @@ if ($file == ""){    
 
 <p>by <a href="mailto:<?php echo $email; ?>"><?php echo $author; ?></a></p>     
 
-<p><small><?php echo $abstract; ?></small></p>     
+<p><?php echo $abstract; ?></p>     
 
 <?php     
 

@@ -39,7 +39,7 @@ WordPress 开发者遵循良好的标准和安全实践，尽管仍然缺少 T2 
 
 [![](img/f78819f018124c82757172780094de2c.png)](https://jamstack.org/)
 
-<small>*提供:Netlify*</small>
+*提供:Netlify*
 
 在我们的[100 个 Jamstack 工具、API 和服务的列表中，我们简要地回顾了静态站点生成器(SSG)来为你的站点提供动力](https://www.sitepoint.com/jamstack-tools-services-apis/)文章，还有*吨*比我们在这里要多，所以一定要检查 [StaticGen](https://www.staticgen.com/) 来了解更多。
 

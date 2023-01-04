@@ -31,7 +31,7 @@
 | 邮政 | /票 | 票务实体 | 创建新票证或更新现有票证 |
 | 删除 | /ticket/:id | 没有人 | 删除由:id 参数标识的票据 |
 
-<small>表 1:票务系统的消费端点</small>
+表 1:票务系统的消费端点
 
 票证实体是一个简单的 TypeScript 类，包含一些基本的票证信息:
 
@@ -54,7 +54,7 @@ export class Ticket {
 } 
 ```
 
-<small>`ticket.entity.ts`描述票务实体</small>
+`ticket.entity.ts`描述票务实体
 
 您可以在 [Plunker](http://plnkr.co/wfl1NjvEgkmjOqhHBelY) 上找到这个例子的完整代码和预览:
 

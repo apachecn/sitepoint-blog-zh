@@ -205,6 +205,6 @@ function runReport() {
 
 如果您想完整地查看本文中的[示例代码，您可以在 GitHub 上找到它。](https://github.com/phpmasterdotcom/ZendJobQueue)
 
-<small>图片经由[瓦里娜和杰伊·帕特尔](http://www.shutterstock.com/gallery-6203p1.html) / [摄影爱好者](http://www.shutterstock.com)</small>
+图片经由[瓦里娜和杰伊·帕特尔](http://www.shutterstock.com/gallery-6203p1.html) / [摄影爱好者](http://www.shutterstock.com)
 
 ## 分享这篇文章

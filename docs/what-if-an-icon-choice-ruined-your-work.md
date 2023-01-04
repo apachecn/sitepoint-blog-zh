@@ -40,7 +40,7 @@
 
 ![Sam Churchill - African cell phone](img/70c5d2fc78913ec2db96f6d76f1ec52b.png)
 
-图: <small>[山姆·邱吉尔——非洲手机](https://www.flickr.com/photos/samchurchill/14986656837)</small>
+图: [山姆·邱吉尔——非洲手机](https://www.flickr.com/photos/samchurchill/14986656837)
 
 新的新兴市场——非洲、印度、中国和南美的大部分地区——正在利用最近的技术繁荣。虽然他们中的大多数人没有实际接触到电脑，但他们几乎肯定会在口袋里放一部智能手机。这些人以前可能从未见过任何基于磁盘的存储。
 
@@ -84,7 +84,7 @@
 
 ![Barbara Olson - Junk Drawer Before](img/07e3ccf98e466f8b6c3f9156a9a43837.png)
 
-<small>照片:[芭芭拉·奥尔森—](ttps://www.flickr.com/photos/candyheartsandpaperflowers/3467650188)前的垃圾抽屉 </small>
+照片:[芭芭拉·奥尔森—](ttps://www.flickr.com/photos/candyheartsandpaperflowers/3467650188)前的垃圾抽屉 
 
 第二个例子——天气预报应用程序——同样的图标显示你最喜欢的地方列表。另一个打开一个小对话框，里面有分享、评级和设置菜单。
 

@@ -82,6 +82,6 @@ Scrum 信奉一种信念，即控制未来的最佳方式是确保今天一切�
 
 对于那些能够使用它的人(那些愿意使用它的人)，Scrum 是一个帮助我们关注这个世界上我们唯一能够影响的事情的工具——今天。如果我们所有的今天都井然有序，那么我们的明天也会很好。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

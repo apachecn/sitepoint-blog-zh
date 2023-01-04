@@ -138,7 +138,7 @@ define('DIFFBOT_TOKEN', 'my_token');
 <img src="/assets/img/sp_square.png" alt="" class="bg"/>
 <header>
     <h3>SitePoint
-        <small>search</small>
+        search
     </h3>
 </header>
 <div class="content">

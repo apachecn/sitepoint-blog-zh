@@ -67,6 +67,6 @@
 
 在本文中，您看到了编写更好代码的一些最佳实践的概述，包括使用编码标准来统一整个团队的代码格式，重构的重要性以及如何接受重构，以及使用测试框架、代码文档管理器和版本控制等专业工具来帮助管理您的代码库。如果你还没有遵循这些建议，那么努力采纳它们并让你的团队走上正轨是值得的。
 
-<small>图片 via[DJ Taylor](http://www.shutterstock.com/gallery-749095p1.html)/[Shutterstock](http://www.shutterstock.com)</small>
+图片 via[DJ Taylor](http://www.shutterstock.com/gallery-749095p1.html)/[Shutterstock](http://www.shutterstock.com)
 
 ## 分享这篇文章

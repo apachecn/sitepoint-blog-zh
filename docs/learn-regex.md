@@ -35,7 +35,7 @@
 
 ![xkcd.com/208](img/31588b14338bffcb85dc4b499181bf57.png)
 
-<small>*信用:[xkcd](https://xkcd.com/208/)*</small>
+*信用:[xkcd](https://xkcd.com/208/)*
 
 ## 基础
 

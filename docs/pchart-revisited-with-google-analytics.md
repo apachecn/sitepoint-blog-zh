@@ -214,6 +214,6 @@ $myBarPicture->Render("myBarChart.png");
 
 [这篇文章的演示代码](https://github.com/phpmasterdotcom/PChartRevisitedWithGoogleAnalytics)可以在 GitHub 上找到，供您使用和试验。pChart 可用于创建如此简单的应用程序，但也是一个成熟的仪表板，用于控制可通过 API 测量和呈现的任何类型的过程。使用任何类型的刷新机制(比如 JavaScript reload 或 meta refresh ),您生成的脚本可以连续显示更新的统计数据。
 
-<small>图片通过[阿拉里斯](https://www.shutterstock.com/g/alaris) / [快门](https://www.shutterstock.com)</small>
+图片通过[阿拉里斯](https://www.shutterstock.com/g/alaris) / [快门](https://www.shutterstock.com)
 
 ## 分享这篇文章

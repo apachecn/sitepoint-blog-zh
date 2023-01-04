@@ -32,13 +32,13 @@
 
 ![Media Queries](img/c6035d1bfab8fea52d47dcf1137f67f1.png)
 
-<small>媒体查询</small>
+媒体查询
 
 媒体查询将允许您为不同设备提供不同像素比例的不同图像，无论它们是 1、2 还是 4。这将使您在一定程度上控制图像在正确的设备上看起来清晰。
 
 ![Picturefill](img/aff9951947b55f0c3f4703c26b249513.png)
 
-<small>图片填充</small>
+图片填充
 
 这个救命恩人允许你根据你可能遇到的各种情况，用所有不同的设备向每个用户提供图像。 [PictureFill](https://scottjehl.github.io/picturefill/) 处理屏幕大小、视窗大小、屏幕分辨率等情况。它启用了元素特性，并为不支持它的浏览器提供了变通方法。
 

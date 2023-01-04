@@ -112,6 +112,6 @@ git push # update repository
 
 如果您已经过渡到在云中工作，或者使用过我提到的任何工具(或者我可能没有提到的其他工具)，请在评论中分享！
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章

@@ -118,7 +118,7 @@ HTML 模板的下一部分包含以下三行:
 
 ![GitHub card](img/844bc223277e0f347ef6774fa6c48c69.png)
 
-<small>[图片来源:GitHub](https://user-images.githubusercontent.com/558709/121095418-5218c200-c7be-11eb-97d3-75bbaf52e244.png)</small>
+[图片来源:GitHub](https://user-images.githubusercontent.com/558709/121095418-5218c200-c7be-11eb-97d3-75bbaf52e244.png)
 
 ## 收藏夹图标和触摸图标
 

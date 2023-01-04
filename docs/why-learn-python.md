@@ -108,7 +108,7 @@ Python 网站本身也给出了一些关于[开始使用 Python](https://www.pyt
 
 ![XKCD #353, "Python"](img/eb4b1bd33c07f8ea15988adeff940c3d.png)
 
-<small>[XKCD #353，【Python】](https://xkcd.com/353/)</small>
+[XKCD #353，【Python】](https://xkcd.com/353/)
 
 上图来自 XKCD，在`https://xkcd.com/353/`。但是如果您不记得它的 URL，只需打开您的 Python 提示符并键入`import antigravity`。真的！现在就试试吧！
 

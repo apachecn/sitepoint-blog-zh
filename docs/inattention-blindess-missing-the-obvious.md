@@ -210,6 +210,6 @@ public function __construct(
 *   [注意力不集中失明——用户体验和界面设计师——着迷](http://blog.enchant.co/post/19214649861/inattention-blindness)
 *   [疏忽性失明:在众目睽睽之下失踪——代码项目](http://www.codeproject.com/Articles/467719/Inattentional-Blindness-Missing-in-Plain-Sight)
 
-<small>图片由[戴夫·斯托克斯](http://www.flickr.com/photos/33909700@N02/3159666520/)通过 Flickr 提供</small>
+图片由[戴夫·斯托克斯](http://www.flickr.com/photos/33909700@N02/3159666520/)通过 Flickr 提供
 
 ## 分享这篇文章

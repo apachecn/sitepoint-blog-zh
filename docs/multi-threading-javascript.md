@@ -512,6 +512,6 @@ checksomething(function(result)  
 
 对本文的评论已经关闭。有关于 JavaScript 的问题吗？为什么不在我们的[论坛](https://www.sitepoint.com/forums/forumdisplay.php?15-JavaScript-amp-jQuery?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)上问呢？
 
-<small>图片来源:[兰登·L·皮特森](http://www.flickr.com/photos/chefranden/310767408/)</small>* 
+图片来源:[兰登·L·皮特森](http://www.flickr.com/photos/chefranden/310767408/)* 
 
 ## *分享这篇文章*

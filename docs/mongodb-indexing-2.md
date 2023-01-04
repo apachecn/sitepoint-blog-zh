@@ -156,6 +156,6 @@ $cursor = $collection->find(
 
 随着应用程序的增长和数据的变化，分析索引以确保它们运行良好是一个持续的过程，因此如果您对本文有任何问题或评论，请在下面的评论中发表。
 
-<small>图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")</small>
+图片 via[Fotolia](http://us.fotolia.com/?utm_source=sitepoint&utm_medium=website_link&utm=campaign=sitepoint "Royalty Free Stock Photos at Fotolia.com")
 
 ## 分享这篇文章
